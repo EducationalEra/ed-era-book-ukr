@@ -12,7 +12,7 @@
 * [Чергування звуків](1/cherguvannya_zvukv.md)
    * [Чергування голосних звуків](1/cherguvannya_golosnih_zvukv.md)
    * [Чергування приголосних звуків](1/cherguvannya_prigolosnih_zvukv.md)
-* Основні випадки чергування У-В, І-Й
+* [Основні випадки чергування У-В, І-Й](1/osnovn_vipadki_cherguvannya_u-v,_-i.md)
 * Склад. Складоподіл
 * Наголос
 
