@@ -29,7 +29,7 @@
 <td>[ґ]</td>
 <td>[д]</td>
 <td>[ж]</td>
-<td>[дж]</td>
+<td>[$$\overbrace{дж}$$]</td>
 <td>[з]</td>
 <td>[дз]</td>
 <td>[д′]</td>
