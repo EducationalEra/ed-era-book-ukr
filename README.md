@@ -14,3 +14,4 @@
 8. [Основні випадки чергування У-В, І-Й](1/osnovn_vipadki_cherguvannya_u-v,_-i.md)
 9. [Склад. Складоподіл](1/sklad_skladopodl.md)
 10. [Наголос](1/nagolos.md)
+11. КАК НЕ ВИДИТ???
