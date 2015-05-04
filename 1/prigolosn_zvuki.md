@@ -76,7 +76,7 @@
 <td>[<font color="#0F5181">л′</font>]</td>
 <td>[<font color="#0F5181">н′</font>]</td>
 <td>[<font color="#0F5181">р′</font>]</td>
-<td>[<font color="#0F5181">дз′</font>]</td>
+<td>[<font color="#0F5181">\overbrace{дз}′</font>]</td>
 <td>[<font color="#0F5181">й</font>]</td>
 </tr>
 <tr>
@@ -89,7 +89,7 @@
 <td>[<font color="#0F5181">л</font>]</td>
 <td>[<font color="#0F5181">н</font>]</td>
 <td>[<font color="#0F5181">р</font>]</td>
-<td>[<font color="#0F5181">дз</font>]</td>
+<td>[<font color="#0F5181">\overbrace{дз}</font>]</td>
 <td></td>
 </tr>
 </table>
