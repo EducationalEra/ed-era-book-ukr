@@ -1,7 +1,7 @@
 # Summary
 
 * [Зміст](README.md)
-* [Фонетика. Графіка. Орфоепія](fonetika_grafka_orfoepya.md)
+* [Фонетика. Графіка. Орфоепія](1/fonetika_grafka_orfoepya.md)
 * [Звуки](1/zvuki.md)
    * [Голосні звуки](1/golosn_zvuki.md)
    * [Приголосні звуки](1/prigolosn_zvuki.md)
