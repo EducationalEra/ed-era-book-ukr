@@ -3,7 +3,7 @@
 * Уподiбнення за глухiстю
  * Дзвiнкi не оглушуються.<br>
   <font color="#0F5181">Винятки</font>: *легко* [$$л\acute{е}хко$$], *вогко*, *кiгтi*, *нiгтi*, *дьогтю*
- * Приголосний <font color="#0F5181">з</font> у префiксах <font color="#0F5181">з-</font>, <font color="#0F5181">роз-</font>, <font color="#0F5181">без-</font>, <font color="#0F5181">через-</font> перед глухими переходить в <font color="#0F5181">с</font>. Наприклад: безперечно [$$бе^испе^ир\acute{е}чно$$].
+ * Приголосний <font color="#0F5181">з</font> у префiксах <font color="#0F5181">з-</font>, <font color="#0F5181">роз-</font>, <font color="#0F5181">без-</font>, <font color="#0F5181">через-</font> перед глухими переходить в <font color="#0F5181">с</font>. Наприклад: *безперечно* [$$бе^испе^ир\acute{е}чно$$].
 
 <div class="alg-wrap">
 <span class="alg">ЗНО</span> 
