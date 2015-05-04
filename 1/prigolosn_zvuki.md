@@ -34,7 +34,7 @@
 <td>[<font color="#0F5181">$$\overbrace{дз}$$</font>]</td>
 <td>[<font color="#0F5181">д′</font>]</td>
 <td>[<font color="#0F5181">з</font>]</td>
-<td>[<font color="#0F5181">\widehat{дз}′</font>]</td>
+<td>[<font color="#0F5181">$$\widehat{дз}′$$</font>]</td>
 <td></td>
 </tr>
 <tr>
