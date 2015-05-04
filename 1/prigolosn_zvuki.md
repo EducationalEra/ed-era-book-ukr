@@ -24,32 +24,43 @@
 <table>
 <tr>
 <td>Дзвiнкi</td>
-<td>[б]</td>
-<td>[г]</td>
-<td>[ґ]</td>
-<td>[д]</td>
-<td>[ж]</td>
-<td>[дж]</td>
-<td>[з]</td>
-<td>[дз]</td>
-<td>[д′]</td>
-<td>[з]</td>
-<td>[дз′]</td>
+<td>[<font color="#0F5181">б</font>]</td>
+<td>[<font color="#0F5181">г</font>]</td>
+<td>[<font color="#0F5181">ґ</font>]</td>
+<td>[<font color="#0F5181">д</font>]</td>
+<td>[<font color="#0F5181">ж</font>]</td>
+<td>[<font color="#0F5181">дж</font>]</td>
+<td>[<font color="#0F5181">з</font>]</td>
+<td>[<font color="#0F5181">дз</font>]</td>
+<td>[<font color="#0F5181">д′</font>]</td>
+<td>[<font color="#0F5181">з</font>]</td>
+<td>[<font color="#0F5181">дз′</font>]</td>
 <td></td>
 </tr>
 <tr>
 <td>Глухi</td>
-<td>[п]</td>
-<td>[х]</td>
-<td>[к]</td>
-<td>[т]</td>
-<td>[ш]</td>
-<td>[ч]</td>
-<td>[с]</td>
-<td>[ц]</td>
-<td>[т′]</td>
-<td>[с′]</td>
-<td>[ц′]</td>
-<td>[ф]</td>
+<td>[<font color="#0F5181">п</font>]</td>
+<td>[<font color="#0F5181">х</font>]</td>
+<td>[<font color="#0F5181">к<font>]</td>
+<td>[<font color="#0F5181">т</font>]</td>
+<td>[<font color="#0F5181">ш</font>]</td>
+<td>[<font color="#0F5181">ч</font>]</td>
+<td>[<font color="#0F5181">с</font>]</td>
+<td>[<font color="#0F5181">ц</font>]</td>
+<td>[<font color="#0F5181">т′</font>]</td>
+<td>[<font color="#0F5181">с′</font>]</td>
+<td>[<font color="#0F5181">ц′</font>]</td>
+<td>[<font color="#0F5181">ф</font>]</td>
 </tr>
 </table>
+
+<div class="alg-wrap">
+<span class="alg">Як запам’ятати</span> 
+<div class="alg-text">
+«Хоч фокус – це шепiт».
+</div>
+</div>
+
+Приголоснi звуки у певнiй позицiї в словi можуть бути твердими та м’якими або твердими та пом’якшеними.
+
+Усi м’якi приголоснi мають твердi вiдповiдники. Виняток: [й], який завжди м’який. В фонетичнiй транскрипцiї м’якiсть приголосних позначається скiсною рискою, розташованою вгорi пiсля букви: [д′].
