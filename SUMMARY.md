@@ -2,5 +2,5 @@
 
 * [Зміст](README.md)
 * [Фонетика. Графіка. Орфоепія](fonetika_grafka_orfoepya.md)
-* Звуки
+* [Звуки](1/zvuki.md)
 
