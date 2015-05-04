@@ -29,12 +29,12 @@
 <td>[<font color="#0F5181">ґ</font>]</td>
 <td>[<font color="#0F5181">д</font>]</td>
 <td>[<font color="#0F5181">ж</font>]</td>
-<td>[<font color="#0F5181">дж</font>]</td>
+<td>[<font color="#0F5181">$$\overbrace{дж}$$</font>]</td>
 <td>[<font color="#0F5181">з</font>]</td>
-<td>[<font color="#0F5181">дз</font>]</td>
+<td>[<font color="#0F5181">$$\overbrace{дз}$$</font>]</td>
 <td>[<font color="#0F5181">д′</font>]</td>
 <td>[<font color="#0F5181">з</font>]</td>
-<td>[<font color="#0F5181">дз′</font>]</td>
+<td>[<font color="#0F5181">\overbrace{дз}′</font>]</td>
 <td></td>
 </tr>
 <tr>
