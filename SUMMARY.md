@@ -1,5 +1,5 @@
 # Summary
 
 * [Зміст](README.md)
-* Фонетика. Графіка. Орфоепія
+* [Фонетика. Графіка. Орфоепія](fonetika_grafka_orfoepya.md)
 
