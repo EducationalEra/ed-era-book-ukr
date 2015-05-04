@@ -109,7 +109,7 @@ Iншi приголоснi в деяких позицiях можуть бути
  * губнi: [<font color="#0F5181">б’</font>], [<font color="#0F5181">п’</font>], [<font color="#0F5181">в’</font>], [<font color="#0F5181">м’</font>], [<font color="#0F5181">ф’</font>];
  * гортанний [<font color="#0F5181">г’</font>];
  * задньоязиковi [<font color="#0F5181">х’</font>], [<font color="#0F5181">ґ’</font>], [<font color="#0F5181">к’</font>];
- * шиплячi [<font color="#0F5181">ж’</font>], [<font color="#0F5181">ш’</font>], [<font color="#0F5181">︁дж</font>’],[ <font color="#0F5181">ч</font>’]
+ * шиплячi [<font color="#0F5181">ж’</font>], [<font color="#0F5181">ш’</font>], [<font color="#0F5181">\widehat{дж}</font>’],[ <font color="#0F5181">ч</font>’]
 
 Якщо вони стоять перед <b><font color="#0F5181">є, ю, я, i</font></b>. Перед м’яким знаком вони не стоять нiколи. Наприклад: *бiль* [б’iль], *мiсто* [м’iсто]. 
 
