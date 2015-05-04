@@ -4,7 +4,7 @@
 * [Фонетика. Графіка. Орфоепія](fonetika_grafka_orfoepya.md)
 * [Звуки](1/zvuki.md)
    * [Голосні звуки](1/golosn_zvuki.md)
-   * Приголосні звуки
+   * [Приголосні звуки](1/prigolosn_zvuki.md)
 * [Фонетична транскрипція](1/fonetichna_transkriptsya.md)
 * [Алфавіт](1/alfavt.md)
 * [Співвідношення звуків і літер](1/spvvdnoshennya_zvukv__lter.md)
