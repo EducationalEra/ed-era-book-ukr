@@ -11,7 +11,7 @@
 * [Уподібнення приголосних звуків](1/upodbnennya_prigolosnih_zvukv.md)
 * [Чергування звуків](1/cherguvannya_zvukv.md)
    * [Чергування голосних звуків](1/cherguvannya_golosnih_zvukv.md)
-   * Чергування приголосних звуків
+   * [Чергування приголосних звуків](1/cherguvannya_prigolosnih_zvukv.md)
 * Основні випадки чергування У-В, І-Й
 * Склад. Складоподіл
 * Наголос
