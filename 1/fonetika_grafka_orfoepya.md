@@ -23,4 +23,4 @@
 </div>
 
 
-<p align="center"><img class="image" src="../pics/pic1.png"/></p>
+
