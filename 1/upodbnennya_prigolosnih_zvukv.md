@@ -23,4 +23,4 @@
 
 Деякi особливостi вимови груп приголосних краще запам’ятати:
 
-<p align="center"><img class="image" src="../pics/pic4.png"/></p>
+<p align="center"><img width="350"class="image" src="../pics/pic4.png"/></p>
