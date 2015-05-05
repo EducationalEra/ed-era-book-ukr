@@ -22,6 +22,5 @@
 </div>
 </div>
 
-<p align="center"><img class="image" src="../pics/pic1.svg"/></p>
+
 <p align="center"><img class="image" src="../pics/pic1.png"/></p>
-<p align="center"><img class="image" src="../pics/pic1.jpg"/></p>
