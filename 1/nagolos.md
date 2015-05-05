@@ -15,4 +15,8 @@
 
 <b>Деякi слова в українськiй мовi мають подвiйний наголос:</b>
 
+<p align="center"><img class="image" src="../pics/pic2.png"/></p>
+
 <b>Проблемнi випадки наголошування:</b>
+
+<p align="center"><img class="image" src="../pics/pic3.png"/></p>
