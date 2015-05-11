@@ -8,8 +8,6 @@
 </div>
 
 
-{% modalYoutube %}https://youtube.com/embed/7DMGI-5FGGs <button class="but">Відео!</button>{% endmodalYoutube %}
-
 Основнi правила:
 * У фонетичному записi слово, що транскрибується, беруть у квадратнi дужки. Наприклад: *лiс* [л′iс].
 * Усi слова пишуться з маленької лiтери.
@@ -22,3 +20,6 @@
 [<font color="#0F5181">$$е^и$$</font>], [<font color="#0F5181">$$и^e$$</font>].
 * Ненаголошений [<font color="#0F5181">о</font>] перед складом з наголошеним [<font color="#0F5181">i</font>] або [<font color="#0F5181">у</font>] позначається [<font color="#0F5181">$$о^у$$</font>].
 
+
+
+{% modalYoutube %}https://youtube.com/embed/7DMGI-5FGGs <button class="but">Відео!</button>{% endmodalYoutube %}
