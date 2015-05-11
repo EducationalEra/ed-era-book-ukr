@@ -8,7 +8,7 @@
 </div>
 
 
-{% modalYoutube %}https://www.youtube.com/embed/7DMGI-5FGGs <button class="but">Відео</button>{% endmodalYoutube %}
+{% modalYoutube %}https://www.youtube.com/embed/7DMGI-5FGGs <button class="but">Продивіться це відео!</button>{% endmodalYoutube %}
 
 Основнi правила:
 * У фонетичному записi слово, що транскрибується, беруть у квадратнi дужки. Наприклад: *лiс* [л′iс].
