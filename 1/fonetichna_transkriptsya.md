@@ -6,7 +6,7 @@
 <b>Фонетична транскрипцiя</b> — графiчна фiксацiя мовних звукiв.
 </div>
 </div>
-
+a
 
 {% modalYoutube %}https://youtube.com/embed/7DMGI-5FGGs?list=PL_zDp5rG6HqvweBJ6aiGlEV6itB4PD8ou&t=184 <button class="but">Відео!</button>{% endmodalYoutube %}
 
