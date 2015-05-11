@@ -22,4 +22,4 @@
 
 
 
-{% modalYoutube %}https://youtube.com/embed/7DMGI-5FGGs <button class="but">Відео!</button>{% endmodalYoutube %}
+{% modalYoutube %}https://youtube.com/embed/7DMGI-5FGGs <button class="but">Переглянути відео!</button>{% endmodalYoutube %}
