@@ -10,3 +10,7 @@
 </div>
 </div>
 </div>
+
+<div class="space">
+Наприклад: <i>вiк живи, вiк учись</i>.
+</div>
