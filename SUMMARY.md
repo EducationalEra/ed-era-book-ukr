@@ -15,5 +15,5 @@
    * [Основні випадки чергування У-В, І-Й](1/osnovn_vipadki_cherguvannya_u-v,_-i.md)
    * [Склад. Складоподіл](1/sklad_skladopodl.md)
    * [Наголос](1/nagolos.md)
-* Лексикологія
+* [Лексикологія](2/leksikologya.md)
 
