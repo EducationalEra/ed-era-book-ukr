@@ -45,3 +45,12 @@
 </div>
 </div>
 </div>
+
+<div class="space">
+<div class="eoz-wrap">
+<span class="eoz">Означення</span>
+<div class="eoz-text">
+<b>Iсторизми</b> — це слова, що вийшли з ужитку через зникнення реалiй, якi вони називали.
+</div>
+</div>
+</div>
