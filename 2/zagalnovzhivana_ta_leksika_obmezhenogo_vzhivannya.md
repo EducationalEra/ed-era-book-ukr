@@ -55,7 +55,7 @@
 </div>
 </div>
 
-<div class="space">Синонiмiчнi замiнники iсторизмiв у сучаснiй мовi вiдсутнi. Наприклад: жупан, десятина.</div>
+<div class="space">Синонiмiчнi замiнники iсторизмiв у сучаснiй мовi вiдсутнi. Наприклад: <i>жупан, десятина</i>.</div>
 
 <div class="space">
 <div class="eoz-wrap">
@@ -65,3 +65,5 @@
 </div>
 </div>
 </div>
+
+<div class="space">Наприклад: <i>рамена (плечi), ланiти (щоки), зрiти (бачити)</i>.</div>
