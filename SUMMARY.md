@@ -31,6 +31,6 @@
    * [Фразеологізм як мовна одиниця](3/frazeologzm_yak_movna_odinitsya.md)
    * [Джерела походження фразеологізмів](3/dzherela_pohodzhennya_frazeologzmv.md)
    * [Види фразеологізмів](3/vidi_frazeologzmv.md)
-   * Прислів’я, приказки та афоризми
+   * [Прислів’я, приказки та афоризми](3/prislvya,_prikazki_ta_aforizmi.md)
    * Словник найуживаніших фразеологізмів
 
