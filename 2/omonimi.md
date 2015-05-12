@@ -13,7 +13,7 @@
 
 <div class="space">
 <div class="alg-wrap">
-<span class="alg">Означення</span>
+<span class="alg">ЗНО</span>
 <div class="alg-text">
 Для успiшного написання ЗНО варто розрiзняти багатозначнi слова
 i омонiми. Багатозначнi слова мають декiлька пов’язаних мiж собою
