@@ -416,3 +416,7 @@ default – "White"
     background: #2c3043;
     border: solid 1px #2c3043;
 }
+
+.space {
+    margin-bottom: 40px;
+}
