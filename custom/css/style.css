@@ -29,6 +29,8 @@ default – "White"
     border: .15em solid #0F5181;
     padding-left:10px;
     padding-right:10px;
+    padding-top:10px;
+    padding-bottom:10px;
 }
 
 .book.color-theme-1 .eoz {
@@ -75,6 +77,8 @@ default – "White"
     border-left: .15em solid #faaf00;
     padding-left:10px;
     padding-right:10px;
+    padding-top:10px;
+    padding-bottom:10px;
 }
 
 .book.color-theme-1 .task-wrap{
@@ -95,6 +99,8 @@ default – "White"
     border-left: .15em solid #704214;
     padding-left:10px;
     padding-right:10px;
+    padding-top:10px;
+    padding-bottom:10px;
 }
 
 .book.color-theme-2 .task-wrap{
@@ -115,6 +121,8 @@ default – "White"
     border-left: .15em solid #2c3043;
     padding-left:10px;
     padding-right:10px;
+    padding-top:10px;
+    padding-bottom:10px;
 }
 
 
@@ -141,6 +149,8 @@ default – "White"
     border-top: .15em solid #faaf00;
     padding-left:10px;
     padding-right:10px;
+    padding-top:10px;
+    padding-bottom:10px;
     border-bottom: .15em solid #faaf00;
 }
 
@@ -162,6 +172,8 @@ default – "White"
     border-top: .15em solid #704214;
     padding-left:10px;
     padding-right:10px;
+    padding-top:10px;
+    padding-bottom:10px;
     border-bottom: .15em solid #704214;
 }
 
@@ -183,6 +195,8 @@ default – "White"
     border-top: .15em solid #2c3043;
     padding-left:10px;
     padding-right:10px;
+    padding-top:10px;
+    padding-bottom:10px;
     border-bottom: .15em solid #2c3043;
 }
 
@@ -209,6 +223,8 @@ default – "White"
     border-top: .15em solid #0F5181;
     padding-left:10px;
     padding-right:10px;
+    padding-top:10px;
+    padding-bottom:10px;
     border-bottom: .15em solid #0F5181;
 }
 
@@ -230,6 +246,8 @@ default – "White"
     border-top: .15em solid #704214;
     padding-left:10px;
     padding-right:10px;
+    padding-top:10px;
+    padding-bottom:10px;
     border-bottom: .15em solid #704214;
 }
 
@@ -251,6 +269,8 @@ default – "White"
     border-top: .15em solid #2c3043;
     padding-left:10px;
     padding-right:10px;
+    padding-top:10px;
+    padding-bottom:10px;
     border-bottom: .15em solid #2c3043;
 }
 
@@ -274,6 +294,8 @@ default – "White"
     border-top: .15em solid #0F5181;
     padding-left:10px;
     padding-right:10px;
+    padding-top:10px;
+    padding-bottom:10px;
 }
 
 .book.color-theme-1 .ebio-wrap{
@@ -295,6 +317,8 @@ default – "White"
     border-top: .15em solid #704214;
     padding-left:10px;
     padding-right:10px;
+    padding-top:10px;
+    padding-bottom:10px;
 }
 
 .book.color-theme-2 .ebio-wrap{
@@ -316,6 +340,8 @@ default – "White"
     border-top: .15em solid #2c3043;
     padding-left:10px;
     padding-right:10px;
+    padding-top:10px;
+    padding-bottom:10px;
 }
 
 /*---------------png,svg image----------------------*/
