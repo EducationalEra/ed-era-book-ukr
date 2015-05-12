@@ -54,3 +54,14 @@
 </div>
 </div>
 </div>
+
+<div class="space">Синонiмiчнi замiнники iсторизмiв у сучаснiй мовi вiдсутнi. Наприклад: жупан, десятина.</div>
+
+<div class="space">
+<div class="eoz-wrap">
+<span class="eoz">Означення</span>
+<div class="eoz-text">
+<b>Архаїзми</b> — це слова, витiсненi iншими синонiмами з ужитку.
+</div>
+</div>
+</div>
