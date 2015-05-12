@@ -19,7 +19,7 @@
    * [Слово як мовна одиниця](2/slovo_yak_movna_odinitsya.md)
    * Групи слів за значенням
        * [Однозначнi i багатозначнi слова](2/odnoznachni_i_bagatoznachni_slova.md)
-       * Омонiми
+       * [Омонiми](2/omonimi.md)
        * Синонiми
        * Антонiми
    * Групи слів за походженням
