@@ -17,3 +17,12 @@
 
 <div class="space">Тобто слова iншомовного походження. Наприклад: <i>олiмпiада, парламент, козак</i>.</div>
 
+<div class="space">
+<div class="eoz-wrap">
+<span class="eoz">Означення</span>
+<div class="eoz-text">
+<b>Запозичена лексика</b> — це слова, якi ввiйшли з iнших мов в українську.
+</div>
+</div>
+</div>
+
