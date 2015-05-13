@@ -25,6 +25,8 @@
 </div>
 </div>
 
+<p align="center"><img width="500" class="image" src="../pics/2/4.png"/></p>
+
 <div class="space">
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
