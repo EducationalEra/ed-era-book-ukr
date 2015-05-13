@@ -22,3 +22,4 @@
 <p align="center"><img width="600" class="image" src="../pics/1/pic3.png"/></p>
 
 <p align="center"><img width="600" class="image" src="../pics/1.png"/></p>
+<p align="center"><img width="600" class="image" src="../pics/1.1.png"/></p>
