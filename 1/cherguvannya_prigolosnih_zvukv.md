@@ -6,7 +6,7 @@
 
 У дiєсловах вiдбувається перехiд приголосних [<font color="#0F5181">д</font>], [<font color="#0F5181">т</font>], [<font color="#0F5181">з</font>], [<font color="#0F5181">с</font>] у шиплячi, а саме:
 
-<p align="center"><img width="300"class="image" src="../pics/pic5.png"/></p>
+<p align="center"><img width="300"class="image" src="../pics/1/pic5.png"/></p>
 
 В iнших частинах мови чергується [<font color="#0F5181">д</font>] — [<font color="#0F5181">ж</font>]: *уродити — урожай, огородити — огорожа, погода — погожий, переходити — перехожий, правда — справжнiй*.
 
