@@ -22,4 +22,4 @@
 
 
 
-{% modalYoutube %}https://youtube.com/embed/7DMGI-5FGGs <button class="but">Переглянути відео!</button>{% endmodalYoutube %}
+{% modalYoutube %}https://www.youtube.com/embed/UDRZNNRxGQs|<button class="but">Дивитися відео!</button>|<a href="https://study.ed-era.com/courses/EdEra/U101/u101/about?_ga=1.114888067.566412928.1427025710"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
