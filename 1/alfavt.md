@@ -58,3 +58,5 @@
 </tr>
 </table>
 </div>
+
+{% modalYoutube %}https://www.youtube.com/watch?v=OeAFt8kgjqQ|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/U101/u101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
