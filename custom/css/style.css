@@ -473,3 +473,17 @@ p1 {
 	-webkit-animation-iteration-count: infinite;
 	-webkit-animation-timing-function: linear;
 }
+
+.centered {
+    text-align: center;
+}
+
+.centered-table-wrapper {
+    width: 100%;
+}
+
+.centered-table {
+    display: table !important;
+    width: initial !important;
+    margin:auto;
+ }
