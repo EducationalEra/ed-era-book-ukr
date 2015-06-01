@@ -9,7 +9,8 @@
 </div>
 </div>
 
-<table>
+<div class="centered-table-wrapper">
+<table class="centered-table">
 <tr>
 <td><font color="#0F5181">А</font> а</td>
 <td><font color="#0F5181">Б</font> б</td>
@@ -56,4 +57,4 @@
 <td></td>
 </tr>
 </table>
-
+</div>
