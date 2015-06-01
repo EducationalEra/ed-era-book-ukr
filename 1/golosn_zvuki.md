@@ -12,8 +12,8 @@
  * Пiсля м’якого знака: *Мольєр* [$$мол′й\acute{е}р$$]
  * Пiсля апострофа: *здоров’я* [$$здор\acute{о}вйа$$]
 
-<center>
-<table>
+<div class="centered-table-wrapper">
+<table class="centered-table">
 <tr>
 <td>Я</td>
 <td><font color="#0F5181">[йа]</font></td>
@@ -31,7 +31,7 @@
 <td><font color="#0F5181">[йi]</font></td>
 </tr>
 </table>
-</center>
+</div>
 
 В усiх iнших випадках <b><font color="#0F5181">я, ю, є, ї</font></b> позначають один звук.
 Наприклад: *лялька* [$$л′ \acute{а}л′ка$$].
