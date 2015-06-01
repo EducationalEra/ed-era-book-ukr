@@ -21,7 +21,8 @@
 
 Приголоснi, у твореннi яких переважає шум, називають шумними. Шумнi приголоснi подiляються на дзвiнкi та глухi. Дзвiнкi творяться за допомогою голосу та шуму, а глухi – лише шуму. Дзвiнкi та глухi приголоснi утворюють пари. Виняток: глухий <b><font color="#0F5181">ф</font></b>.
 
-<table>
+<div class="centered-table-wrapper">
+<table class="centered-table">
 <tr>
 <td>Дзвiнкi</td>
 <td>[<font color="#0F5181">б</font>]</td>
@@ -53,6 +54,7 @@
 <td>[<font color="#0F5181">ф</font>]</td>
 </tr>
 </table>
+</div>
 
 <div class="alg-wrap">
 <span class="alg">Як запам’ятати</span> 
@@ -65,7 +67,8 @@
 
 Усi м’якi приголоснi мають твердi вiдповiдники. Виняток: [<font color="#0F5181">й</font>], який завжди м’який. В фонетичнiй транскрипцiї м’якiсть приголосних позначається скiсною рискою, розташованою вгорi пiсля букви: [<font color="#0F5181">д′</font>].
 
-<table>
+<div class="centered-table-wrapper">
+<table class="centered-table">
 <tr>
 <td>М’якi</td>
 <td>[<font color="#0F5181">д′</font>]</td>
@@ -93,6 +96,7 @@
 <td></td>
 </tr>
 </table>
+</div>
 
 Приголоснi <b><font color="#0F5181">д, т, з, с, ц, л, н, р</font></b> стають м’якими i позначаються у транскрипцiї знаком ′, якщо пiсля них стоять <b><font color="#0F5181">я, ю, є, i, ь</font></b>. Наприклад : *тiтка* [$$т′\acute{і}тка$$].
 
