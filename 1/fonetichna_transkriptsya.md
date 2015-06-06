@@ -21,8 +21,14 @@
 * Ненаголошений [<font color="#0F5181">о</font>] перед складом з наголошеним [<font color="#0F5181">i</font>] або [<font color="#0F5181">у</font>] позначається [<font color="#0F5181">$$о^у$$</font>].
 
 
-
-{% modalYoutube %}https://www.youtube.com/embed/UDRZNNRxGQs|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/U101/u101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
+<div>
+{% modalYoutube %}https://www.youtube.com/watch?v=OeAFt8kgjqQ|
+<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-ukr/master/pics/1/fon_trans.png');">
+  <div id="youtube-logo">
+  </div>
+</div>
+|<a href="https://study.ed-era.com/courses/EdEra/U101/u101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+</div>
 
 
 
