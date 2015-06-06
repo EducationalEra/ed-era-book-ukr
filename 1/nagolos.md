@@ -21,3 +21,13 @@
 
 <p align="center"><img width="600" class="image" src="../pics/1/pic3.png"/></p>
 
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Слова з подвійним наголосом:</p>
+        <answer>завжди, байдуже, черговий</answer>
+        <answer>босоніж, рукопис, простий</answer>
+        <answer correct>байдуже, весняний, завжди</answer>
+        <answer>вірші, мабуть, байдуже</answer>
+    </question>
+</quiz>
