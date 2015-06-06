@@ -34,3 +34,19 @@ i пiшов*.
 * Пiсля голосного звука перед приголосним: *червонi й жовтi*.
 
 
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Літеру <b>у</b> вживаємо в рядку:</p>
+        <answer correct>… нас холодно </answer>
+        <answer>були … Ялті</answer>
+        <answer>зайшла … дім</answer>
+        <answer>… Одесі тепло</answer>
+        <explanation>
+        У вживаємо на початку речення перед приголосним.
+        </explanation>
+    </question>
+</quiz>
+
+
+
