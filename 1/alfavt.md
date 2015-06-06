@@ -62,16 +62,12 @@
 
 <div>
 {% modalYoutube %}https://www.youtube.com/watch?v=OeAFt8kgjqQ|
-<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-biology/master/1/bio1.jpg');">
+<div class="popup" style="background-image: url('место картинки');">
   <div id="youtube-logo">
   </div>
 </div>
 |<a href="https://study.ed-era.com/courses/EdEra/U101/u101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 </div>
-
-
-{% modalYoutube %}https://www.youtube.com/watch?v=OeAFt8kgjqQ|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/U101/u101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
-
 
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
