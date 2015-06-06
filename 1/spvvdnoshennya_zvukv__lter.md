@@ -13,5 +13,8 @@
         <answer>портьєра, дзеркало, щедро</answer>
         <answer>фаянс, лимон, надріз</answer>
         <answer correct>мереживо, якийсь, рельєф </answer>
+        <explanation>
+        ([меире́жиево], [йаки́йс'], [рел'йе́ф])
+        </explanation>
     </question>
 </quiz>
