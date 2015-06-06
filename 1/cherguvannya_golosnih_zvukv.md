@@ -14,3 +14,13 @@
  * Звук [<font color="#0F5181">о</font>] маємо пiсля шиплячих та <font color="#0F5181">й</font> перед складами з [<font color="#0F5181">а</font>],[<font color="#0F5181">о</font>], [<font color="#0F5181">у</font>] та [<font color="#0F5181">и</font>]: *жовтий, чого, йому*.
 * Чергування [<font color="#0F5181">е</font>] з [<font color="#0F5181">и</font>] вiдбувається у небагатьох дiєслiвних коренях, якщо далi з’являється суфiкс -а-</font>: *беру – збирати, простерти – простирати, вмерти - вмирати*.
 
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>[о], [е] чергуються з [і]:</p>
+        <answer>У звукосполученнях -ере-, -еле-, -оро-, -оло-, -ор-, -ер-, -ов</answer>
+        <answer>У префіксах роз-, без-, через-, пере- тощо</answer>
+        <answer correct>Коли [о], [е] стоять у відкритому складі, тоді міняються на [і] у закритому</answer>
+        <answer>Коли [о], [е] вставні</answer>
+    </question>
+</quiz>
