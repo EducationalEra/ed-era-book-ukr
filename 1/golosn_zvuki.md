@@ -50,3 +50,18 @@
         </explanation>
     </question>
 </quiz>
+
+
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Усі приголосні звуки тільки глухі в рядку:</p>
+        <answer>ситечко, тактика, пайок, часопис</answer>
+        <answer>тиша, капуста, пайок, сахатися</answer>
+        <answer correct>шахи, фокус, ціпочок, цятка</answer>
+        <answer>тьохкати, папуга, цятка, цукати</answer>
+        <explanation>
+        «Хоч фокус – це шепіт»
+        </explanation>
+    </question>
+</quiz>
