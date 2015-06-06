@@ -62,7 +62,7 @@
 
 <div>
 {% modalYoutube %}https://www.youtube.com/watch?v=OeAFt8kgjqQ|
-<div class="popup" style="background-image: url('место картинки');">
+<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-ukr/master/pics/1/alph_vid.png');">
   <div id="youtube-logo">
   </div>
 </div>
