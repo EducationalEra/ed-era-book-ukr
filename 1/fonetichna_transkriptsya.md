@@ -34,7 +34,7 @@
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
-        <p>Правильно записано фонетичну транскрипцію в рядку:</p>
+        <p>Правильно записано фонетичну транскрипцію в рядку :</p>
         <answer>[зима]</answer>
         <answer>[зи\(^е\)ма]</answer>
         <answer correct> [зи\(^е\)ма́]</answer>
