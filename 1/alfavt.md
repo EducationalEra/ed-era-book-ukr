@@ -60,3 +60,15 @@
 </div>
 
 {% modalYoutube %}https://www.youtube.com/watch?v=OeAFt8kgjqQ|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/U101/u101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
+
+
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>В алфавітному порядку записано всі слова в рядку:</p>
+        <answer>сіль, сільський, самотній</answer>
+        <answer>альбом, арбалет, ананас</answer>
+        <answer>користь, краса, косуля</answer>
+        <answer correct>малюк, манеж, молодість</answer>
+    </question>
+</quiz>
