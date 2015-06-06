@@ -11,3 +11,17 @@
 В iнших частинах мови чергується [<font color="#0F5181">д</font>] — [<font color="#0F5181">ж</font>]: *уродити — урожай, огородити — огорожа, погода — погожий, переходити — перехожий, правда — справжнiй*.
 
 У буквосполученнях <font color="#0F5181">дт</font>, <font color="#0F5181">тт</font> першi звуки [<font color="#0F5181">д</font>] i [<font color="#0F5181">т</font>] чергуються з приголосним [<font color="#0F5181">с</font>]: *веду — вести, ненавидiти — ненависть, цвiт — цвiсти, мету — мести*.
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Приголосні чергуються у слові:</p>
+        <answer correct>горох</answer>
+        <answer>диван</answer>
+        <answer>Літо</answer>
+        <answer>щастя</answer>
+        <explanation>
+        горох – горошок
+        </explanation>
+    </question>
+    
+</quiz>
