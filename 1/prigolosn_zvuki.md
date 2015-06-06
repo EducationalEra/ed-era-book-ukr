@@ -116,3 +116,18 @@ Iншi приголоснi в деяких позицiях можуть бути
 
 Якщо вони стоять перед <b><font color="#0F5181">є, ю, я, i</font></b>. Перед м’яким знаком вони не стоять нiколи. Наприклад: *бiль* [б’iль], *мiсто* [м’iсто]. 
 
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Усі приголосні звуки тільки глухі в рядку:</p>
+        <answer>ситечко, тактика, пайок, часопис</answer>
+        <answer>тиша, капуста, пайок, сахатися</answer>
+        <answer correct>шахи, фокус, ціпочок, цятка</answer>
+        <answer>тьохкати, папуга, цятка, цукати</answer>
+        <explanation>
+        «Хоч фокус – це шепіт»
+        </explanation>
+    </question>
+</quiz>
+
+
