@@ -25,8 +25,6 @@
 
 <p align="center"><img width="350"class="image" src="../pics/1/pic4.png"/></p>
 
-{% modalYoutube %}https://www.youtube.com/embed/I3wHHsfPimM|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/U101/u101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
-
 
 
 <div>
