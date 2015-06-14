@@ -1,6 +1,7 @@
 # Summary
 
 1. [Зміст](README.md)
+2. [Вступне слово](vstup.md)
 * [Фонетика. Графіка. Орфоепія](1/fonetika_grafka_orfoepya.md)
    1. [Звуки](1/golosn_zvuki.md)
        1. [Голосні звуки](1/golosn_zvuki.md)
