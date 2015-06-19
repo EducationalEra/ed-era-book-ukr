@@ -16,23 +16,23 @@
    1. [Основні випадки чергування У-В, І-Й](1/osnovn_vipadki_cherguvannya_u-v,_-i.md)
    * [Склад. Складоподіл](1/sklad_skladopodl.md)
    * [Наголос](1/nagolos.md)
-* [Лексикологія](2/leksikologya.md)
-   1. [Слово як мовна одиниця](2/slovo_yak_movna_odinitsya.md)
-   * [Групи слів за значенням](2/odnoznachni_i_bagatoznachni_slova.md)
-       1. [Однозначнi i багатозначнi слова](2/odnoznachni_i_bagatoznachni_slova.md)
-       * [Омонiми](2/omonimi.md)
-       * [Синонiми](2/sinonimi.md)
-       * [Антонiми](2/antonimi.md)
-   * [Групи слів за походженням](2/grupi_slv_za_pohodzhennyam.md)
-   * [Групи слів за вживанням](2/zagalnovzhivana_ta_leksika_obmezhenogo_vzhivannya.md)
-       1. [Загальновживана та лексика обмеженого вживання](2/zagalnovzhivana_ta_leksika_obmezhenogo_vzhivannya.md)
-       * [Активна та пасивна лексика](2/aktivna_ta_pasivna_leksika.md)
-   * [Групи слів за емоційним забарвленням](2/grupi_slv_za_emotsinim_zabarvlennyam.md)
-* [Фразеологія](3/frazeologya.md)
-   1. [Фразеологізм як мовна одиниця](3/frazeologzm_yak_movna_odinitsya.md)
-   * [Джерела походження фразеологізмів](3/dzherela_pohodzhennya_frazeologzmv.md)
-   * [Види фразеологізмів](3/vidi_frazeologzmv.md)
-   * [Прислів’я, приказки та афоризми](3/prislvya,_prikazki_ta_aforizmi.md)
+* Лексикологія
+   1. Слово як мовна одиниця
+   * Групи слів за значенням
+       1. Однозначнi i багатозначнi слова
+       * Омонiми
+       * Синонiми
+       * Антонiми
+   * Групи слів за походженням
+   * Групи слів за вживанням
+       1. Загальновживана та лексика обмеженого вживання
+       * Активна та пасивна лексика
+   * Групи слів за емоційним забарвленням
+* Фразеологія
+   1. Фразеологізм як мовна одиниця
+   * Джерела походження фразеологізмів
+   * Види фразеологізмів
+   * Прислів’я, приказки та афоризми
    * Словник найуживаніших фразеологізмів
 * Будова слова
     1. Будова слова
