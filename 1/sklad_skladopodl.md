@@ -15,6 +15,15 @@
 
 Закритi закiнчуються на приголосний: *iн-вен-тар*.
 
+<div>
+{% modalYoutube %}https://www.youtube.com/watch?v=fhjh--y9K88|
+<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-ukr/master/pics/1/sklad.png');">
+  <div id="youtube-logo">
+  </div>
+</div>
+|<a href="https://study.ed-era.com/courses/EdEra/U101/u101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+</div>
+
 Привила подiлу слiв на склади:
  * Один приголосний мiж голосними належить до наступного складу: *кни-га*.
  * Однаковi шумнi звуки, що стоять поряд, належать до наступного складу *го-спо-дар*, *ща-стя*.
