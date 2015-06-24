@@ -1,6 +1,6 @@
 # Чергування приголосних звуків
 
-Чергування [<font color="#0F5181">г</font>] – [<font color="#0F5181">ж</font>], [<font color="#0F5181">к</font>] – [<font color="#0F5181">ч</font>], [<font color="#0F5181">х</font>] - [<font color="#0F5181">ш</font>]. Вiдбуваються при словотвореннi i словозмiнi: *увага - уважний - зауваження, галка - галчин - галченя - Галченко, смiх - смiшний – усмiшка*.
+Чергування [<span class="p1">г</span>] – [<span class="p1">ж</span>], [<span class="p1">к</span>] – [<span class="p1">ч</span>], [<span class="p1">х</span>] - [<span class="p1">ш</span>]. Вiдбуваються при словотвореннi i словозмiнi: *увага - уважний - зауваження, галка - галчин - галченя - Галченко, смiх - смiшний – усмiшка*.
 
 <div>
 {% modalYoutube %}https://www.youtube.com/watch?v=4pyiOJhQJrY|
@@ -11,15 +11,15 @@
 |<a href="https://study.ed-era.com/courses/EdEra/U101/u101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 </div>
 
-Чергування [<font color="#0F5181">г</font>] – [<font color="#0F5181">з′</font>], [<font color="#0F5181">к</font>] – [<font color="#0F5181">ц′</font>], [<font color="#0F5181">х</font>] – [<font color="#0F5181">с′</font>]. Вiдбуваються при словозмiнi перед закiнченням <font color="#0F5181">-i</font>: *луг - у лузi, райдуга - райдузi, гiлка - на гiлцi, донька - доньцi, свекруха - свекрусi, капелюх - у капелюсi*.
+Чергування [<span class="p1">г</span>] – [<span class="p1">з′</span>], [<span class="p1">к</span>] – [<span class="p1">ц′</span>], [<span class="p1">х</span>] – [<span class="p1">с′</span>]. Вiдбуваються при словозмiнi перед закiнченням <span class="p1">-i</span>: *луг - у лузi, райдуга - райдузi, гiлка - на гiлцi, донька - доньцi, свекруха - свекрусi, капелюх - у капелюсi*.
 
-У дiєсловах вiдбувається перехiд приголосних [<font color="#0F5181">д</font>], [<font color="#0F5181">т</font>], [<font color="#0F5181">з</font>], [<font color="#0F5181">с</font>] у шиплячi, а саме:
+У дiєсловах вiдбувається перехiд приголосних [<span class="p1">д</span>], [<span class="p1">т</span>], [<span class="p1">з</span>], [<span class="p1">с</span>] у шиплячi, а саме:
 
 <p align="center"><img width="300"class="image" src="../pics/1/pic5.png"/></p>
 
-В iнших частинах мови чергується [<font color="#0F5181">д</font>] — [<font color="#0F5181">ж</font>]: *уродити — урожай, огородити — огорожа, погода — погожий, переходити — перехожий, правда — справжнiй*.
+В iнших частинах мови чергується [<span class="p1">д</span>] — [<span class="p1">ж</span>]: *уродити — урожай, огородити — огорожа, погода — погожий, переходити — перехожий, правда — справжнiй*.
 
-У буквосполученнях <font color="#0F5181">дт</font>, <font color="#0F5181">тт</font> першi звуки [<font color="#0F5181">д</font>] i [<font color="#0F5181">т</font>] чергуються з приголосним [<font color="#0F5181">с</font>]: *веду — вести, ненавидiти — ненависть, цвiт — цвiсти, мету — мести*.
+У буквосполученнях <span class="p1">дт</span>, <span class="p1">тт</span> першi звуки [<span class="p1">д</span>] i [<span class="p1">т</span>] чергуються з приголосним [<span class="p1">с</span>]: *веду — вести, ненавидiти — ненависть, цвiт — цвiсти, мету — мести*.
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
