@@ -97,24 +97,24 @@
 </table>
 </div>
 
-Приголоснi <span class="p1">д, т, з, с, ц, л, н, р</span> стають м’якими i позначаються у транскрипцiї знаком ′, якщо пiсля них стоять <b><font color="#0F5181">я, ю, є, i, ь</font></b>. Наприклад : *тiтка* [$$т$$′$$\acute{і}тка$$].
+Приголоснi <span class="p1">д, т, з, с, ц, л, н, р</span> стають м’якими i позначаються у транскрипцiї знаком ′, якщо пiсля них стоять <span class="p1">я, ю, є, i, ь</span>. Наприклад : *тiтка* [$$т$$′$$\acute{і}тка$$].
 
 <div class="alg-wrap">
 <span class="alg">Як запам’ятати</span> 
 <div class="alg-text">
-«Де ти з’їси цi лини, Дзар». М’який звук [<font color="#0F5181">й</font>] тут «ховається» у лiтерi <font color="#0F5181">ї</font>.
+«Де ти з’їси цi лини, Дзар». М’який звук [<span class="p1">й</span>] тут «ховається» у лiтерi <span class="p1">ї</span>.
 </div>
 </div>
 
-Iншi приголоснi в деяких позицiях можуть бути пом’якшеними. В фонетичнiй транскрипцiї пом’якшенiсть приголосних позначається пiсля звука комою вгорi: [<font color="#0F5181">м’</font>].
+Iншi приголоснi в деяких позицiях можуть бути пом’якшеними. В фонетичнiй транскрипцiї пом’якшенiсть приголосних позначається пiсля звука комою вгорi: [<span class="p1">м’</span>].
 
 Пом’якшеними можуть стати:
- * губнi: [<font color="#0F5181">б’</font>], [<font color="#0F5181">п’</font>], [<font color="#0F5181">в’</font>], [<font color="#0F5181">м’</font>], [<font color="#0F5181">ф’</font>];
- * гортанний [<font color="#0F5181">г’</font>];
- * задньоязиковi [<font color="#0F5181">х’</font>], [<font color="#0F5181">ґ’</font>], [<font color="#0F5181">к’</font>];
- * шиплячi [<font color="#0F5181">ж’</font>], [<font color="#0F5181">ш’</font>], [<font color="#0F5181">$$\widehat{дж}$$</font>’],[ <font color="#0F5181">ч</font>’]
+ * губнi: [<span class="p1">б’</span>], [<span class="p1">п’</span>], [<span class="p1">в’</span>], [<span class="p1">м’</span>], [<span class="p1">ф’</span>];
+ * гортанний [<span class="p1">г’</span>];
+ * задньоязиковi [<span class="p1">х’</span>], [<span class="p1">ґ’</span>], [<span class="p1">к’</span>];
+ * шиплячi [<span class="p1">ж’</span>], [<span class="p1">ш’</span>], [<span class="p1">$$\widehat{дж}$$</span>’],[<span class="p1">ч</span>’]
 
-Якщо вони стоять перед <b><font color="#0F5181">є, ю, я, i</font></b>. Перед м’яким знаком вони не стоять нiколи. Наприклад: *бiль* [б’iль], *мiсто* [м’iсто]. 
+Якщо вони стоять перед <span class="p1">є, ю, я, i</span>. Перед м’яким знаком вони не стоять нiколи. Наприклад: *бiль* [б’iль], *мiсто* [м’iсто]. 
 
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
