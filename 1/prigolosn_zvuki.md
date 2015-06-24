@@ -32,18 +32,18 @@
 </tr>
 <tr>
 <td>Глухi</td>
-<td>[<span class="p1">п</font>]</td>
-<td>[<span class="p1">х</font>]</td>
-<td>[<span class="p1">к<font>]</td>
-<td>[<span class="p1">т</font>]</td>
-<td>[<span class="p1">ш</font>]</td>
-<td>[<span class="p1">ч</font>]</td>
-<td>[<span class="p1">с</font>]</td>
-<td>[<span class="p1">ц</font>]</td>
-<td>[<span class="p1">т′</font>]</td>
-<td>[<span class="p1">с′</font>]</td>
-<td>[<span class="p1">ц′</font>]</td>
-<td>[<span class="p1">>ф</font>]</td>
+<td>[<span class="p1">п</span>]</td>
+<td>[<span class="p1">х</span>]</td>
+<td>[<span class="p1">к</span>]</td>
+<td>[<span class="p1">т</span>]</td>
+<td>[<span class="p1">ш</span>]</td>
+<td>[<span class="p1">ч</span>]</td>
+<td>[<span class="p1">с</span>]</td>
+<td>[<span class="p1">ц</span>]</td>
+<td>[<span class="p1">т′</span>]</td>
+<td>[<span class="p1">с′</span>]</td>
+<td>[<span class="p1">ц′</span>]</td>
+<td>[<span class="p1">>ф</span>]</td>
 </tr>
 </table>
 </div>
