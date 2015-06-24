@@ -30,4 +30,11 @@
         <answer correct>байдуже, весняний, завжди</answer>
         <answer>вірші, мабуть, байдуже</answer>
     </question>
+    <question text="">
+        <p>На другий склад падає наголос у всіх словах рядка</p>
+        <answer>курятина, олень, дітьми</answer>
+        <answer>болотистий, псевдонім, кропива</answer>
+        <answer correct>зубожіти, отаман, босоніж</answer>
+        <answer>завжди, помилка, також</answer>
+    </question>
 </quiz>
