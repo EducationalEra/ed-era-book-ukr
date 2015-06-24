@@ -45,6 +45,15 @@ i пiшов*.
         <explanation>
         У вживаємо на початку речення перед приголосним.
         </explanation>
+    <question text="">
+        <p>Й вживається у рядку</p>
+        <answer>стіл ... стілець</answer>
+        <answer correct>тепло ... сонячно</answer>
+        <answer>написав ... закрив</answer>
+        <answer>батьки ... діти</answer>
+        <explanation>
+        Й уживається після голосного перед приголосним. Проте "батьки ... діти" – це зіставлення понять.
+        </explanation>
     </question>
 </quiz>
 
