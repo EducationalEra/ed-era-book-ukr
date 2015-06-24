@@ -12,47 +12,47 @@
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr>
-<td><font color="#0F5181">А</font> а</td>
-<td><font color="#0F5181">Б</font> б</td>
-<td><font color="#0F5181">В</font> в</td>
-<td><font color="#0F5181">Г</font> г</td>
-<td><font color="#0F5181">Ґ</font> ґ</td>
-<td><font color="#0F5181">Д</font> д</td>
-<td><font color="#0F5181">Е</font> е</td>
+<td><span class="p1">А</span> а</td>
+<td><span class="p1">Б</span> б</td>
+<td><span class="p1">В</span> в</td>
+<td><span class="p1">Г</span> г</td>
+<td><span class="p1">Ґ</span> ґ</td>
+<td><span class="p1">Д</span> д</td>
+<td><span class="p1">Е</span> е</td>
 </tr>
 <tr>
-<td><font color="#0F5181">Є</font> є</td>
-<td><font color="#0F5181">Ж</font> ж</td>
-<td><font color="#0F5181">З</font> з</td>
-<td><font color="#0F5181">И</font> и</td>
-<td><font color="#0F5181">I</font> і</td>
-<td><font color="#0F5181">Ї</font> ї</td>
-<td><font color="#0F5181">Й</font> й</td>
+<td><span class="p1">Є</span> є</td>
+<td><span class="p1">Ж</span> ж</td>
+<td><span class="p1">З</span> з</td>
+<td><span class="p1">И</span> и</td>
+<td><span class="p1">I</span> і</td>
+<td><span class="p1">Ї</span> ї</td>
+<td><span class="p1">Й</span> й</td>
 </tr>
 <tr>
-<td><font color="#0F5181">К</font> к</td>
-<td><font color="#0F5181">Л</font> л</td>
-<td><font color="#0F5181">М</font> м</td>
-<td><font color="#0F5181">Н</font> н</td>
-<td><font color="#0F5181">О</font> о</td>
-<td><font color="#0F5181">П</font> п</td>
-<td><font color="#0F5181">Р</font> р</td>
+<td><span class="p1">К</span> к</td>
+<td><span class="p1">Л</span> л</td>
+<td><span class="p1">М</span> м</td>
+<td><span class="p1">Н</span> н</td>
+<td><span class="p1">О</span> о</td>
+<td><span class="p1">П</span> п</td>
+<td><span class="p1">Р</span> р</td>
 </tr>
 <tr>
-<td><font color="#0F5181">С</font> с</td>
-<td><font color="#0F5181">Т</font> т</td>
-<td><font color="#0F5181">У</font> у</td>
-<td><font color="#0F5181">Ф</font> ф</td>
-<td><font color="#0F5181">Х</font> х</td>
-<td><font color="#0F5181">Ц</font> ц</td>
-<td><font color="#0F5181">Ч</font> ч</td>
+<td><span class="p1">С</span> с</td>
+<td><span class="p1">Т</span> т</td>
+<td><span class="p1">У</span> у</td>
+<td><span class="p1">Ф</span> ф</td>
+<td><span class="p1">Х</span> х</td>
+<td><span class="p1">Ц</span> ц</td>
+<td><span class="p1">Ч</span> ч</td>
 </tr>
 <tr>
-<td><font color="#0F5181">Ш</font> ш</td>
-<td><font color="#0F5181">Щ</font> щ</td>
-<td><font color="#0F5181">Ь</font> ь</td>
-<td><font color="#0F5181">Ю</font> ю</td>
-<td><font color="#0F5181">Я</font> я</td>
+<td><span class="p1">Ш</span> ш</td>
+<td><span class="p1">Щ</span> щ</td>
+<td><span class="p1">Ь</span> ь</td>
+<td><span class="p1">Ю</span> ю</td>
+<td><span class="p1">Я</span> я</td>
 <td></td>
 <td></td>
 </tr>
