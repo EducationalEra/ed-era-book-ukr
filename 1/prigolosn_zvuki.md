@@ -128,6 +128,16 @@ Iншi приголоснi в деяких позицiях можуть бути
         «Хоч фокус – це шепіт»
         </explanation>
     </question>
+    <question text="">
+        <p>Твердими та м’якими можуть бути приголосні у рядку:</p>
+        <answer>д, с, з, л, м, н, ц, р</answer>
+        <answer>р, н, л, з, с, п, д, т</answer>
+        <answer correct>д, с, ц, з, л, н, р, т</answer>
+        <answer>д, ц, з, л, н, с, р, в</answer>
+        <explanation>
+        «Де ти з’їси ці лини, Дзар»
+        </explanation>
+    </question>
 </quiz>
 
 
