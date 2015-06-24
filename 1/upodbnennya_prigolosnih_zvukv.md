@@ -35,3 +35,27 @@
 </div>
 |<a href="https://study.ed-era.com/courses/EdEra/U101/u101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 </div>
+
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Приголосний НЕ уподібнюється за м’якістю у слові:</p>
+        <answer>кінський</answer>
+        <answer>пісня</answer>
+        <answer correct>камінчик</answer>
+        <answer>селянський</answer>
+        <explanation>
+        [кам′інчик]
+        </explanation>
+    </question>
+    <question text="">
+        <p>Глухий приголосний одзвінчується у слові:</p>
+        <answer correct>футбол</answer>
+        <answer>мерехтіти</answer>
+        <answer>вогко</answer>
+        <answer>дігтяр</answer>
+        <explanation>
+        [фудб\acute{о}л]
+        </explanation>
+    </question>
+</quiz>
