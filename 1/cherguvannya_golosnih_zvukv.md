@@ -7,19 +7,19 @@
 </div>
 </div>
 
-* Чергування [<font color="#0F5181">о</font>], [<font color="#0F5181">е</font>] з [<font color="#0F5181">i</font>]. Звуки [<font color="#0F5181">о</font>], [<font color="#0F5181">е</font>], що стоять у вiдкритому складi, мiняються на [<font color="#0F5181">i</font>] у закритому: *летiти – полiт, сiль – солi*.<br>
+* Чергування [<span class="p1">о</span>], [<span class="p1">е</span>] з [<span class="p1">i</span>]. Звуки [<span class="p1">о</span>], [<span class="p1">е</span>], що стоять у вiдкритому складi, мiняються на [<span class="p1">i</span>] у закритому: *летiти – полiт, сiль – солi*.<br>
 Таке чергування не вiдбувається:
-    * Коли [<font color="#0F5181">о</font>], [<font color="#0F5181">е</font>] вставнi або випаднi: *вiкно – вiкон*.
-    * У звукосполученнях <font color="#0F5181">-ере-</font>, <font color="#0F5181">-еле-</font>, <font color="#0F5181">-оро-</font>, <font color="#0F5181">-оло-</font>, <font color="#0F5181">-ор-</font>, <font color="#0F5181">-ер-</font>, <font color="#0F5181">-ов-</font> мiж приголосними: *шелест, мороз, шовк, берег*.
-    * У других частинах складних слiв (<font color="#0F5181">-вод</font>, <font color="#0F5181">-воз</font>, <font color="#0F5181">-нос</font>, <font color="#0F5181">-роб</font>, <font color="#0F5181">-ход</font>), якщо [<font color="#0F5181">о</font>] наголошений: *скороход, дiловод, водовоз*.
-    * У префiксах <font color="#0F5181">роз-</font>, <font color="#0F5181">без-</font>, <font color="#0F5181">через-</font>, <font color="#0F5181">пере-</font> та iн., а також у суфiксах <font color="#0F5181">-очк-</font>, <font color="#0F5181">-ечк-</font>, <font color="#0F5181">-оньк-</font>, <font color="#0F5181">-еньк-</font>, <font color="#0F5181">-есеньк-</font>, <font color="#0F5181">-енк-</font>, <font color="#0F5181">-тель-</font>: *перелiт, розбрат, кiшечка, вчитель, Павленко, нiченька, берiзонька*.
+    * Коли [<span class="p1">о</span>], [<span class="p1">е</span>] вставнi або випаднi: *вiкно – вiкон*.
+    * У звукосполученнях <span class="p1">-ере-</span>, <span class="p1">-еле-</span>, <span class="p1">-оро-</span>, <span class="p1">-оло-</span>, <span class="p1">-ор-</span>, <span class="p1">-ер-</span>, <span class="p1">-ов-</span> мiж приголосними: *шелест, мороз, шовк, берег*.
+    * У других частинах складних слiв (<span class="p1">-вод</span>, <span class="p1">-воз</span>, <span class="p1">-нос</span>, <span class="p1">-роб</span>, <span class="p1">-ход</span>), якщо [<span class="p1">о</span>] наголошений: *скороход, дiловод, водовоз*.
+    * У префiксах <span class="p1">роз-</span>, <span class="p1">без-</span>, <span class="p1">через-</span>, <span class="p1">пере-</span> та iн., а також у суфiксах <span class="p1">-очк-</span>, <span class="p1">-ечк-</span>, <span class="p1">-оньк-</span>, <span class="p1">-еньк-</span>, <span class="p1">-есеньк-</span>, <span class="p1">-енк-</span>, <span class="p1">-тель-</span>: *перелiт, розбрат, кiшечка, вчитель, Павленко, нiченька, берiзонька*.
     * В iншомовних словах, якi запозиченi нещодавно.<br>
 Наприклад: *атом, шофер*.
-* Чергування [<font color="#0F5181">о</font>], [<font color="#0F5181">е</font>] з нулем звука. Голоснi [<font color="#0F5181">о</font>], [<font color="#0F5181">е</font>] в суфiксах випадають при замiнi слова: *садок – садка, вiкон – вiкно, орел – орла, сон – сну*.
-* Чергування [<font color="#0F5181">е</font>] з [<font color="#0F5181">о</font>] пiсля [<font color="#0F5181">й</font>] та шиплячих.
- * Звук [<font color="#0F5181">е</font>] вживаємо пiсля шиплячих та <font color="#0F5181">й</font>, якщо стоїть перед м’якою приголосною та перед [<font color="#0F5181">е</font>],[<font color="#0F5181">i</font>],[<font color="#0F5181">и</font>]: пшениця, нiженька, щебiнь.
- * Звук [<font color="#0F5181">о</font>] маємо пiсля шиплячих та <font color="#0F5181">й</font> перед складами з [<font color="#0F5181">а</font>],[<font color="#0F5181">о</font>], [<font color="#0F5181">у</font>] та [<font color="#0F5181">и</font>]: *жовтий, чого, йому*.
-* Чергування [<font color="#0F5181">е</font>] з [<font color="#0F5181">и</font>] вiдбувається у небагатьох дiєслiвних коренях, якщо далi з’являється суфiкс -а-</font>: *беру – збирати, простерти – простирати, вмерти - вмирати*.
+* Чергування [<span class="p1">о</span>], [<span class="p1">е</span>] з нулем звука. Голоснi [<span class="p1">о</span>], [<span class="p1">е</span>] в суфiксах випадають при замiнi слова: *садок – садка, вiкон – вiкно, орел – орла, сон – сну*.
+* Чергування [<span class="p1">е</span>] з [<span class="p1">о</span>] пiсля [<span class="p1">й</span>] та шиплячих.
+ * Звук [<span class="p1">е</span>] вживаємо пiсля шиплячих та <span class="p1">й</span>, якщо стоїть перед м’якою приголосною та перед [<span class="p1">е</span>],[<span class="p1">i</span>],[<span class="p1">и</span>]: пшениця, нiженька, щебiнь.
+ * Звук [<span class="p1">о</span>] маємо пiсля шиплячих та <span class="p1">й</span> перед складами з [<span class="p1">а</span>],[<span class="p1">о</span>], [<span class="p1">у</span>] та [<span class="p1">и</span>]: *жовтий, чого, йому*.
+* Чергування [<span class="p1">е</span>] з [<span class="p1">и</span>] вiдбувається у небагатьох дiєслiвних коренях, якщо далi з’являється суфiкс -а-</font>: *беру – збирати, простерти – простирати, вмерти - вмирати*.
 
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
