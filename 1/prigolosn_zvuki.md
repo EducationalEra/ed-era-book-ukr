@@ -70,34 +70,34 @@
 <table class="centered-table">
 <tr>
 <td>М’якi</td>
-<td>[<font color="#0F5181">д′</font>]</td>
-<td>[<font color="#0F5181">т′</font>]</td>
-<td>[<font color="#0F5181">з′</font>]</td>
-<td>[<font color="#0F5181">с′</font>]</td>
-<td>[<font color="#0F5181">ц′</font>]</td>
-<td>[<font color="#0F5181">л′</font>]</td>
-<td>[<font color="#0F5181">н′</font>]</td>
-<td>[<font color="#0F5181">р′</font>]</td>
-<td>[<font color="#0F5181">$$\widehat{дз}$$′</font>]</td>
-<td>[<font color="#0F5181">й</font>]</td>
+<td>[<span class="p1">д′</span>]</td>
+<td>[<span class="p1">т′</span>]</td>
+<td>[<span class="p1">з′</span>]</td>
+<td>[<span class="p1">с′</span>]</td>
+<td>[<span class="p1">ц′</span>]</td>
+<td>[<span class="p1">л′</span>]</td>
+<td>[<span class="p1">н′</span>]</td>
+<td>[<span class="p1">р′</span>]</td>
+<td>[<span class="p1">$$\widehat{дз}$$′</span>]</td>
+<td>[<span class="p1">й</span>]</td>
 </tr>
 <tr>
 <td>Твердi</td>
-<td>[<font color="#0F5181">д</font>]</td>
-<td>[<font color="#0F5181">т</font>]</td>
-<td>[<font color="#0F5181">з<font>]</td>
-<td>[<font color="#0F5181">с</font>]</td>
-<td>[<font color="#0F5181">ц</font>]</td>
-<td>[<font color="#0F5181">л</font>]</td>
-<td>[<font color="#0F5181">н</font>]</td>
-<td>[<font color="#0F5181">р</font>]</td>
-<td>[<font color="#0F5181">$$\widehat{дз}$$</font>]</td>
+<td>[<span class="p1">д</span>]</td>
+<td>[<span class="p1">т</span>]</td>
+<td>[<span class="p1">з</span>]</td>
+<td>[<span class="p1">с</span>]</td>
+<td>[<span class="p1">ц</span>]</td>
+<td>[<span class="p1">л</span>]</td>
+<td>[<span class="p1">н</span>]</td>
+<td>[<span class="p1">р</span>]</td>
+<td>[<span class="p1">$$\widehat{дз}$$</span>]</td>
 <td></td>
 </tr>
 </table>
 </div>
 
-Приголоснi <b><font color="#0F5181">д, т, з, с, ц, л, н, р</font></b> стають м’якими i позначаються у транскрипцiї знаком ′, якщо пiсля них стоять <b><font color="#0F5181">я, ю, є, i, ь</font></b>. Наприклад : *тiтка* [$$т$$′$$\acute{і}тка$$].
+Приголоснi <span class="p1">д, т, з, с, ц, л, н, р</span> стають м’якими i позначаються у транскрипцiї знаком ′, якщо пiсля них стоять <b><font color="#0F5181">я, ю, є, i, ь</font></b>. Наприклад : *тiтка* [$$т$$′$$\acute{і}тка$$].
 
 <div class="alg-wrap">
 <span class="alg">Як запам’ятати</span> 
