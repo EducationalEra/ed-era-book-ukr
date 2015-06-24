@@ -1,7 +1,7 @@
 # Зміст
 [Вступне слово](vstup.md)
 1. [Фонетика. Графіка. Орфоепія](1/fonetika_grafka_orfoepya.md)<br>
-    2. [Звуки](1/zvuki.md)
+    2. [Звуки](1/golosn_zvuki.md)
         1. [Голосні звуки](1/golosn_zvuki.md)
         2. [Приголосні звуки](1/prigolosn_zvuki.md)
     3. [Фонетична транскрипція](1/fonetichna_transkriptsya.md)
