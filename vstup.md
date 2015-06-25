@@ -32,7 +32,7 @@ EdEra Books – соціальний освітній проект. Дозвол
 
 <div align="center" style="border:1px solid red; padding-top:5px; margin-bottom:10px;">
 <p><b>Email:</b> info@ed-era.com</p>
-<p><b>Phone:</b> +380 63 380 60 42</p>
+<b>Phone:</b> +380 63 380 60 42
 </div>
 
 * 
