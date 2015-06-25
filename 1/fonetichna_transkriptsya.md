@@ -26,14 +26,7 @@
 <div class="popup">
 </div>
 
-<div>
-{% modalYoutube %}https://www.youtube.com/watch?v=UDRZNNRxGQs|
-<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-ukr/master/pics/1/fon_trans.png');">
-  <div id="youtube-logo">
-  </div>
-</div>
-|<a href="https://study.ed-era.com/courses/EdEra/U101/u101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
-</div>
+
 
 
 
