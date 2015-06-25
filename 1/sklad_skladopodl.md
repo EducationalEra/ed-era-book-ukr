@@ -15,13 +15,10 @@
 
 Закритi закiнчуються на приголосний: *iн-вен-тар*.
 
-<div>
-{% modalYoutube %}https://www.youtube.com/watch?v=fhjh--y9K88|
-<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-ukr/master/pics/1/sklad.png');">
-  <div id="youtube-logo">
-  </div>
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/fhjh--y9K88" frameborder="0" allowfullscreen></iframe>
 </div>
-|<a href="https://study.ed-era.com/courses/EdEra/U101/u101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+<div class="popup">
 </div>
 
 Привила подiлу слiв на склади:
