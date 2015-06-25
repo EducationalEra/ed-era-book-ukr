@@ -2,13 +2,10 @@
 
 Чергування [<span class="p1">г</span>] – [<span class="p1">ж</span>], [<span class="p1">к</span>] – [<span class="p1">ч</span>], [<span class="p1">х</span>] - [<span class="p1">ш</span>]. Вiдбуваються при словотвореннi i словозмiнi: *увага - уважний - зауваження, галка - галчин - галченя - Галченко, смiх - смiшний – усмiшка*.
 
-<div>
-{% modalYoutube %}https://www.youtube.com/watch?v=4pyiOJhQJrY|
-<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-ukr/master/pics/1/cherguvannya_zvukiv.png');">
-  <div id="youtube-logo">
-  </div>
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/4pyiOJhQJrY" frameborder="0" allowfullscreen></iframe>
 </div>
-|<a href="https://study.ed-era.com/courses/EdEra/U101/u101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+<div class="popup">
 </div>
 
 Чергування [<span class="p1">г</span>] – [<span class="p1">з′</span>], [<span class="p1">к</span>] – [<span class="p1">ц′</span>], [<span class="p1">х</span>] – [<span class="p1">с′</span>]. Вiдбуваються при словозмiнi перед закiнченням <span class="p1">-i</span>: *луг - у лузi, райдуга - райдузi, гiлка - на гiлцi, донька - доньцi, свекруха - свекрусi, капелюх - у капелюсi*.
