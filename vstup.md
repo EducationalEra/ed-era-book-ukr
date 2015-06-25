@@ -34,7 +34,6 @@ EdEra Books – соціальний освітній проект. Дозвол
 <p><b>Email:</b> info@ed-era.com</p>
 <p><b>Phone:</b> +380 63 380 60 42</p>
 </div>
-
 <br>
 
 * 
