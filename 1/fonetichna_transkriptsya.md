@@ -20,6 +20,11 @@
 [<span class="p1">$$е^и$$</span>], [<span class="p1">$$и^e$$</span>].
 * Ненаголошений [<span class="p1">о</span>] перед складом з наголошеним [<span class="p1">i</span>] або [<span class="p1">у</span>] позначається [<span class="p1">$$о^у$$</span>].
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/UDRZNNRxGQs" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
 
 <div>
 {% modalYoutube %}https://www.youtube.com/watch?v=UDRZNNRxGQs|
