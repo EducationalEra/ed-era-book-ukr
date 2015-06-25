@@ -15,7 +15,7 @@
         "quiz": {
             "labels": {
                 "showCorrect" : "Показати правильну відповідь",
-                "showExplanation"   : "Показати розв'язок",
+                "showExplanation"   : "Пояснення",
                 "check"       : "Перевірити"
             },
             "text": {
