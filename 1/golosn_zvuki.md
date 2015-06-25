@@ -12,11 +12,13 @@
  * Пiсля м’якого знака: *Мольєр* [$$мол′й\acute{е}р$$]
  * Пiсля апострофа: *здоров’я* [$$здор\acute{о}вйа$$]
 
+
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/k9k6OUwrvC8" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="popup">
 </div>
+
 
 <div class="centered-table-wrapper">
 <table class="centered-table">
