@@ -25,17 +25,11 @@
 
 <p align="center"><img width="350"class="image" src="../pics/1/pic4.png"/></p>
 
-
-
-<div>
-{% modalYoutube %}https://www.youtube.com/watch?v=I3wHHsfPimM|
-<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-ukr/master/pics/1/Cherguvannia.png');">
-  <div id="youtube-logo">
-  </div>
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/I3wHHsfPimM" frameborder="0" allowfullscreen></iframe>
 </div>
-|<a href="https://study.ed-era.com/courses/EdEra/U101/u101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+<div class="popup">
 </div>
-
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
