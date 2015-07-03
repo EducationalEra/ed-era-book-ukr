@@ -18,7 +18,7 @@
    * [Наголос](1/nagolos.md)
 * [Лексикологія](leksikologya.md)
    * [Слово як мовна одиниця](slovo_yak_movna_odinitsya.md)
-   * Групи слів за значенням
+   * [Групи слів за значенням](grupi_slv_za_znachennyam.md)
        * Однозначнi i багатозначнi слова
        * Омонiми
        * Синонiми
