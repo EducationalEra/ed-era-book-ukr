@@ -16,7 +16,7 @@
    * [Основні випадки чергування У-В, І-Й](1/osnovn_vipadki_cherguvannya_u-v,_-i.md)
    * [Склад. Складоподіл](1/sklad_skladopodl.md)
    * [Наголос](2/leksikologya.md)
-* [Лексикологія](leksikologya.md)
+* [Лексикологія](2/leksikologya.md)
    * [Слово як мовна одиниця](2/slovo_yak_movna_odinitsya.md)
    * [Групи слів за значенням](2/odnoznachni_i_bagatoznachni_slova.md)
        * [Однозначнi i багатозначнi слова](2/odnoznachni_i_bagatoznachni_slova.md)
