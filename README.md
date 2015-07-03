@@ -15,17 +15,17 @@
     9. [Склад. Складоподіл](1/sklad_skladopodl.md)
     10. [Наголос](1/nagolos.md)
 2. [Лексикологія](1/leksikologya.md)
-   1. Слово як мовна одиниця
-   * Групи слів за значенням
-       1. Однозначнi i багатозначнi слова
-       * Омонiми
-       * Синонiми
-       * Антонiми
-   * Групи слів за походженням
-   * Групи слів за вживанням
-       1. Загальновживана та лексика обмеженого вживання
-       * Активна та пасивна лексика
-   * Групи слів за емоційним забарвленням
+   1. [Слово як мовна одиниця](2/slovo_yak_movna_odinitsya.md)
+   2. [Групи слів за значенням](2/odnoznachni_i_bagatoznachni_slova.md)
+       1. [Однозначнi i багатозначнi слова](2/odnoznachni_i_bagatoznachni_slova.md)
+       2. [Омонiми](2/omonimi.md)
+       3. [Синонiми](2/sinonimi.md)
+       4. [Антонiми](2/antonimi.md)
+   3. [Групи слів за походженням](2/grupi_slv_za_pohodzhennyam.md)
+   4. [Групи слів за вживанням](2/zagalnovzhivana_ta_leksika_obmezhenogo_vzhivannya.md)
+       1. [Загальновживана та лексика обмеженого вживання](2/zagalnovzhivana_ta_leksika_obmezhenogo_vzhivannya.md)
+       2. [Активна та пасивна лексика](2/aktivna_ta_pasivna_leksika.md)
+   5. [Групи слів за емоційним забарвленням](2/grupi_slv_za_emotsinim_zabarvlennyam.md)
 * Фразеологія
    1. Фразеологізм як мовна одиниця
    * Джерела походження фразеологізмів
