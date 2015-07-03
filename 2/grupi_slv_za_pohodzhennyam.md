@@ -26,3 +26,14 @@
 </div>
 </div>
 
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Усі слова є власне українськими в рядку:</p>
+        <answer>іврит, нація, еволюція</answer>
+        <answer>революція, економія, парламент</answer>
+        <answer correct>вареник, рушник, оберемок</answer>
+        <answer>магнітофон, спікер, комп’ютер</answer>
+    </question>
+</quiz>
+
