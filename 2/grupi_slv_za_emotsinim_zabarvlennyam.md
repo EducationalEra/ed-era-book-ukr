@@ -22,3 +22,17 @@
 </div>
 </div>
 
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Емоційно забарвленими є всі слова у рядку:</p>
+        <answer>вітерець, дощик, море</answer>
+        <answer>кутя, рюмсати, сонце</answer>
+        <answer correct>реготати, гаркнути, матуся</answer>
+        <answer>кажан, товкмачити, стіл</answer>
+        <explanation>
+        Море, кутя, сонце, кажан і стіл належать до нейтральної лексики.
+        </explanation>
+    </question>
+</quiz>
+
