@@ -11,3 +11,11 @@
 стiйким i не може замiнюватись, а iншi можуть мати взаємну замiну.<br>
 Наприклад: <i>брати до серця – брати до уваги</i>.
 
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Які фразеологізми являються семантично неподільними компонентами,що мають певну самостійність:</p>
+        <answer>Фразеологічні зрощення</answer>
+        <answer>Фразеологічні єдності</answer>
+        <answer correct>Фразеологічні сполучення </answer>
+    </question>
+</quiz>
