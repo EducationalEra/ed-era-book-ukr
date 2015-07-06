@@ -28,3 +28,10 @@
 
 
 Кожна морфема позначається умовною позначкою:
+
+
+
+<div class="center">
+<img src="../pics/4/chast.jpg" width="780px" class="center"/>
+</div>
+
