@@ -32,6 +32,6 @@
 
 
 <div class="center">
-<img src="../pics/4/chast.png" width="500px" class="center"/>
+<img src="../pics/4/chast.png" width="400px" class="center"/>
 </div>
 
