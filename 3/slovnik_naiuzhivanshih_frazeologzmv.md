@@ -1,5 +1,10 @@
 # Словник найуживаніших фразеологізмів
 
+<div class="center">
+<img src="../pics/3/fraze.jpg" width="700px" class="center"/>
+</div>
+
+
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Який синонім фразеологізму “Заливати за шкуру сала”?</p>
