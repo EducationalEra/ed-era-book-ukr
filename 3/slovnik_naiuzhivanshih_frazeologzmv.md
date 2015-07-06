@@ -7,7 +7,9 @@
 <table style="width:100%">
   <tr>
     <td>Авгiєвi стайні</td>
-    <td>звичайна запущенiсть, бруд, безлад</td> 
+    <td>звичайна запущенiсть, бруд, безлад
+    
+    </td> 
   </tr>
   <tr>
     <td>Аж дим iде</td>
@@ -22,10 +24,17 @@
     <td>початок i кiнець.</td> 
   </tr>
   
+  
+  
 
 </table>
 
-
+## Авгiєвi стайні
+звичайна запущенiсть, бруд, безлад
+<hr>
+## Авгiєвi стайні
+звичайна запущенiсть, бруд, безлад
+<hr>
 
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
