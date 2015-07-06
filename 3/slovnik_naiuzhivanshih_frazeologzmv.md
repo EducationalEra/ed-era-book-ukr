@@ -23,10 +23,6 @@
     <td>Альфа i омега</td>
     <td>початок i кiнець.</td> 
   </tr>
-  
-  
-  
-
 </table>
 -->
 
@@ -36,7 +32,12 @@
 ## Авгiєвi стайні
 звичайна запущенiсть, бруд, безлад
 <hr>
-
+## Авгiєвi стайні
+звичайна запущенiсть, бруд, безлад
+<hr>
+## Авгiєвi стайні
+звичайна запущенiсть, бруд, безлад
+<hr>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
