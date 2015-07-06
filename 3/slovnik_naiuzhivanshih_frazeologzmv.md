@@ -4,6 +4,24 @@
 <img src="../pics/3/frazz.jpg" width="780px" class="center"/>
 </div>
 
+| 
+## Афгіеєві стаї | Надзвичайна запущеність, бруд, безлад |
+| -- | -- |
+| 0:2 | 1:2 |
+| -- | -- |
+| 0:2 | 1:2 |
+| -- | -- |
+| 0:2 | 1:2 |
+| -- | -- |
+| 0:2 | 1:2 |
+| -- | -- |
+| 0:2 | 1:2 |
+| -- | -- |
+| 0:2 | 1:2 |
+| -- | -- |
+
+
+
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
