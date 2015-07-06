@@ -452,6 +452,11 @@ default – "White"
  color: #0F5180;
 }
 
+span .osnova {
+    font-weight: bold;
+    color: RGB(112,66,20);
+}
+
 .book.color-theme-1 .p1{
     font-weight: bold;
     color: RGB(112,66,20);
