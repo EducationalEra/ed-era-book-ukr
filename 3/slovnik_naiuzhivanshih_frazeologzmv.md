@@ -47,6 +47,15 @@
 ### Байдики бити 
 Нічого не робити, ледарювати. 
 <hr>
+### Баляндраси (ляси) точити 
+Вести пусті розмови.
+<hr>
+### Бачити наскрізь
+Добре знати 
+<hr>
+### Бачити наскрізь
+Добре знати 
+<hr>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
