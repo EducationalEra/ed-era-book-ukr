@@ -1,7 +1,7 @@
 # Словник найуживаніших фразеологізмів
 
 <div class="center">
-<img src="../pics/3/fraze.jpg" width="700px" class="center"/>
+<img src="../pics/3/frazz.jpg" width="700px" class="center"/>
 </div>
 
 
