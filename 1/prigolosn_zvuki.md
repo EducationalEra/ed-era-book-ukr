@@ -22,12 +22,12 @@
 <td>[<span class="p1">ґ</span>]</td>
 <td>[<span class="p1">д</span>]</td>
 <td>[<span class="p1">ж</span>]</td>
-<td>[<span class="p1">$$\boldsymbol\widehat{дж}$$</span>]</td>
+<td>[<span class="p1">$$\boldsymbol{\widehat{дж}}$$</span>]</td>
 <td>[<span class="p1">з</span>]</td>
-<td>[<span class="p1">$$\boldsymbol\widehat{дз}$$</span>]</td>
+<td>[<span class="p1">$$\boldsymbol{\widehat{дз}}$$</span>]</td>
 <td>[<span class="p1">д′</span>]</td>
 <td>[<span class="p1">з</span>]</td>
-<td>[<span class="p1">$$\boldsymbol\widehat{дз}′$$</span>]</td>
+<td>[<span class="p1">$$\boldsymbol{\widehat{дз}′}$$</span>]</td>
 <td></td>
 </tr>
 <tr>
@@ -78,7 +78,7 @@
 <td>[<span class="p1">л′</span>]</td>
 <td>[<span class="p1">н′</span>]</td>
 <td>[<span class="p1">р′</span>]</td>
-<td>[<span class="p1">$$\boldsymbol\widehat{дз}$$′</span>]</td>
+<td>[<span class="p1">$$\boldsymbol{\widehat{дз}}$$′</span>]</td>
 <td>[<span class="p1">й</span>]</td>
 </tr>
 <tr>
@@ -91,7 +91,7 @@
 <td>[<span class="p1">л</span>]</td>
 <td>[<span class="p1">н</span>]</td>
 <td>[<span class="p1">р</span>]</td>
-<td>[<span class="p1">$$\boldsymbol\widehat{дз}$$</span>]</td>
+<td>[<span class="p1">$$\boldsymbol{\widehat{дз}}$$</span>]</td>
 <td></td>
 </tr>
 </table>
