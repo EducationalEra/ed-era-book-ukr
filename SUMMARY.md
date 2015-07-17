@@ -15,7 +15,7 @@
        * [Чергування приголосних звуків](1/cherguvannya_prigolosnih_zvukv.md)
    * [Основні випадки чергування У-В, І-Й](1/osnovn_vipadki_cherguvannya_u-v,_-i.md)
    * [Склад. Складоподіл](1/sklad_skladopodl.md)
-   * [Наголос](2/leksikologya.md)
+   * [Наголос](1/nagolos.md)
 * [Лексикологія](2/leksikologya.md)
    * [Слово як мовна одиниця](2/slovo_yak_movna_odinitsya.md)
    * [Групи слів за значенням](2/odnoznachni_i_bagatoznachni_slova.md)
