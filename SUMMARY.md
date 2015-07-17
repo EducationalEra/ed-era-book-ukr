@@ -17,7 +17,7 @@
    * [Склад. Складоподіл](1/sklad_skladopodl.md)
    * [Наголос](1/nagolos.md)
 * Лексикологія
-   * [Слово як мовна одиниця](2/slovo_yak_movna_odinitsya.md)
+   * Слово як мовна одиниця
    * [Групи слів за значенням](2/odnoznachni_i_bagatoznachni_slova.md)
        * [Однозначнi i багатозначнi слова](2/odnoznachni_i_bagatoznachni_slova.md)
        * [Омонiми](2/omonimi.md)
