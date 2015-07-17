@@ -27,7 +27,7 @@
 <td>[<span class="p1">$$\boldsymbol{\widehat{дз}}$$</span>]</td>
 <td>[<span class="p1">д′</span>]</td>
 <td>[<span class="p1">з</span>]</td>
-<td>[<span class="p1">$$\boldsymbol{\widehat{дз}′}$$</span>]</td>
+<td>[<span class="p1">$$\boldsymbol{\widehat{дз}}$$′</span>]</td>
 <td></td>
 </tr>
 <tr>
