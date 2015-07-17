@@ -21,7 +21,7 @@
    * [Групи слів за значенням](2/odnoznachni_i_bagatoznachni_slova.md)
        * Однозначнi i багатозначнi слова
        * Омонiми
-       * [Синонiми](2/sinonimi.md)
+       * Синонiми
        * [Антонiми](2/antonimi.md)
    * [Групи слів за походженням](2/grupi_slv_za_pohodzhennyam.md)
    * [Групи слів за вживанням](2/zagalnovzhivana_ta_leksika_obmezhenogo_vzhivannya.md)
