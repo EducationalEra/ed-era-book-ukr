@@ -22,7 +22,7 @@
        * Однозначнi i багатозначнi слова
        * Омонiми
        * Синонiми
-       * [Антонiми](2/antonimi.md)
+       * Антонiми
    * [Групи слів за походженням](2/grupi_slv_za_pohodzhennyam.md)
    * [Групи слів за вживанням](2/zagalnovzhivana_ta_leksika_obmezhenogo_vzhivannya.md)
        * [Загальновживана та лексика обмеженого вживання](2/zagalnovzhivana_ta_leksika_obmezhenogo_vzhivannya.md)
