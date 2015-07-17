@@ -20,7 +20,7 @@
    * Слово як мовна одиниця
    * [Групи слів за значенням](2/odnoznachni_i_bagatoznachni_slova.md)
        * Однозначнi i багатозначнi слова
-       * [Омонiми](2/omonimi.md)
+       * Омонiми
        * [Синонiми](2/sinonimi.md)
        * [Антонiми](2/antonimi.md)
    * [Групи слів за походженням](2/grupi_slv_za_pohodzhennyam.md)
