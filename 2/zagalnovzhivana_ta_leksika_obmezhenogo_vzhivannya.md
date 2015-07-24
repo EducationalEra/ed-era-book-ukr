@@ -126,7 +126,7 @@
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Загальновживаними є всі слова в рядку:</p>
-        <answer>щастя, рука, дощ, йти</answer>
+        <answer correct>щастя, рука, дощ, йти</answer>
         <answer>абзац, архів, гриф, витяг</answer>
         <answer>кок, камбуз, кубрик, бак</answer>
         <answer>вуйко, файний, біти, ватра</answer>
@@ -137,6 +137,5 @@
 Кок, камбуз, кубрик, бак – професійна лексика.
 
 Вуйко, файний, біти, ватра – діалектизми.
-
     </explanation>
 </quiz>
