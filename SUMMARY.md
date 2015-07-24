@@ -26,7 +26,7 @@
    * [Групи слів за походженням](2/grupi_slv_za_pohodzhennyam.md)
    * [Групи слів за вживанням](2/zagalnovzhivana_ta_leksika_obmezhenogo_vzhivannya.md)
        * [Загальновживана та лексика обмеженого вживання](2/zagalnovzhivana_ta_leksika_obmezhenogo_vzhivannya.md)
-       * Активна та пасивна лексика
+       * [Активна та пасивна лексика](2/aktivna_ta_pasivna_leksika.md)
    * Групи слів за емоційним забарвленням
 * [Фразеологія](3/frazeologya.md)
    * [Фразеологізм як мовна одиниця](3/frazeologzm_yak_movna_odinitsya.md)
