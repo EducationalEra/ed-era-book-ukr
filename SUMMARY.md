@@ -19,7 +19,7 @@
 * [Лексикологія](2/leksikologya.md)
    * [Слово як мовна одиниця](2/slovo_yak_movna_odinitsya.md)
    * [Групи слів за значенням](2/grupi_slv_za_znachennyam.md)
-       * Однозначнi i багатозначнi слова
+       * [Однозначнi i багатозначнi слова](2/odnoznachni_i_bagatoznachni_slova.md)
        * Омонiми
        * Синонiми
        * Антонiми
