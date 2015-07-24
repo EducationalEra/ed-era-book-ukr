@@ -137,3 +137,18 @@
     </explanation>
     </question>
 </quiz>
+
+
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Терміном є слово:</p>
+        <answer correct>літо</answer>
+        <answer>підмет</answer>
+        <answer>квасець</answer>
+        <answer>п'ятихвилинка</answer>
+                <explanation>
+Літо – загальновживане слово, квасець – діалектизм, п’ятихвилинка – професіоналізм.
+    </explanation>
+    </question>
+</quiz>
