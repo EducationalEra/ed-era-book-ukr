@@ -28,3 +28,19 @@
     </question>
 </quiz>
 
+
+
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Синонімічним є ряд слів:</p>
+        <answer>Пахучий, запашний, духмяний, приємний</answer>
+        <answer>Стійкий, суворий, міцний, непохитний </answer>
+        <answer correct>Урочистий, піднесений, патетичний, пишний </answer>
+        <answer>Мовчазний, безмовний, неговіркий, балакучий</answer>
+        <answer>Мова, мовний, мовлення, мовити</answer>
+        <explanation>
+   В першому варіанті зайвим є слово приємний, в другому – суворий, в четвертому – балакучий. В останньому варіанті наведено спільнокореневі слова.
+    </explanation>
+    </question>
+</quiz>
