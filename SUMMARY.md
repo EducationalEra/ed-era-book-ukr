@@ -39,7 +39,7 @@
        * [Основа слова](4/Osnova_slova.md)
        * [Закiнчення](4/Zakinchennya.md)
        * [Корiнь](4/korin`.md)
-       * Префiкс
+       * [Префiкс](4/prefics.md)
        * Суфiкс
        * Постфiкс
    * Словотвiр
