@@ -32,3 +32,17 @@
     </explanation>
     </question>
 </quiz>
+
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>У прямому значенні вжито прикметник у рядку:</p>
+        <answer>солодкий сон</answer>
+        <answer>золоті руки</answer>
+        <answer correct>свіжий хліб</answer>
+        <answer>дрімає ліс</answer>
+        <explanation>
+    Cолодкий сон – це приємний сон, адже йдеться не про смак; золоті руки – вмілі руки, а не зроблені з золота; дрімає ліс – тихий ліс, адже спати він не може
+    </explanation>
+    </question>
+</quiz>
