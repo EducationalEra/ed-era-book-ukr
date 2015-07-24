@@ -44,3 +44,18 @@
     </explanation>
     </question>
 </quiz>
+
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Синоніми виділено в реченні:</p>
+        <answer>Тінь <b>чорна</b> стрімко падає вниз — то <b>білий</b> голуб так злітає вгору.</answer>
+        <answer><b>Ситий голодного</b> не розуміє.</answer>
+        <answer>І що я йому <b>говорила</b>, <b>товкла</b>? </answer>
+        <answer><b>Молоде</b> орля, та вище <b>старого</b> літає.</answer>
+        <answer>З <b>журбою радість</b> обнялась.</answer>
+        <explanation>
+   Говорила, товкла - контекстуальні синоніми. В інших реченнях виділено антоніми.
+    </explanation>
+    </question>
+</quiz>
