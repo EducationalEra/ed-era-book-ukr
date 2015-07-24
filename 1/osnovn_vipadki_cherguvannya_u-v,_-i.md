@@ -45,6 +45,11 @@ i пiшов*.
         <explanation>
         У вживаємо на початку речення перед приголосним.
         </explanation>
+    </question>
+</quiz>     
+        
+        
+ <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">       
     <question text="">
         <p>Й вживається у рядку</p>
         <answer>стіл ... стілець</answer>
