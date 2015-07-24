@@ -58,3 +58,18 @@
     </question>
 </quiz>
 
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Антоніми виділено в реченні:</p>
+        <answer><b>Брехня</b> стоїть на одній нозі, а <b>правда</b> на двох.</answer>
+        <answer><b>Осінній</b> день, осінній день, осінній! О <b>синій</b> день, о синій день, о синій!</answer>
+        <answer>Недумано, негадано забігла в глухомань, де сосни пахнуть ладаном в кадильницях світань.</answer>
+        <answer>Мов тихий дзвін гірського кришталю, несказане лишилось несказанним.</answer>
+        <answer>Минають фронди і жіронди, минає славне і гучне.</answer>
+        <explanation>
+ Брехня та правда – антоніми.
+    </explanation>
+    </question>
+</quiz>
+
