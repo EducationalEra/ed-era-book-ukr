@@ -33,7 +33,7 @@
    * [Джерела походження фразеологізмів](3/dzherela_pohodzhennya_frazeologzmv.md)
    * [Види фразеологізмів](3/vidi_frazeologzmv.md)
    * [Прислів’я, приказки та афоризми](3/prislvya,_prikazki_ta_aforizmi.md)
-   * Словник найуживаніших фразеологізмів
+   * [Словник найуживаніших фразеологізмів](3/slovnik_naiuzhivanshih_frazeologzmv.md)
 * Будова слова
    * Будова слова
        * Основа слова
