@@ -121,3 +121,14 @@
         <answer>У козацьких канцеляріях чорнильниці-каламари мали найрізноманітніші форми</answer>
     </question>
 </quiz>
+
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Загальновживаними є всі слова в рядку:</p>
+        <answer>щастя, рука, дощ, йти</answer>
+        <answer>абзац, архів, гриф, витяг</answer>
+        <answer>кок, камбуз, кубрик, бак</answer>
+        <answer>вуйко, файний, біти, ватра</answer>
+    </question>
+</quiz>
