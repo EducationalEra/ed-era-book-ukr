@@ -20,8 +20,5 @@
         <answer>готувати</answer>
         <answer>тікати</answer>
         <answer>кричати</answer>
-        <explanation>
-        Море, кутя, сонце, кажан і стіл належать до нейтральної лексики.
-        </explanation>
     </question>
 </quiz>
