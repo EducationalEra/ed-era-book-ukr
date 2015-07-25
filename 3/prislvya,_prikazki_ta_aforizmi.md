@@ -53,3 +53,17 @@
 <div class="space">
 Наприклад, вiдомий афоризм Тараса Шевченка: <i>«Борiтеся – поборете»</i>.
 </div>
+
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Прислів’я є в рядку:</p>
+        <answer>Борітеся – поборете.</answer>
+        <answer correct>Вік живи – вік учись. </answer>
+        <answer>Наріжний камінь.</answer>
+        <answer>Як з гуски вода</answer>
+        <explanation>
+        «Борітеся – поборете» – афоризм, наріжний камінь – фразеологізм, як з гуски вода – приказка.
+        </explanation>
+    </question>
+</quiz>
