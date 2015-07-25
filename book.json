@@ -25,7 +25,7 @@
                 "wrongAnswer" : "Неправильно!"
             }
         },
-        "question": {
+        "question_1": {
             "labels": {
                 "showExplanation"   : "Відповідь"
             }
