@@ -5,6 +5,7 @@
         "addcssjs",
         "modal-youtube-video",
         "quiz",
+        "question",
         "gtm"
     ],
     "pluginsConfig": {
@@ -22,6 +23,11 @@
                 "noChosen"    : "Не вибрано жодної відповіді",
                 "rightAnswer" : "Правильно!",
                 "wrongAnswer" : "Неправильно!"
+            }
+        },
+        "question": {
+            "labels": {
+                "showExplanation"   : "Відповідь"
             }
         },
         "gtm": {
