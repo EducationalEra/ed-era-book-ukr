@@ -67,3 +67,15 @@
         </explanation>
     </question>
 </quiz>
+
+
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Автора обов’язково має:</p>
+        <answer>фразеологізм</answer>
+        <answer>прислів’я</answer>
+        <answer>афоризм</answer>
+        <answer>приказка</answer>
+    </question>
+</quiz>
