@@ -1,6 +1,6 @@
 # Контрольні запитання
 
-<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<question correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Які ознаки слова ви знаєте?</p>
         <explanation>
