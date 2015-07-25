@@ -13,4 +13,4 @@
 −	має граматичнi форми тощо.<br/>
     </explanation>
     </question>
-</quiz>
+</guestion_1>
