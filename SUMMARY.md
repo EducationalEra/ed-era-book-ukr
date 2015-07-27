@@ -47,7 +47,7 @@
    * [Морфологiчнi способи словотворення](4/morfologichni_sposobi_slovotvorennya.md)
        * [Суфiксальний спосiб](4/sufiksalniy_sposib.md)
        * [Префiксальний спосiб](4/prefiksalniy_sposib.md)
-       * Префiксально-суфiксальний спосiб
+       * [Префiксально-суфiксальний спосiб](4/prefiksalno-sufiksalniy_sposib.md)
        * Безсуфiксний спосiб
        * Основоскладання
        * Словоскладання
