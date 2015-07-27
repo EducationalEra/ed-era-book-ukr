@@ -45,7 +45,7 @@
        * [Постфiкс](4/postfics.md)
    * [Словотвiр](4/slovotvir.md)
    * [Морфологiчнi способи словотворення](4/morfologichni_sposobi_slovotvorennya.md)
-       * Суфiксальний спосiб
+       * [Суфiксальний спосiб](4/sufiksalniy_sposib.md)
        * Префiксальний спосiб
        * Префiксально-суфiксальний спосiб
        * Безсуфiксний спосiб
