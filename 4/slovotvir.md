@@ -12,9 +12,10 @@
 
 
 <div class="center">
-<img src="../pics/4/slova.png" width="600px" class="center"/>
+<img src="../pics/4/slova.png" width="700px" class="center"/>
 </div>
 
+<p></p>
 
 <div class="space">
 <div class="eoz-wrap">
