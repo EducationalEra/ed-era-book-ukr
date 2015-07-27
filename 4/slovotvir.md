@@ -12,7 +12,7 @@
 
 
 <div class="center">
-<img src="../pics/4/slova.png" width="600px" class="center"/>
+<img src="../pics/4/slova.png" width="800px" class="center"/>
 </div>
 
 
@@ -25,4 +25,4 @@
 </div>
 </div>
 
- Наприклад: літ[о], сніг[].
+ Наприклад: літо, сніг.
