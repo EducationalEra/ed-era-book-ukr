@@ -1,6 +1,6 @@
 # Контрольні запитання
 
-<question_1>
+<!--<question_1>
     <question text="">
         <p>Які ознаки слова ви знаєте?</p>
         <explanation>
@@ -13,4 +13,5 @@
 −	має граматичнi форми тощо.<br/>
     </explanation>
     </question>
-</guestion_1>
+</guestion_1>-->
+\121212
