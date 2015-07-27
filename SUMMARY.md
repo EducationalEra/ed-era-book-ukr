@@ -49,7 +49,7 @@
        * [Префiксальний спосiб](4/prefiksalniy_sposib.md)
        * [Префiксально-суфiксальний спосiб](4/prefiksalno-sufiksalniy_sposib.md)
        * [Безсуфiксний спосiб](4/bezsufiksniy_sposib.md)
-       * Основоскладання
+       * [Основоскладання](4/osnovoskladannya.md)
        * Словоскладання
        * Абревiацiя
    * Неморфологiчнi способи словотворення
