@@ -35,7 +35,7 @@
    * [Види фразеологізмів](3/vidi_frazeologzmv.md)
    * [Прислів’я, приказки та афоризми](3/prislvya,_prikazki_ta_aforizmi.md)
    * [Словник найуживаніших фразеологізмів](3/slovnik_naiuzhivanshih_frazeologzmv.md)
-* [Будова слова](4/budova_slova.md)
+* Будова слова
    * [Будова слова](4/budova_slova.md)
        * [Основа слова](4/Osnova_slova.md)
        * [Закiнчення](4/Zakinchennya.md)
