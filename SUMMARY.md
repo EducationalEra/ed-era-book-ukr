@@ -37,7 +37,7 @@
    * [Словник найуживаніших фразеологізмів](3/slovnik_naiuzhivanshih_frazeologzmv.md)
 * Будова слова
    * Будова слова
-       * [Основа слова](4/Osnova_slova.md)
+       * Основа слова
        * [Закiнчення](4/Zakinchennya.md)
        * [Корiнь](4/korin`.md)
        * [Префiкс](4/prefics.md)
