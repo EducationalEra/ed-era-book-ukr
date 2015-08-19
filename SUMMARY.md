@@ -43,7 +43,7 @@
        * Префiкс
        * Суфiкс
        * Постфiкс
-   * [Словотвiр](4/slovotvir.md)
+   * Словотвiр
    * [Морфологiчнi способи словотворення](4/morfologichni_sposobi_slovotvorennya.md)
        * [Суфiксальний спосiб](4/sufiksalniy_sposib.md)
        * [Префiксальний спосiб](4/prefiksalniy_sposib.md)
