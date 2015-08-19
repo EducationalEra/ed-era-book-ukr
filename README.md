@@ -26,12 +26,12 @@
        1. [Загальновживана та лексика обмеженого вживання](2/zagalnovzhivana_ta_leksika_obmezhenogo_vzhivannya.md)
        2. [Активна та пасивна лексика](2/aktivna_ta_pasivna_leksika.md)
    5. [Групи слів за емоційним забарвленням](2/grupi_slv_za_emotsinim_zabarvlennyam.md)
-3. Фразеологія
-   1. Фразеологізм як мовна одиниця
-   2. Джерела походження фразеологізмів
-   3. Види фразеологізмів
-   4. Прислів’я, приказки та афоризми
-   * Словник найуживаніших фразеологізмів
+3. [Фразеологія](3/frazeologya.md)
+   1. [Фразеологізм як мовна одиниця](3/frazeologzm_yak_movna_odinitsya.md)
+   2. [Джерела походження фразеологізмів](3/dzherela_pohodzhennya_frazeologzmv.md)
+   3. [Види фразеологізмів](3/vidi_frazeologzmv.md)
+   4. [Прислів’я, приказки та афоризми](3/prislvya,_prikazki_ta_aforizmi.md)
+   5. [Словник найуживаніших фразеологізмів](3/slovnik_naiuzhivanshih_frazeologzmv.md)
 * Будова слова
     1. Будова слова
         1. Основа слова
