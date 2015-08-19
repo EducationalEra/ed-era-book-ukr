@@ -42,7 +42,7 @@
        * Корiнь
        * Префiкс
        * Суфiкс
-       * [Постфiкс](4/postfics.md)
+       * Постфiкс
    * [Словотвiр](4/slovotvir.md)
    * [Морфологiчнi способи словотворення](4/morfologichni_sposobi_slovotvorennya.md)
        * [Суфiксальний спосiб](4/sufiksalniy_sposib.md)
