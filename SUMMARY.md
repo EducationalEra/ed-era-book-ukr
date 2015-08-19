@@ -40,8 +40,8 @@
        * Основа слова
        * Закiнчення
        * Корiнь
-       * [Префiкс](\)
-       * [Суфiкс](4/sufics.md)
+       * Префiкс
+       * Суфiкс
        * [Постфiкс](4/postfics.md)
    * [Словотвiр](4/slovotvir.md)
    * [Морфологiчнi способи словотворення](4/morfologichni_sposobi_slovotvorennya.md)
