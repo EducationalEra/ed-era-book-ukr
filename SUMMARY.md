@@ -48,7 +48,7 @@
        * Суфiксальний спосiб
        * Префiксальний спосiб
        * Префiксально-суфiксальний спосiб
-       * [Безсуфiксний спосiб](4/bezsufiksniy_sposib.md)
+       * Безсуфiксний спосiб
        * [Основоскладання](4/osnovoskladannya.md)
        * [Словоскладання](4/slovoskladannya.md)
        * [Абревiацiя](4/abreviaciya.md)
