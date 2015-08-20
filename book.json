@@ -26,19 +26,18 @@
         },
         "gtm": {
             "token": "GTM-N86M5F"
+        }
+    },
+    "variables": {
+      "basePath": "http://ukr.ed-era.com"
+    },
+    "links": {
+        "gitbook": false,
+        "sidebar": {
+          "Перейти до бібліотеки EdEra": "https://www.ed-era.com/books"
         },
-        "variables": {
-          "basePath": "http://ukr.ed-era.com"
-        },
-        "links": {
-            "gitbook": false,
-            "sidebar": {
-              "Перейти до бібліотеки EdEra": "https://www.books.ed-era.com",
-              "Українська мова: від фонетики до морфології": "https://www.ed-era.com/books/ukr"
-            },
-            "sharing": {
-                "vk":true
-            }
+        "sharing": {
+            "vk":true
         }
     }
 }
