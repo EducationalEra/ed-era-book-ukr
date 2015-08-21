@@ -36,7 +36,6 @@
 </div>
 
 <br>
-<br>
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Значущі частини слова вивчає:</p>
