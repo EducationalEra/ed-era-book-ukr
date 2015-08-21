@@ -35,3 +35,17 @@
 <img src="../pics/4/chast.png" width="600px" class="center"/>
 </div>
 
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Значущі частини слова вивчає:</p>
+        <answer>Орфоепія</answer>
+        <answer>Фонетика</answer>
+        <answer correct>Морфеміка</answer>
+        <answer>Орфографія</answer>
+        <explanation>
+        Орфоепія вивчає правильну вимову слів, фонетика – звуковий склад мови, орфографія – правильність написання
+        </explanation>
+    </question>
+</quiz>
+
