@@ -35,24 +35,24 @@
    * [Види фразеологізмів](3/vidi_frazeologzmv.md)
    * [Прислів’я, приказки та афоризми](3/prislvya,_prikazki_ta_aforizmi.md)
    * [Словник найуживаніших фразеологізмів](3/slovnik_naiuzhivanshih_frazeologzmv.md)
-* Будова слова
-   * Будова слова
-       * Основа слова
-       * Закiнчення
-       * Корiнь
-       * Префiкс
-       * Суфiкс
-       * Постфiкс
-   * Словотвiр
-   * Морфологiчнi способи словотворення
-       * Суфiксальний спосiб
-       * Префiксальний спосiб
-       * Префiксально-суфiксальний спосiб
-       * Безсуфiксний спосiб
-       * Основоскладання
-       * Словоскладання
-       * Абревiацiя
-   * Неморфологiчнi способи словотворення
+* [Будова слова](4/budova_slova.md)
+   * [Будова слова](4/budova_slova.md)
+       * [Основа слова](4/Osnova_slova.md)
+       * [Закiнчення](4/Zakinchennya.md)
+       * [Корiнь](4/korin`.md)
+       * [Префiкс](4/prefics.md)
+       * [Суфiкс](4/sufics.md)
+       * [Постфiкс](4/postfics.md)
+   * [Словотвiр](4/slovotvir.md)
+   * [Морфологiчнi способи словотворення](4/morfologichni_sposobi_slovotvorennya.md)
+       * [Суфiксальний спосiб](4/sufiksalniy_sposib.md)
+       * [Префiксальний спосiб](4/prefiksalniy_sposib.md)
+       * [Префiксально-суфiксальний спосiб](4/prefiksalno-sufiksalniy_sposib.md)
+       * [Безсуфiксний спосiб](4/bezsufiksniy_sposib.md)
+       * [Основоскладання](4/osnovoskladannya.md)
+       * [Словоскладання](4/slovoskladannya.md)
+       * [Абревiацiя](4/abreviaciya.md)
+   * [Неморфологiчнi способи словотворення](4/nemorfologichni_sposobi_tvorennya.md)
 * Iменник
    * Групи iменникiв за значенням
    * Рiд iменникiв
