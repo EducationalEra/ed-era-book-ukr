@@ -35,6 +35,8 @@
 <img src="../pics/4/chast.png" width="600px" class="center"/>
 </div>
 
+
+<br>
 <br>
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
