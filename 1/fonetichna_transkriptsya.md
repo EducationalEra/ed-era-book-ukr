@@ -30,7 +30,7 @@
     <question text="">
         <p>Правильно записано фонетичну транскрипцію в рядку:</p>
         <answer>[зима]</answer>
-        <answer>[зи\(^е\)ма]</answer>
+        <answer>[зи<sup>е</sup>ма]</answer>
         <answer correct> [зи\(^е\)ма́]</answer>
         <answer>[зима́]</answer>
     </question>
