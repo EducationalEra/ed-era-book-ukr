@@ -1,3 +1,4 @@
+
 # Зміст
 [Вступне слово](vstup.md)
 1. [Фонетика. Графіка. Орфоепія](1/fonetika_grafka_orfoepya.md)<br>
@@ -32,24 +33,24 @@
    3. [Види фразеологізмів](3/vidi_frazeologzmv.md)
    4. [Прислів’я, приказки та афоризми](3/prislvya,_prikazki_ta_aforizmi.md)
    5. [Словник найуживаніших фразеологізмів](3/slovnik_naiuzhivanshih_frazeologzmv.md)
-* [Будова слова](4/budova_slova.md)
-   * [Будова слова](4/budova_slova.md)
-       * [Основа слова](4/Osnova_slova.md)
-       * [Закiнчення](4/Zakinchennya.md)
-       * [Корiнь](4/korin`.md)
-       * [Префiкс](4/prefics.md)
-       * [Суфiкс](4/sufics.md)
-       * [Постфiкс](4/postfics.md)
-   * [Словотвiр](4/slovotvir.md)
-   * [Морфологiчнi способи словотворення](4/morfologichni_sposobi_slovotvorennya.md)
-       * [Суфiксальний спосiб](4/sufiksalniy_sposib.md)
-       * [Префiксальний спосiб](4/prefiksalniy_sposib.md)
-       * [Префiксально-суфiксальний спосiб](4/prefiksalno-sufiksalniy_sposib.md)
-       * [Безсуфiксний спосiб](4/bezsufiksniy_sposib.md)
-       * [Основоскладання](4/osnovoskladannya.md)
-       * [Словоскладання](4/slovoskladannya.md)
-       * [Абревiацiя](4/abreviaciya.md)
-   * [Неморфологiчнi способи словотворення](4/nemorfologichni_sposobi_tvorennya.md)
+* Будова слова
+    1. Будова слова
+        1. Основа слова
+        2. Закiнчення
+        3. Корiнь
+        4. Префiкс
+        5. Суфiкс
+        6. Постфiкс
+    2.  Словотвiр
+    3.  Морфологiчнi способи словотворення
+        1. Суфiксальний спосiб
+        2. Префiксальний спосiб
+        3. Префiксально-суфiксальний спосiб
+        4. Безсуфiксний спосiб
+        5. Основоскладання
+        6. Словоскладання
+        7. Абревiацiя
+    4. Неморфологiчнi способи словотворення
 *  Iменник
     1. Групи iменникiв за значенням
     2. Рiд iменникiв
