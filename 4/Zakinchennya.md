@@ -28,7 +28,7 @@
 </ul>
 
 
-
+<br>
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Виберіть рядок, у якому всі слова не мають закінчення:</p>
