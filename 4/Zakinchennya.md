@@ -32,9 +32,9 @@
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Виберіть рядок, у якому всі слова не мають закінчення:</p>
-        <answer>колібрі, таксі, леді</answer>
+        <answer correct>колібрі, таксі, леді</answer>
         <answer>день, важко, журі</answer>
-        <answer correct>поні, птах, прибігши</answer>
+        <answer>поні, птах, прибігши</answer>
         <answer>прибігши, ходити, шлях</answer>
         <explanation>
         День, птах, шлях – нульове закінчення.
