@@ -13,6 +13,11 @@
 
 Наприклад, у словах <i>весна, мiський, пiдводний</i> видiляються основи <span class="p1">весн-, мiськ-, пiдводн-</span> шляхом вiдкидання закiнчень <span class="p1">-а, -и, -ий</span>.
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://youtu.be/LHKlHLhF6w8" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
 
 <br>
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
