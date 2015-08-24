@@ -49,3 +49,19 @@
 </quiz>
 
 
+<br>
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Спільнокореневими є всі наведені слова, ОКРІМ:</p>
+        <answer>лисий</answer>
+        <answer>лисіти</answer>
+        <answer>лисина</answer>
+        <answer correct>лис</answer>
+        <answer>залисина</answer>
+        <explanation>
+       В слові лис корінь «лис» означає хижого ссавця.<br> У інших словах - відсутність волосся.
+        </explanation>
+    </question>
+</quiz>
+
+
