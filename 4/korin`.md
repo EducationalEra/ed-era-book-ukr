@@ -31,3 +31,25 @@
 </div>
 <div class="popup">
 </div>
+
+
+<br>
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p><br>
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Спільнокореневими є слова:</p>
+        <answer correct>день, денний, щодня</answer>
+        <answer>веселий, веселого, веселому</answer>
+        <answer>вода, водити, водяний</answer>
+        <answer>радіти, порада, радісний</answer>
+        <explanation>
+       Веселий, веселого, веселому – граматичні форми одного слова. <br>
+Вода, водити, водяний – омонімічні корені.<br>
+Радіти, порада, радісний – омонімічні корені.
+
+        </explanation>
+    </question>
+</quiz>
+</p>
