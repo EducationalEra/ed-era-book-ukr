@@ -16,3 +16,18 @@
 
 А формотворчi префiкси використовуються для утворення нових форм слiв.<br/>
 Наприклад: <i>писати – дописати</i> (доконаний вид дiєслова).
+
+
+<br>
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Виберіть рядок, у якому всі слова мають префікс:</p>
+        <answer correct>привезти, архіважливий, антитерористичний </answer>
+        <answer>перебігти, прийти, архіваріус</answer>
+        <answer>забігти, надзвичайний, правда</answer>
+        <answer>прадавній, перемога, зсунути</answer>
+        <explanation>
+       Архіваріус, правда, перемога – префіксів немає.
+        </explanation>
+    </question>
+</quiz>
