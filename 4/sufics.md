@@ -33,3 +33,19 @@
         </explanation>
     </question>
 </quiz>
+
+
+<br>
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Виберіть рядок, у якому всі слова мають суфікс:</p>
+        <answer>хвіст, промова, літній</answer>
+        <answer correct>денний, стіл, головний</answer>
+        <answer>чаша, дитинка, малесенький</answer>
+        <answer>теля, радість, сніжок, риба</answer>
+        <answer>осінній, широчезний, мальовничий</answer>
+        <explanation>
+       Хвіст, промова, стіл, чаша – суфіксів немає
+        </explanation>
+    </question>
+</quiz>
