@@ -31,3 +31,19 @@
         </explanation>
     </question>
 </quiz>
+
+
+<br>
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Усі слова мають префікс у рядку:</p>
+        <answer>перемога, премудрий, прибігти, завеликий</answer>
+        <answer correct>вмовити, вгору, дописати, створити </answer>
+        <answer>прикореневий, овочесховище, вмістити, перейти</answer>
+        <answer>плавець, лісок, історик, росток</answer>
+        <answer>прегарний, зіставити, мореплавець, приєднати</ answer>
+        <explanation>
+       Архіваріус, правда, перемога – префіксів немає.
+        </explanation>
+    </question>
+</quiz>
