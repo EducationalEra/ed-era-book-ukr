@@ -2,7 +2,7 @@
 
 
 <body>
-    <p class="question"><b>Що вивчає морфеміка?</b></p>
+    <h4 class="question">Що вивчає морфеміка?</h4>
     <body>
     <button href="#" class="show">Показати правильну відповідь</button>
     <button href="#" class="hide">Скрити</button>
