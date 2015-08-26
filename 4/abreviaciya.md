@@ -11,3 +11,17 @@
 
 
 Наприклад: <i>засiб масової iнформацiї – ЗМI, заробiтна плата – зарплата</i>.
+
+<br>
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+       <p>Усі слова утворенні абревіацією, ОКРІМ:</p>
+        <answer>Мін’юст </answer>
+        <answer>ООН</answer>
+        <answer correct>паровоз</answer>
+        <answer>ЗМК</answer>
+        <explanation>
+      Паровоз – складання основ.
+        <explanation>
+    </question>
+</quiz>
