@@ -12,18 +12,3 @@
 
 Наприклад: <i>засiб масової iнформацiї – ЗМI, заробiтна плата – зарплата</i>.
 
-<br>
-<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
-    <question text="">
-       <p>Шляхом переходу однієї частини мови в іншу утворено слово у реченні:</p>
-        <answer>Учительська ручка лежала на столі.</answer>
-        <answer>Перехожий зупинився біля вітрини.</answer>
-        <answer correct>Компанія подала зустрічний позов.</answer>
-        <answer>Військовий літак стояв на злітній смузі.</answer>
-        <answer>
-        Сучасне мистецтво – об’єкт дискусій.</answer>
-        <explanation>
-      Перехожий – перехід прикметника (який?) в іменник (хто?).
-        <explanation>
-    </question>
-</quiz>
