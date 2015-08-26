@@ -1,10 +1,11 @@
 #Запитання до теми
 
 
-
-<p class="question">Що вивчає морфеміка?</p>
 <body>
-<button id="show">Показати відповідь</button>
-<button id="hide">Скрити</button>
-<p class="hidden">If you click on the "Hide" button, I will disappear.</p>
+    <p class="question">Що вивчає морфеміка?</p><br>
+    <body>
+    <button id="show">Показати відповідь</button>
+    <button id="hide">Скрити</button>
+    <p class="hidden"><strong>Морфемiка</strong> — роздiл науки про мову, що вивчає значущi частини слова, або морфеми.</p>
+    </body>
 </body>
