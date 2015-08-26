@@ -52,6 +52,7 @@
        * [Словоскладання](4/slovoskladannya.md)
        * [Абревiацiя](4/abreviaciya.md)
    * [Неморфологiчнi способи словотворення](4/nemorfologichni_sposobi_tvorennya.md)
+   * Запитання до теми
 * Iменник
    * Групи iменникiв за значенням
    * Рiд iменникiв
