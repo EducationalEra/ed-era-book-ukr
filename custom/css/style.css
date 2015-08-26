@@ -20,6 +20,7 @@ cursor: pointer;
 } 
 
 #show #hide { 
+border-radius:10px;
 background: #dddada; 
 color: 000000; 
 padding: 3px; 
@@ -30,6 +31,7 @@ border: 1px solid gray;
 }
 
 #show #hide:hover { 
+border-radius:10px;
 background: #3d91b8; 
 color: #ffffff; 
 padding: 3px; 
