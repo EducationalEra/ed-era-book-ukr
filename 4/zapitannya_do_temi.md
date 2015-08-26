@@ -1,7 +1,7 @@
 #Запитання до теми
 
 
-<body onLoad="hide()">
+<body>
     <h4 class="question">Що вивчає морфеміка?</h4>
     <body>
     <button style="margin-right:5px;" href="#" class="show">Показати правильну відповідь</button>
