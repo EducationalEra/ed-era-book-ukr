@@ -1,6 +1,6 @@
 #Запитання до теми
 
-
+<div>
 <body>
     <h4 class="question">1. Що вивчає морфеміка?</h4>
     <body>
@@ -11,8 +11,9 @@
             <p class="quiz-question-explanation"><strong>Морфемiка</strong> — роздiл науки про мову, що вивчає значущi частини слова, або морфеми.</p>
     </body>
 </body>
+</div>
 
-
+<div>
 <body>
     <h4 class="question">2.	Які частини слова ви знаєте?</h4>
     <body>
@@ -23,8 +24,9 @@
             <p class="quiz-question-explanation">Основа, закінчення, корінь, префікс, суфікс, постфікс, інтерфікс.</p>
     </body>
 </body>
+</div>
 
-
+<div>
 <body>
     <h4 class="question">3.	Що таке закінчення та як його визначити у слові?</h4>
     <body>
@@ -38,3 +40,4 @@
 </p>
     </body>
 </body>
+</div>
