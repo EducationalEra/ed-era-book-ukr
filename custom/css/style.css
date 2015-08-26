@@ -11,6 +11,45 @@ default – "White"
 .book.color-theme-1 – "Sepia"
 */
 
+
+/*Запитання без варіантів*/
+
+label { 
+margin-left: 0.5em; 
+cursor: pointer; 
+} 
+
+#results { 
+background: #dddada; 
+color: 000000; 
+padding: 3px; 
+text-align: center; 
+width: 200px; 
+cursor: pointer; 
+border: 1px solid gray; 
+}
+
+#results:hover { 
+background: #3d91b8; 
+color: #ffffff; 
+padding: 3px; 
+text-align: center; 
+width: 200px; 
+cursor: pointer; 
+border: 1px solid gray; 
+} 
+
+#category1{x 
+display: none; 
+}
+
+
+#closing {
+display: none;
+font-style: italic;
+}
+
+
 /*Означення*/
 .eoz-wrap{
     margin-bottom:1em;
@@ -610,4 +649,7 @@ default – "White"
     padding: 4px 6px;
     font-size: 15px;
   }
+  
+  
+  
 }
