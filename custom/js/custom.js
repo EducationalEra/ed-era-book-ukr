@@ -10,7 +10,7 @@ $(document).ready(function () {
 
 
 $(document).ready(function(){
-    $("#category1").click(function(){
+    $("#results").click(function(){
         $("p").show();
     });
 });
