@@ -13,6 +13,9 @@ $(document).ready(function(){
     $(".show").click(function(){
             $(".quiz-question-explanation").show();
         });
+        $(".hide").click(function(){
+            $(".quiz-question-explanation").hide();
+        });
     $(".hide").click(hide());
 });
 
