@@ -16,9 +16,9 @@
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
        <p>Усі слова утворені суфіксальним способом у рядку:</p>
-        <answer>слухач, денний, геройство</answer>
+        <answer correct>слухач, денний, геройство</answer>
         <answer>щедрість, прадід, ходіння</answer>
-        <answer correct>безмежно, картоплина, висуванка</answer>
+        <answer>безмежно, картоплина, висуванка</answer>
         <answer>підніжка, творчість, нічний</answer>
     </question>
 </quiz>
