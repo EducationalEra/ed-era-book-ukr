@@ -10,10 +10,10 @@ $(document).ready(function () {
 
 
 $(document).ready(function(){
-    $("#hide").click(function(){
+    $(".hide").click(function(){
         $(".hidden").hide();
     });
-    $("#show").click(function(){
+    $(".show").click(function(){
         $(".hidden").show();
     });
 });
