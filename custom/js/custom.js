@@ -13,7 +13,11 @@ $(document).ready(function(){
     $(".show").click(function(){
             $(".quiz-question-explanation").show();
         });
-    $(".hide").click(function(){
-        $(".quiz-question-explanation").hide();
-    });
+    $(".hide").click(hide());
 });
+
+function hide(){
+        $(".quiz-question-explanation").hide();
+    }
+
+window.onload = hide();
