@@ -2,12 +2,24 @@
 
 
 <body>
-    <h4 class="question">Що вивчає морфеміка?</h4>
+    <h4 class="question">1. Що вивчає морфеміка?</h4>
     <body>
     <button style="margin-right:5px;" href="#" class="show">Показати правильну відповідь</button>
     
     <button style="margin-left:5px;" href="#" class="hide">Скрити</button>
     <br>
             <p class="quiz-question-explanation"><strong>Морфемiка</strong> — роздiл науки про мову, що вивчає значущi частини слова, або морфеми.</p>
+    </body>
+</body>
+
+
+<body>
+    <h4 class="question">2.	Які частини слова ви знаєте?</h4>
+    <body>
+    <button style="margin-right:5px;" href="#" class="show">Показати правильну відповідь</button>
+    
+    <button style="margin-left:5px;" href="#" class="hide">Скрити</button>
+    <br>
+            <p class="quiz-question-explanation">Основа, закінчення, корінь, префікс, суфікс, постфікс, інтерфікс.</p>
     </body>
 </body>
