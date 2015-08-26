@@ -8,6 +8,12 @@
     
     <button style="margin-left:5px;" href="#" class="hide">Скрити</button>
     <br>
-    <p class="hidden"><strong>Морфемiка</strong> — роздiл науки про мову, що вивчає значущi частини слова, або морфеми.</p>
+        <table>
+        <tr>
+        <th>
+        <p class="hidden"><strong>Морфемiка</strong> — роздiл науки про мову, що вивчає значущi частини слова, або морфеми.</p>
+        </th>
+        </tr>
+        </table>
     </body>
 </body>
