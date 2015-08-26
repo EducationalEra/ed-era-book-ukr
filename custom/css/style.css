@@ -28,10 +28,10 @@ default – "White"
 	padding:14px 4px;
 	text-decoration:none;
 }
-.show:hover {
+.show .hide:hover {
 	background-color:#f6f6f6;
 }
-.show:active {
+.show .hide:active {
 	position:relative;
 	top:1px;
 }
