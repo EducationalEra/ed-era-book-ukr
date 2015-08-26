@@ -9,3 +9,8 @@ $(document).ready(function () {
 });
 
 
+$(document).ready(function(){
+    $("#show").click(function(){
+        $("p").show();
+    });
+});
