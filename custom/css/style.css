@@ -21,7 +21,7 @@ cursor: pointer;
 
 #show #hide { 
 border-radius:10px;
-background: #dddada; 
+background: green; 
 color: 000000; 
 padding: 3px; 
 text-align: center; 
@@ -33,7 +33,7 @@ font-size:20;
 
 #show #hide:hover { 
 border-radius:10px;
-background: #3d91b8; 
+background: green; 
 color: #ffffff; 
 padding: 3px; 
 text-align: center; 
