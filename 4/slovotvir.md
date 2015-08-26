@@ -110,3 +110,14 @@ Iснують морфологiчнi i неморфологiчнi способи
 </quiz>-->
 
 
+<br>
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+       <p>Твірна основа — це:</p>
+        <answer>Частина похідного слова, яка є спільною з основою твірного слова</answer>
+        <answer>Часина слова без закінчення, що виражає його лексичне значення</answer>
+        <answer>Значуща частина слова, яка визначає його граматичне значення</answer>
+        <answer correct>Частина твiрного слова, яка входить до складу похiдного слова</answer>
+    </question>
+</quiz>
+
