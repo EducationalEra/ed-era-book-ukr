@@ -24,8 +24,8 @@ default – "White"
 	cursor:pointer;
 	color:#666666;
 	font-family:Arial;
-	font-size:16px;
-	padding:14px 4px;
+	font-size:14px;
+	padding:14px 14px;
 	text-decoration:none;
 }
 .show:hover {
@@ -48,8 +48,8 @@ default – "White"
 	cursor:pointer;
 	color:#666666;
 	font-family:Arial;
-	font-size:16px;
-	padding:14px 4px;
+	font-size:14px;
+	padding:14px 14px;
 	text-decoration:none;
 }
 .hide:hover {
