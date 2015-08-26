@@ -6,5 +6,5 @@
 <body>
 <button id="show">Показати відповідь</button>
 <button id="hide">Скрити</button>
-<p class="">If you click on the "Hide" button, I will disappear.</p>
+<p class="hidden">If you click on the "Hide" button, I will disappear.</p>
 </body>
