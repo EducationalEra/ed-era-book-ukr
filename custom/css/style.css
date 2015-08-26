@@ -19,7 +19,7 @@ margin-left: 0.5em;
 cursor: pointer; 
 } 
 
-#results { 
+#show #hide { 
 background: #dddada; 
 color: 000000; 
 padding: 3px; 
@@ -29,7 +29,7 @@ cursor: pointer;
 border: 1px solid gray; 
 }
 
-#results:hover { 
+#show #hide:hover { 
 background: #3d91b8; 
 color: #ffffff; 
 padding: 3px; 
