@@ -11,9 +11,9 @@ $(document).ready(function () {
 
 $(document).ready(function(){
     $("#hide").click(function(){
-        $("p").hide();
+        $(".hidden").hide();
     });
     $("#show").click(function(){
-        $("p").show();
+        $(".hidden").show();
     });
 });
