@@ -11,9 +11,9 @@ $(document).ready(function () {
 
 $(document).ready(function(){
     $(".hide").click(function(){
-        $(".que_in_tab").hide();
+        $(".quiz-question-explanation").hide();
     });
     $(".show").click(function(){
-        $(".que_in_tab").show();
+        $(".quiz-question-explanation").show();
     });
 });
