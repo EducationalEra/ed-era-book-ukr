@@ -11,7 +11,7 @@
     <table class="que_in_tab">
     <tr>
     <th>
-            <p><strong>Морфемiка</strong> — роздiл науки про мову, що вивчає значущi частини слова, або морфеми.</p>
+            <p class="quiz-question-explanation"><strong>Морфемiка</strong> — роздiл науки про мову, що вивчає значущi частини слова, або морфеми.</p>
     </th>
     </tr>
     </table>
