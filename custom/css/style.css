@@ -31,8 +31,6 @@ border: 1px solid gray;
 font-size:20;
 }
 
-
-
 #show #hide:hover { 
 border-radius:10px;
 background: #3d91b8; 
@@ -42,12 +40,8 @@ text-align: center;
 width: 200px; 
 cursor: pointer; 
 border: 1px solid gray; 
+font-size:20;
 } 
-
-#category1{x 
-display: none; 
-}
-
 
 #closing {
 display: none;
