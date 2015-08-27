@@ -1,7 +1,19 @@
 #Запитання до теми
 
 <div>
+<script>
+    $(document).ready(function(){
+    $(".show").click(function(){
+            $(".quiz-question-explanation").show();
+        });
+        $(".hide").click(function(){
+            $(".quiz-question-explanation").hide();
+        });
+    $(".hide").click(hide());
+});
+</script>
     <h4 class="question">1. Що вивчає морфеміка?</h4>
+    
     <body>
     <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
     
