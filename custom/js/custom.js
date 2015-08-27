@@ -12,7 +12,7 @@ $(document).ready(function () {
 $(document).ready(function(){
     var explanation;
     $(".show").click(function(){
-        console.log('press' + $.get());
+        console.log('press' + this);
         explanation = $.get().siblings("p.quiz-question-explanation");
         explanation.show();
     });
