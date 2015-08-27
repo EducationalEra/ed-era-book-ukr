@@ -18,9 +18,5 @@ $(document).ready(function(){
     $(".hide").click(function(){
         $( this ).parent().find("p.quiz-question-explanation").hide();
         });
-    $(".hide").click(hide());
+    $("button.hide").click($(".quiz-question-explanation").hide());
 });
-
-function hide(){
-        $(".quiz-question-explanation").hide();
-    }
