@@ -10,11 +10,10 @@ $(document).ready(function () {
 
 
 $(document).ready(function(){
-    var divQuestion, explanation;
+    var explanation;
     $(".show").click(function(){
-        divQuestion = $this.parent();
-        explanation = $divQuestion.children("p.quiz-question-explanation");
-        $explanation.show();
+        explanation = $.get().siblings("p.quiz-question-explanation");
+        explanation.show();
     });
     $(".hide").click(function(){
         divQuestion = $this.parent();
