@@ -13,15 +13,10 @@ $(document).ready(function(){
 
     var pook, explanation;
     $("button.show").click(function(){
-        console.log('press');
-        //explanation = $( this ).parent().find("p.quiz-question-explanation").show();
         $( this ).parent().find("p.quiz-question-explanation").show();
-        console.log(explanation);
-        //explanation.show();
     });
     $(".hide").click(function(){
-        explanation = $.get().siblings("p.quiz-question-explanation");
-        explanation.hide();
+        $( this ).parent().find("p.quiz-question-explanation").hide();
         });
     $(".hide").click(hide());
 });
