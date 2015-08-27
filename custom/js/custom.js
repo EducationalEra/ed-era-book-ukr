@@ -12,9 +12,10 @@ $(document).ready(function () {
 $(document).ready(function(){
     var pook, explanation;
     $(".show").click(function(){
-        console.log('press' + this);
-        pook = this;
-        explanation = pook.siblings("p.quiz-question-explanation");
+        console.log('press');
+        pook = $this.parent();
+        children = pook.clildren();
+        explanation = children.("p.quiz-question-explanation");
         explanation.show();
     });
     $(".hide").click(function(){
