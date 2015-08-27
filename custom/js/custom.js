@@ -10,10 +10,11 @@ $(document).ready(function () {
 
 
 $(document).ready(function(){
-    var explanation;
+    var pook, explanation;
     $(".show").click(function(){
         console.log('press' + this);
-        explanation = $.get().siblings("p.quiz-question-explanation");
+        pook = this;
+        explanation = pook.siblings("p.quiz-question-explanation");
         explanation.show();
     });
     $(".hide").click(function(){
