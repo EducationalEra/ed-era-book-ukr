@@ -8,7 +8,7 @@ $(document).ready(function () {
     $(".custom-link:last").prop("href", href);
 });
 
-
+/*
 $(document).ready(function(){
     $(".show").click(function(){
             $(".quiz-question-explanation").show();
@@ -18,7 +18,7 @@ $(document).ready(function(){
         });
     $(".hide").click(hide());
 });
-
+*/
 function hide(){
         $(".quiz-question-explanation").hide();
     }
