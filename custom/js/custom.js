@@ -10,10 +10,11 @@ $(document).ready(function () {
 
 
 $(document).ready(function(){
+
     var pook, explanation;
-    $(".show").click(function(){
+    $("button.show").click(function(){
         console.log('press');
-        explanation = $find("p.quiz-question-explanation");
+        explanation = $("*).find("p.quiz-question-explanation");
         console.log(explanation);
         explanation.show();
     });
