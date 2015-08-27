@@ -21,7 +21,7 @@ $(document).ready(function(){
         explanation = $divQuestion.children("p.quiz-question-explanation");
         $explanation.hide();
         });
-    //$(".hide").click(hide());
+    $(".hide").click(hide());
 });
 
 function hide(){
