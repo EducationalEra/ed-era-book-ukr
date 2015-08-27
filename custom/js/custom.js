@@ -14,9 +14,10 @@ $(document).ready(function(){
     var pook, explanation;
     $("button.show").click(function(){
         console.log('press');
-        explanation = $( this ).find("p.quiz-question-explanation");
+        //explanation = $( this ).find("p.quiz-question-explanation").show();
+        $( this ).find("p.quiz-question-explanation").show();
         console.log(explanation);
-        explanation.show();
+        //explanation.show();
     });
     $(".hide").click(function(){
         explanation = $.get().siblings("p.quiz-question-explanation");
