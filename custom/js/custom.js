@@ -12,7 +12,7 @@ $(document).ready(function () {
 $(document).ready(function(){
 
     var pook, explanation;
-    $("button.show").click(function(this){
+    $("button.show").click(function(){
         console.log('press');
         explanation = $( this ).find("p.quiz-question-explanation");
         console.log(explanation);
