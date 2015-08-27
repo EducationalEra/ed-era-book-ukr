@@ -16,9 +16,8 @@ $(document).ready(function(){
         explanation.show();
     });
     $(".hide").click(function(){
-        divQuestion = $this.parent();
-        explanation = $divQuestion.children("p.quiz-question-explanation");
-        $explanation.hide();
+        explanation = $.get().siblings("p.quiz-question-explanation");
+        explanation.hide();
         });
     $(".hide").click(hide());
 });
