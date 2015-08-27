@@ -12,11 +12,10 @@ $(document).ready(function () {
 $(document).ready(function(){
 
     var pook, explanation;
-    $("button.show").click(function(){
-        var button1;
-        button1 = $("button.show");
-        console.log('press');
-        explanation = $("*").find("p.quiz-question-explanation");
+    $("button.show").click(function(this){
+        pook = $( this ).parent();
+        console.log('press' pook);
+        explanation = pook.find("p.quiz-question-explanation");
         console.log(explanation);
         explanation.show();
     });
