@@ -14,7 +14,7 @@ $(document).ready(function(){
     var pook, explanation;
     $("button.show").click(function(this){
         console.log('press');
-        explanation = $( this ).parent().find("p.quiz-question-explanation");
+        explanation = $( this ).find("p.quiz-question-explanation");
         console.log(explanation);
         explanation.show();
     });
