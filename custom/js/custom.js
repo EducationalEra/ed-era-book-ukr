@@ -15,7 +15,7 @@ $(document).ready(function(){
         console.log('press');
         pook = $this.parent();
         children = pook.clildren();
-        explanation = children.("p.quiz-question-explanation");
+        explanation = children.find("p.quiz-question-explanation");
         explanation.show();
     });
     $(".hide").click(function(){
