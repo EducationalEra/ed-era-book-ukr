@@ -24,7 +24,7 @@
 </div>
 -->
 
-<div id="q2">
+<div>
     <h4 class="question">2.	Які частини слова ви знаєте?</h4>
     
     <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
@@ -33,6 +33,7 @@
             <p class="quiz-question-explanation">Основа, закінчення, корінь, префікс, суфікс, постфікс, інтерфікс.</p>
 
 </div>
+
 
 <div>
     <h4 class="question">3.	Що таке закінчення та як його визначити у слові?</h4>
