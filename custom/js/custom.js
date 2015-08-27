@@ -8,17 +8,22 @@ $(document).ready(function () {
     $(".custom-link:last").prop("href", href);
 });
 
-/*
+
 $(document).ready(function(){
+    var divQuestion, explanation;
     $(".show").click(function(){
-            $(".quiz-question-explanation").show();
+        divQuestion = $this.parent();
+        explanation = $divQuestion.children("p.quiz-question-explanation");
+        $explanation.show();
+    });
+    $(".hide").click(function(){
+        divQuestion = $this.parent();
+        explanation = $divQuestion.children("p.quiz-question-explanation");
+        $explanation.hide();
         });
-        $(".hide").click(function(){
-            $(".quiz-question-explanation").hide();
-        });
-    $(".hide").click(hide());
+    //$(".hide").click(hide());
 });
-*/
+
 function hide(){
         $(".quiz-question-explanation").hide();
     }
