@@ -13,9 +13,8 @@ $(document).ready(function(){
     var pook, explanation;
     $(".show").click(function(){
         console.log('press');
-        pook = $this.parent();
-        children = pook.clildren();
-        explanation = children.find("p.quiz-question-explanation");
+        explanation = $find("p.quiz-question-explanation");
+        console.log(explanation);
         explanation.show();
     });
     $(".hide").click(function(){
