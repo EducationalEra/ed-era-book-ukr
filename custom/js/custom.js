@@ -10,13 +10,12 @@ $(document).ready(function () {
 
 
 $(document).ready(function(){
-
-    var pook, explanation;
+    $(".quiz-question-explanation").hide();
     $("button.show").click(function(){
         $( this ).parent().find("p.quiz-question-explanation").show();
     });
     $(".hide").click(function(){
         $( this ).parent().find("p.quiz-question-explanation").hide();
         });
-    $("button.hide").click($(".quiz-question-explanation").hide());
+    //$("button.hide").click($(".quiz-question-explanation").hide());
 });
