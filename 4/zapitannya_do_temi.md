@@ -4,10 +4,10 @@
 <script>
     $(document).ready(function(){
     $(".show").click(function(){
-            $(".quiz-question-explanation").show();
+            $("#q1").show();
         });
         $(".hide").click(function(){
-            $(".quiz-question-explanation").hide();
+            $("#q1").hide();
         });
     $(".hide").click(hide());
 });
@@ -19,7 +19,7 @@
     
     <button style="margin-left:5px;" class="hide">Скрити</button>
     <br>
-            <p class="quiz-question-explanation"><strong>Морфемiка</strong> — роздiл науки про мову, що вивчає значущi частини слова, або морфеми.</p>
+            <p id="q1" class="quiz-question-explanation"><strong>Морфемiка</strong> — роздiл науки про мову, що вивчає значущi частини слова, або морфеми.</p>
     </body>
 </div>
 
