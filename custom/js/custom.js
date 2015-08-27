@@ -17,5 +17,4 @@ $(document).ready(function(){
     $(".hide").click(function(){
         $( this ).parent().find("p.quiz-question-explanation").hide();
         });
-    //$("button.hide").click($(".quiz-question-explanation").hide());
 });
