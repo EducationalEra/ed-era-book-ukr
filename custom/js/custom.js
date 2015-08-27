@@ -13,6 +13,8 @@ $(document).ready(function(){
 
     var pook, explanation;
     $("button.show").click(function(){
+        var button1;
+        button1 = $("button.show");
         console.log('press');
         explanation = $("*").find("p.quiz-question-explanation");
         console.log(explanation);
