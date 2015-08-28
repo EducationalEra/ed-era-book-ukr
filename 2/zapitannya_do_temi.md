@@ -65,9 +65,19 @@
     <button style="margin-left:5px;" class="hide">Скрити</button>
     <br>
             <p class="quiz-question-explanation">
-           Діалектизми – це слова, що вживають мешканцi певної мiсцевостi. Вони мають вiдповiдники в лiтературнiй мовi.
-           
-           $$mc^2$$
-          <i>mc<sup>2</sup></i>
+           <strong>Діалектизми</strong> – це слова, що вживають мешканцi певної мiсцевостi. Вони мають вiдповiдники в лiтературнiй мовi.
             <p>
+</div>
+
+<div>
+    <h4 class="question">6.	Які групи пасивної лексики ви знаєте?</h4>
+    
+    <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
+    
+    <button style="margin-left:5px;" class="hide">Скрити</button>
+    <br>
+            <p class="quiz-question-explanation">
+          До пасивної лексики належать застарiлi слова i неологiзми. Застарiлi слова подiляються на
+історизми та архаїзми.
+<p>
 </div>
