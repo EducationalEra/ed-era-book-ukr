@@ -68,3 +68,15 @@
             <p class="quiz-question-explanation">
             Суфікси, префікси, постфікси, інтерфікси</p>
 </div>
+
+<div>
+    <h4 class="question">7.	Які способи творення слів існують?</h4>
+    <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
+    
+    <button style="margin-left:5px;" class="hide">Скрити</button>
+    <br>
+            <p class="quiz-question-explanation">
+            <strong>Морфологічні</strong> та <strong>неморфологічні</strong>.<br><br> До перших належать <strong>префіксальний</strong>, <strong>суфіксальний</strong>, <strong>префіксально-суфіксальній</strong>, <strong>безсуфіксний (безафіксний)</strong>, <strong>словоскладання</strong>, <strong>основоскладання</strong>, <strong>абревіація</strong>.<br><br>
+
+А до других – <strong>злиття словосполучення</strong>, <strong>перехід з однієї частини мови в іншу</strong> та <strong>набуття нового значення.</strong></p>
+</div>
