@@ -8,6 +8,6 @@
     <button style="margin-left:5px;" class="hide">Скрити</button>
     <br>
             <p class="quiz-question-explanation">
-Голосні звуки на письмі передаються за допомогою 10 літер: а, о, у, і, и, е, я, ю, є, ї.
+Голосні звуки на письмі передаються за допомогою 10 літер: <span class="p1">а, о, у, і, и, е, я, ю, є, ї</span>.
             <p>
 </div>
