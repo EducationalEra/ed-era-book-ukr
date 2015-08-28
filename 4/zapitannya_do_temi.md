@@ -57,3 +57,14 @@
             У спiльнокореневих словах корiнь має однакове лексичне значення, у словах з омонiмiчними коренями лексичне значення кореня різне. 
 </p>
 </div>
+
+
+<div>
+    <h4 class="question">6.	Які словотворчі засоби ви знаєте?</h4>
+    <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
+    
+    <button style="margin-left:5px;" class="hide">Скрити</button>
+    <br>
+            <p class="quiz-question-explanation">
+            Суфікси, префікси, постфікси, інтерфікси</p>
+</div>
