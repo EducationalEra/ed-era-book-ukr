@@ -28,8 +28,3 @@
 
 Наприклад: <i>лiсостеп</i>.
 
-<div class="fluidMedia">
-<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/VxpX0V-9fsE" frameborder="0" allowfullscreen></iframe>
-</div>
-<div class="popup">
-</div>
