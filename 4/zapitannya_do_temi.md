@@ -1,28 +1,15 @@
 #Запитання до теми
 
-<!--<div>
-<script>
-    $(document).ready(function(){
-    $(".show").click(function(){
-            $("#q1").show();
-        });
-        $(".hide").click(function(){
-            $("#q1").hide();
-        });
-    $(".hide").click(hide());
-});
-</script>
+<div>
     <h4 class="question">1. Що вивчає морфеміка?</h4>
     
-    <body>
     <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
     
     <button style="margin-left:5px;" class="hide">Скрити</button>
     <br>
-            <p id="q1" class="quiz-question-explanation"><strong>Морфемiка</strong> — роздiл науки про мову, що вивчає значущi частини слова, або морфеми.</p>
-    </body>
+            <p class="quiz-question-explanation"><strong>Морфемiка</strong> — роздiл науки про мову, що вивчає значущi частини слова, або морфеми.</p>
 </div>
--->
+
 
 <div>
     <h4 class="question">2.	Які частини слова ви знаєте?</h4>
@@ -44,5 +31,17 @@
             <p class="quiz-question-explanation">
             <strong>Закiнчення</strong> — змiнна значуща частина слова, що виражає його граматичне значення, а також слугує для зв’язку слiв у словосполученнi й реченнi. <br><br>
  Для визначення закінчення слово можна змінювати за можливими ознаками (<b>родами, числами, відмінками</b>). Частина, яка змінюватиметься, й буде закінченням.
+</p>
+</div>
+
+
+<div>
+    <h4 class="question">4.	Які слова не мають закінчення?</h4>
+    <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
+    
+    <button style="margin-left:5px;" class="hide">Скрити</button>
+    <br>
+            <p class="quiz-question-explanation">
+            Не мають закiнчення незмiнюванi слова: <strong>прислiвники</strong> (як?), <strong>дiєприслiвники</strong> (що роблячи? що зробивши?), <strong>iнфiнiтив дiєслова</strong> (що робити? що зробити?), <strong>незмiнюванi слова iншомовного походження</strong>: <i>таксi, бюро</i>.
 </p>
 </div>
