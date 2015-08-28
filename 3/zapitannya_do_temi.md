@@ -1,0 +1,25 @@
+#Запитання до теми
+
+<div>
+    <h4 class="question">1.	Що таке фразеологізм?</h4>
+    
+    <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
+    
+    <button style="margin-left:5px;" class="hide">Скрити</button>
+    <br>
+            <p class="quiz-question-explanation">
+<strong>Фразеологiзм</strong> — стiйке поєднання слiв, яке виступає в мовi як неподiльний за значенням вислiв (дорiвнює одному слову за значенням). <i>Нi за цапову душу</i> — даремно.
+            <p>
+</div>
+
+<div>
+    <h4 class="question">2.	Які види фразеологізмів існують?</h4>
+    
+    <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
+    
+    <button style="margin-left:5px;" class="hide">Скрити</button>
+    <br>
+            <p class="quiz-question-explanation">
+Фразеологічні зрощення, фразеологічні єдності та фразеологічні сполучення.
+            <p>
+</div>
