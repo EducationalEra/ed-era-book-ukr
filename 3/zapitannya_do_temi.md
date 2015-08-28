@@ -62,3 +62,16 @@
 Прислів’я має повчальний зміст, а приказка – ні. 
             <p>
 </div>
+
+
+<div>
+    <h4 class="question">6.	Що таке афоризм?</h4>
+    
+    <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
+    
+    <button style="margin-left:5px;" class="hide">Скрити</button>
+    <br>
+            <p class="quiz-question-explanation">
+<strong>Афоризм</strong> — словесна формула, яка виражає думку узагальнено i в стислiй формi. Афоризми завжди мають автора.
+            <p>
+</div>
