@@ -52,7 +52,7 @@
 
 
 <div>
-    <h4 class="question">4.	Що таке прислів’я?</h4>
+    <h4 class="question">5.	Чим прислів’я відрізняється від приказки?</h4>
     
     <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
     
