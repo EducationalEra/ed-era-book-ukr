@@ -5,7 +5,7 @@
     
     <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
     
-    <button style="margin-left:5px;" class="hide">Скрити</button>
+    <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
             <p class="quiz-question-explanation">
             1. Cкладається зi звукiв, якi впорядкованi<br>
@@ -24,7 +24,7 @@
     
     <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
     
-    <button style="margin-left:5px;" class="hide">Скрити</button>
+    <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
             <p class="quiz-question-explanation">
            <strong>Багатозначнi слова</strong> мають декiлька пов’язаних мiж собою значень. А <strong>омонiми</strong> – рiзнi слова, значення яких не пов’язанi. Щоб вiдрiзнити омонiм вiд багатозначного слова, можна дiбрати до нього синонiми. Якщо значення синонiмiв близьке, то слово багатозначне, якщо ж нi – то це омонiм.
@@ -37,7 +37,7 @@
     
     <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
     
-    <button style="margin-left:5px;" class="hide">Скрити</button>
+    <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
             <p class="quiz-question-explanation">
            <strong>Синонiми</strong> — це слова, якi близькi або однаковi за значенням, але рiзнi за звучанням (ходити, шкандибати, дибрати).
@@ -50,7 +50,7 @@
     
     <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
     
-    <button style="margin-left:5px;" class="hide">Скрити</button>
+    <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
             <p class="quiz-question-explanation">
            <strong>Антонiми</strong> — це слова, якi мають протилежне лексичне значення, однак поєднанi спiльним фактором (веселий – сумний).
@@ -62,7 +62,7 @@
     
     <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
     
-    <button style="margin-left:5px;" class="hide">Скрити</button>
+    <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
             <p class="quiz-question-explanation">
            <strong>Діалектизми</strong> – це слова, що вживають мешканцi певної мiсцевостi. Вони мають вiдповiдники в лiтературнiй мовi.
@@ -74,7 +74,7 @@
     
     <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
     
-    <button style="margin-left:5px;" class="hide">Скрити</button>
+    <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
             <p class="quiz-question-explanation">
           До пасивної лексики належать застарiлi слова i неологiзми. Застарiлi слова подiляються на
@@ -89,7 +89,7 @@
     
     <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
     
-    <button style="margin-left:5px;" class="hide">Скрити</button>
+    <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
             <p class="quiz-question-explanation">
           <strong>Історизми</strong> — це слова, що вийшли з ужитку через зникнення реалiй, якi вони називали. Синонiмiчнi замiнники iсторизмiв у сучаснiй мовi вiдсутнi. Наприклад: <i>жупан, десятина</i>.<br><br>
