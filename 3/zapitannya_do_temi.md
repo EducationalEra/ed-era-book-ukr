@@ -23,3 +23,42 @@
 Фразеологічні зрощення, фразеологічні єдності та фразеологічні сполучення.
             <p>
 </div>
+
+
+<div>
+    <h4 class="question">3.	Які джерела походження фразеологізмів ви знаєте?</h4>
+    
+    <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
+    
+    <button style="margin-left:5px;" class="hide">Скрити</button>
+    <br>
+            <p class="quiz-question-explanation">
+Народна мова та усна народна творчiсть, антична мiфологiя, бiблiя.
+            <p>
+</div>
+
+
+<div>
+    <h4 class="question">4.	Що таке прислів’я?</h4>
+    
+    <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
+    
+    <button style="margin-left:5px;" class="hide">Скрити</button>
+    <br>
+            <p class="quiz-question-explanation">
+<strong>Прислiв’я</strong> — це народний вислiв повчального змiсту, що виражений реченням. Вiн формулює життєву закономiрнiсть або передає узагальнений суспiльний досвiд.
+            <p>
+</div>
+
+
+<div>
+    <h4 class="question">4.	Що таке прислів’я?</h4>
+    
+    <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
+    
+    <button style="margin-left:5px;" class="hide">Скрити</button>
+    <br>
+            <p class="quiz-question-explanation">
+Прислів’я має повчальний зміст, а приказка – ні. 
+            <p>
+</div>
