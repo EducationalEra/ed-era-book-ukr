@@ -43,3 +43,16 @@
            <strong>Синонiми</strong> — це слова, якi близькi або однаковi за значенням, але рiзнi за звучанням (ходити, шкандибати, дибрати).
             <p>
 </div>
+
+
+<div>
+    <h4 class="question">4.	Що таке антоніми?</h4>
+    
+    <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
+    
+    <button style="margin-left:5px;" class="hide">Скрити</button>
+    <br>
+            <p class="quiz-question-explanation">
+           <strong>Антонiми</strong> — це слова, якi мають протилежне лексичне значення, однак поєднанi спiльним фактором (веселий – сумний).
+            <p>
+</div>
