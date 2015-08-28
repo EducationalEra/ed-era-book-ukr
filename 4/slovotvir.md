@@ -89,6 +89,14 @@
 
 
 Наприклад: <i>снiг – пiдснiжник</i>.<br/>
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/pwdYN73c3jY" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
+
 Iснують морфологiчнi i неморфологiчнi способи творення слiв.
 
 <p></p>
@@ -103,11 +111,11 @@ Iснують морфологiчнi i неморфологiчнi способи
 <br>
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
-       <p>Твірна основа — це:</p>
+        <p>Твірна основа — це:</p>
         <answer>Частина похідного слова, яка є спільною з основою твірного слова</answer>
-        <answer>Часина слова без закінчення, що виражає його лексичне значення</answer>
+        <answer correct>Часина слова без закінчення, що виражає його лексичне значення</answer>
         <answer>Значуща частина слова, яка визначає його граматичне значення</answer>
-        <answer correct>Частина твiрного слова, яка входить до складу похiдного слова</answer>
     </question>
 </quiz>
+
 
