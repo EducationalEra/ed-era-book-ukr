@@ -12,6 +12,12 @@
 Наприклад: <i>вiйськовий лiтак – хороший вiйськовий</i>.
 
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/K5-rwEy-_k8" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <br>
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
