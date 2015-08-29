@@ -58,12 +58,28 @@
 
 
 <div>
-    <h4 class="question">4.	Скільки літер в українському алфавіті? Розкажіть його.</h4>
+    <h4 class="question">5.	Що таке уподібнення приголосних за дзвінкістю?</h4>
     <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
     
     <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
             <p class="quiz-question-explanation">
-           В українському алфавіті <a href="http://ukr.ed-era.com/1/alfavt.html">33 літери</a>.
+           В українській мові глухі приголосні перед дзвінкими одзвінчуються. 
             </p>
 </div>
+
+
+<div>
+    <h4 class="question">6.	У яких випадках У-В не чергуються?</h4>
+    <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
+    
+    <button style="margin-left:5px;" class="hide">Приховати</button>
+    <br>
+            <p class="quiz-question-explanation">
+           <span class="p1">У-В не чергуються:</span><br>
+-	У словах, де вiд змiни звука змiнюється значення слова: <i>вдача – удача.</i><br>
+-	У словах iншомовного походження та у власних назвах
+            </p>
+</div>
+
+
