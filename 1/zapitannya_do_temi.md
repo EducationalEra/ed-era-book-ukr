@@ -82,4 +82,14 @@
             </p>
 </div>
 
+<div>
+    <h4 class="question">7.	Яким є наголос в українській мові та що це означає?</h4>
+    <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
+    
+    <button style="margin-left:5px;" class="hide">Приховати</button>
+    <br>
+            <p class="quiz-question-explanation">
+          Наголос в українській мові є <b>вільним</b> (у різних словах може припадати на різні склади) та <b>рухомим</b> (може переміщуватися зі зміною слова). 
+</div>
+
 
