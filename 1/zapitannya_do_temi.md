@@ -55,3 +55,15 @@
 9.	Ненаголошений <span class="p1">[о]</span> перед складом з наголошеним <span class="p1">[i]</span> або <span class="p1">[у]</span> позначається <span class="p1">[о<sup>у</sup>]</span>.<br>
             </p>
 </div>
+
+
+<div>
+    <h4 class="question">4.	Скільки літер в українському алфавіті? Розкажіть його.</h4>
+    <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
+    
+    <button style="margin-left:5px;" class="hide">Приховати</button>
+    <br>
+            <p class="quiz-question-explanation">
+           В українському алфавіті 33 літери.
+            </p>
+</div>
