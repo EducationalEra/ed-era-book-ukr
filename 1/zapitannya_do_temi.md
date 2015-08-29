@@ -76,7 +76,7 @@
     <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
             <p class="quiz-question-explanation">
-           <span class="p1">У-В не чергуються:</span><br>
+           <b><span class="p1">У-В</span> не чергуються:</b><br>
 -	У словах, де вiд змiни звука змiнюється значення слова: <i>вдача – удача.</i><br>
 -	У словах iншомовного походження та у власних назвах
             </p>
