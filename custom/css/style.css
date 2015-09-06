@@ -18,8 +18,12 @@ p.hide {
   display: none;
 }
 
+p.show {
+  display: inline;
+}
+
 /*кнопка скрити*/
-.show{
+button.show{
  background-color: #fff;
   border-radius: 4px;
   margin-top: 5px;
@@ -36,12 +40,12 @@ p.hide {
   border: 1px solid #ccc;
   margin-right: 10px;
 }
-.show:hover {
+button.show:hover {
 	color: #333;
   background-color: #e6e6e6;
   border-color: #adadad;
 }
-.show:active {
+button.show:active {
  outline: 0;
   box-shadow: inset 0 3px 5px rgba(0,0,0,.125);
 }
