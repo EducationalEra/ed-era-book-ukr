@@ -6,10 +6,8 @@ $(document).ready(function () {
     //href = "https://ed-era.com/books/" + _.last(href.split("-"));
     href = "http://" + _.last(href.split("-")) + ".ed-era.com";
     $(".custom-link:last").prop("href", href);
-});
-
-$(".quiz-question-explanation").hide();
-$(document).ready(function(){
+/* Question after topic */
+    $(".quiz-question-explanation").hide();
     $("button.show").click(function(){
         $( this ).parent().find("p.quiz-question-explanation").show();
     });
