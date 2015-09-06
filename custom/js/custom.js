@@ -10,6 +10,7 @@ $(document).ready(function () {
     /* Question after topic */
     $("a").click(function(){
         $(".quiz-question-explanation").hide());
+        console.log(111);
     });
     $("button.show").click(function(){
         $( this ).parent().find("p.quiz-question-explanation").show();
