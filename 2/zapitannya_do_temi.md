@@ -99,5 +99,5 @@
 </div>
 
 <script>
-    setTimeout(function () { location.reload(1); }, 1);
+    window.onload = function () {window.location.reload()}
 </script>
