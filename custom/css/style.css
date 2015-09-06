@@ -13,6 +13,11 @@ default – "White"
 
 
 /*Запитання без варіантів*/
+/*Сховати пояснення*/
+p.hide {
+  display: none;
+}
+
 /*кнопка скрити*/
 .show{
  background-color: #fff;
@@ -42,8 +47,7 @@ default – "White"
 }
 
 /*кнопка показати*/
-
-.hide{
+button.hide{
  background-color: #fff;
   border-radius: 4px;
   margin-top: 5px;
@@ -60,12 +64,12 @@ default – "White"
   border: 1px solid #ccc;
   margin-right: 10px;
 }
-.hide:hover {
+button.hide:hover {
 	  color: #333;
   background-color: #e6e6e6;
   border-color: #adadad;
 }
-.hide:active {
+button.hide:active {
  outline: 0;
   box-shadow: inset 0 3px 5px rgba(0,0,0,.125);
 }
