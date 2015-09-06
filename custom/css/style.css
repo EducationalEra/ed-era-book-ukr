@@ -18,10 +18,6 @@ p.hide {
   display: none;
 }
 
-p.show {
-  display: inline;
-}
-
 /*кнопка скрити*/
 button.show{
  background-color: #fff;
