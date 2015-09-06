@@ -8,7 +8,7 @@ $(document).ready(function () {
     $(".custom-link:last").prop("href", href);
 
     /* Question after topic */
-    $(".chapter").click((".quiz-question-explanation").hide());
+    $("a").click((".quiz-question-explanation").hide());
     $("button.show").click(function(){
         $( this ).parent().find("p.quiz-question-explanation").show();
     });
