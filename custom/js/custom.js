@@ -9,9 +9,9 @@ $(document).ready(function () {
 
     /* Question after topic */
     $("button.show").click(function(){
-        $( this ).parent().find("p.quiz-question-explanation").addClass( "show" ).removeClass( "hide" );
+        $( this ).parent().find("p.quiz-question-explanation").removeClass( "hide" );
     });
     $("button.hide").click(function(){
-        $( this ).parent().find("p.quiz-question-explanation").removeClass( "show" ).addClass( "hide" );
+        $( this ).parent().find("p.quiz-question-explanation").addClass( "hide" );
     });
 });
