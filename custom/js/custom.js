@@ -8,9 +8,8 @@ $(document).ready(function () {
     $(".custom-link:last").prop("href", href);
 });
 
-
+$(".quiz-question-explanation").hide();
 $(document).ready(function(){
-    $(".quiz-question-explanation").hide();
     $("button.show").click(function(){
         $( this ).parent().find("p.quiz-question-explanation").show();
     });
