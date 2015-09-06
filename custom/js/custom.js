@@ -8,15 +8,12 @@ $(document).ready(function () {
     $(".custom-link:last").prop("href", href);
 
     /* Question after topic */
-    $("a").click(function(){
-        $(".quiz-question-explanation").hide();
-        console.log(111);
-    });
+    
+    $(".quiz-question-explanation").hide();
     $("button.show").click(function(){
         $( this ).parent().find("p.quiz-question-explanation").show();
     });
     $(".hide").click(function(){
         $( this ).parent().find("p.quiz-question-explanation").hide();
-        });
-
+    });
 });
