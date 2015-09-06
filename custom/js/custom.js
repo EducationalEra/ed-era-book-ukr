@@ -10,8 +10,10 @@ $(document).ready(function () {
     /* Question after topic */
     $("button.show").click(function(){
         $( this ).parent().find("p.quiz-question-explanation").removeClass( "hide" );
+        console.log(1);
     });
     $("button.hide").click(function(){
         $( this ).parent().find("p.quiz-question-explanation").addClass( "hide" );
+        console.log(2);
     });
 });
