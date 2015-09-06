@@ -97,12 +97,3 @@
 <strong>Архаїзми</strong> – це слова, витiсненi iншими синонiмами з ужитку. Наприклад: <i>рамена (плечі), ланіти (щоки)</i>.
 </p>
 </div>
-
-<script>
-    window.onload = function() {
-    if(!window.location.hash) {
-        window.location = window.location + '#loaded';
-        window.location.reload();
-    }
-}
-</script>
