@@ -92,4 +92,11 @@
           Наголос в українській мові є <b>вільним</b> (у різних словах може припадати на різні склади) та <b>рухомим</b> (може переміщуватися зі зміною слова). 
 </div>
 
-
+<script>
+    window.onload = function() {
+    if(!window.location.hash) {
+        window.location = window.location + '#loaded';
+        window.location.reload();
+    }
+}
+</script>
