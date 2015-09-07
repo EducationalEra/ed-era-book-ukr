@@ -7,7 +7,7 @@
     
     <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
-            <p class="quiz-question-explanation">
+            <p class="quiz-question-explanation hide">
 Голосні звуки на письмі передаються за допомогою 10 літер: <span class="p1">а, о, у, і, и, е, я, ю, є, ї</span>.
             <p>
 </div>
@@ -31,7 +31,7 @@
     
     <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
-            <p class="quiz-question-explanation">
+            <p class="quiz-question-explanation hide">
             <span class="p1">Два звуки можуть позначати літери я, ю, є, ї, щ.</span>
             </p>
 </div>
@@ -43,7 +43,7 @@
     
     <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
-            <p class="quiz-question-explanation">
+            <p class="quiz-question-explanation hide">
 1.	У фонетичному записi слово, що транскрибується, беруть у квадратнi дужки.<br>
 2.	Усi слова пишуться з маленької лiтери.<br>
 3.	Ставиться наголос, якщо слова має кiлька складiв.<br>
@@ -63,7 +63,7 @@
     
     <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
-            <p class="quiz-question-explanation">
+            <p class="quiz-question-explanation hide">
            В українській мові глухі приголосні перед дзвінкими одзвінчуються. 
             </p>
 </div>
@@ -75,7 +75,7 @@
     
     <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
-            <p class="quiz-question-explanation">
+            <p class="quiz-question-explanation hide">
            <b><span class="p1">У-В</span> не чергуються:</b><br>
 -	У словах, де вiд змiни звука змiнюється значення слова: <i>вдача – удача.</i><br>
 -	У словах iншомовного походження та у власних назвах
@@ -88,6 +88,6 @@
     
     <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
-            <p class="quiz-question-explanation">
+            <p class="quiz-question-explanation hide">
           Наголос в українській мові є <b>вільним</b> (у різних словах може припадати на різні склади) та <b>рухомим</b> (може переміщуватися зі зміною слова). 
 </div>
