@@ -6,12 +6,12 @@ $(document).ready(function () {
     //href = "https://ed-era.com/books/" + _.last(href.split("-"));
     href = "http://" + _.last(href.split("-")) + ".ed-era.com";
     $(".custom-link:last").prop("href", href);
+});
 
-    /* Question after topic */
-    $("button.show").click(function(){
+/* Question after topic */
+$(document).on('click', 'button.show', function(){
         $( this ).parent().find("p.quiz-question-explanation").removeClass( "hide" );
-    });
-    $("button.hide").click(function(){
+});
+$(document).on('click', 'button.hide', function(){
         $( this ).parent().find("p.quiz-question-explanation").addClass( "hide" );
-    });
 });
