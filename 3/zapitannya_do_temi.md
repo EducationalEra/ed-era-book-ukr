@@ -7,7 +7,7 @@
     
     <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
-            <p class="quiz-question-explanation">
+            <p class="quiz-question-explanation hide">
 <strong>Фразеологiзм</strong> — стiйке поєднання слiв, яке виступає в мовi як неподiльний за значенням вислiв (дорiвнює одному слову за значенням). <i>Нi за цапову душу</i> — даремно.
             <p>
 </div>
@@ -19,7 +19,7 @@
     
     <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
-            <p class="quiz-question-explanation">
+            <p class="quiz-question-explanation hide">
 Фразеологічні зрощення, фразеологічні єдності та фразеологічні сполучення.
             <p>
 </div>
@@ -32,7 +32,7 @@
     
     <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
-            <p class="quiz-question-explanation">
+            <p class="quiz-question-explanation hide">
 Народна мова та усна народна творчiсть, антична мiфологiя, бiблiя.
             <p>
 </div>
@@ -45,7 +45,7 @@
     
     <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
-            <p class="quiz-question-explanation">
+            <p class="quiz-question-explanation hide">
 <strong>Прислiв’я</strong> — це народний вислiв повчального змiсту, що виражений реченням. Вiн формулює життєву закономiрнiсть або передає узагальнений суспiльний досвiд.
             <p>
 </div>
@@ -58,7 +58,7 @@
     
     <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
-            <p class="quiz-question-explanation">
+            <p class="quiz-question-explanation hide">
 Прислів’я має повчальний зміст, а приказка – ні. 
             <p>
 </div>
@@ -71,7 +71,7 @@
     
     <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
-            <p class="quiz-question-explanation">
+            <p class="quiz-question-explanation hide">
 <strong>Афоризм</strong> — словесна формула, яка виражає думку узагальнено i в стислiй формi. Афоризми завжди мають автора.
             <p>
 </div>
