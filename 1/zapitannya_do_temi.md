@@ -19,7 +19,7 @@
     
     <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
-            <p class="quiz-question-explanation">
+            <p class="quiz-question-explanation hide">
             <span class="p1">Два звуки можуть позначати літери я, ю, є, ї, щ.</span>
             </p>
 </div>
@@ -91,3 +91,13 @@
             <p class="quiz-question-explanation hide">
           Наголос в українській мові є <b>вільним</b> (у різних словах може припадати на різні склади) та <b>рухомим</b> (може переміщуватися зі зміною слова). 
 </div>
+
+<script>
+window.onload = function() {
+    if(!window.location.hash) {
+        window.location = window.location + '#loaded';
+        window.location.reload();
+    }
+    console.log("aaa")
+}
+</script>
