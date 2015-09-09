@@ -20,21 +20,10 @@
     <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
             <p class="quiz-question-explanation hide">
-            <span class="p1">Два звуки можуть позначати літери я, ю, є, ї, щ.</span>
+            Два звуки можуть позначати літери <span class="p1">я, ю, є, ї, щ.</span>
             </p>
 </div>
 
-
-<div>
-    <h4 class="question">2.	Які букви в українській мові можуть позначати або завжди позначають два звуки?</h4>
-    <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
-    
-    <button style="margin-left:5px;" class="hide">Приховати</button>
-    <br>
-            <p class="quiz-question-explanation hide">
-            <span class="p1">Два звуки можуть позначати літери я, ю, є, ї, щ.</span>
-            </p>
-</div>
 
 
 <div>
