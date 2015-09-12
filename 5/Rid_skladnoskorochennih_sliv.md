@@ -2,6 +2,9 @@
 
 
 <div class="center">
-<img src="../pics/5/5.png" width="700px" class="center"/>
+<img src="../pics/5/6.png" width="700px" class="center"/>
 </div>
 <br>
+
+
+Рiд змiнюваних складноскорочених слiв визначається за типом їх вiдмiнювання. Здебiльшого це iменники чоловiчого роду: <i>Мiнфiн, Виш</i>.
