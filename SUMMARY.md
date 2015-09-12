@@ -49,7 +49,7 @@
    * [Групи iменникiв за значенням](5/gruppi_imennikiv_za_znachennyam.md)
    * [Рiд iменникiв](5/rid_imennikiv.md)
        * [Рiд незмiнюваних iменникiв iншомовного походження](5/rid_nezmin_imen_inshomovnogo_pohod.md)
-       * Рiд складноскорочених слiв
+       * [Рiд складноскорочених слiв](5/Rid_skladnoskorochennih_sliv.md)
    * Число iменникiв
    * Вiдмiнки iменникiв
    * Вiдмiни iменникiв
