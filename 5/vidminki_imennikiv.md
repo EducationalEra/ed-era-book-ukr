@@ -32,3 +32,6 @@
 </div>
 </div>
 
+<br>
+<span class="p1"><b>Кличний вiдмiнок</b></span>
+
