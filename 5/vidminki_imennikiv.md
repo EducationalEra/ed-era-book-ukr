@@ -26,11 +26,3 @@
 </ol>
 
 
-
-<div class="eoz-wrap">
-<span class="eoz">Пам'ятайте</span>
-<div class="eoz-text">
-<b>Іменник</b> — самостiйна частина мови, що має значення предметностi (називає особу, предмет, явище) та вiдповiдає на питання <strong>хто?</strong> <strong>що?</strong>
-</div>
-</div>
-<br>
