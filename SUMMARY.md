@@ -51,7 +51,7 @@
        * [Рiд незмiнюваних iменникiв iншомовного походження](5/rid_nezmin_imen_inshomovnogo_pohod.md)
        * [Рiд складноскорочених слiв](5/Rid_skladnoskorochennih_sliv.md)
    * [Число iменникiв](5/Chislo_imennikiv.md)
-   * Вiдмiнки iменникiв
+   * [Вiдмiнки iменникiв](5/vidminki_imennikiv.md)
    * Вiдмiни iменникiв
    * Подiл iменникiв на групи
    * Вiдмiнювання iменникiв I вiдмiни
