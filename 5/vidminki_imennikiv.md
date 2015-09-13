@@ -24,3 +24,13 @@
 <li>Бiльшiсть буквенних абревiатур: НТР.</li>
 <li>Деякi складноскороченi слова: замдекана, завскладу.</li>
 </ol>
+
+
+
+<div class="eoz-wrap">
+<span class="eoz">Пам'ятайте</span>
+<div class="eoz-text">
+Чоловiчi прiзвища на <span class="p1">-о</span> та приголосний вiдмiнюються.
+</div>
+</div>
+<br>
