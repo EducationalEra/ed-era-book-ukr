@@ -25,9 +25,9 @@
 <li>Деякi складноскороченi слова: замдекана, завскладу.</li>
 </ol>
 
-<div class="add-wrap">
-<span class="add">Пам'ятайте</span>
-<div class="add-text">
+<div class="alg-wrap">
+<span class="alg">Пам'ятайте</span>
+<div class="alg-text">
 Чоловiчi прiзвища на -о та приголосний вiдмiнюються.
 </div>
 </div>
