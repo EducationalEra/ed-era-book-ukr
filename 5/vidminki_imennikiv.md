@@ -30,7 +30,7 @@
 <div class="eoz-wrap">
 <span class="eoz">Пам'ятайте</span>
 <div class="eoz-text">
-Чоловiчi прiзвища на <span class="p1">-о</span> та приголосний вiдмiнюються.
+<b>Іменник</b> — самостiйна частина мови, що має значення предметностi (називає особу, предмет, явище) та вiдповiдає на питання <strong>хто?</strong> <strong>що?</strong>
 </div>
 </div>
 <br>
