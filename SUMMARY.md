@@ -37,7 +37,7 @@
    * [Будова слова](4/budova_slova.md)
        * [Закiнчення](4/Zakinchennya.md)
        * [Основа слова](4/Osnova_slova.md)
-       * [Корiнь](4/korin`.md)
+       * [Корiнь](4/korin.md)
        * [Префiкс](4/prefics.md)
        * [Суфiкс](4/sufics.md)
        * [Постфiкс і інтерфікс](4/postfics.md)
