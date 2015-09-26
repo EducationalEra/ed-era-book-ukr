@@ -52,7 +52,7 @@
        * [Абревiацiя](4/abreviaciya.md)
    * [Неморфологiчнi способи словотворення](4/nemorfologichni_sposobi_tvorennya.md)
    * [Запитання до теми](4/zapitannya_do_temi.md)
-   * Вiдмiни iменникiв
+* Вiдмiни iменникiв
    * Подiл iменникiв на групи
    * Вiдмiнювання iменникiв I вiдмiни
        * Правопис окремих вiдмiнкових закiнчень iменникiв I вiдмiни в однинi
