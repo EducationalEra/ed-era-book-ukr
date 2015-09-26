@@ -40,7 +40,7 @@
    1. [Будова слова](4/budova_slova.md)
        1. [Закiнчення](4/Zakinchennya.md)
        2. [Основа слова](4/Osnova_slova.md)
-       3. [Корiнь](4/korin`.md)
+       3. [Корiнь](4/korin.md)
        4. [Префiкс](4/prefics.md)
        5. [Суфiкс](4/sufics.md)
        6. [Постфiкс і інтерфікс](4/postfics.md)
