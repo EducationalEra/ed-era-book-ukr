@@ -49,7 +49,7 @@
         <answer>вогко</answer>
         <answer>дігтяр</answer>
         <explanation>
-        [фудб\acute{о}л]
+        [фудбол]
         </explanation>
     </question>
 </quiz>
