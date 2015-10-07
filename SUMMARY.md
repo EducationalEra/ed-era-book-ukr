@@ -34,13 +34,6 @@
    * [Словник найуживаніших фразеологізмів](3/slovnik_naiuzhivanshih_frazeologzmv.md)
    * [Запитання до теми](3/zapitannya_do_temi.md)
 * [Будова слова](4/budova_slova.md)
-   * [Будова слова](4/budova_slova.md)
-       * [Закiнчення](4/Zakinchennya.md)
-       * [Основа слова](4/Osnova_slova.md)
-       * [Корiнь](4/korin.md)
-       * [Префiкс](4/prefics.md)
-       * [Суфiкс](4/sufics.md)
-       * [Постфiкс і інтерфікс](4/postfics.md)
    * [Словотвiр](4/slovotvir.md)
    * [Морфологiчнi способи словотворення](4/morfologichni_sposobi_slovotvorennya.md)
        * [Суфiксальний спосiб](4/sufiksalniy_sposib.md)
@@ -52,15 +45,14 @@
        * [Абревiацiя](4/abreviaciya.md)
    * [Неморфологiчнi способи словотворення](4/nemorfologichni_sposobi_tvorennya.md)
    * [Запитання до теми](4/zapitannya_do_temi.md)
-
-*  Iменник
+* Iменник
    * Групи iменникiв за значенням
    * Рiд iменникiв
-       * Рiд незмiнюваних iменникiв iншомовного походження 
-       *  Рiд складноскорочених слiв 
-   * Число iменникiв 
+       * Рiд незмiнюваних iменникiв iншомовного походження
+       * Рiд складноскорочених слiв
+   * Число iменникiв
    * Вiдмiнки iменникiв
-   * Вiдмiни iменникiв
+   * [Вiдмiни iменникiв](5/vidmini_imennikiv.md)
    * Подiл iменникiв на групи
    * Вiдмiнювання iменникiв I вiдмiни
        * Правопис окремих вiдмiнкових закiнчень iменникiв I вiдмiни в однинi
