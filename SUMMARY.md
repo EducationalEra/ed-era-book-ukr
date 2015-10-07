@@ -52,7 +52,7 @@
        * Рiд складноскорочених слiв
    * Число iменникiв
    * Вiдмiнки iменникiв
-   * [Вiдмiни iменникiв](5/vidmini_imennikiv.md)
+   * Вiдмiни iменникiв
    * [Подiл iменникiв на групи](5/podil_imennikiv_na_grupi.md)
    * [Вiдмiнювання iменникiв I вiдмiни](5/vidminuvannya_imen.md)
        * [Правопис окремих вiдмiнкових закiнчень iменникiв I вiдмiни в однинi](5/pravopis_okremih_vidm.md)
