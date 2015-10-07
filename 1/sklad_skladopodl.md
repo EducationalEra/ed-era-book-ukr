@@ -35,7 +35,7 @@
     <question text="">
         <p>Три склади має кожне слово:</p>
         <answer>соловей, долоня, пояснення</answer>
-        <answer corret>тьохкає, весняний, єднання </answer>
+        <answer correct>тьохкає, весняний, єднання </answer>
         <answer>палітра, країна, майор</answer>
         <answer>браконьєр, лісостеп, знання</answer>
         <explanation>
