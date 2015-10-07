@@ -57,7 +57,7 @@
    * [Вiдмiнювання iменникiв I вiдмiни](5/vidminuvannya_imen.md)
        * [Правопис окремих вiдмiнкових закiнчень iменникiв I вiдмiни в однинi](5/pravopis_okremih_vidm.md)
    * [Вiдмiнювання iменникiв II вiдмiни](5/vidminuvanna_imen_II_vidmini.md)
-       * Закiнчення родового вiдмiнка однини iменникiв чоловiчого роду II вiдмiни
+       * [Закiнчення родового вiдмiнка однини iменникiв чоловiчого роду II вiдмiни](5/zakinchennya_rodovogo_vidminka_odnini.md)
        * Правопис окремих вiдмiнкових закiнчень iменникiв II вiдмiни в однинi
        * Правопис окремих вiдмiнкових закiнчень iменникiв II вiдмiни в множинi
    * Вiдмiнювання iменникiв III вiдмiни
