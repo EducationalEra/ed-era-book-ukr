@@ -21,6 +21,6 @@
 <div class="add-wrap">
 <span class="add">Пам'ятайте</span>
 <div class="add-text">
-Жiночi iмена по батьковi – I вiдмiна, а чоловiчi – II.
+<b>Жiночi</b> iмена по батьковi – I вiдмiна, а <b>чоловiчi</b> – II.
 </div>
 </div>
