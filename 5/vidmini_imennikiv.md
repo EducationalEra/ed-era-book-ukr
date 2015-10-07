@@ -14,3 +14,10 @@
 <li>Iменники, якi походять вiд прикметникiв: <i>минуле, зерновi</i>.</li>
 <li>Жiночi прiзвища на <span class="p1">-о</span> та приголосний: <i>Нечитайло Ольга</i>.</li>
 </ol>
+
+<div class="add-wrap">
+<span class="add">Пам'ятайте</span>
+<div class="add-text">
+Жiночi iмена по батьковi – I вiдмiна, а чоловiчi – II.
+</div>
+</div>
