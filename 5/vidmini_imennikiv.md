@@ -6,7 +6,7 @@
 <br>
 
 
-<div clas="p1"><center>НЕ належать до вiдмiн:</center></div>
+<div class="p1"><center>НЕ належать до вiдмiн:</center></div>
 
 <ol>
 <li>Множиннi iменники: <i>ворота, дверi, окуляри</i>.</li>
