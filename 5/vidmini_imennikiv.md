@@ -7,6 +7,7 @@
 
 
 <span class="p1"><center>НЕ належать до вiдмiн:</center></span>
+<br>
 
 <ol>
 <li>Множиннi iменники: <i>ворота, дверi, окуляри</i>.</li>
@@ -15,6 +16,8 @@
 <li>Жiночi прiзвища на <span class="p1">-о</span> та приголосний: <i>Нечитайло Ольга</i>.</li>
 </ol>
 
+<br>
+<br>
 <div class="add-wrap">
 <span class="add">Пам'ятайте</span>
 <div class="add-text">
