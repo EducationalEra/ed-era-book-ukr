@@ -63,7 +63,7 @@
    * [Вiдмiнювання iменникiв III вiдмiни](5/vidminuvannya_imennikiv_III_grupi.md)
    * [Вiдмiнювання iменникiв IV вiдмiни](5/vidminuvannya_imennikiv_IV_grupi.md)
    * [Написання та вiдмiнювання iмен по батьковi](5/napisannya_ta_vidminuvannya_imen_po_batkovi.md)
-   * Способи творення iменникiв
+   * [Способи творення iменникiв](5/sposobi_tvorennya_imennikiv.md)
    * Написання складних iменникiв
    * Правопис не з iменниками
 * Прикметник
