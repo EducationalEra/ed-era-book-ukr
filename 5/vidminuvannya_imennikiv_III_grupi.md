@@ -2,7 +2,7 @@
 
 
 <div class="center">
-<img src="../pics/5/18.png" width="400px" class="center"/>
+<img src="../pics/5/18.png" width="500px" class="center"/>
 </div>
 <br>
 
