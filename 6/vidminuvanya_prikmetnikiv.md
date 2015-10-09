@@ -7,3 +7,11 @@
 <img src="../pics/6/4.png" width="600px" class="center"/>
 </div>
 <br>
+
+
+<div class="add-zno">
+<span class="add">ЗНО</span>
+<div class="add-text">
+Потрiбно розрiзняти паронiмiчнi прикметники. Наприклад: <i>дружна родина – дружнiй погляд</i>. Перший з них належить до твердої групи, а
+другий – до м’якої.
+</div>
