@@ -18,3 +18,16 @@
 <li> Якщо приголоснi збiгаються перед <span clas="p1">-ю</span> в кiнцi основи: радiстю,
 вiстю.</li>
 </ol>
+
+<quiz> 
+    <question>
+       <p> У формі орудного відмінка однини подвоєння НЕ відбувається в рядку:</p>
+           <answer>подорож</answer>
+           <answer>суміш</answer>
+           <answer correct>радість</answer>
+           <answer>ніч</answer>
+      <explanation>
+Радістю – збіг приголосних у кінці основи перед <span class="p1">-ю</span>.
+ </explanation>
+    </question>
+</quiz>
