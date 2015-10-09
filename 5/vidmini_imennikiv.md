@@ -56,17 +56,3 @@
 </quiz>
 
 
-<br>
-<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
-    <question text="">
-       <p>Білі стіни <span class="p1">будинку</span> вертають мені притомність.<br>Виділений у реченні іменник ужитий у:
-</p>
-        <answer>називному відмінку</answer>
-        <answer>знахідному відмінку</answer>
-        <answer correct>родовому відмінку</answer>
-        <answer>давальному відмінку</answer>
-        <explanation>
-  Білі стіни (кого? чого?) будинку вертають мені притомність.
-        <explanation>
-    </question>
-</quiz>
