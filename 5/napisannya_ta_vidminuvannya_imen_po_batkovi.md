@@ -15,3 +15,18 @@
 <img src="../pics/5/21.png" width="500px" class="center"/>
 </div>
 <br>
+
+
+<quiz> 
+    <question>
+       <p> Помилку допущено в рядку:</p>
+           <answer> Григорій Савич</answer>
+           <answer> Ганна Павлівна</answer>
+           <answer> Віктор Миколайович</answer>
+           <answer correct> Володимир Сергієвич</answer>
+      <explanation>
+Чоловічі імена по батькові утворюються за допомогою суфіксів <span class="p1">-ович, -йович</span>.
+Володимир Сергійович. 
+</explanation>
+    </question>
+</quiz>
