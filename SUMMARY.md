@@ -69,7 +69,7 @@
 * [Прикметник](6/prikmetnik.md)
    * [Розряди прикметникiв за значенням](6/rozryadi_prikmetnikiv_za_znachennyam.md)
    * [Ступенi порiвняння прикметникiв](6/stupeni_porivnyannya_prikmetnikiv.md)
-   * Вiдмiнювання прикметникiв
+   * [Вiдмiнювання прикметникiв](6/vidminuvanya_prikmetnikiv.md)
        * Вiдмiнювання прикметникiв твердої групи
        * Вiдмiнювання прикметникiв м’якої групи
        * Вiдмiнювання прикметникiв на -лиций
