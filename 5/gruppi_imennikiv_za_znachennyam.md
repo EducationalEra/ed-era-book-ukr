@@ -36,8 +36,10 @@
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
        <p>Усі іменники є конкретними у рядку:</p>
+      <answer correct> листя, стіл, іграшка, сумка</answer>
         <answer>книжка, радість, шафа, дерево</answer>
         <answer>школа, ліжко, глибина, вікно</answer>
-        <answer correct>сум, криниця, ворота, молоко </answer>
+        <answer>сум, криниця, ворота, молоко </answer>
+        <explanation>Конкретні пізнаються органами чуття людини. Абстрактні: радість, глибина, сум.</explanation>
     </question>
 </quiz>
