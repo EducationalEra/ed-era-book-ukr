@@ -14,6 +14,12 @@
 
 Називний вiдмiнок однини є початковою формою iменника.
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/y7MFdg-xjD4" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <span class="p1"><b>НЕ</b> змiнюються за вiдмiнками:</span>
 
 <ol>
