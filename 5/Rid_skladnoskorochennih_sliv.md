@@ -26,12 +26,10 @@
 </quiz>
 
 
-
-
 <br>
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
-       <p>. Форми однини та множини мають усі іменники рядка:
+       <p>Форми однини та множини мають усі іменники рядка:
 
 </p>
         <answer>киянин, Львів, рука, озеро</answer>
