@@ -40,7 +40,7 @@
     <question text="">
        <p>Жіночий рід мають усі іменники в рядку:
  </p>
-        <answer correct>Міссурі, Амазонка </answer>
+        <answer correct>Перу, Амазонка </answer>
         <answer>Еверест, Баку</answer>
         <answer>мадам, шимпанзе</answer>
         <answer>таксі, Ай-Петрі</answer>
