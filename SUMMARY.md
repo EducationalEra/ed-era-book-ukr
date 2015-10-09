@@ -71,7 +71,7 @@
    * Ступенi порiвняння прикметникiв
    * Вiдмiнювання прикметникiв
        * Вiдмiнювання прикметникiв твердої групи
-       * [Вiдмiнювання прикметникiв м’якої групи](6/vidminuvannya_prikmetnikiv_miakoi_grupi.md)
+       * Вiдмiнювання прикметникiв м’якої групи
        * [Вiдмiнювання прикметникiв на -лиций](6/vidminuvannya_prikmetnikiv_na_liciy.md)
    * [Способи творення прикметникiв](6/sposobi_tvorennya_prikmetnikiv.md)
    * Правопис прикметникiв
