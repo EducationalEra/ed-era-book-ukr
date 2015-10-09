@@ -66,17 +66,17 @@
     6. [Подiл iменникiв на групи](5/podil_imennikiv_na_grupi.md)
     7. [Вiдмiнювання iменникiв I вiдмiни](5/vidminuvannya_imen_I_vidmini.md)
         1. [Правопис окремих вiдмiнкових закiнчень iменникiв I вiдмiни в однинi](5/pravopis_okremih_vidminkovih_zakinchen_I_vidmini_v_odnini.md)
-        2. Правопис окремих вiдмiнкових закiнчень iменникiв I вiдмiни в множинi 
-    8. Вiдмiнювання iменникiв II вiдмiни
-        1. Закiнчення родового вiдмiнка однини iменникiв чоловiчого роду II вiдмiни
-        2. Правопис окремих вiдмiнкових закiнчень iменникiв II вiдмiни в однинi
-        3. Правопис окремих вiдмiнкових закiнчень iменникiв II вiдмiни в множинi
-    9. Вiдмiнювання iменникiв III вiдмiни
-    10. Вiдмiнювання iменникiв IV вiдмiни 
-    11. Написання та вiдмiнювання iмен по батьковi
-    12. Способи творення iменникiв
-    13. Написання складних iменникiв
-    14. Правопис не з iменниками 
+        2. [Правопис окремих вiдмiнкових закiнчень iменникiв I вiдмiни в множинi](5/pravopis_okremih_vidm_znachen_v_mnozini.md)
+    8. [Вiдмiнювання iменникiв II вiдмiни](5/vidminuvanna_imen_II_vidmini.md)
+        1. [Закiнчення родового вiдмiнка однини iменникiв чоловiчого роду II вiдмiни](5/zakinchennya_rodovogo_vidminka_odnini.md)
+        2. [Правопис окремих вiдмiнкових закiнчень iменникiв II вiдмiни в однинi](5/pravopis_okrremih_vidminkovih_znachen_II_vidmini_v_odnini.md)
+        3. [Правопис окремих вiдмiнкових закiнчень iменникiв II вiдмiни в множинi](5/pravopis_okrremih_vidminkovih_znachen_II_vidmini_v_mnojini.md)
+    9. [Вiдмiнювання iменникiв III вiдмiни](5/vidminuvannya_imennikiv_III_vidmini.md)
+    10. [Вiдмiнювання iменникiв IV вiдмiни](5/vidminuvannya_imennikiv_IV_vidmini.md)
+    11. [Написання та вiдмiнювання iмен по батьковi](5/napisannya_ta_vidminuvannya_imen_po_batkovi.md)
+    12. [Способи творення iменникiв](5/sposobi_tvorennya_imennikiv.md)
+    13. [Написання складних iменникiв](5/napisannya_skladnih_imennikiv.md)
+    14. [Правопис НЕ з iменниками](5/pravopis_NE_z_imennikami.md)
 * Прикметник
     1. Розряди прикметникiв за значенням
     2. Ступенi порiвняння прикметникiв
