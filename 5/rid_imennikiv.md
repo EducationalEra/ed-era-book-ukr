@@ -10,3 +10,20 @@
 <i>Молод<b>ий</b> <u>водiй</u> куп<b>ив</b> автомобiль.</i><br>
 <i>Молод<b>ий</b> <u>водiй</u> купил<b>а</b> автомобiль.</i>
 </ul>
+
+
+<br>
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+       <p>Спільний рід мають усі іменники в рядку: </p>
+        <answer>Забіяка, сирота, бідолаха, лікар
+</answer>
+        <answer>Роззява, нероба, замазура, турист</answer>
+        <answer correct>Лівша, рева, зануда, базіка </answer>
+        <answer>Староста, незграба, вчитель, нікчема</answer>
+        <explanation>
+     Іменники спільного роду можуть називати осіб чоловічої і жіночої статі.<br>
+Лікар, турист, вчитель – іменники чоловічого роду.
+        <explanation>
+    </question>
+</quiz>
