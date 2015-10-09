@@ -66,7 +66,7 @@
    * [Написання та вiдмiнювання iмен по батьковi](5/napisannya_ta_vidminuvannya_imen_po_batkovi.md)
    * [Способи творення iменникiв](5/sposobi_tvorennya_imennikiv.md)
    * [Написання складних iменникiв](5/napisannya_skladnih_imennikiv.md)
-   * Правопис НЕ з iменниками
+   * [Правопис НЕ з iменниками](5/pravopis_NE_z_imennikami.md)
 * Прикметник
    * Розряди прикметникiв за значенням
    * Ступенi порiвняння прикметникiв
