@@ -60,7 +60,7 @@
    * [Вiдмiнювання iменникiв II вiдмiни](5/vidminuvanna_imen_II_vidmini.md)
        * [Закiнчення родового вiдмiнка однини iменникiв чоловiчого роду II вiдмiни](5/zakinchennya_rodovogo_vidminka_odnini.md)
        * [Правопис окремих вiдмiнкових закiнчень iменникiв II вiдмiни в однинi](5/pravopis_okrremih_vidminkovih_znachen_II_vidmini_v_odnini.md)
-       * Правопис окремих вiдмiнкових закiнчень iменникiв II вiдмiни в множинi
+       * [Правопис окремих вiдмiнкових закiнчень iменникiв II вiдмiни в множинi](5/pravopis_okrremih_vidminkovih_znachen_II_vidmini_v_mnojini.md)
    * Вiдмiнювання iменникiв III вiдмiни
    * Вiдмiнювання iменникiв IV вiдмiни
    * Написання та вiдмiнювання iмен по батьковi
