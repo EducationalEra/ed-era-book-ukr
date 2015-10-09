@@ -35,3 +35,22 @@
 <br>
 <span class="p1"><b>Кличний вiдмiнок</b></span>
 
+
+
+<br>
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+       <p>Білі стіни <span class="p1">будинку</span> вертають мені притомність.<br>Виділений у реченні іменник ужитий у:
+</p>
+        <answer>киянин, Львів, рука, озеро</answer>
+        <answer correct>ліс, дорога, тарілка, кіт</answer>
+        <answer>кріпацтво, тіло, берег, предмет</answer>
+        <answer>вчитель, окуляри, вікно, ключ</answer>
+        <explanation>
+    Ліс – ліси, дорога – дороги, тарілка – тарілки, кіт – коти.<br>
+Львів – власна назва, має форму тільки однини.<br>
+Кріпацтво – абстрактне поняття, має форму тільки однини.<br>
+Окуляри – парний предмет, має форму тільки множини.
+        <explanation>
+    </question>
+</quiz>
