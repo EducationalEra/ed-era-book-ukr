@@ -36,13 +36,8 @@
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
        <p>Усі іменники є конкретними у рядку:</p>
-        <answer>Забіяка, сирота, бідолаха, лікар</answer>
-        <answer>Роззява, нероба, замазура, турист</answer>
-        <answer correct>Лівша, рева, зануда, базіка </answer>
-        <answer>Староста, незграба, вчитель, нікчема</answer>
-        <explanation>
-     Іменники спільного роду можуть називати осіб чоловічої і жіночої статі.<br>
-Лікар, турист, вчитель – іменники чоловічого роду.
-        <explanation>
+        <answer>книжка, радість, шафа, дерево</answer>
+        <answer>школа, ліжко, глибина, вікно</answer>
+        <answer correct>сум, криниця, ворота, молоко </answer>
     </question>
 </quiz>
