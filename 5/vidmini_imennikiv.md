@@ -39,7 +39,8 @@
     </question>
 
 
-<quiz> 
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
     <question>
        <p>До II відміни належать усі іменники в рядку:</p>
            <answer> віра, весілля, тюль, студент </answer>
@@ -52,3 +53,20 @@
 Не належать до II відміни іменники <b>віра</b> (I відміна), <b>теля</b> (IV відміна), <b>мораль</b> (III відміна), <b>казка</b> (I відміна).
        </explanation>
     </question>
+</quiz>
+
+
+<br>
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+       <p>Білі стіни <span class="p1">будинку</span> вертають мені притомність.<br>Виділений у реченні іменник ужитий у:
+</p>
+        <answer>називному відмінку</answer>
+        <answer>знахідному відмінку</answer>
+        <answer correct>родовому відмінку</answer>
+        <answer>давальному відмінку</answer>
+        <explanation>
+  Білі стіни (кого? чого?) будинку вертають мені притомність.
+        <explanation>
+    </question>
+</quiz>
