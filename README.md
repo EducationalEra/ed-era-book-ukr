@@ -55,17 +55,17 @@
        6. [Абревiацiя](4/abreviaciya.md)
    4. [Неморфологiчнi способи словотворення](4/nemorfologichni_sposobi_tvorennya.md)
    5. [Запитання до теми](4/zapitannya_do_temi.md)
-*  Iменник
-    1. Групи iменникiв за значенням
-    2. Рiд iменникiв
-        1. Рiд незмiнюваних iменникiв iншомовного походження 
-        2.  Рiд складноскорочених слiв 
-    3. Число iменникiв 
-    4. Вiдмiнки iменникiв
-    5. Вiдмiни iменникiв 
-    6. Подiл iменникiв на групи 
-    7. Вiдмiнювання iменникiв I вiдмiни 
-        1. Правопис окремих вiдмiнкових закiнчень iменникiв I вiдмiни в однинi
+5  [Iменник](5/imennik.md)
+    1. [Групи iменникiв за значенням](5/gruppi_imennikiv_za_znachennyam.md)
+    2. [Рiд iменникiв](5/rid_imennikiv.md)
+        1. [Рiд незмiнюваних iменникiв iншомовного походження](5/rid_nezmin_imen_inshomovnogo_pohod.md)
+        2.  [Рiд складноскорочених слiв](5/Rid_skladnoskorochennih_sliv.md)
+    3. [Число iменникiв](5/Chislo_imennikiv.md)
+    4. [Вiдмiнки iменникiв](5/vidminki_imennikiv.md)
+    5. [Вiдмiни iменникiв](5/vidmini_imennikiv.md)
+    6. [Подiл iменникiв на групи](5/podil_imennikiv_na_grupi.md)
+    7. [Вiдмiнювання iменникiв I вiдмiни](5/vidminuvannya_imen_I_vidmini.md)
+        1. [Правопис окремих вiдмiнкових закiнчень iменникiв I вiдмiни в однинi](5/pravopis_okremih_vidminkovih_zakinchen_I_vidmini_v_odnini.md)
         2. Правопис окремих вiдмiнкових закiнчень iменникiв I вiдмiни в множинi 
     8. Вiдмiнювання iменникiв II вiдмiни
         1. Закiнчення родового вiдмiнка однини iменникiв чоловiчого роду II вiдмiни
