@@ -51,3 +51,20 @@
         <explanation>
     </question>
 </quiz>
+
+
+<br>
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+       <p>Граматично правильне звертання в рядку:</p>
+        <answer>Шановний пане Микола!</answer>
+        <answer>Високоповажний пане Бондаре!</answer>
+        <answer correct>Вельмишановна Валеріє Сергіївно!</answer>
+        <answer>Шановна пані Олена!</answer>
+        <answer>Вельмишановний пан лікар!</answer>
+        <explanation>
+  Білі стіни (кого? чого?) будинку вертають мені притомність.
+        <explanation>
+    </question>
+</quiz>
+
