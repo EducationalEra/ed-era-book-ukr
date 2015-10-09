@@ -14,8 +14,9 @@ Iменники I i II вiдмiн подiляються на тверду, м‘
 <br>
 
 
-<quiz> 
-    <question>
+<br>
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<question text="">
        <p>До твердої групи належать обидва іменники в рядку:</p>
            <answer>староста, весілля</answer>
            <answer correct>батько, допомога</answer>
@@ -30,8 +31,9 @@ Iменники I i II вiдмiн подiляються на тверду, м‘
     </question>
 
 
-<quiz> 
-    <question>
+<br>
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<question text="">
        <p>До м’якої групи належать усі іменники в рядку:</p>
            <answer>якір, знання, молодь, пісняр</answer>
            <answer>комар, вулиця, поле, ведмідь </answer>
@@ -47,3 +49,5 @@ Iменники I i II вiдмiн подiляються на тверду, м‘
 Не належать до <b>м’якої групи</b> іменники <b>пісняр</b> (мішана група), <b>комар</b> (тверда група), <b>каменяр</b> (мішана група), <b>школяр</b> (мішана група)       
 </explanation>
 </question>
+</quiz>
+
