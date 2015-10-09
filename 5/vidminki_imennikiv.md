@@ -28,7 +28,7 @@
 <div class="add-wrap">
 <span class="add">Пам'ятайте</span>
 <div class="add-text">
-Чоловiчi прiзвища на -о та приголосний вiдмiнюються.
+Чоловiчi прiзвища на <span class="p1">-о</span> та приголосний вiдмiнюються.
 </div>
 </div>
 
