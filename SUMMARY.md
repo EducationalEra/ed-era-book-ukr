@@ -54,7 +54,7 @@
    * [Вiдмiнки iменникiв](5/vidminki_imennikiv.md)
    * [Вiдмiни iменникiв](5/vidmini_imennikiv.md)
    * [Подiл iменникiв на групи](5/podil_imennikiv_na_grupi.md)
-   * [Вiдмiнювання iменникiв I вiдмiни](5/vidminuvannya_imen.md)
+   * [Вiдмiнювання iменникiв I вiдмiни](5/vidminuvannya_imen_I_vidmini.md)
        * [Правопис окремих вiдмiнкових закiнчень iменникiв I вiдмiни в однинi](5/pravopis_okrremih_vidminkovih_znachen_v_mnojini.md)
    * Вiдмiнювання iменникiв II вiдмiни
        * Закiнчення родового вiдмiнка однини iменникiв чоловiчого роду II вiдмiни
