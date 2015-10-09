@@ -45,7 +45,7 @@
        * [Абревiацiя](4/abreviaciya.md)
    * [Неморфологiчнi способи словотворення](4/nemorfologichni_sposobi_tvorennya.md)
    * [Запитання до теми](4/zapitannya_do_temi.md)
-* Iменник
+* [Iменник](5/imennik.md)
    * [Групи iменникiв за значенням](5/gruppi_imennikiv_za_znachennyam.md)
    * Рiд iменникiв
        * Рiд незмiнюваних iменникiв iншомовного походження
