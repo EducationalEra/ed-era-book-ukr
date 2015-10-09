@@ -63,7 +63,7 @@
        * [Правопис окремих вiдмiнкових закiнчень iменникiв II вiдмiни в множинi](5/pravopis_okrremih_vidminkovih_znachen_II_vidmini_v_mnojini.md)
    * [Вiдмiнювання iменникiв III вiдмiни](5/vidminuvannya_imennikiv_III_vidmini.md)
    * [Вiдмiнювання iменникiв IV вiдмiни](5/vidminuvannya_imennikiv_IV_vidmini.md)
-   * Написання та вiдмiнювання iмен по батьковi
+   * [Написання та вiдмiнювання iмен по батьковi](5/napisannya_ta_vidminuvannya_imen_po_batkovi.md)
    * Способи творення iменникiв
    * Написання складних iменникiв
    * Правопис НЕ з iменниками
