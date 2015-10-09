@@ -53,7 +53,7 @@
    * [Число iменникiв](5/Chislo_imennikiv.md)
    * [Вiдмiнки iменникiв](5/vidminki_imennikiv.md)
    * [Вiдмiни iменникiв](5/vidmini_imennikiv.md)
-   * Подiл iменникiв на групи
+   * [Подiл iменникiв на групи](5/podil_imennikiv_na_grupi.md)
    * Вiдмiнювання iменникiв I вiдмiни
        * Правопис окремих вiдмiнкових закiнчень iменникiв I вiдмiни в однинi
    * Вiдмiнювання iменникiв II вiдмiни
