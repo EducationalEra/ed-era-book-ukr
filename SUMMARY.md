@@ -48,7 +48,7 @@
 * [Iменник](5/imennik.md)
    * [Групи iменникiв за значенням](5/gruppi_imennikiv_za_znachennyam.md)
    * [Рiд iменникiв](5/rid_imennikiv.md)
-       * Рiд незмiнюваних iменникiв iншомовного походження
+       * [Рiд незмiнюваних iменникiв iншомовного походження](5/rid_nezmin_imen_inshomovnogo_pohod.md)
        * Рiд складноскорочених слiв
    * Число iменникiв
    * Вiдмiнки iменникiв
