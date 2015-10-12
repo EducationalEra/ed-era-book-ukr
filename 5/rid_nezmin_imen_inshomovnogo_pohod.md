@@ -11,6 +11,12 @@
 
 Зверніть увагу, рід незмінюваних іменників іншомовного походження, що позначають власні географічні назви, визначається за родовою ознакою (місто, озеро, гора тощо).  
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/sW4_wbXghZ8" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 
 <br>
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
