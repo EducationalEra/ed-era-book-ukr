@@ -10,6 +10,13 @@
 Деякi iменники в родовому вiдмiнку множини мають паралельнi форми.<br>
 <span class="p1">Наприклад:</span> <i>легень - легенiв, губ - губiв, воєн - вiйн, сосен - сосон тощо.</i>
 
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/u1u-Q2k0_xk" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <quiz> 
     <question>
        <p>Закінчення <span class="p1">-ою</span> у формі орудного відмінка однини мають усі іменники в рядку:</p>
