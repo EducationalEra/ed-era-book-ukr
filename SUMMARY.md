@@ -69,7 +69,7 @@
    * [Правопис НЕ з iменниками](5/pravopis_NE_z_imennikami.md)
 * [Прикметник](6/prikmetnik.md)
    * [Розряди прикметникiв за значенням](6/rozryadi_prikmetnikiv_za_znachennyam.md)
-   * Ступенi порiвняння прикметникiв
+   * [Ступенi порiвняння прикметникiв](6/stupeni_porivnyannya_prikmetnikiv.md)
    * Вiдмiнювання прикметникiв
        * Вiдмiнювання прикметникiв твердої групи
        * Вiдмiнювання прикметникiв м’якої групи
