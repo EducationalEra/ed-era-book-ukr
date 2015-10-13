@@ -77,6 +77,7 @@
        * [Вiдмiнювання прикметникiв на -лиций](6/vidminuvannya_prikmetnikiv_na_liciy.md)
    * [Способи творення прикметникiв](6/sposobi_tvorennya_prikmetnikiv.md)
    * [Правопис прикметникiв](6/pravopis_suficsiv_ov_ev.md)
+       * [Правопис суфiксiв -ов, -ев-, (-єв-) у прикметниках](6/pravopis_suficsiv_ov_ev.md)
        * [Правопис суфiксiв -ичн, -iчн-, -їчн- у прикметниках](6/pravopis_suficsiv_ichn_ichn.md)
        * [Правопис суфiксiв -ин-, -iн-, -iв- у присвiйних прикметниках](6/pravopis_suficsiv_in_in.md)
        * [Написання складних прикметникiв](6/napisannya_skladnih_prikmetnikiv.md)
