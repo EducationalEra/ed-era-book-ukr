@@ -77,18 +77,19 @@
     12. [Способи творення iменникiв](5/sposobi_tvorennya_imennikiv.md)
     13. [Написання складних iменникiв](5/napisannya_skladnih_imennikiv.md)
     14. [Правопис НЕ з iменниками](5/pravopis_NE_z_imennikami.md)
-* Прикметник
-    1. Розряди прикметникiв за значенням
-    2. Ступенi порiвняння прикметникiв
-    3. Вiдмiнювання прикметникiв
-        1. Вiдмiнювання прикметникiв твердої групи
-        2. Вiдмiнювання прикметникiв м’якої групи 
-        3. Вiдмiнювання прикметникiв на -лиций
-    4.  Способи творення прикметникiв 
-    5.  Правопис прикметникiв 
-        1. Правопис суфiксiв -ов, -ев-, (-єв-) у прикметниках
-        2. Правопис суфiксiв -ичн, -iчн-, -їчн- у прикметниках
-        3. Правопис суфiксiв -ин-, -iн-, -iв- у присвiйних прикметниках 
+    15. [Запитання до теми](4/zapitannya_do_temi.md)
+6. [Прикметник](6/prikmetnik.md)
+    1. [Розряди прикметникiв за значенням](6/rozryadi_prikmetnikiv_za_znachennyam.md)
+    2. [Ступенi порiвняння прикметникiв](6/stupeni_porivnyannya_prikmetnikiv.md)
+    3. [Вiдмiнювання прикметникiв](6/vidminuvanya_prikmetnikiv.md)
+        1. [Вiдмiнювання прикметникiв твердої групи](6/vidminuvannya_prikmetnikiv_tverdoi_grupi.md)
+        2. [Вiдмiнювання прикметникiв м’якої групи](6/vidminuvannya_prikmetnikiv_miakoi_grupi.md)
+        3. [Вiдмiнювання прикметникiв на -лиций](6/vidminuvannya_prikmetnikiv_na_liciy.md)
+    4.  [Способи творення прикметникiв](6/sposobi_tvorennya_prikmetnikiv.md)
+    5.  [Правопис прикметникiв](6/pravopis_suficsiv_ov_ev.md)
+        1. [Правопис суфiксiв -ов, -ев-, (-єв-) у прикметниках](6/pravopis_suficsiv_ov_ev.md)
+        2. [Правопис суфiксiв -ичн, -iчн-, -їчн- у прикметниках](6/pravopis_suficsiv_ichn_ichn.md)
+        3. [Правопис суфiксiв -ин-, -iн-, -iв- у присвiйних прикметниках](6/pravopis_suficsiv_in_in.md)
         4. Написання складних прикметникiв 
         5. Правопис не з прикметниками
 * Числiвник
