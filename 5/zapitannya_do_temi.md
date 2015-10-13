@@ -69,3 +69,20 @@
 5. Деякi складноскороченi слова.
 </p>
 </div>
+
+
+<div>
+    <h4 class="question">Які іменники не належать до відмін?</h4>
+    
+    <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
+    
+    <button style="margin-left:5px;" class="hide">Приховати</button>
+    <br>
+            <p class="quiz-question-explanation hide">
+−	Множиннi iменники;
+−	Незмiнюванi iменники iншомовного походження;
+−	Iменники, якi походять вiд прикметникiв;
+−	Жiночi прiзвища на -о та приголосний.
+
+</p>
+</div>
