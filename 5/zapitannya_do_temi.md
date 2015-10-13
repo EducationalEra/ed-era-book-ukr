@@ -79,8 +79,8 @@
     <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
             <p class="quiz-question-explanation hide">
-1. Множиннi iменники;
-2. Незмiнюванi iменники iншомовного походження;
+1. Множиннi iменники;<br>
+2. Незмiнюванi iменники iншомовного походження;<br>
 3. Iменники, якi походять вiд прикметникiв;
 4. Жiночi прiзвища на <span class="p1">-о</span> та приголосний.
 
