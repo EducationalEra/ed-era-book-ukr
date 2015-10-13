@@ -73,7 +73,7 @@
    * [Вiдмiнювання прикметникiв](6/vidminuvanya_prikmetnikiv.md)
        * [Вiдмiнювання прикметникiв твердої групи](6/vidminuvannya_prikmetnikiv_tverdoi_grupi.md)
        * [Вiдмiнювання прикметникiв м’якої групи](6/vidminuvannya_prikmetnikiv_miakoi_grupi.md)
-       * Вiдмiнювання прикметникiв на -лиций
+       * [Вiдмiнювання прикметникiв на -лиций](6/vidminuvannya_prikmetnikiv_na_liciy.md)
    * Способи творення прикметникiв
    * Правопис прикметникiв
        * Правопис суфiксiв -ов, -ев-, (-єв-) у прикметниках
