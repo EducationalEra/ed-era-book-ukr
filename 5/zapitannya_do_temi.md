@@ -86,3 +86,16 @@
 
 </p>
 </div>
+
+
+<div>
+    <h4 class="question">На які групи поділяються іменники I і II відмін?</h4>
+    
+    <button style="margin-right:5px;" class="show">Показати правильну відповідь</button>
+    
+    <button style="margin-left:5px;" class="hide">Приховати</button>
+    <br>
+            <p class="quiz-question-explanation hide">
+Іменники I і II відмін поділяються на <b>тверду</b>, <b>м’яку</b> та <b>мішану</b> групи.
+</p>
+</div>
