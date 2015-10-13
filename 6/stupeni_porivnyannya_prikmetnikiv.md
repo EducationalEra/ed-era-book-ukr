@@ -24,6 +24,12 @@
 <br>
 <font color="orange">Винятки:</font> легкий – легший, довгий – довший.
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/b90DoL5r28s" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 
 <quiz> 
     <question>
