@@ -67,6 +67,7 @@
    * [Способи творення iменникiв](5/sposobi_tvorennya_imennikiv.md)
    * [Написання складних iменникiв](5/napisannya_skladnih_imennikiv.md)
    * [Правопис НЕ з iменниками](5/pravopis_NE_z_imennikami.md)
+   * Запитання до теми
 * [Прикметник](6/prikmetnik.md)
    * [Розряди прикметникiв за значенням](6/rozryadi_prikmetnikiv_za_znachennyam.md)
    * [Ступенi порiвняння прикметникiв](6/stupeni_porivnyannya_prikmetnikiv.md)
