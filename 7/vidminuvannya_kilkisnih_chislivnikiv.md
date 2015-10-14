@@ -47,3 +47,15 @@
 <img src="../pics/7/6.png" width="550px" class="center"/>
 </div>
 <br>
+
+
+
+<p><b>&rarr;</b> У складних числiвниках двiстi-дев’ятсот, кiлькасот вiдмiню-
+ються обидвi частини.</p>
+ 
+
+
+<div class="center">
+<img src="../pics/7/7.png" width="350px" class="center"/>
+</div>
+<br>
