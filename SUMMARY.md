@@ -84,7 +84,7 @@
    * [Запитання до теми](6/zapitannya_do_temi.md)
 * Числiвник
    * Розряди числiвникiв за значенням i граматичними ознаками
-   * [Розряди числiвникiв за будовою](7/rozryadi_chislivnikiv_za_budovoyu.md)
+   * Розряди числiвникiв за будовою
    * Вiдмiнювання числiвникiв
        * [Вiдмiнювання кiлькiсних числiвникiв](7/vidminuvannya_kilkisnih_chislivnikiv.md)
        * [Вiдмiнювання порядкових числiвникiв](7/vimiruvannya_poryadkovih_chislivnikiv.md)
