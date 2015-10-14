@@ -87,7 +87,7 @@
    * [Розряди числiвникiв за будовою](7/rozryadi_chislivnikiv_za_budovoyu.md)
    * Вiдмiнювання числiвникiв
        * [Вiдмiнювання кiлькiсних числiвникiв](7/vidminuvannya_kilkisnih_chislivnikiv.md)
-       * Вiдмiнювання порядкових числiвникiв
+       * [Вiдмiнювання порядкових числiвникiв](7/vimiruvannya_poryadkovih_chislivnikiv.md)
    * Узгодження числiвникiв з iменниками
    * Правопис числiвникiв
    * Позначення часу
