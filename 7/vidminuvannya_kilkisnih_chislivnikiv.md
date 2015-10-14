@@ -29,3 +29,11 @@
 <img src="../pics/7/4.png" width="700px" class="center"/>
 </div>
 <br>
+
+4. Ускладних числiвниках п’ятдесят-вiсiмдесят, кiлькадесят вiдмiнюється тiльки друга частина.
+
+
+<div class="center">
+<img src="../pics/7/5.png" width="600px" class="center"/>
+</div>
+<br>
