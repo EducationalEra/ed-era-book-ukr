@@ -68,3 +68,12 @@
 <img src="../pics/7/9.png" width="350px" class="center"/>
 </div>
 <br>
+
+
+<p><b>&rarr;</b> Числiвники пiвтора, пiвтори, пiвтораста не вiдмiнюються.</p>
+<p><b>&rarr;</b> У складених кiлькiсних числiвниках вiдмiнюються всi складовi частини.</p>
+
+<div class="center">
+<img src="../pics/7/10.png" width="700px" class="center"/>
+</div>
+<br>
