@@ -88,7 +88,7 @@
    * Вiдмiнювання числiвникiв
        * [Вiдмiнювання кiлькiсних числiвникiв](7/vidminuvannya_kilkisnih_chislivnikiv.md)
        * [Вiдмiнювання порядкових числiвникiв](7/vimiruvannya_poryadkovih_chislivnikiv.md)
-   * Узгодження числiвникiв з iменниками
+   * [Узгодження числiвникiв з iменниками](7/uzgodzennya_chislivnikiv_z_imennikami.md)
    * Правопис числiвникiв
    * Позначення часу
 * Займенник
