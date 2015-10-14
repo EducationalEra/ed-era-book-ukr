@@ -86,7 +86,7 @@
    * [Розряди числiвникiв за значенням i граматичними ознаками](7/rozryzdi_chislivnikiv_za_znachennyam.md)
    * [Розряди числiвникiв за будовою](7/rozryadi_chislivnikiv_za_budovoyu.md)
    * Вiдмiнювання числiвникiв
-       * Вiдмiнювання кiлькiсних числiвникiв
+       * [Вiдмiнювання кiлькiсних числiвникiв](7/vidminuvannya_kilkisnih_chislivnikiv.md)
        * Вiдмiнювання порядкових числiвникiв
    * Узгодження числiвникiв з iменниками
    * Правопис числiвникiв
