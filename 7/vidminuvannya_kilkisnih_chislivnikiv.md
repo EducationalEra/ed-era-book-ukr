@@ -44,6 +44,6 @@
 
 
 <div class="center">
-<img src="../pics/7/6.png" width="650px" class="center"/>
+<img src="../pics/7/6.png" width="550px" class="center"/>
 </div>
 <br>
