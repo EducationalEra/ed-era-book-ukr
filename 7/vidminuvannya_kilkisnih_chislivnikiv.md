@@ -13,3 +13,10 @@
 <img src="../pics/7/3.png" width="600px" class="center"/>
 </div>
 <br>
+
+
+<div class="add-wrap">
+<span class="add">ЗНО</span>
+<div class="add-text">
+В орудному вiдмiнку числiвники <b>чотири</b> та <b>багато</b> мають закiнчення –ма : <i>чотирма, багатьма</i>.
+</div>
