@@ -77,13 +77,12 @@
        * [Вiдмiнювання прикметникiв на -лиций](6/vidminuvannya_prikmetnikiv_na_liciy.md)
    * [Способи творення прикметникiв](6/sposobi_tvorennya_prikmetnikiv.md)
    * [Правопис прикметникiв](6/pravopis_suficsiv_ov_ev.md)
-       * [Правопис суфiксiв -ов, -ев-, (-єв-) у прикметниках](6/pravopis_suficsiv_ov_ev.md)
        * [Правопис суфiксiв -ичн, -iчн-, -їчн- у прикметниках](6/pravopis_suficsiv_ichn_ichn.md)
        * [Правопис суфiксiв -ин-, -iн-, -iв- у присвiйних прикметниках](6/pravopis_suficsiv_in_in.md)
        * [Написання складних прикметникiв](6/napisannya_skladnih_prikmetnikiv.md)
        * [Правопис НЕ з прикметниками](6/pravopis_NE_z_prikmetnikami.md)
    * [Запитання до теми](6/zapitannya_do_temi.md)
-* Числiвник
+* [Числiвник](7/chislivnik.md)
    * Розряди числiвникiв за значенням i граматичними озна-
    * Розряди числiвникiв за будовою
    * Вiдмiнювання числiвникiв
