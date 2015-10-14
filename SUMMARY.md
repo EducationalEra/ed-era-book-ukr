@@ -82,7 +82,7 @@
        * [Написання складних прикметникiв](6/napisannya_skladnih_prikmetnikiv.md)
        * [Правопис НЕ з прикметниками](6/pravopis_NE_z_prikmetnikami.md)
    * [Запитання до теми](6/zapitannya_do_temi.md)
-* [Числiвник](7/chislivnik.md)
+* Числiвник
    * Розряди числiвникiв за значенням i граматичними ознаками
    * [Розряди числiвникiв за будовою](7/rozryadi_chislivnikiv_za_budovoyu.md)
    * Вiдмiнювання числiвникiв
