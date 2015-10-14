@@ -10,7 +10,7 @@
 <p><b>&rarr;</b> Числiвники <span class="p1">два, три, чотири</span> мають однаковi закiнчення у непрямих вiдмiнках (крiм знахiдного та орудного), як i збiрнi числiвники <span class="p1">обидва, обидвi, обоє, багато, кiлька</span>.</p>
 
 <div class="center">
-<img src="../pics/7/3.png" width="700px" class="center"/>
+<img src="../pics/7/4.png" width="700px" class="center"/>
 </div>
 <br>
 
@@ -26,15 +26,15 @@
 
 
 <div class="center">
-<img src="../pics/7/4.png" width="700px" class="center"/>
+<img src="../pics/7/5.png" width="700px" class="center"/>
 </div>
 <br>
 
-<p><b>&rarr;</b> Ускладних числiвниках п’ятдесят-вiсiмдесят, кiлькадесят вiдмiнюється тiльки друга частина.</p>
+<p><b>&rarr;</b> У складних числiвниках п’ятдесят-вiсiмдесят, кiлькадесят вiдмiнюється тiльки друга частина.</p>
 
 
 <div class="center">
-<img src="../pics/7/5.png" width="600px" class="center"/>
+<img src="../pics/7/6.png" width="600px" class="center"/>
 </div>
 <br>
 
@@ -44,7 +44,7 @@
 
 
 <div class="center">
-<img src="../pics/7/6.png" width="550px" class="center"/>
+<img src="../pics/7/7.png" width="500px" class="center"/>
 </div>
 <br>
 
@@ -55,7 +55,7 @@
 
 
 <div class="center">
-<img src="../pics/7/7.png" width="350px" class="center"/>
+<img src="../pics/7/8.png" width="350px" class="center"/>
 </div>
 <br>
 
@@ -65,6 +65,6 @@
 <p><b>&rarr;</b> Дробовi числiвники вiдмiнюються так: чисельник — як кiлькiсний числiвник, а знаменник – як порядковий.</p>
 
 <div class="center">
-<img src="../pics/7/8.png" width="350px" class="center"/>
+<img src="../pics/7/9.png" width="350px" class="center"/>
 </div>
 <br>
