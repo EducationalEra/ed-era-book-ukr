@@ -89,7 +89,7 @@
        * [Вiдмiнювання кiлькiсних числiвникiв](7/vidminuvannya_kilkisnih_chislivnikiv.md)
        * [Вiдмiнювання порядкових числiвникiв](7/vimiruvannya_poryadkovih_chislivnikiv.md)
    * [Узгодження числiвникiв з iменниками](7/uzgodzennya_chislivnikiv_z_imennikami.md)
-   * Правопис числiвникiв
+   * [Правопис числiвникiв](7/pravopis_chislivnikiv.md)
    * Позначення часу
 * Займенник
    * Розряди займенникiв за значенням
