@@ -91,7 +91,7 @@
    * Узгодження числiвникiв з iменниками
    * Правопис числiвникiв
 * Займенник
-   * [Розряди займенникiв за значенням](8/rozryadi_imennikiv_za_znachennyam.md)
+   * Розряди займенникiв за значенням
    * [Вiдмiнювання займенникiв](8/vidminuvannya_zaimennikiv.md)
    * [Правопис займенникiв](8/pravopis_zaimennikiv.md)
 * Прислiвник
