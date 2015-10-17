@@ -1,0 +1,11 @@
+#Прислівник
+
+<div class="space">
+<div class="eoz-wrap">
+<span class="eoz">Означення</span>
+<div class="eoz-text">
+<strong>Прислiвник</strong> – незмiнювана самостiйна частина мови, яка виражає ознаку стану, дiї, iншої ознаки чи предмета i вiдповiдає на питання <span class="p1">де? як? куди? звiдки? чому? коли?</span>
+</div>
+</div>
+</div>
+<br>
