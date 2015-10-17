@@ -97,7 +97,7 @@
 * [Прислiвник](9/prislivnik.md)
    * [Розряди прислiвникiв за значенням](9/rozryadi_prislivnikiv_za_znachennyam.md)
    * [Ступенi порiвняння прислiвникiв](9/stupeni_porivnyannya_prislivnikiv.md)
-   * Способи творення прислiвникiв
+   * [Способи творення прислiвникiв](9/sposobi_tvorennya_prislivnikiv.md)
    * Правопис прислiвникiв
        * Правопис не з прислiвниками
        * Лiтери и, i в прислiвниках
