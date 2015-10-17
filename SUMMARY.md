@@ -98,7 +98,7 @@
    * [Розряди прислiвникiв за значенням](9/rozryadi_prislivnikiv_za_znachennyam.md)
    * [Ступенi порiвняння прислiвникiв](9/stupeni_porivnyannya_prislivnikiv.md)
    * [Способи творення прислiвникiв](9/sposobi_tvorennya_prislivnikiv.md)
-   * Правопис прислiвникiв
+   * [Правопис прислiвникiв](9/pravopis_prislivnikiv.md)
        * [Правопис НЕ з прислiвниками](9/pravopis_ne_z_prislivnikami.md)
        * Лiтери и, i в прислiвниках
 * Дiєслово. Дiєприкметник. Дiєприслiвник
