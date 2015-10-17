@@ -93,7 +93,7 @@
 * [Займенник](8/zaymennik.md)
    * [Розряди займенникiв за значенням](8/rozryadi_imennikiv_za_znachennyam.md)
    * [Вiдмiнювання займенникiв](8/vidminuvannya_zaimennikiv.md)
-   * Правопис займенникiв
+   * [Правопис займенникiв](8/pravopis_zaimennikiv.md)
 * Прислiвник
    * Розряди прислiвникiв за значенням
    * Ступенi порiвняння прислiвникiв
