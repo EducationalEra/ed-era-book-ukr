@@ -95,7 +95,7 @@
    * Вiдмiнювання займенникiв
    * Правопис займенникiв
 * Прислiвник
-   * [Розряди прислiвникiв за значенням](9/rozryadi_prislivnikiv_za_znachennyam.md)
+   * Розряди прислiвникiв за значенням
    * [Ступенi порiвняння прислiвникiв](9/stupeni_porivnyannya_prislivnikiv.md)
    * [Способи творення прислiвникiв](9/sposobi_tvorennya_prislivnikiv.md)
    * [Правопис прислiвникiв](9/pravopis_prislivnikiv.md)
