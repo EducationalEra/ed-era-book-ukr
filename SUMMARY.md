@@ -96,7 +96,7 @@
    * Правопис займенникiв
 * Прислiвник
    * Розряди прислiвникiв за значенням
-   * [Способи творення прислiвникiв](9/sposobi_tvorennya_prislivnikiv.md)
+   * Способи творення прислiвникiв
    * [Правопис прислiвникiв](9/pravopis_prislivnikiv.md)
        * [Правопис НЕ з прислiвниками](9/pravopis_ne_z_prislivnikami.md)
        * [Лiтери и, i в прислiвниках](9/literi i, i v prislivmikah.md)
