@@ -100,6 +100,7 @@
    * [Способи творення прислiвникiв](9/sposobi_tvorennya_prislivnikiv.md)
    * [Правопис прислiвникiв](9/pravopis_prislivnikiv.md)
        * [Правопис НЕ з прислiвниками](9/pravopis_ne_z_prislivnikami.md)
+       * Лiтери и, i в прислiвниках
 * Дiєслово. Дiєприкметник. Дiєприслiвник
    * Дiєслово
        * Перехiднi та неперехiднi дiєслова
