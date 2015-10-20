@@ -18,6 +18,6 @@
 <p style="text-align:center;">Форма дієслова</p>
 
 <div class="center">
-<img src="../pics/10/1.png" width="700px" class="center"/>
+<img src="../pics/10/1.png" width="800px" class="center"/>
 </div>
 <br>
