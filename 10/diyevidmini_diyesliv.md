@@ -15,11 +15,10 @@
 <img src="../pics/10/9.png" width="600px" class="center"/>
 </div>
 <br>
-<br>
 <hr>
 
 
-<span class="p1">До <b>II дiєвiдмiни</b> також належать:</span>
+<span class="p1">До <b>II дiєвiдмiни</b></span> також належать:
 <ul>
 <li>Усi дiєслова на хотiти: <i>булькотiти, бурмотiти, муркотiти, цокотiти</i>.</li>
 <li> <i>Боятися, стояти</i> (з основою на <span class="p1">-я</span>).</li>
