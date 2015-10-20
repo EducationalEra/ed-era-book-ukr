@@ -16,3 +16,8 @@
 У реченнi переважно виконує функцiю присудка.
 
 <p style="text-align:center;">Форма дієслова</p>
+
+<div class="center">
+<img src="../pics/10/1.png" width="700px" class="center"/>
+</div>
+<br>
