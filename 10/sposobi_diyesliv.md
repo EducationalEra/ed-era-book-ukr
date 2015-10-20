@@ -12,3 +12,8 @@
 <img src="../pics/10/6.png" width="650px" class="center"/>
 </div>
 <br>
+
+<div class="center">
+<img src="../pics/10/7.png" width="650px" class="center"/>
+</div>
+<br>
