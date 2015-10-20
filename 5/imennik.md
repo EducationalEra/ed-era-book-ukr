@@ -1,11 +1,9 @@
 #Іменник
 
-<div class="space">
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
 <b>Іменник</b> — самостiйна частина мови, що має значення предметностi (називає особу, предмет, явище) та вiдповiдає на запитання <strong>хто?</strong> <strong>що?.</strong>
-</div>
 </div>
 </div>
 
