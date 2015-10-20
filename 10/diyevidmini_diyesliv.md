@@ -4,6 +4,6 @@
 
 <p style="text-align:center;"><span class="p1">Вживання форми одного способу дiєслова у значеннi iншого</span></p>
 <div class="center">
-<img src="../pics/10/9.png" width="800px" class="center"/>
+<img src="../pics/10/9.png" width="600px" class="center"/>
 </div>
 <br>
