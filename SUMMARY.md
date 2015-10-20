@@ -107,7 +107,7 @@
        * [Часи дiєслова](10/chasi_diyeslova.md)
        * [Способи дiєслiв](10/sposobi_diyesliv.md)
        * [Дiєвiдмiни дiєслiв](10/diyevidmini_diyesliv.md)
-       * [Способи творення дiєслiв](10/sposobi_tvorennya_sliv.md)
+       * Способи творення дiєслiв
    * Дiєприкметник
        * Активнi та пасивнi дiєприкметники
        * Дiєприкметниковий зворот
