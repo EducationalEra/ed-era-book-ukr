@@ -17,3 +17,12 @@
 <img src="../pics/10/7.png" width="650px" class="center"/>
 </div>
 <br>
+
+
+<div class="add-wrap">
+<span class="add">ЗНО</span>
+<div class="add-text">
+Форму наказового способу дiєслова не варто утворювати за допомогою
+часток <b>давай, давайте</b>, бо це не вiдповiдає лiтературнiй нормi.
+</div>
+<br>
