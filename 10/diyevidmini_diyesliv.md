@@ -9,3 +9,5 @@
 </div>
 <br>
 
+<p><b>&rarr;</b> За <span class="p1">основою iнфiнiтива</span> (тобто частиною дiєслова без <span class="p1">-ти</span>)
+
