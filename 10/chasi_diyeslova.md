@@ -3,7 +3,7 @@
 Час дiєслова визначається за моментом повiдомлення про дiю.
 
 <div class="center">
-<img src="../pics/10/3.png" width="700px" class="center"/>
+<img src="../pics/10/3.png" width="650px" class="center"/>
 </div>
 <br>
 
@@ -13,7 +13,7 @@
 
 
 <div class="center">
-<img src="../pics/10/4.png" width="650px" class="center"/>
+<img src="../pics/10/4.png" width="600px" class="center"/>
 </div>
 
 <p style="text-align:center;"><span class="p1">Форма дієслова</span></p>
