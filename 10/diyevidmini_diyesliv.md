@@ -50,6 +50,6 @@
 
 ##Чергування приголосних за дiєвiдмiнювання
 <div class="center">
-<img src="../pics/10/12.png" width="680px" class="center"/>
+<img src="../pics/10/12.png" width="750px" class="center"/>
 </div>
 <br>
