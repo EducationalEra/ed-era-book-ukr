@@ -26,3 +26,11 @@
 <li> <i>Cпати</i> (з основою на <span class="p1">-а</span> не пiсля шиплячого).</li>
 <li> <i>Бiгти</i> (з основою на приголосний).</li>
 </ul>
+
+
+<span class="p1">До I дiєвiдмiни</span> також належать дiєслова <i>хотiти, жати, iржати, ревiти, слати</i>.
+
+<div class="center">
+<img src="../pics/10/10.png" width="600px" class="center"/>
+</div>
+<br>
