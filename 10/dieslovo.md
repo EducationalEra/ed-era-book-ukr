@@ -13,7 +13,7 @@
 рiд.<br>
 У реченнi переважно виконує функцiю присудка.
 
-<p style="text-align:center;">Форма дієслова</p>
+<p style="text-align:center;"><span class="p1">Форма дієслова</span></p>
 
 <div class="center">
 <img src="../pics/10/1.png" width="800px" class="center"/>
