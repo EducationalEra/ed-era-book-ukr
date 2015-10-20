@@ -30,6 +30,7 @@
 
 <span class="p1">До I дiєвiдмiни</span> також належать дiєслова <i>хотiти, жати, iржати, ревiти, слати</i>.
 
+<p style="text-align:center;"><span class="p1">Особовi закiнчення дiєслiв I i II дiєвiдмiн</span></p>
 <div class="center">
 <img src="../pics/10/10.png" width="600px" class="center"/>
 </div>
