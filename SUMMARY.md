@@ -116,7 +116,7 @@
        * [Активнi та пасивнi дiєприкметники](10/aktivni_ta_pasivni_diyeprikmetniki.md)
        * [Дiєприкметниковий зворот](10/diyeprikmetnikoviy_zvorot.md)
    * [Дiєприслiвник](10/diyeprislivnik.md)
-       * [Творення дiєприслiвникiв](10/tvorennya_diyeprislivnikiv.md)
+       * Творення дiєприслiвникiв
        * Дiєприслiвниковий зворот
    * Правопис
        * Правопис НЕ з дiєcловами та дiєприслiвниками
