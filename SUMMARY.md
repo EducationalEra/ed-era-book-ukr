@@ -39,7 +39,7 @@
    * [Корiнь](4/korin.md)
    * [Префікс](4/prefics.md)
    * [Суфікс](4/sufics.md)
-   * Постфiкс і інтерфікс
+   * [Постфiкс і інтерфікс](4/postfics.md)
    * Морфологiчнi способи словотворення
        * [Суфіксальний спосіб](4/sufiksalniy_sposib.md)
        * [Префiксальний спосiб](4/prefiksalniy_sposib.md)
