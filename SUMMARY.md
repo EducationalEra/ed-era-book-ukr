@@ -96,7 +96,7 @@
    * [Правопис числiвникiв](7/pravopis_chislivnikiv.md)
 * [Займенник](8/zaymennik.md)
    * [Розряди займенникiв за значенням](8/rozryadi_zaimennikiv_za_znachennyam.md)
-   * Вiдмiнювання займенникiв
+   * [Вiдмiнювання займенникiв](8/vidminuvannya_zaimennikiv.md)
    * Правопис займенникiв
 * Прислiвник
    * Розряди прислiвникiв за значенням
