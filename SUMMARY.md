@@ -94,7 +94,7 @@
        * [Вiдмiнювання порядкових числiвникiв](7/vimiruvannya_poryadkovih_chislivnikiv.md)
    * [Узгодження числiвникiв з iменниками](7/uzgodzennya_chislivnikiv_z_imennikami.md)
    * [Правопис числiвникiв](7/pravopis_chislivnikiv.md)
-* Займенник
+* [Займенник](8/zaymennik.md)
    * Розряди займенникiв за значенням
    * Вiдмiнювання займенникiв
    * Правопис займенникiв
