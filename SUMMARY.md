@@ -34,7 +34,6 @@
    * [Словник найуживаніших фразеологізмів](3/slovnik_naiuzhivanshih_frazeologzmv.md)
    * [Запитання до теми](3/zapitannya_do_temi.md)
 * [Будова слова](4/budova_slova.md)
-   * [Неморфологiчнi способи словотворення](4/nemorfologichni_sposobi_tvorennya.md)
    * [Запитання до теми](4/zapitannya_do_temi.md)
 * [Iменник](5/imennik.md)
    * [Групи iменникiв за значенням](5/gruppi_imennikiv_za_znachennyam.md)
