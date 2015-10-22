@@ -113,7 +113,7 @@
        * Дiєвiдмiни дiєслiв
        * Способи творення дiєслiв
    * Дiєприкметник
-       * [Активнi та пасивнi дiєприкметники](10/aktivni_ta_pasivni_diyeprikmetniki.md)
+       * Активнi та пасивнi дiєприкметники
        * [Дiєприкметниковий зворот](10/diyeprikmetnikoviy_zvorot.md)
    * [Дiєприслiвник](10/diyeprislivnik.md)
        * Творення дiєприслiвникiв
