@@ -101,10 +101,10 @@
         2. [Вiдмiнювання порядкових числiвникiв](7/vimiruvannya_poryadkovih_chislivnikiv.md)
     4. [Узгодження числiвникiв з iменниками](7/uzgodzennya_chislivnikiv_z_imennikami.md)
     5. [Правопис числiвникiв](7/pravopis_chislivnikiv.md)
-* Займенник 
-    1. Розряди займенникiв за значенням
-    2. Вiдмiнювання займенникiв
-    3. Правопис займенникiв
+8. [Займенник](8/zaymennik.md)
+    1. [Розряди займенникiв за значенням](8/rozryadi_zaimennikiv_za_znachennyam.md)
+    2. [Вiдмiнювання займенникiв](8/vidminuvannya_zaimennikiv.md)
+    3. [Правопис займенникiв](8/pravopis_zaimennikiv.md)
 * Прислiвник
     1. Розряди прислiвникiв за значенням
     2. Ступенi порiвняння прислiвникiв
