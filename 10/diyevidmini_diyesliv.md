@@ -12,7 +12,7 @@
 
 <p><b>&rarr;</b> За <span class="p1">основою iнфiнiтива</span> (тобто частиною дiєслова без <span class="p1">-ти</span>)
 <div class="center">
-<img src="../pics/10/9.png" width="600px" class="center"/>
+<img src="../pics/10/10.png" width="600px" class="center"/>
 </div>
 <br>
 <hr>
@@ -31,7 +31,7 @@
 
 <p style="text-align:center;"><span class="p1">Особовi закiнчення дiєслiв I i II дiєвiдмiн</span></p>
 <div class="center">
-<img src="../pics/10/10.png" width="650px" class="center"/>
+<img src="../pics/10/11.png" width="650px" class="center"/>
 </div>
 <br>
 
@@ -41,7 +41,7 @@
 Дiєслова <span class="p1">дати, їсти, бути, . . . повiсти</span> (<span class="p1">розповiсти, доповiсти</span> тощо) утворюють окрему групу. Вони <b>НЕ</b> належать до дiєвiдмiн, як i
 похiднi вiд них.
 <div class="center">
-<img src="../pics/10/11.png" width="700px" class="center"/>
+<img src="../pics/10/12.png" width="700px" class="center"/>
 </div>
 <br>
 
@@ -50,6 +50,6 @@
 
 ##Чергування приголосних за дiєвiдмiнювання
 <div class="center">
-<img src="../pics/10/12.png" width="750px" class="center"/>
+<img src="../pics/10/13.png" width="750px" class="center"/>
 </div>
 <br>
