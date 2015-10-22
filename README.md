@@ -93,16 +93,14 @@
         4. [Написання складних прикметникiв](6/napisannya_skladnih_prikmetnikiv.md)
         5. [Правопис НЕ з прикметниками](6/pravopis_NE_z_prikmetnikami.md)
     6. [Запитання до теми](6/zapitannya_do_temi.md)
-* Числiвник
-    1. Розряди числiвникiв за значенням i граматичними озна-
-ками
-    2. Розряди числiвникiв за будовою 
+7. [Числiвник](7/chislivnik.md)
+    1. [Розряди числiвникiв за значенням i граматичними ознаками](7/rozryzdi_chislivnikiv_za_znachennyam.md)
+    2. [Розряди числiвникiв за будовою](7/rozryadi_chislivnikiv_za_budovoyu.md) 
     3. Вiдмiнювання числiвникiв 
-        1. Вiдмiнювання кiлькiсних числiвникiв
-        2. Вiдмiнювання порядкових числiвникiв
-    4. Узгодження числiвникiв з iменниками
-    5. Правопис числiвникiв 
-    6. Позначення часу
+        1. [Вiдмiнювання кiлькiсних числiвникiв](7/vidminuvannya_kilkisnih_chislivnikiv.md)
+        2. [Вiдмiнювання порядкових числiвникiв](7/vimiruvannya_poryadkovih_chislivnikiv.md)
+    4. [Узгодження числiвникiв з iменниками](7/uzgodzennya_chislivnikiv_z_imennikami.md)
+    5. [Правопис числiвникiв](7/pravopis_chislivnikiv.md)
 * Займенник 
     1. Розряди займенникiв за значенням
     2. Вiдмiнювання займенникiв
