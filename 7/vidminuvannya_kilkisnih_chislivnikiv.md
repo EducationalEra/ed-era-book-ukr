@@ -84,3 +84,18 @@
 </div>
 <br>
 <hr>
+
+
+<quiz> 
+    <question>
+       <p>Правильною є відмінкова форма числівника</p>
+           <answer>Називний відмінок – ста</answer>
+           <answer>Родовий відмінок – сорокох</answer>
+           <answer>Давальний відмінок – дев’яностам</answer>
+           <answer correct>Орудний відмінок – ста</answer>
+      <explanation>
+Числівники <span class="p1">сорок, дев’яносто, сто</span> мають закінчення <span class="p1">–а</span> в усіх відмінках, крім називного та знахідного.
+</explanation>
+    </question>
+</quiz> 
+
