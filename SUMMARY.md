@@ -35,7 +35,7 @@
    * [Запитання до теми](3/zapitannya_do_temi.md)
 * [Будова слова](4/budova_slova.md)
    * [Закінчення](4/Zakinchennya.md)
-   * Основа слова
+   * [Основа слова](4/Osnova_slova.md)
    * Корiнь
    * Префікс
    * Суфікс
