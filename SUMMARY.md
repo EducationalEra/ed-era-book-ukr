@@ -35,6 +35,7 @@
    * [Запитання до теми](3/zapitannya_do_temi.md)
 * [Будова слова](4/budova_slova.md)
    * Будова сдова
+       * Закінчення
 * [Iменник](5/imennik.md)
    * [Групи iменникiв за значенням](5/gruppi_imennikiv_za_znachennyam.md)
    * [Рiд iменникiв](5/rid_imennikiv.md)
