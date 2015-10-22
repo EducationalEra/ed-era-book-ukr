@@ -35,6 +35,7 @@
    * [Запитання до теми](3/zapitannya_do_temi.md)
 * [Будова слова](4/budova_slova.md)
    * [Словотвiр](4/slovotvir.md)
+       * nlr
    * [Морфологiчнi способи словотворення](4/morfologichni_sposobi_slovotvorennya.md)
        * [Суфiксальний спосiб](4/sufiksalniy_sposib.md)
        * [Префiксальний спосiб](4/prefiksalniy_sposib.md)
