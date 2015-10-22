@@ -46,7 +46,7 @@
        * [Безсуфiксний спосiб](4/bezsufiksniy_sposib.md)
        * [Основоскладання](4/osnovoskladannya.md)
        * [Словоскладання](4/slovoskladannya.md)
-       * Абревiацiя
+       * [Абревiацiя](4/abreviaciya.md)
    * Неморфологiчнi способи словотворення
    * Запитання до теми
    * Постфiкс і інтерфікс
