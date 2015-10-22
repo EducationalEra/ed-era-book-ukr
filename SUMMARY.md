@@ -43,7 +43,7 @@
        * [Суфіксальний спосіб](4/sufiksalniy_sposib.md)
        * [Префiксальний спосiб](4/prefiksalniy_sposib.md)
        * [Префiксально-суфiксальний спосiб](4/prefiksalno-sufiksalniy_sposib.md)
-       * Безсуфiксний спосiб
+       * [Безсуфiксний спосiб](4/bezsufiksniy_sposib.md)
        * Основоскладання
        * Словоскладання
        * Абревiацiя
