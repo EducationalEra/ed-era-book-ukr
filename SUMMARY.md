@@ -34,7 +34,7 @@
    * [Словник найуживаніших фразеологізмів](3/slovnik_naiuzhivanshih_frazeologzmv.md)
    * [Запитання до теми](3/zapitannya_do_temi.md)
 * [Будова слова](4/budova_slova.md)
-   * Будова сдова
+   * [Будова сдова](4/budova_slova.md)
        * Закінчення
        * Основа слова
        * Корінь
