@@ -111,18 +111,18 @@
     3. [Правопис прислiвникiв](9/pravopis_prislivnikiv.md)
         1. [Правопис НЕ з прислiвниками](9/pravopis_ne_z_prislivnikami.md)
         2. [Лiтери и, i в прислiвниках](9/literi i, i v prislivmikah.md)
-* Дiєслово. Дiєприкметник. Дiєприслiвник
-    1. Дiєслово
-        1. Перехiднi та неперехiднi дiєслова
-        2. Види дiєслова
-        3. Часи дiєслова
-        4. Способи дiєслiв
-        5. Дiєвiдмiни дiєслiв
-        6. Способи творення дiєслiв
-    2. Дiєприкметник
-        1. Активнi та пасивнi дiєприкметники
-        2. Дiєприкметниковий зворот
-    3. Дiєприслiвник
+10. [Дiєслово. Дiєприкметник. Дiєприслiвник](10/Diyeslovo_diyeprikmetnik_diyeprislivnik.md)
+    1. [Дiєслово](10/dieslovo.md)
+        1. [Перехiднi та неперехiднi дiєслова](10/perehidni_ta_neperehidni_diyeslova.md)
+        2. [Види дiєслова](10/vidi_diyeslova.md)
+        3. [Часи дiєслова](10/chasi_diyeslova.md)
+        4. [Способи дiєслiв](10/sposobi_diyesliv.md)
+        5. [Дiєвiдмiни дiєслiв](10/diyevidmini_diyesliv.md)
+        6. [Способи творення дiєслiв](10/sposobi_tvorennya_sliv.md)
+    2. [Дiєприкметник](10/diyeprikmetnik.md)
+        1. [Активнi та пасивнi дiєприкметники](10/aktivni_ta_pasivni_diyeprikmetniki.md)
+        2. [Дiєприкметниковий зворот](10/diyeprikmetnikoviy_zvorot.md)
+    3. [Дiєприслiвник](10/diyeprislivnik.md)
         1. Творення дiєприслiвникiв
         2. Дiєприслiвниковий зворот
     4. Правопис
