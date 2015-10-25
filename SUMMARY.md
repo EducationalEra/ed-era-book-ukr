@@ -117,7 +117,7 @@
        * [Дiєприкметниковий зворот](10/diyeprikmetnikoviy_zvorot.md)
    * [Дiєприслiвник](10/diyeprislivnik.md)
        * [Творення дiєприслiвникiв](10/tvorennya_diyeprislivnikiv.md)
-       * Дiєприслiвниковий зворот
+       * [Дiєприслiвниковий зворот](10/diyeprislivnikoviy_zvorot.md)
    * Правопис
        * Правопис НЕ з дiєcловами та дiєприслiвниками
        * Правопис НЕ з дiєприкметниками
