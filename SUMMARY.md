@@ -118,7 +118,7 @@
    * [Дiєприслiвник](10/diyeprislivnik.md)
        * [Творення дiєприслiвникiв](10/tvorennya_diyeprislivnikiv.md)
        * [Дiєприслiвниковий зворот](10/diyeprislivnikoviy_zvorot.md)
-   * Правопис
+   * [Правопис](10/Pravopis.md)
        * Правопис НЕ з дiєcловами та дiєприслiвниками
        * Правопис НЕ з дiєприкметниками
 * [Службовi частини мови та вигук](11/sluzbovi_chastini_movi.md)
