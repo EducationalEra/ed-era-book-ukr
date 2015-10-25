@@ -120,7 +120,7 @@
        * [Дiєприслiвниковий зворот](10/diyeprislivnikoviy_zvorot.md)
    * [Правопис](10/Pravopis.md)
        * [Правопис НЕ з дiєcловами та дiєприслiвниками](10/pravopis_NE_z_diyeslovami.md)
-       * Правопис НЕ з дiєприкметниками
+       * [Правопис НЕ з дiєприкметниками](10/pravopis_NE_z_diyeprikmetnikami.md)
 * [Службовi частини мови та вигук](11/sluzbovi_chastini_movi.md)
    * [Прийменник](11/priymennik.md)
        * [Групи прийменникiв за будовою](11/grupi_priymennikiv_za_budovoyu.md)
