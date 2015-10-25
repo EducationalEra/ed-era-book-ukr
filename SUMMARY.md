@@ -112,16 +112,16 @@
        * [Способи дiєслiв](10/sposobi_diyesliv.md)
        * [Дiєвiдмiни дiєслiв](10/diyevidmini_diyesliv.md)
        * [Способи творення дiєслiв](10/sposobi_tvorennya_sliv.md)
-   * [Дiєприкметник](10/diyeprikmetnik.md)
-       * [Активнi та пасивнi дiєприкметники](10/aktivni_ta_pasivni_diyeprikmetniki.md)
-       * [Дiєприкметниковий зворот](10/diyeprikmetnikoviy_zvorot.md)
+   * Дiєприкметник
+       * Активнi та пасивнi дiєприкметники
+       * Дiєприкметниковий зворот
    * [Дiєприслiвник](10/diyeprislivnik.md)
-       * [Творення дiєприслiвникiв](10/tvorennya_diyeprislivnikiv.md)
-       * [Дiєприслiвниковий зворот](10/diyeprislivnikoviy_zvorot.md)
-   * [Правопис](10/Pravopis.md)
-       * [Правопис НЕ з дiєcловами та дiєприслiвниками](10/pravopis_NE_z_diyeslovami.md)
-       * [Правопис НЕ з дiєприкметниками](10/pravopis_NE_z_diyeprikmetnikami.md)
-* Службовi частини мови та вигук
+       * Творення дiєприслiвникiв
+       * Дiєприслiвниковий зворот
+   * Правопис
+       * Правопис НЕ з дiєcловами та дiєприслiвниками
+       * Правопис НЕ з дiєприкметниками
+* [Службовi частини мови та вигук](11/sluzbovi_chastini_movi.md)
    * Прийменник
        * Групи прийменникiв за будовою
        * Групи прийменникiв за походженням
