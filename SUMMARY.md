@@ -112,7 +112,7 @@
        * [Способи дiєслiв](10/sposobi_diyesliv.md)
        * [Дiєвiдмiни дiєслiв](10/diyevidmini_diyesliv.md)
        * [Способи творення дiєслiв](10/sposobi_tvorennya_sliv.md)
-   * Дiєприкметник
+   * [Дiєприкметник](10/diyeprikmetnik.md)
        * Активнi та пасивнi дiєприкметники
        * Дiєприкметниковий зворот
    * [Дiєприслiвник](10/diyeprislivnik.md)
