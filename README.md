@@ -105,11 +105,10 @@
     1. [Розряди займенникiв за значенням](8/rozryadi_zaimennikiv_za_znachennyam.md)
     2. [Вiдмiнювання займенникiв](8/vidminuvannya_zaimennikiv.md)
     3. [Правопис займенникiв](8/pravopis_zaimennikiv.md)
-* Прислiвник
-    1. Розряди прислiвникiв за значенням
-    2. Ступенi порiвняння прислiвникiв
-    3. Способи творення прислiвникiв
-    4. Правопис прислiвникiв
+9. [Прислiвник](9/prislivnik.md)
+    1. [Розряди прислiвникiв за значенням](9/rozryadi_prislivnikiv_za_znachennyam.md)
+    2. [Способи творення прислiвникiв](9/sposobi_tvorennya_prislivnikiv.md)
+    3. [Правопис прислiвникiв](9/pravopis_prislivnikiv.md)
         1. Правопис не з прислiвниками
         2. Лiтери и, i в прислiвниках
 * Дiєслово. Дiєприкметник. Дiєприслiвник
