@@ -7,6 +7,6 @@
 
 
 <div class="center">
-<img src="../pics/11/3.png" width="700px" class="center"/>
+<img src="../pics/11/3.png" width="750px" class="center"/>
 </div>
 <br>
