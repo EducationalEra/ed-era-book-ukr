@@ -106,7 +106,7 @@
        * [Лiтери и, i в прислiвниках](9/literi i, i v prislivmikah.md)
 * Дiєслово. Дiєприкметник. Дiєприслiвник
    * [Дiєслово](10/dieslovo.md)
-       * Перехiднi та неперехiднi дiєслова
+       * [Перехiднi та неперехiднi дiєслова](10/perehidni_ta_neperehidni_diyeslova.md)
        * Види дiєслова
        * Часи дiєслова
        * Способи дiєслiв
