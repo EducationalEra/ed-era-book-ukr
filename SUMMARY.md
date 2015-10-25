@@ -108,7 +108,7 @@
    * [Дiєслово](10/dieslovo.md)
        * [Перехiднi та неперехiднi дiєслова](10/perehidni_ta_neperehidni_diyeslova.md)
        * [Види дiєслова](10/vidi_diyeslova.md)
-       * Часи дiєслова
+       * [Часи дiєслова](10/chasi_diyeslova.md)
        * [Способи дiєслiв](10/sposobi_diyesliv.md)
        * Дiєвiдмiни дiєслiв
        * Способи творення дiєслiв
