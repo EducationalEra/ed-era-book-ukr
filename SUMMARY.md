@@ -125,7 +125,7 @@
    * [Прийменник](11/priymennik.md)
        * [Групи прийменникiв за будовою](11/grupi_priymennikiv_za_budovoyu.md)
        * [Групи прийменникiв за походженням](11/grupi_priymennikiv_za_pohodjennyam.md)
-       * Зв’язок прийменника з непрямими вiдмiнками
+       * [Зв’язок прийменника з непрямими вiдмiнками](11/znyazok_priymennika_z_nepryamimi_vidminkami_imennika.md)
    * Сполучник
        * Групи сполучникiв за будовою
        * Групи сполучникiв за вживанням
