@@ -6,3 +6,9 @@
 <strong>Службовi частини мови</strong> — неповнозначнi слова, якi не називають предметiв чи будь-яких реалiй, а вказують на вiдношення мiж ними.
 </div>
 </div>
+
+
+<div class="center">
+<img src="../pics/11/1.png" width="700px" class="center"/>
+</div>
+<br>
