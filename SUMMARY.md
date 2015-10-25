@@ -128,7 +128,7 @@
        * [Зв’язок прийменника з непрямими вiдмiнками](11/znyazok_priymennika_z_nepryamimi_vidminkami_imennika.md)
    * [Сполучник](11/spoluchnik.md)
        * [Групи сполучникiв за будовою](11/grupi_spoluchnikiv_za_budovoyu.md)
-       * Групи сполучникiв за вживанням
+       * [Групи сполучникiв за вживанням](11/grupi_spoluchnikiv_za_vjivannyam.md)
        * Групи сполучникiв за значенням
    * Частка
        * Групи часток за значенням i вживанням
