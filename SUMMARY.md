@@ -114,7 +114,7 @@
        * [Способи творення дiєслiв](10/sposobi_tvorennya_sliv.md)
    * [Дiєприкметник](10/diyeprikmetnik.md)
        * [Активнi та пасивнi дiєприкметники](10/aktivni_ta_pasivni_diyeprikmetniki.md)
-       * Дiєприкметниковий зворот
+       * [Дiєприкметниковий зворот](10/diyeprikmetnikoviy_zvorot.md)
    * [Дiєприслiвник](10/diyeprislivnik.md)
        * Творення дiєприслiвникiв
        * Дiєприслiвниковий зворот
