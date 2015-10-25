@@ -119,7 +119,7 @@
        * [Творення дiєприслiвникiв](10/tvorennya_diyeprislivnikiv.md)
        * [Дiєприслiвниковий зворот](10/diyeprislivnikoviy_zvorot.md)
    * [Правопис](10/Pravopis.md)
-       * Правопис НЕ з дiєcловами та дiєприслiвниками
+       * [Правопис НЕ з дiєcловами та дiєприслiвниками](10/pravopis_NE_z_diyeslovami.md)
        * [Правопис НЕ з дiєприкметниками](10/pravopis_NE_z_diyeprikmetnikami.md)
 * Службовi частини мови та вигук
    * Прийменник
