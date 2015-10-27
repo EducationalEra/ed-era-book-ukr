@@ -34,29 +34,15 @@
     <question text="">
         <p>В якому рядку подано антонімічні пари:</p>
         <answer>білий – чорний, день – ніч, тихий – темний</answer>
-        <answer correct>говорити – слухати, далекий – близький, життя – смерть</answer>
-        <answer>слава – ганьба, довгий – короткий, ясно – темно</answer>
-        <answer>холодний – крижаний, праця – відпочинок, вгору – вбік</answer>
-        <explanation>
-  Тихий – темний, говорити – слухати, вгору – вбік не є антонімічними парами.
-    </explanation>
-    </question>
-</quiz>
-
-
-
-<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
-    <question text="">
-        <p>В якому рядку подано антонімічні пари:</p>
-        <answer>білий – чорний, день – ніч, тихий – темний</answer>
         <answer>говорити – слухати, далекий – близький, життя – смерть</answer>
-        <answer>слава – ганьба, довгий – короткий, ясно – темно </answer>
+        <answer correct>слава – ганьба, довгий – короткий, ясно – темно</answer>
         <answer>холодний – крижаний, праця – відпочинок, вгору – вбік</answer>
         <explanation>
   Тихий – темний, говорити – слухати, вгору – вбік не є антонімічними парами.
     </explanation>
     </question>
 </quiz>
+
 
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
