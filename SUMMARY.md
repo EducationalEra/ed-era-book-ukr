@@ -3,7 +3,7 @@
 * [Зміст](README.md)
 * [Вступне слово](vstup.md)
 * [Фонетика. Графіка. Орфоепія](1/fonetika_grafka_orfoepya.md)
-   * [Звуки](1/golosn_zvuki.md)
+   * [Звуки](1/zvuki.md)
        * [Приголосні звуки](1/prigolosn_zvuki.md)
    * [Фонетична транскрипція](1/fonetichna_transkriptsya.md)
    * [Алфавіт](1/alfavt.md)
