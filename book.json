@@ -7,8 +7,8 @@
         "quiz",
         "gtm",
         "ga",
-        "-search",
-        "disqus"
+        "disqus",
+        "-search"
     ],
     "pluginsConfig": {
         "sharing": {
