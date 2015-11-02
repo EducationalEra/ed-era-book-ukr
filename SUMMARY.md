@@ -135,7 +135,7 @@
        * [Групи часток за значенням i вживанням](11/grupi_chastok_za_znachennyam_i_vjivannyam.md)
        * [Правопис часток](11/pravopis_chastok.md)
    * [Вигук](11/viguk.md)
-       * Групи вигукiв за походженням
+       * [Групи вигукiв за походженням](11/grupi_vigukiv_za_pohodjennyam.md)
        * Групи вигукiв за значенням
        * Звуконаслiдувальнi слова
 * Оpфографiя
