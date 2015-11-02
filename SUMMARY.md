@@ -131,7 +131,7 @@
        * [Групи сполучникiв за будовою](11/grupi_spoluchnikiv_za_budovoyu.md)
        * [Групи сполучникiв за вживанням](11/grupi_spoluchnikiv_za_vjivannyam.md)
        * [Групи сполучникiв за значенням](11/grupi_spoluchnikiv_za_znachennyam.md)
-   * Частка
+   * [Частка](11/chastka.md)
        * Групи часток за значенням i вживанням
        * Правопис часток
    * Вигук
