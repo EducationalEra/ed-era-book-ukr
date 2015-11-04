@@ -75,7 +75,7 @@
         <p>Автора обов’язково має:</p>
         <answer>фразеологізм</answer>
         <answer>прислів’я</answer>
-        <answer>афоризм</answer>
+        <answer correct>афоризм</answer>
         <answer>приказка</answer>
     </question>
 </quiz>
