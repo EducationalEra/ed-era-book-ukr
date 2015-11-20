@@ -13,7 +13,7 @@
     ],
     "pluginsConfig": {
         "insert-md": {
-          "md": "[Підтримайте EdEra на Cпільнокошті!](https://biggggidea.com/project/1247/)"  
+          "md": "[Підтримайте EdEra на Cпільнокошті!](https://biggggidea.com/project/1247/)\n"  
         },
         "sharing": {
             "facebook": true,
