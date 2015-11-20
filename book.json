@@ -8,9 +8,13 @@
         "gtm",
         "ga",
         "disqus",
-        "-search"
+        "-search",
+        "insert-md"
     ],
     "pluginsConfig": {
+        "insert-md": {
+          "md": "[Підтримайте EdEra на Cпільнокошті!](https://biggggidea.com/project/1247/)"  
+        },
         "sharing": {
             "facebook": true,
             "twitter": true,
