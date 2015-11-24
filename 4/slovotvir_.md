@@ -62,7 +62,7 @@ Iснують морфологiчнi i неморфологiчнi способи
 
 <p align="center"><img width="500"class="image" src="../pics/4/sposobi_tvor.png"/></p>
 
-<br><br>
+<br>
 <span class="p1">Морфологiчнi</span>
 <ul>
 <li>Префiксальний</li>
@@ -74,7 +74,7 @@ Iснують морфологiчнi i неморфологiчнi способи
 <li>Абревiацiя</li>
 </ul>
 
-<br><br>
+<br>
 <span class="p1">Неморфологiчні</span>
 <ul>
 <li>Злиття цiлого словосполучення</li>
