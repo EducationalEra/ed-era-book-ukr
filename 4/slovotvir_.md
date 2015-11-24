@@ -59,3 +59,5 @@
 Наприклад: <i>снiг – пiдснiжник</i>.<br>
 Iснують морфологiчнi i неморфологiчнi способи творення слiв.
 <br>
+
+<p align="center"><img width="500"class="image" src="../pics/4/sposobi_tvor.png"/></p>
