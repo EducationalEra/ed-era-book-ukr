@@ -16,6 +16,7 @@
 </div>
 </div>
 Наприклад: <i>лiт[о], снiг.</i>
+<br>
 
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
@@ -26,6 +27,7 @@
 Наприклад: <i>снiжний – снiг + н, пралiс – пра + лiс.</i><br>
 Новi слова утворюються на основi вже iснуючих слiв чи словосполучень, якi називають твiрними.
 <br>
+
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
