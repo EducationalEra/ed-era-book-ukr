@@ -7,7 +7,7 @@
 </div>
 </div>
 
-<p align="center"><img width="700"class="image" src="../pics/4/slova.png"/></p>
+<p align="center"><img width="500"class="image" src="../pics/4/slova.png"/></p>
 
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
@@ -30,7 +30,6 @@
 
 <br>
 
-<br>
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
@@ -42,7 +41,7 @@
 
 <br>
 
-<br>
+
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
@@ -56,7 +55,6 @@
 <br>
 
 
-<br>
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
