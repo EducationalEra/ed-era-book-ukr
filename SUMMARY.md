@@ -90,7 +90,7 @@
 * [Числiвник](7/chislivnik.md)
    * [Розряди числiвникiв за значенням i граматичними ознаками](7/rozryzdi_chislivnikiv_za_znachennyam.md)
    * [Розряди числiвникiв за будовою](7/rozryadi_chislivnikiv_za_budovoyu.md)
-   * Вiдмiнювання числiвникiв
+   * [Вiдмiнювання числiвникiв](7/vidminuvannya_chislivnikiv.md)
        * [Вiдмiнювання кiлькiсних числiвникiв](7/vidminuvannya_kilkisnih_chislivnikiv.md)
        * [Вiдмiнювання порядкових числiвникiв](7/vimiruvannya_poryadkovih_chislivnikiv.md)
    * [Узгодження числiвникiв з iменниками](7/uzgodzennya_chislivnikiv_z_imennikami.md)
