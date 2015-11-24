@@ -16,12 +16,14 @@
 
 
 
-<div class="add-wrap">
+<div class="add-zno">
 <span class="add">ЗНО</span>
 <div class="add-text">
 З двома дефiсами пишемо прислiвники <span class="p1">як-не-як, будь-що-будь, всього-на-всього, вiч-на-вiч, коли-не-коли, де-не-де, хоч-не-хоч, плiч-о-плiч</span>.
 </div>
 <br>
+
+
 
 
 
