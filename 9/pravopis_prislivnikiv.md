@@ -36,7 +36,7 @@
 
 
 
-<div class="add-wrap">
+<div class="add-zno">
 <span class="add">ЗНО</span>
 <div class="add-text">
 Пам’ятайте, частку що пишемо пiсля прислiвника окремо: <i>поки що</i>.
