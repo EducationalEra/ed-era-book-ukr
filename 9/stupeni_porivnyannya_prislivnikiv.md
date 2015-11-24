@@ -6,3 +6,11 @@
 <img src="../pics/9/2.png" width="700px" class="center"/>
 </div>
 <br>
+
+
+<div class="add-zno">
+<span class="add">ЗНО</span>
+<div class="add-text">
+Помилкою є утворення ступенiв порiвняння прислiвникiв за допомогою додавання слiв бiльш, менш, найбiльш, найменш до простої форми вищого ступеня.
+Наприклад: <i><strike>бiльш холоднiше</strike> - бiльш холодно, <strike>найменш глибше</strike> - най- менш глибоко.</i>
+</div>
