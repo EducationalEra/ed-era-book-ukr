@@ -41,6 +41,7 @@
    * [Префікс](4/prefics.md)
    * [Суфікс](4/sufics.md)
    * [Постфiкс і інтерфікс](4/postfics.md)
+   * Словотвір
    * [Морфологiчнi способи словотворення](4/sufiksalniy_sposib_.md)
        * [Суфіксальний спосіб](4/sufiksalniy_sposib.md)
        * [Префiксальний спосiб](4/prefiksalniy_sposib.md)
@@ -50,7 +51,6 @@
        * [Словоскладання](4/slovoskladannya.md)
        * [Абревiацiя](4/abreviaciya.md)
    * [Неморфологiчнi способи словотворення](4/Nemorfologichni_sposobi_tvorennya.md)
-   * Словотвір
 * [Iменник](5/imennik.md)
    * [Групи iменникiв за значенням](5/gruppi_imennikiv_za_znachennyam.md)
    * [Рiд iменникiв](5/rid_imennikiv.md)
