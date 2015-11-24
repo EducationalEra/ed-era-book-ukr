@@ -7,4 +7,4 @@
 </div>
 </div>
 
-<p align="center"><img width="350"class="image" src="../pics/1/pic4.png"/></p>
+<p align="center"><img width="350"class="image" src="../pics/4/slova.png"/></p>
