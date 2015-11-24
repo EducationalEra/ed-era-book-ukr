@@ -16,6 +16,7 @@
 </div>
 </div>
 Наприклад: <i>лiт[о], снiг.</i>
+
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
