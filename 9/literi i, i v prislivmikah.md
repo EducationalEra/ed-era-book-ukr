@@ -11,3 +11,17 @@
 
 <span class="p1">Лiтера І пишеться:</span>
 1. У кiнцi прислiвникiв пiсля м’яких та пом’якшених приголосних: <i>вранцi.</i>
+
+
+<quiz> 
+    <question>
+       <p> Літеру <span class="p1">и</span> треба писати на місці пропуску у рядку </p>
+           <answer correct> по-болгарськ.. </answer>
+           <answer> удвіч.. </answer>
+           <answer> трич.. </answer>
+           <answer> вранц.. </answer>
+      <explanation>
+И пишемо після г, к, х у кінці прислівників.
+ </explanation>
+    </question>
+</quiz> 
