@@ -61,3 +61,22 @@ Iснують морфологiчнi i неморфологiчнi способи
 <br>
 
 <p align="center"><img width="500"class="image" src="../pics/4/sposobi_tvor.png"/></p>
+
+<br><br>
+<span class="p1">Морфологiчнi</span>
+<ul>
+<li>Префiксальний</li>
+<li>Суфiксальний</li>
+<li>Префiксально-суфiксальний</li> 
+<li>Безсуфiксний</li>
+<li>Словоскладання </li>
+<li>Основоскладання </li>
+<li>Абревiацiя</li>
+</ul>
+
+
+
+
+
+
+
