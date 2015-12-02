@@ -96,9 +96,7 @@
 7. [Числiвник](7/chislivnik.md)
     1. [Розряди числiвникiв за значенням i граматичними ознаками](7/rozryzdi_chislivnikiv_za_znachennyam.md)
     2. [Розряди числiвникiв за будовою](7/rozryadi_chislivnikiv_za_budovoyu.md) 
-    3. Вiдмiнювання числiвникiв 
-        1. [Вiдмiнювання кiлькiсних числiвникiв](7/vidminuvannya_kilkisnih_chislivnikiv.md)
-        2. [Вiдмiнювання порядкових числiвникiв](7/vimiruvannya_poryadkovih_chislivnikiv.md)
+    3. [Вiдмiнювання числiвникiв](7/vidminuvannya_kilkisnih_chislivnikiv.md)
     4. [Узгодження числiвникiв з iменниками](7/uzgodzennya_chislivnikiv_z_imennikami.md)
     5. [Правопис числiвникiв](7/pravopis_chislivnikiv.md)
 8. [Займенник](8/zaymennik.md)
