@@ -32,3 +32,7 @@ Iншi приголоснi перед суфiксами <span class="p1">-ськ
 <font color="orange">Виняток:</font> гали<span class="p1">цьк</span>ий - Гали<span class="p1">ч</span>ина.
 
 
+<ul>
+<li> <span class="p1">к, ц(ь) + -н- = чн</span>: <i>яйце – яєчний, вiк – вiчний;</i></li>
+</ul>
+
