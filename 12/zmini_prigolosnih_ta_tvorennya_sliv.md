@@ -29,4 +29,6 @@ Iншi приголоснi перед суфiксами <span class="p1">-ськ
 Звернiть увагу, що також можливим є варiант <span class="p1">-ськ- + -ин- = тч</span>, якщо лiтера <span class="p1">т</span> була в прикметнику: <i>рекрутський – рекрутчина</i>.
 <br>
 
-<font color="orange">Виняток:</font> галицький - Галичина.
+<font color="orange">Виняток:</font> гали<span class="p1">цьк</span>ий - Гали<span class="p1">ч</span>ина.
+
+
