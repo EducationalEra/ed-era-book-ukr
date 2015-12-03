@@ -29,11 +29,11 @@ Iншi приголоснi перед суфiксами <span class="p1">-ськ
 Звернiть увагу, що також можливим є варiант <span class="p1">-ськ- + -ин- = тч</span>, якщо лiтера <span class="p1">т</span> була в прикметнику: <i>рекрутський – рекрутчина</i>.
 <br>
 
-<font color="orange">Виняток:</font> гали<span class="p1">цьк</span>ий - Гали<span class="p1">ч</span>ина.
+<font color="orange">Виняток:</font><i> гали<span class="p1">цьк</span>ий - Гали<span class="p1">ч</span>ина.</i>
 
 
 <ul>
 <li> <span class="p1">к, ц(ь) + -н- = чн</span>: <i>яйце – яєчний, вiк – вiчний;</i></li>
 </ul>
 
-<font color="orange">Винятки:</font> рушник, рушниця, мiрошник, соняшник, торiшнiй, сердешний (бiдолашний).
+<font color="orange">Винятки:</font> ру<span class="p1">шн</span>ик, ру<span class="p1">шн</span>иця, мiро<span class="p1">шн</span>ик, соня<span class="p1">шн</span>ик, торi<span class="p1">шн</span>iй, серде<span class="p1">шн</span>ий (бiдола<span class="p1">шн</span>ий).
