@@ -9,3 +9,14 @@
 <br>
 
 Наприклад: <i>дзень-дзень! Гуп!</i>
+
+
+<quiz> 
+    <question>
+       <p>Звуконаслідувальні слова написано в рядку:</p>
+           <answer>будь ласка! привіт!</answer>
+           <answer>еге! Боже мій!</answer>
+           <answer>ех! гм!</answer>
+           <answer correct>дзень-дзень! ш-ш-ш!</answer>
+    </question>
+</quiz> 
