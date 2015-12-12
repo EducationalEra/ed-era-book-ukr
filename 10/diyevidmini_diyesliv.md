@@ -53,3 +53,34 @@
 <img src="../pics/10/13.png" width="750px" class="center"/>
 </div>
 <br>
+
+
+<quiz> 
+    <question>
+       <p>Дієслово першої дієвідміни наведено в рядку</p>
+           <answer>сидіти</answer>
+           <answer correct>жити</answer>
+           <answer>любити</answer>
+           <answer>бути</answer>
+      <explanation>
+Жити – живуть, сидіти – сидять, любити – люблять.
+Закінчення -уть, -ють у третій особі множини – I дієвідміна.
+Бути - не належить до дієвідмін (є).
+</explanation>
+    </question>
+</quiz> 
+
+<quiz> 
+    <question>
+       <p>Дієслово другої дієвідміни наведено в рядку</p>
+           <answer>червоніти</answer>
+           <answer>дати</answer>
+           <answer>дихати</answer>
+           <answer correct>стояти</answer>
+      <explanation>
+Стояти – стоять, червоніти – червоніють, дихати – дихають.<br>
+Закінчення -ать, -ять у третій особі множини – II дієвідміна.<br>
+Дати - не надлежить до дієвідмін (дадуть). 
+</explanation>
+    </question>
+</quiz> 
