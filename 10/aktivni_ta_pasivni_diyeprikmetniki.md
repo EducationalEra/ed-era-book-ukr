@@ -16,3 +16,18 @@
 <i>Вiдпочиваючi санаторiю – тi, якi вiдпочивають у санаторiї.</i>
 </div>
 <br>
+
+
+<quiz> 
+    <question>
+       <p>Активний дієприкметник наведено у рядку</p>
+           <answer>обраний</answer>
+           <answer>написаний</answer>
+           <answer correct>правлячий</answer>
+           <answer>тертий</answer>
+      <explanation>
+Правлячий – активний.<br>
+Обраний, написаний, тертий – пасивні.
+</explanation>
+    </question>
+</quiz> 
