@@ -38,3 +38,32 @@ Iншi приголоснi перед суфiксами <span class="p1">-ськ
 </ul>
 
 <font color="orange">Винятки:</font> ру<span class="p1">шн</span>ик, ру<span class="p1">шн</span>иця, мiро<span class="p1">шн</span>ик, соня<span class="p1">шн</span>ик, торi<span class="p1">шн</span>iй, серде<span class="p1">шн</span>ий (бiдола<span class="p1">шн</span>ий).
+
+
+<quiz> 
+    <question>
+       <p>Правильно утворено всі прикметники в рядку:</p>
+           <answer> Люксембург - люксембургзький, ткач - ткацький</answer>
+           <answer> Воронеж - воронезький, Кременчук - кременчузький</answer>
+           <answer correct> хижак - хижацький, Нью-Йорк - нью-йоркський </answer>
+           <answer> Франція - французьський, Мекка - меккський </answer>
+      <explanation>
+  <p> г + ськ + зьк: Люксембург – люксембур<b>зьк</b>ий;</p>
+      <p> к + ськ = цьк: Кременчук – кременчу<b>цьк</b>ий;</p>
+      <p> ц + ськ = зьк: Франція – францу<b>зьк</b>ий.</p> 
+</explanation>
+    </question>
+</quiz> 
+
+<quiz> 
+    <question>
+       <p>Правильно написано всі слова рядка:</p>
+           <answer> козацтво, брацтво, боягузтво</answer>
+           <answer> студенство, земляцтво, людство</answer>
+           <answer> чаклунство, жінотство, слідство </answer>
+           <answer correct> свідоцтво, агентство, панство</answer>
+      <explanation>
+Бра<b>тств</b>о, студе<b>нтст</b>во, жіно<b>цтв</b>о.
+</explanation>
+    </question>
+</quiz> 
