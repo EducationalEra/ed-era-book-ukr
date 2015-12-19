@@ -143,7 +143,7 @@
    * [Спрощення в групах приголосних](12/sproschennya_v_grupah_prigilisnih.md)
    * [Змiни приголосних за творення слiв](12/zmini_prigolosnih_ta_tvorennya_sliv.md)
    * [Подвоєння та подовження приголосних .](12/podvoyennya_to_podovzennya.md)
-   * М’який знак
+   * [М’який знак](12/myakiy_znak.md)
    * Сполучення йо, ьо
    * Апостроф
    * [Правопис префiксiв](12/pravopis_prefiksiv.md)
