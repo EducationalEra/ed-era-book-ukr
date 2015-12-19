@@ -145,7 +145,7 @@
    * [Подвоєння та подовження приголосних .](12/podvoyennya_to_podovzennya.md)
    * [М’який знак](12/myakiy_znak.md)
    * [Сполучення йо, ьо](12/spoluchennya_yo_io.md)
-   * Апостроф
+   * [Апостроф](12/apostrof.md)
    * [Правопис префiксiв](12/pravopis_prefiksiv.md)
    * Велика літера та лапки у власних назвах
 
