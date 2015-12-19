@@ -141,7 +141,7 @@
 * [Оpфографiя](12/orfografiya.md)
    * [Правопис лiтер, що позначають ненаголошенi голоснi [е], [и], [о]](12/pravopis_liter_scho_poznachayut.md)
    * [Спрощення в групах приголосних](12/sproschennya_v_grupah_prigilisnih.md)
-   * Змiни приголосних за творення слiв
+   * [Змiни приголосних за творення слiв](12/zmini_prigolosnih_ta_tvorennya_sliv.md)
    * Подвоєння та подовження приголосних .
    * М’який знак
    * Сполучення йо, ьо
