@@ -19,3 +19,17 @@ Iнодi при вiдмiнюваннi слова або його твореннi
 4. У словах ви<span class="p1">скн</span>ути, випу<span class="p1">скн</span>ий, пропу<span class="p1">скн</span>ий, то<span class="p1">скн</span>о, <span class="p1">скн</span>ара, <span class="p1">скн</span>iти.
 
 
+
+<quiz> 
+    <question>
+       <p>Спрощення в групі приголосних позначається на письмі в усіх словах рядка:</p>
+           <answer> захис..ник, форпос..ний, тиж..невик</answer>
+           <answer> учас..ник, контрас..ний, хрус..нути </answer>
+           <answer> бриз..нути, умис..ний, хворос..няк</answer>
+           <answer correct> віс..ник, щас..ливий, напас..ник</answer>
+      <explanation>
+Форпо<b>стн</b>ий, контра<b>стн</b>ий, хворо<b>стн</b>як
+</explanation>
+    </question>
+</quiz> 
+
