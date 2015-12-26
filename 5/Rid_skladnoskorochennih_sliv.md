@@ -7,7 +7,7 @@
 <br>
 
 
-Рiд змiнюваних складноскорочених слiв визначається за типом їхнього вiдмiнювання. Здебiльшого це iменники чоловiчого роду: <i>Мiнфiн, Виш</i>.
+Рiд змiнюваних складноскорочених слiв визначаємо за типом їхнього вiдмiнювання. Здебiльшого це iменники чоловiчого роду: <i>Мiнфiн, виш</i>.
 
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/0PCLZCu72n0" frameborder="0" allowfullscreen></iframe>
