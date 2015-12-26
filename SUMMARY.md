@@ -142,7 +142,7 @@
    * [Правопис лiтер, що позначають ненаголошенi голоснi [е], [и], [о]](12/pravopis_liter_scho_poznachayut.md)
    * [Спрощення в групах приголосних](12/sproschennya_v_grupah_prigilisnih.md)
    * [Змiни приголосних за творення слiв](12/zmini_prigolosnih_ta_tvorennya_sliv.md)
-   * [Подвоєння та подовження приголосних .](12/podvoyennya_to_podovzennya.md)
+   * [Подвоєння та подовження приголосних](12/podvoyennya_to_podovzennya.md)
    * [М’який знак](12/myakiy_znak.md)
    * [Сполучення йо, ьо](12/spoluchennya_yo_io.md)
    * [Апостроф](12/apostrof.md)
