@@ -22,7 +22,7 @@
         <answer correct>паровоз</answer>
         <answer>ЗМК</answer>
         <explanation>
-      Паровоз – складання основ
+      Паровоз – складання основ.
         <explanation>
     </question>
 </quiz>
