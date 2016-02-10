@@ -15,8 +15,6 @@
 Вони виникли в нiй давно, разом з появою позначуваних понять.
 Наприклад: *мати, юний, вересень, вiвторок*.
 
-<div class="space">Тобто слова iншомовного походження. Наприклад: <i>олiмпiада, парламент, козак</i>.</div>
-
 <div class="space">
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
@@ -25,6 +23,9 @@
 </div>
 </div>
 </div>
+
+<div class="space">Тобто слова iншомовного походження. Наприклад: <i>олiмпiада, парламент, козак</i>.</div>
+
 
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
