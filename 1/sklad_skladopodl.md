@@ -38,8 +38,5 @@
         <answer correct>тьохкає, весняний, єднання </answer>
         <answer>палітра, країна, майор</answer>
         <answer>браконьєр, лісостеп, знання</answer>
-        <explanation>
-        Пояснення – 4 склади; країна, майор, знання – по 2 склади
-        </explanation>
     </question>
 </quiz>
