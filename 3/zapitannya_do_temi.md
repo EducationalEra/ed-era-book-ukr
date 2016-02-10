@@ -33,7 +33,7 @@
     <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
             <p class="quiz-question-explanation hide">
-Народна мова та усна народна творчiсть, антична мiфологiя, бiблiя.
+Народна мова та усна народна творчiсть, антична мiфологiя, Бiблiя.
             <p>
 </div>
 
