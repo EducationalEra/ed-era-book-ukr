@@ -19,7 +19,7 @@
 * Чергування [<span class="p1">е</span>] з [<span class="p1">о</span>] пiсля [<span class="p1">й</span>] та шиплячих.
  * Звук [<span class="p1">е</span>] вживаємо пiсля шиплячих та <span class="p1">й</span>, якщо стоїть перед м’якою приголосною та перед [<span class="p1">е</span>],[<span class="p1">i</span>],[<span class="p1">и</span>]: пшениця, нiженька, щебiнь.
  * Звук [<span class="p1">о</span>] маємо пiсля шиплячих та <span class="p1">й</span> перед складами з [<span class="p1">а</span>],[<span class="p1">о</span>], [<span class="p1">у</span>] та [<span class="p1">и</span>]: *жовтий, чого, йому*.
-* Чергування [<span class="p1">е</span>] з [<span class="p1">и</span>] вiдбувається у небагатьох дiєслiвних коренях, якщо далi з’являється суфiкс -а-</font>: *беру – збирати, простерти – простирати, вмерти - вмирати*.
+* Чергування [<span class="p1">е</span>] з [<span class="p1">и</span>] вiдбувається у небагатьох дiєслiвних коренях, якщо далi з’являється суфiкс <span class="p1">-а-</span>: *беру – збирати, простерти – простирати, вмерти - вмирати*.
 
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
