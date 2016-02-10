@@ -14,7 +14,7 @@
 <br>
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
-       <p>Усі слова утворені безсуфіксним (безафкісним) способом у рядку:</p>
+       <p>Усі слова утворені безсуфіксним (безафіксним) способом у рядку:</p>
         <answer>газетяр, каменяр, кобзар, синь</answer>
         <answer>cніжний, літній, безмежний, весняний</answer>
         <answer>лісоруб, водограй, листопад, передчуття</answer>
