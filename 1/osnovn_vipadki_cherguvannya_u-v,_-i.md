@@ -51,7 +51,7 @@ i пiшов*.
         
  <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">       
     <question text="">
-        <p>Й вживається у рядку</p>
+        <p>Й вживається у рядку:</p>
         <answer>стіл ... стілець</answer>
         <answer correct>тепло ... сонячно</answer>
         <answer>написав ... закрив</answer>
