@@ -7,7 +7,7 @@
 
 <quiz> 
     <question>
-       <p>Означальним є прислівник</p>
+       <p>Означальним є прислівник:</p>
            <answer correct>добре</answer>
            <answer>надворі</answer>
            <answer>донині</answer>
