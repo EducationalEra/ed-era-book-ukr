@@ -39,20 +39,18 @@
     </question>
 
 
-<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
-    <question text="">
+
+<quiz> 
     <question>
        <p>До II відміни належать усі іменники в рядку:</p>
            <answer> віра, весілля, тюль, студент </answer>
            <answer> січень, теля, щастя, сад </answer>
            <answer correct> світ, море, школяр, віконце </answer>
            <answer> колосся, кущ, мораль, гість </answer>
-           <answer> явище, сонце, місто, казка </answer>
+        <answer> явище, сонце, місто, казка </answer>
       <explanation>
-До II відміни належать іменники чоловічого роду з нульовим закінченням або <span class="p1">-о</span> та іменники середнього роду з закінченням <span class="p1">-о, -е, -а (-я)</span>. <br>
+           До II відміни належать іменники чоловічого роду з нульовим закінченням або <span class="p1">-о</span> та іменники середнього роду з закінченням <span class="p1">-о, -е, -а (-я)</span>. <br>
 Не належать до II відміни іменники: <b>віра</b> (I відміна), <b>теля</b> (IV відміна), <b>мораль</b> (III відміна), <b>казка</b> (I відміна).
        </explanation>
     </question>
-</quiz>
-
 
