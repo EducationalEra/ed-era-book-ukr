@@ -23,7 +23,7 @@
 
 <quiz> 
     <question>
-       <p>Разом пишеться займенник у варіанті</p>
+       <p>Разом пишеться займенник у варіанті:</p>
            <answer>будь/з/ким</answer>
            <answer correct>аби/чий</answer>
            <answer>казна/хто</answer>
