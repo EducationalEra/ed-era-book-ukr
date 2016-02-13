@@ -1,7 +1,7 @@
 # Наголос
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Наголос</b> — це видiлення голосом певного складу в словi.
 </div>
