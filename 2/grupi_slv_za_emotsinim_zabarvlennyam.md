@@ -4,7 +4,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Нейтральна лексика</b> — це слова, якими користуються в повсякденному життi всi носiї мови.
 </div>
@@ -15,7 +15,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Емоцiйно забарвлена лексика</b> — це слова, якi мають негативну або позитивну емоцiйнiсть у своєму значеннi.
 </div>
