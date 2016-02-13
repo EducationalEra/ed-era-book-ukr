@@ -2,7 +2,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Основоскладання</b> — спосiб творення слiв, за якого двi i бiльше основ поєднуються в одне слово за допомогою iнтерфiксiв.
 </div>
