@@ -3,7 +3,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Префіксально-суфіксальний спосіб</b> — це спосiб творення слiв одночасним додаванням до твiрної основи словотворчого префiкса i суфiкса.
 </div>
