@@ -2,7 +2,7 @@
 
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Безсуфiксний спосiб</b> — це спосiб творення слiв шляхом укорочення твiрного слова, тобто вiдкидання значущих частин.
 </div>
