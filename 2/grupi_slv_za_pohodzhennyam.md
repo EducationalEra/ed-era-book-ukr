@@ -4,7 +4,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Власне українська лексика</b> — це тi слова, якi вживаються лише
 в українськiй мовi.
@@ -17,7 +17,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Запозичена лексика</b> — це слова, якi ввiйшли з iнших мов в українську.
 </div>
