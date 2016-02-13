@@ -2,7 +2,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Абревіація</b> — спосiб творення нових слiв шляхом поєднання початкових складiв кiлькох слiв або перших лiтер слiв словосполучення.
 </div>
