@@ -30,7 +30,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Крилатi вислови</b> — часто повторюванi влучнi словеснi формули, джерело яких може бути встановлене.
 </div>
@@ -43,7 +43,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Афоризм</b> — словесна формула, яка виражає думку узагальнено i в стислiй формi. Афоризми завжди мають автора.
 </div>
