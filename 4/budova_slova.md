@@ -3,7 +3,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Морфеміка</b> — роздiл науки про мову, що вивчає значущi частини слова, або морфеми.
 </div>
@@ -16,7 +16,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Морфема</b> — найменша неподiльна значуща частина слова. Вона виражає граматичне або лексичне значення.
 </div>
