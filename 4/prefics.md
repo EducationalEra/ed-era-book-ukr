@@ -3,7 +3,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Префікс</b> — значуща частина слова, що стоїть перед коренем i слугує для творення нових слiв чи iнших граматичних форм одного слова.
 </div>
