@@ -3,7 +3,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Корінь</b> — це головна значуща частина слова, яка мiстить спiльне значення для всiх спiльнокореневих слiв.
 </div>
