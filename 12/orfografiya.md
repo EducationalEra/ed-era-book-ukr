@@ -1,7 +1,7 @@
 #Орфографія
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <strong>Орфографiя</strong> – роздiл науки про мову, що вивчає систему правил передавання звукової мови на письмi, тобто правопис.
 </div>
