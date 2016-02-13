@@ -3,7 +3,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Суфікс</b> — значуща частина слова, яка стоїть пiсля кореня та слугує для творення нових слiв чи iнших граматичних форм одного слова.
 </div>
