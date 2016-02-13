@@ -1,7 +1,7 @@
 # Синонiми
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Синоніми</b> — це слова, якi близькi або однаковi за значенням, але рiзнi за звучанням.
 </div>
