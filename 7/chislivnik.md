@@ -1,7 +1,7 @@
 #Числівник
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <strong>Числiвник</strong> – самостiйна частина мови, що виражає кiлькiсть, число чи порядок предметiв пiд час пiдрахунку та вiдповiдає на запитання <b>скiльки? котрий?</b>
 </div>
