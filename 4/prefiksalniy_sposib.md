@@ -2,7 +2,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Префіксальний спосіб</b> — це спосiб творення слiв за допомогою словотворчих префiксiв.
 </div>
