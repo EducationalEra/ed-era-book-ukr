@@ -17,7 +17,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Приказка</b> — це стiйкий образний вислiв, який вiдзначається лаконiчною будовою. Вiн не формулює певної закономiрностi чи правила, не має повчального змiсту.
 </div>
