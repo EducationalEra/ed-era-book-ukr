@@ -3,7 +3,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Постфікс</b> — частина слова, що стоїть у кiнцi слова пiсля закiнчення та слугує для створення нових слiв чи форм.
 </div>
@@ -18,7 +18,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Інтерфікс</b> — це сполучний звук, що об’єднує двi основи в складних словах.
 </div>
