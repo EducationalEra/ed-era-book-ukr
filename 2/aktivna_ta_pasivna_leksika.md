@@ -6,7 +6,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Активна лексика</b> — це слова, якi регулярно використовуються у повсякденному спiлкуваннi.
 </div>
@@ -18,7 +18,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Пасивна лексика</b> — це слова, якi регулярно використовуються у повсякденному спiлкуваннi.
 </div>
@@ -29,7 +29,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Неологiзми</b> — це слова, якi позначають новi поняття i предмети.
 </div>
@@ -42,7 +42,7 @@
 
 <div class="space">
 <div class="alg-wrap">
-<span class="alg">Означення</span>
+<span class="alg">Визначення</span>
 <div class="alg-text">
 Авторськi неологiзми часто зустрiчаються у поезiї Павла Тичини. Наприклад, яблуневоцвiтно, злотоцiнно, нiжнотонний тощо. Також вони є у творчостi Лiни Костенко.
 </div>
@@ -51,7 +51,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Iсторизми</b> — це слова, що вийшли з ужитку через зникнення реалiй, якi вони називали.
 </div>
@@ -62,7 +62,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Архаїзми</b> — це слова, витiсненi iншими синонiмами з ужитку.
 </div>
