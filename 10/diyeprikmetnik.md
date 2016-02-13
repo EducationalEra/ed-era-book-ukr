@@ -1,7 +1,7 @@
 #Дiєприкметник
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <strong>Дiєприкметник</strong> — форма дiєслова, яка називає ознаку за станом або дiєю. Вiдповiдає на запитання <span class="p1">який? (яка? яке? якi?)</span>
 </div>
