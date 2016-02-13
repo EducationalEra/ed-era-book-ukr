@@ -2,7 +2,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Фразеологiзм</b> — стiйке поєднання слiв, яке виступає в мовi як неподiльний за значенням вислiв (дорiвнює одному слову за значенням).
 </div>
