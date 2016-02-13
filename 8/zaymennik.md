@@ -1,7 +1,7 @@
 #Займенник
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <strong>Займенник</strong> — самостiйна частина мови, що не називає предмети, кiлькiсть або ознаки, але вказує на них. Вiдповiдає на запитання <span class="p1">хто? що? чий? який? скiльки? котрий?</span>
 </div>
