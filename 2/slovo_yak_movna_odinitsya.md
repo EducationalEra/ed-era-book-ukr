@@ -1,7 +1,7 @@
 # Слово як мовна одиниця
 
 <div class="space"><div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Лексика</b> — сукупнiсть слiв певної мови, її словниковий склад.
 </div>
@@ -28,7 +28,7 @@
 <div class="space">Окрема група слiв – <b>звуконаслiдування</b> та <b>вигуки</b>. Вони виражають почуття, емоцiї, акустичнi образи, реакцiї, але нiчого не називають.</div>
 
 <div class="space"><div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Лексичне значення слова</b> — це те, що означає слово.
 </div>
