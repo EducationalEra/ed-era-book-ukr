@@ -4,7 +4,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Прислiв’я</b> — це народний вислiв повчального змiсту, що виражений реченням. Вiн формулює життєву закономiрнiсть або передає узагальнений суспiльний досвiд.
 </div>
