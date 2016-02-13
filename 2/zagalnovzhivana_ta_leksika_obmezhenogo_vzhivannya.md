@@ -21,7 +21,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Дiалектна лексика</b> — це слова, що вживають мешканцi певної
 мiсцевостi. Вони мають вiдповiдники в лiтературнiй мовi.
@@ -50,7 +50,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Професiйна лексика</b> — це слова, якi вживаються в колi фахiвцiв з певних спецiальностей для позначення знарядь працi, iнструментiв, процесiв, дiй, матерiалiв тощо.
 </div>
@@ -64,7 +64,7 @@
 <div class="space"></div>
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Термiни</b> — це слова, що називають поняття в рiзних галузях: науцi, технiцi, мистецтвi тощо.
 </div>
@@ -77,7 +77,7 @@
 <div class="space">
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Жаргонiзми</b> — цe специфiчна лексика, що вживається у мовленнi
 людей окремих соцiальних груп, зв’язаних певною спiльнiстю iнтересiв.
@@ -89,7 +89,7 @@
 
 <div class="space">
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Арготизми</b> — близькi до жаргонiзмiв. Але цi слова зазнали навмисних змiн з метою утаємничити, зробити незрозумiлим для iнших.
 </div>
