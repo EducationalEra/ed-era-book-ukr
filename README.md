@@ -142,7 +142,7 @@
         1. [Групи вигукiв за походженням](11/grupi_vigukiv_za_pohodjennyam.md)
         2. [Групи вигукiв за значенням](11/grupi_vigukiv_za_znachennyam.md)
         3. [Звуконаслiдувальнi слова](11/zvukonasliduvalni_slova.md)
-* Оpфографiя
+* [Оpфографiя](12/orfografiya.md)
     1. [Правопис лiтер, що позначають ненаголошенi голоснi [е], [и], [о]](12/pravopis_liter_scho_poznachayut.md)
     2. [Спрощення в групах приголосних](12/sproschennya_v_grupah_prigilisnih.md)
     3. [Змiни приголосних за творення слiв](12/zmini_prigolosnih_ta_tvorennya_sliv.md)
