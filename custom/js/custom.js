@@ -15,6 +15,7 @@ $(document).ready(function () {
     $(document).on('click', 'button.hide', function(){
       $( this ).parent().find("p.quiz-question-explanation").addClass( "hide" );
     });
+    $(".at4-arrow.at-left").click();
   }
 
   init();
