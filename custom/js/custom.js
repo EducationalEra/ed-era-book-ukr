@@ -15,6 +15,7 @@ $(document).ready(function () {
     $(document).on('click', 'button.hide', function(){
       $( this ).parent().find("p.quiz-question-explanation").addClass( "hide" );
     });
+    /*On each page make social buttons fly from the right*/
     $(".at4-arrow.at-left").click();
   }
 
