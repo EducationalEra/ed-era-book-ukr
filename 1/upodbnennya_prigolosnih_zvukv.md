@@ -23,6 +23,15 @@
 
 Деякi особливостi вимови груп приголосних краще запам’ятати:
 
+<!--<div class="centered-table-wrapper">
+<table class="centered-table">
+<tr>
+<td>-шся – [с<sup>’</sup>:a]/td>
+<td><font color="#0F5181">[йа]</font></td>
+</tr>
+</table>
+</div>-->
+
 <p align="center"><img width="350"class="image" src="../pics/1/pic4.png"/></p>
 
 <div class="fluidMedia">
