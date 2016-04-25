@@ -8,3 +8,11 @@
 <hr>
 <center><h4>Зміст розділу:</h4></center>
 
+
+  1. [Суфiксальний спосiб](4/sufiksalniy_sposib.md)
+  2. [Префiксальний спосiб](4/prefiksalniy_sposib.md)
+  3. [Префiксально-суфiксальний спосiб](4/prefiksalno-sufiksalniy_sposib.md)
+  4. [Безсуфiксний спосiб](4/bezsufiksniy_sposib.md)
+  5. [Основоскладання](4/osnovoskladannya.md)
+  6. [Словоскладання](4/slovoskladannya.md)
+  7. [Абревiацiя](4/abreviaciya.md)
