@@ -11,8 +11,8 @@
 </div>
 
 
-    1. [Звуки](1/golosn_zvuki.md)
-        1. [Голосні звуки](1/golosn_zvuki.md)
+ 1. [Звуки](1/golosn_zvuki.md)
+       1. [Голосні звуки](1/golosn_zvuki.md)
         2. [Приголосні звуки](1/prigolosn_zvuki.md)
     3. [Фонетична транскрипція](1/fonetichna_transkriptsya.md)
     4. [Алфавіт](1/alfavt.md)
