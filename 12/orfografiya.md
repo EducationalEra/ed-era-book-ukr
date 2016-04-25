@@ -15,3 +15,17 @@
 <strong>Орфограма</strong> – унормоване написання, що вiдповiдає чинним правилам правопису.
 </div>
 </div>
+
+
+<br>
+<hr>
+<center><h4>Зміст підрозділу:</h4></center>
+
+   1. [Правопис лiтер, що позначають ненаголошенi голоснi [е], [и], [о]](12/pravopis_liter_scho_poznachayut.md)
+   2. [Спрощення в групах приголосних](12/sproschennya_v_grupah_prigilisnih.md)
+   3. [Змiни приголосних за творення слiв](12/zmini_prigolosnih_ta_tvorennya_sliv.md)
+   4. [Подвоєння та подовження приголосних](12/podvoyennya_to_podovzennya.md)
+   5. [М’який знак](12/myakiy_znak.md)
+   6. [Сполучення йо, ьо](12/spoluchennya_yo_io.md)
+   7. [Апостроф](12/apostrof.md)
+   8. [Правопис префiксiв](12/pravopis_prefiksiv.md)
