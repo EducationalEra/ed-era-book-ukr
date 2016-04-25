@@ -10,6 +10,7 @@
 </div>
 </div>
 
+<h5>Зміст розділу:</h5>
 
 1. [Звуки](1/golosn_zvuki.md)
   1. [Голосні звуки](1/golosn_zvuki.md)
@@ -21,7 +22,7 @@
 6. [Чергування звуків](1/cherguvannya_golosnih_zvukv.md)
   1. [Чергування голосних звуків](1/cherguvannya_golosnih_zvukv.md)
   2. [Чергування приголосних звуків](1/cherguvannya_prigolosnih_zvukv.md)
-    8. [Основні випадки чергування У-В, І-Й](1/osnovn_vipadki_cherguvannya_u-v,_-i.md)
-    9. [Склад. Складоподіл](1/sklad_skladopodl.md)
-    10. [Наголос](1/nagolos.md)
-    11. [Запитання до теми](1/zapitannya_do_temi.md)
+7. [Основні випадки чергування У-В, І-Й](1/osnovn_vipadki_cherguvannya_u-v,_-i.md)
+8. [Склад. Складоподіл](1/sklad_skladopodl.md)
+9. [Наголос](1/nagolos.md)
+10. [Запитання до теми](1/zapitannya_do_temi.md)
