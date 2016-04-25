@@ -10,6 +10,10 @@
 </div>
 
 
+<br>
+<hr>
+<center><h4>Зміст розділу:</h4></center>
+
 
    1. [Фразеологізм як мовна одиниця](3/frazeologzm_yak_movna_odinitsya.md)
    2. [Джерела походження фразеологізмів](3/dzherela_pohodzhennya_frazeologzmv.md)
