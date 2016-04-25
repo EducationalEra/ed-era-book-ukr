@@ -14,7 +14,7 @@
 <br>
 
 <hr>
-<center><h4>Зміст підрозділу:</h4></center>
+<center><h4>Зміст розділу:</h4></center>
 
 
    1. [Прийменник](11/priymennik.md)
