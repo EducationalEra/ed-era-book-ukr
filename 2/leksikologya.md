@@ -7,6 +7,10 @@
 </div>
 </div>
 
+<br>
+<hr>
+<center><h4>Зміст розділу:</h4></center>
+
 
    1. [Слово як мовна одиниця](2/slovo_yak_movna_odinitsya.md)
    2. [Групи слів за значенням](2/odnoznachni_i_bagatoznachni_slova.md)
