@@ -13,3 +13,12 @@
 <li>Змiнюються за вiдмiнками.</li>
 <li>Мають ознаки числа та роду, якщо спiввiдноснi з прикметниками.</li>
 </ul>
+
+
+<br>
+<hr>
+<center><h4>Зміст підрозділу:</h4></center>
+
+1. [Розряди займенникiв за значенням](8/rozryadi_zaimennikiv_za_znachennyam.md)
+2. [Вiдмiнювання займенникiв](8/vidminuvannya_zaimennikiv.md)
+3. [Правопис займенникiв](8/pravopis_zaimennikiv.md)
