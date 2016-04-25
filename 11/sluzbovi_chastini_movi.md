@@ -13,7 +13,6 @@
 </div>
 <br>
 
-<br>
 <hr>
 <center><h4>Зміст підрозділу:</h4></center>
 
