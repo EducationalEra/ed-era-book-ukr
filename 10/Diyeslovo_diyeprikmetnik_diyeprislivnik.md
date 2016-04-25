@@ -2,6 +2,11 @@
 
 
 
+<br>
+<hr>
+<center><h4>Зміст розділу:</h4></center>
+
+
 
    1. [Дiєслово](10/dieslovo.md)
         1. [Перехiднi та неперехiднi дiєслова](10/perehidni_ta_neperehidni_diyeslova.md)
