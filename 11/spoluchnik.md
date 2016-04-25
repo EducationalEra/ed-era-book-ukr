@@ -8,3 +8,14 @@
 </div>
 
 Наприклад: їсти <b>та</b> спати, <b>тому що</b>.
+
+<br>
+<hr>
+<center><h4>Зміст підрозділу:</h4></center>
+
+
+
+   2. [Сполучник](11/spoluchnik.md)
+        1. [Групи сполучникiв за будовою](11/grupi_spoluchnikiv_za_budovoyu.md)
+        2. [Групи сполучникiв за вживанням](11/grupi_spoluchnikiv_za_vjivannyam.md)
+        3. [Групи сполучникiв за значенням](11/grupi_spoluchnikiv_za_znachennyam.md)
