@@ -10,7 +10,7 @@
 </div>
 </div>
 
-<h5>Зміст розділу:</h5>
+<center><h5>Зміст розділу:</h5></center>
 
 1. [Звуки](1/golosn_zvuki.md)
   1. [Голосні звуки](1/golosn_zvuki.md)
