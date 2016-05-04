@@ -14,8 +14,8 @@
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
        <p>Усі слова утворені складанням слів або основ у рядку:</p>
-        <answer correct>літературознавець, крутосхил, пережити</answer>
-        <answer>волелюбний, хвилеріз, лист-замовлення</answer>
+        <answer>літературознавець, крутосхил, пережити</answer>
+        <answer correct>волелюбний, хвилеріз, лист-замовлення</answer>
         <answer>зірвиголова, пройдисвіт, підрозділ</answer>
         <answer>сніжно-білий, фіолетово-жовтий, прикордонник</answer>
         <explanation>
