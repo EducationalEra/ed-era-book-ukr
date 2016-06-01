@@ -9,10 +9,10 @@
 <center><h4>Зміст підрозділу:</h4></center>
 
 
-  1. [Суфiксальний спосiб](4/sufiksalniy_sposib.md)
-  2. [Префiксальний спосiб](4/prefiksalniy_sposib.md)
-  3. [Префiксально-суфiксальний спосiб](4/prefiksalno-sufiksalniy_sposib.md)
-  4. [Безсуфiксний спосiб](4/bezsufiksniy_sposib.md)
-  5. [Основоскладання](4/osnovoskladannya.md)
-  6. [Словоскладання](4/slovoskladannya.md)
-  7. [Абревiацiя](4/abreviaciya.md)
+  1. [Суфiксальний спосiб](sufiksalniy_sposib.html)
+  2. [Префiксальний спосiб](prefiksalniy_sposib.html)
+  3. [Префiксально-суфiксальний спосiб](prefiksalno-sufiksalniy_sposib.html)
+  4. [Безсуфiксний спосiб](bezsufiksniy_sposib.html)
+  5. [Основоскладання](osnovoskladannya.html)
+  6. [Словоскладання](slovoskladannya.html)
+  7. [Абревiацiя](abreviaciya.html)
