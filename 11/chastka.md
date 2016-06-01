@@ -12,6 +12,6 @@
 <center><h4>Зміст підрозділу:</h4></center>
 
 
-   3. [Частка](11/chastka.md)
-        1. [Групи часток за значенням i вживанням](11/grupi_chastok_za_znachennyam_i_vjivannyam.md)
-        2. [Правопис часток](11/pravopis_chastok.md)
+   3. [Частка](chastka.html)
+        1. [Групи часток за значенням i вживанням](grupi_chastok_za_znachennyam_i_vjivannyam.html)
+        2. [Правопис часток](pravopis_chastok.html)
