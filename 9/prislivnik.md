@@ -38,8 +38,8 @@
 </quiz> 
 
 
-1. [Розряди прислiвникiв за значенням](9/rozryadi_prislivnikiv_za_znachennyam.md)
-2. [Способи творення прислiвникiв](9/sposobi_tvorennya_prislivnikiv.md)
-3. [Правопис прислiвникiв](9/pravopis_prislivnikiv.md)
-    1. [Правопис НЕ з прислiвниками](9/pravopis_ne_z_prislivnikami.md)
-    2. [Лiтери и, i в прислiвниках](9/literi i, i v prislivmikah.md)
+1. [Розряди прислiвникiв за значенням](rozryadi_prislivnikiv_za_znachennyam.html)
+2. [Способи творення прислiвникiв](sposobi_tvorennya_prislivnikiv.html)
+3. [Правопис прислiвникiв](pravopis_prislivnikiv.html)
+    1. [Правопис НЕ з прислiвниками](pravopis_ne_z_prislivnikami.html)
+    2. [Лiтери и, i в прислiвниках](literi i, i v prislivmikah.html)
