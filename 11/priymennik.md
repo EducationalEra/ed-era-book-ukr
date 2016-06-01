@@ -30,7 +30,7 @@
 <center><h4>Зміст підрозділу:</h4></center>
 
 
-   1. [Прийменник](11/priymennik.md)
-        1. [Групи прийменникiв за будовою](11/grupi_priymennikiv_za_budovoyu.md)
-        2. [Групи прийменникiв за походженням](11/grupi_priymennikiv_za_pohodjennyam.md)
-        3. [Зв’язок прийменника з непрямими вiдмiнками](11/znyazok_priymennika_z_nepryamimi_vidminkami_imennika.md)
+   1. [Прийменник](priymennik.html)
+        1. [Групи прийменникiв за будовою](grupi_priymennikiv_za_budovoyu.html)
+        2. [Групи прийменникiв за походженням](grupi_priymennikiv_za_pohodjennyam.html)
+        3. [Зв’язок прийменника з непрямими вiдмiнками](znyazok_priymennika_z_nepryamimi_vidminkami_imennika.html)
