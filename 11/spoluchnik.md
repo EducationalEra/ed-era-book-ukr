@@ -15,7 +15,7 @@
 
 
 
-   2. [Сполучник](11/spoluchnik.md)
-        1. [Групи сполучникiв за будовою](11/grupi_spoluchnikiv_za_budovoyu.md)
-        2. [Групи сполучникiв за вживанням](11/grupi_spoluchnikiv_za_vjivannyam.md)
-        3. [Групи сполучникiв за значенням](11/grupi_spoluchnikiv_za_znachennyam.md)
+   2. [Сполучник](spoluchnik.html)
+        1. [Групи сполучникiв за будовою](grupi_spoluchnikiv_za_budovoyu.html)
+        2. [Групи сполучникiв за вживанням](grupi_spoluchnikiv_za_vjivannyam.html)
+        3. [Групи сполучникiв за значенням](grupi_spoluchnikiv_za_znachennyam.html)
