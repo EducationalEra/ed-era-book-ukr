@@ -16,7 +16,7 @@
     9. [Склад. Складоподіл](1/sklad_skladopodl.md)
     10. [Наголос](1/nagolos.md)
     11. [Запитання до теми](1/zapitannya_do_temi.md)
-2. [Лексикологія](1/leksikologya.md)
+2. [Лексикологія](2/leksikologya.md)
    1. [Слово як мовна одиниця](2/slovo_yak_movna_odinitsya.md)
    2. [Групи слів за значенням](2/odnoznachni_i_bagatoznachni_slova.md)
        1. [Однозначнi i багатозначнi слова](2/odnoznachni_i_bagatoznachni_slova.md)
