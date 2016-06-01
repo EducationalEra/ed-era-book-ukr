@@ -8,6 +8,6 @@
 
 
 
-   4. [Правопис](10/Pravopis.md)
-        1. [Правопис НЕ з дiєcловами та дiєприслiвниками](10/pravopis_NE_z_diyeslovami.md)
-        2. [Правопис НЕ з дiєприкметниками](10/pravopis_NE_z_diyeprikmetnikami.md)
+   4. [Правопис](Pravopis.html)
+        1. [Правопис НЕ з дiєcловами та дiєприслiвниками](pravopis_NE_z_diyeslovami.html)
+        2. [Правопис НЕ з дiєприкметниками](pravopis_NE_z_diyeprikmetnikami.html)
