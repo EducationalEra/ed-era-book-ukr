@@ -9,5 +9,5 @@
 <hr>
 <center><h4>Зміст підрозділу:</h4></center>
 
-   1. [Правопис окремих вiдмiнкових закiнчень iменникiв I вiдмiни в однинi](5/pravopis_okremih_vidminkovih_zakinchen_I_vidmini_v_odnini.md)
-   2. [Правопис окремих вiдмiнкових закiнчень iменникiв I вiдмiни в множинi](5/pravopis_okremih_vidm_znachen_v_mnozini.md)
+   1. [Правопис окремих вiдмiнкових закiнчень iменникiв I вiдмiни в однинi](pravopis_okremih_vidminkovih_zakinchen_I_vidmini_v_odnini.html)
+   2. [Правопис окремих вiдмiнкових закiнчень iменникiв I вiдмiни в множинi](pravopis_okremih_vidm_znachen_v_mnozini.html)
