@@ -15,7 +15,7 @@
 <hr>
 <center><h4>Зміст підрозділу:</h4></center>
 
-   4. [Вигук](11/viguk.md)
-        1. [Групи вигукiв за походженням](11/grupi_vigukiv_za_pohodjennyam.md)
-        2. [Групи вигукiв за значенням](11/grupi_vigukiv_za_znachennyam.md)
-        3. [Звуконаслiдувальнi слова](11/zvukonasliduvalni_slova.md)
+   4. [Вигук](viguk.html)
+        1. [Групи вигукiв за походженням](grupi_vigukiv_za_pohodjennyam.html)
+        2. [Групи вигукiв за значенням](grupi_vigukiv_za_znachennyam.html)
+        3. [Звуконаслiдувальнi слова](zvukonasliduvalni_slova.html)
