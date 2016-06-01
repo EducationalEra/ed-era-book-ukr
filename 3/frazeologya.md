@@ -15,9 +15,9 @@
 <center><h4>Зміст розділу:</h4></center>
 
 
-   1. [Фразеологізм як мовна одиниця](3/frazeologzm_yak_movna_odinitsya.md)
-   2. [Джерела походження фразеологізмів](3/dzherela_pohodzhennya_frazeologzmv.md)
-   3. [Види фразеологізмів](3/vidi_frazeologzmv.md)
-   4. [Прислів’я, приказки та афоризми](3/prislvya,_prikazki_ta_aforizmi.md)
-   5. [Словник найуживаніших фразеологізмів](3/slovnik_naiuzhivanshih_frazeologzmv.md)
-   6. [Запитання до теми](3/zapitannya_do_temi.md)
+   1. [Фразеологізм як мовна одиниця](frazeologzm_yak_movna_odinitsya.html)
+   2. [Джерела походження фразеологізмів](dzherela_pohodzhennya_frazeologzmv.html)
+   3. [Види фразеологізмів](vidi_frazeologzmv.html)
+   4. [Прислів’я, приказки та афоризми](prislvya,_prikazki_ta_aforizmi.html)
+   5. [Словник найуживаніших фразеологізмів](slovnik_naiuzhivanshih_frazeologzmv.html)
+   6. [Запитання до теми](zapitannya_do_temi.html)
