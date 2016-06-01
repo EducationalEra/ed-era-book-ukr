@@ -36,3 +36,10 @@
  </explanation>
     </question>
 </quiz> 
+
+
+1. [Розряди прислiвникiв за значенням](9/rozryadi_prislivnikiv_za_znachennyam.md)
+2. [Способи творення прислiвникiв](9/sposobi_tvorennya_prislivnikiv.md)
+3. [Правопис прислiвникiв](9/pravopis_prislivnikiv.md)
+    1. [Правопис НЕ з прислiвниками](9/pravopis_ne_z_prislivnikami.md)
+    2. [Лiтери и, i в прислiвниках](9/literi i, i v prislivmikah.md)
