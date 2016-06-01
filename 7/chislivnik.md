@@ -31,8 +31,8 @@
 <li> I невеликiй групi неозначено-кiлькiсних числiвникiв, утворених вiд iнших коренiв: мало, багато, стонадцять, кiлька тощо.</li>
 </ul>
 
-    1. [Розряди числiвникiв за значенням i граматичними ознаками](7/rozryzdi_chislivnikiv_za_znachennyam.md)
-    2. [Розряди числiвникiв за будовою](7/rozryadi_chislivnikiv_za_budovoyu.md) 
-    3. [Вiдмiнювання числiвникiв](7/vidminuvannya_kilkisnih_chislivnikiv.md)
-    4. [Узгодження числiвникiв з iменниками](7/uzgodzennya_chislivnikiv_z_imennikami.md)
-    5. [Правопис числiвникiв](7/pravopis_chislivnikiv.md)
+    1. [Розряди числiвникiв за значенням i граматичними ознаками](rozryzdi_chislivnikiv_za_znachennyam.html)
+    2. [Розряди числiвникiв за будовою](rozryadi_chislivnikiv_za_budovoyu.html) 
+    3. [Вiдмiнювання числiвникiв](vidminuvannya_kilkisnih_chislivnikiv.html)
+    4. [Узгодження числiвникiв з iменниками](uzgodzennya_chislivnikiv_z_imennikami.html)
+    5. [Правопис числiвникiв](pravopis_chislivnikiv.html)
