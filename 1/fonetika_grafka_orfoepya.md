@@ -14,7 +14,7 @@
 <hr>
 <center><h4>Зміст розділу:</h4></center>
 
-1. [Звуки](1/golosn_zvuki.md)
+1. [Звуки](golosn_zvuki.html)
   1. [Голосні звуки](1/golosn_zvuki.md)
   2. [Приголосні звуки](1/prigolosn_zvuki.md)
 2. [Фонетична транскрипція](1/fonetichna_transkriptsya.md)
