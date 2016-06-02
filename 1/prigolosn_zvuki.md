@@ -2,7 +2,7 @@
 
 Приголоснi звуки утворюються за участю голосу i шуму. Усього в українськiй мовi є 32 приголосних.
 
-Приголоснi, у твореннi яких переважає голос, називають сонорними. До сонорних належать: <span class="p1">$$м, в, н, л, р, й$$</span> i м’якi <span class="p1">$$л′$$, $$н′$$, $$р′$$</span>.
+Приголоснi, у твореннi яких переважає голос, називають сонорними.<br>До сонорних належать: <span class="p1">$$м, в, н, л, р, й$$</span> i м’якi <span class="p1">$$л′$$, $$н′$$, $$р′$$</span>.
 
 <div class="alg-wrap">
 <span class="alg">Як запам’ятати</span> 
@@ -17,33 +17,33 @@
 <table class="centered-table">
 <tr>
 <td>Дзвiнкi</td>
-<td>[<span class="p1">$$б$$</span>]</td>
-<td>[<span class="p1">$$г$$</span>]</td>
-<td>[<span class="p1">$$ґ$$</span>]</td>
-<td>[<span class="p1">$$д$$</span>]</td>
-<td>[<span class="p1">$$ж$$</span>]</td>
-<td>[<span class="p1">$$\widehat{дж}$$</span>]</td>
-<td>[<span class="p1">$$з$$</span>]</td>
-<td>[<span class="p1">$$\widehat{дз}$$</span>]</td>
-<td>[<span class="p1">$$д$$′</span>]</td>
-<td>[<span class="p1">$$з$$</span>]</td>
-<td>[<span class="p1">$$\widehat{дз}$$′</span>]</td>
+<td align="center">[<span class="p1">$$б$$</span>]</td>
+<td align="center">[<span class="p1">$$г$$</span>]</td>
+<td align="center">[<span class="p1">$$ґ$$</span>]</td>
+<td align="center">[<span class="p1">$$д$$</span>]</td>
+<td align="center">[<span class="p1">$$ж$$</span>]</td>
+<td align="center">[<span class="p1">$$\widehat{дж}$$</span>]</td>
+<td align="center">[<span class="p1">$$з$$</span>]</td>
+<td align="center">[<span class="p1">$$\widehat{дз}$$</span>]</td>
+<td align="center">[<span class="p1">$$д$$′</span>]</td>
+<td align="center">[<span class="p1">$$з$$</span>]</td>
+<td align="center">[<span class="p1">$$\widehat{дз}′$$</span>]</td>
 <td></td>
 </tr>
 <tr>
 <td>Глухi</td>
-<td>[<span class="p1">$$п$$</span>]</td>
-<td>[<span class="p1">$$х$$</span>]</td>
-<td>[<span class="p1">$$к$$</span>]</td>
-<td>[<span class="p1">$$т$$</span>]</td>
-<td>[<span class="p1">$$ш$$</span>]</td>
-<td>[<span class="p1">$$ч$$</span>]</td>
-<td>[<span class="p1">$$с$$</span>]</td>
-<td>[<span class="p1">$$ц$$</span>]</td>
-<td>[<span class="p1">$$т$$′</span>]</td>
-<td>[<span class="p1">$$с$$′</span>]</td>
-<td>[<span class="p1">$$ц$$′</span>]</td>
-<td>[<span class="p1">$$ф$$</span>]</td>
+<td align="center">[<span class="p1">$$п$$</span>]</td>
+<td align="center">[<span class="p1">$$х$$</span>]</td>
+<td align="center">[<span class="p1">$$к$$</span>]</td>
+<td align="center">[<span class="p1">$$т$$</span>]</td>
+<td align="center">[<span class="p1">$$ш$$</span>]</td>
+<td align="center">[<span class="p1">$$ч$$</span>]</td>
+<td align="center">[<span class="p1">$$с$$</span>]</td>
+<td align="center">[<span class="p1">$$ц$$</span>]</td>
+<td align="center">[<span class="p1">$$т$$′</span>]</td>
+<td align="center">[<span class="p1">$$с$$′</span>]</td>
+<td align="center">[<span class="p1">$$ц$$′</span>]</td>
+<td align="center">[<span class="p1">$$ф$$</span>]</td>
 </tr>
 </table>
 </div>
@@ -70,28 +70,28 @@
 <table class="centered-table">
 <tr>
 <td>М’якi</td>
-<td>[<span class="p1">$$д$$′</span>]</td>
-<td>[<span class="p1">$$т$$′</span>]</td>
-<td>[<span class="p1">$$з$$′</span>]</td>
-<td>[<span class="p1">$$с$$′</span>]</td>
-<td>[<span class="p1">$$ц$$′</span>]</td>
-<td>[<span class="p1">$$л$$′</span>]</td>
-<td>[<span class="p1">$$н$$′</span>]</td>
-<td>[<span class="p1">$$р$$′</span>]</td>
-<td>[<span class="p1">$$\widehat{дз}$$′</span>]</td>
-<td>[<span class="p1">$$й$$</span>]</td>
+<td align="center">[<span class="p1">$$д$$′</span>]</td>
+<td align="center">[<span class="p1">$$т$$′</span>]</td>
+<td align="center">[<span class="p1">$$з$$′</span>]</td>
+<td align="center">[<span class="p1">$$с$$′</span>]</td>
+<td align="center">[<span class="p1">$$ц$$′</span>]</td>
+<td align="center">[<span class="p1">$$л$$′</span>]</td>
+<td align="center">[<span class="p1">$$н$$′</span>]</td>
+<td align="center">[<span class="p1">$$р$$′</span>]</td>
+<td align="center">[<span class="p1">$$\widehat{дз}$$′</span>]</td>
+<td align="center">[<span class="p1">$$й$$</span>]</td>
 </tr>
 <tr>
 <td>Твердi</td>
-<td>[<span class="p1">$$д$$</span>]</td>
-<td>[<span class="p1">$$т$$</span>]</td>
-<td>[<span class="p1">$$з$$</span>]</td>
-<td>[<span class="p1">$$с$$</span>]</td>
-<td>[<span class="p1">$$ц$$</span>]</td>
-<td>[<span class="p1">$$л$$</span>]</td>
-<td>[<span class="p1">$$н$$</span>]</td>
-<td>[<span class="p1">$$р$$</span>]</td>
-<td>[<span class="p1">$$\widehat{дз}$$</span>]</td>
+<td align="center">[<span class="p1">$$д$$</span>]</td>
+<td align="center">[<span class="p1">$$т$$</span>]</td>
+<td align="center">[<span class="p1">$$з$$</span>]</td>
+<td align="center">[<span class="p1">$$с$$</span>]</td>
+<td align="center">[<span class="p1">$$ц$$</span>]</td>
+<td align="center">[<span class="p1">$$л$$</span>]</td>
+<td align="center">[<span class="p1">$$н$$</span>]</td>
+<td align="center">[<span class="p1">$$р$$</span>]</td>
+<td align="center">[<span class="p1">$$\widehat{дз}$$</span>]</td>
 <td></td>
 </tr>
 </table>

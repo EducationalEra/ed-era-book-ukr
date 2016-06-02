@@ -4,6 +4,83 @@
 
 <p align="center"><img class="image" src="../pics/1/pic1.png"/></p>
 
+<table>
+  <body>
+    <tr>
+      <td align="center" valign="top">
+        <b>Букви</b>
+      </td>
+      <td align="center" valign="top" >
+        <b>Звуки</b>
+      </td>
+      <td align="center" valign="top" >
+        <b>Приклади</b>
+      </td>
+    </tr>
+
+    <td valign="top">
+        щ
+      </td>
+      <td valign="top" >
+        [шч]
+      </td>
+      <td valign="top" >
+        $$щастя$$ 
+      </td>
+    </tr>
+
+    <td valign="top">
+        Букви
+      </td>
+      <td valign="top" >
+        
+      </td>
+      <td valign="top" >
+        Приклади
+      </td>
+
+      <td valign="top">
+        Букви
+      </td>
+      <td valign="top" >
+        Звуки
+      </td>
+      <td valign="top" >
+        Приклади
+      </td>
+
+      <td valign="top">
+        Букви
+      </td>
+      <td valign="top" >
+        Звуки
+      </td>
+      <td valign="top" >
+        Приклади
+      </td>
+
+      <td valign="top">
+        Букви
+      </td>
+      <td valign="top" >
+        Звуки
+      </td>
+      <td valign="top" >
+        Приклади
+      </td>
+
+      <td valign="top">
+        Букви
+      </td>
+      <td valign="top" >
+        Звуки
+      </td>
+      <td valign="top" >
+        Приклади
+      </td>
+  </body>
+</table>
+
 
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
