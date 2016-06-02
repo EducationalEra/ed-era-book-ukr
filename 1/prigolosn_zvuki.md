@@ -2,7 +2,7 @@
 
 Приголоснi звуки утворюються за участю голосу i шуму. Усього в українськiй мовi є 32 приголосних.
 
-Приголоснi, у твореннi яких переважає голос, називають сонорними.<br>До сонорних належать: <span class="p1">$$м, в, н, л, р, й$$</span> i м’якi <span class="p1">$$л′$$, $$н′$$, $$р′$$</span>.
+Приголоснi, у твореннi яких переважає голос, називають сонорними.<br>До сонорних належать: <span class="p1">$$м, в, н, л, р, й$$</span> i м’якi <span class="p1">$$л$$′, $$н$$′, $$р$$′</span>.
 
 <div class="alg-wrap">
 <span class="alg">Як запам’ятати</span> 
@@ -26,8 +26,8 @@
 <td align="center">[<span class="p1">$$з$$</span>]</td>
 <td align="center">[<span class="p1">$$\widehat{дз}$$</span>]</td>
 <td align="center">[<span class="p1">$$д$$′</span>]</td>
-<td align="center">[<span class="p1">$$з$$</span>]</td>
-<td align="center">[<span class="p1">$$\widehat{дз}′$$</span>]</td>
+<td align="center">[<span class="p1">$$з$$′</span>]</td>
+<td align="center">[<span class="p1">$$\widehat{дз}$$′</span>]</td>
 <td></td>
 </tr>
 <tr>

@@ -23,7 +23,7 @@
         <p>Приголосні чергуються у слові:</p>
         <answer correct>горох</answer>
         <answer>диван</answer>
-        <answer>Літо</answer>
+        <answer>літо</answer>
         <answer>щастя</answer>
         <explanation>
         горох – горошок
