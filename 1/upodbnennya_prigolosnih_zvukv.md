@@ -15,7 +15,7 @@
 * Уподiбнення за дзвiнкiстю<br>
  Глухi приголоснi перед дзвiнкими одзвiнчуються: *боротьба* – [$$бород^{'}б\acute{а}$$]
 * Уподiбнення за м’якiстю<br>
-Попереднiй приголосний стає м’яким пiд впливом наступного. Наприклад: *кузня* [$$к\acute{у}з^{'}н^{'}а$$]. Це стосується лише приголосних [<span class="p1">д</span>], [<span class="p1">т</span>], [<span class="p1">з</span>], [<span class="p1">с</span>], [<span class="p1">ц</span>], [<span class="p1">л</span>], [<span class="p1">н</span>], [<span class="p1">дз</span>], [<span class="p1">р</span>]
+Попереднiй приголосний стає м’яким пiд впливом наступного. Наприклад: *кузня* [$$к\acute{у}з^`н^`а$$]. Це стосується лише приголосних [<span class="p1">д</span>], [<span class="p1">т</span>], [<span class="p1">з</span>], [<span class="p1">с</span>], [<span class="p1">ц</span>], [<span class="p1">л</span>], [<span class="p1">н</span>], [<span class="p1">дз</span>], [<span class="p1">р</span>]
 * Уподiбнення за мiсцем i способом творення<br>
 При цiй асимiляцiї зливається або дуже наближається вимова близьких звукiв.<br>
 Свистячi уподiбнюються наступним шиплячими.<br>
@@ -48,7 +48,7 @@
         <answer correct>камінчик</answer>
         <answer>селянський</answer>
         <explanation>
-        [$$кам^{'}інчик$$]
+        [$$кам^'інчик$$]
         </explanation>
     </question>
     <question text="">
