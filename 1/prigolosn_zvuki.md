@@ -22,12 +22,12 @@
 <td>[<span class="p1">ґ</span>]</td>
 <td>[<span class="p1">д</span>]</td>
 <td>[<span class="p1">ж</span>]</td>
-<td>[<span class="p1">$$\boldsymbol{\widehat{дж}}$$</span>]</td>
+<td>[<span class="p1">$$\bm{\widehat{дж}}$$</span>]</td>
 <td>[<span class="p1">з</span>]</td>
-<td>[<span class="p1">$$\boldsymbol{\widehat{дз}}$$</span>]</td>
+<td>[<span class="p1">$$\bm{\widehat{дз}}$$</span>]</td>
 <td>[<span class="p1">д′</span>]</td>
 <td>[<span class="p1">з</span>]</td>
-<td>[<span class="p1">$$\boldsymbol{\widehat{дз}}$$′</span>]</td>
+<td>[<span class="p1">$$\bm{\widehat{дз}}$$′</span>]</td>
 <td></td>
 </tr>
 <tr>
@@ -91,7 +91,7 @@
 <td>[<span class="p1">л</span>]</td>
 <td>[<span class="p1">н</span>]</td>
 <td>[<span class="p1">р</span>]</td>
-<td>[<span class="p1">$$\boldsymbol{\widehat{дз}}$$</span>]</td>
+<td>[<span class="p1">$$\bm{\widehat{дз}}$$</span>]</td>
 <td></td>
 </tr>
 </table>
@@ -112,7 +112,7 @@ Iншi приголоснi в деяких позицiях можуть бути
  * губнi: [<span class="p1">б’</span>], [<span class="p1">п’</span>], [<span class="p1">в’</span>], [<span class="p1">м’</span>], [<span class="p1">ф’</span>];
  * гортанний [<span class="p1">г’</span>];
  * задньоязиковi [<span class="p1">х’</span>], [<span class="p1">ґ’</span>], [<span class="p1">к’</span>];
- * шиплячi [<span class="p1">ж’</span>], [<span class="p1">ш’</span>], [<span class="p1">$$\widehat{дж}$$</span>’],[<span class="p1">ч</span>’]
+ * шиплячi [<span class="p1">ж’</span>], [<span class="p1">ш’</span>], [<span class="p1">$$\bm{\widehat{дж}}$$</span>’],[<span class="p1">ч</span>’]
 
 Якщо вони стоять перед <span class="p1">є, ю, я, i</span>. Перед м’яким знаком вони не стоять нiколи. Наприклад: *бiль* [б’iль], *мiсто* [м’iсто]. 
 
