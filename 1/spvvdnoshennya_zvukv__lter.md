@@ -22,11 +22,11 @@
     <td valign="top">
         щ
       </td>
-      <td valign="top" >
+      <td valign="top">
         [шч]
       </td>
-      <td valign="top" >
-        $$щастя$$ [$$шч\acute{а}с$$′$$т$$′$$а$$]
+      <td valign="top">
+        *щастя* [$$шч\acute{а}с$$′$$т$$′$$а$$]
       </td>
     </tr>
 
@@ -34,11 +34,11 @@
     <td valign="top">
         щ
       </td>
-      <td valign="top" >
+      <td valign="top">
         [шч]
       </td>
-      <td valign="top" >
-        $$щастя$$ [$$шч\acute{а}$$с$$′$$т$$′$$а$$]
+      <td valign="top">
+        *щастя* [$$шч\acute{а}с$$′$$т$$′$$а$$]
       </td>
     </tr>
 
@@ -46,11 +46,11 @@
     <td valign="top">
         щ
       </td>
-      <td valign="top" >
+      <td valign="top">
         [шч]
       </td>
-      <td valign="top" >
-        $$щастя$$ [$$шч\acute{а}$$с$$′$$т$$′$$а$$]
+      <td valign="top">
+        *щастя* [$$шч\acute{а}с$$′$$т$$′$$а$$]
       </td>
     </tr>
 
@@ -58,23 +58,11 @@
     <td valign="top">
         щ
       </td>
-      <td valign="top" >
+      <td valign="top">
         [шч]
       </td>
-      <td valign="top" >
-        $$щастя$$ [$$шч\acute{а}$$с$$′$$т$$′$$а$$]
-      </td>      
-    </tr>
-
-    <tr>
-    <td valign="top">
-        щ
-      </td>
-      <td valign="top" >
-        [шч]
-      </td>
-      <td valign="top" >
-        $$щастя$$ [$$шч\acute{а}$$с$$′$$т$$′$$а$$]
+      <td valign="top">
+        *щастя* [$$шч\acute{а}с$$′$$т$$′$$а$$]
       </td>
     </tr>
 
@@ -82,11 +70,23 @@
     <td valign="top">
         щ
       </td>
-      <td valign="top" >
+      <td valign="top">
         [шч]
       </td>
-      <td valign="top" >
-        $$щастя$$ [$$шч\acute{а}$$с$$′$$т$$′$$а$$]
+      <td valign="top">
+        *щастя* [$$шч\acute{а}с$$′$$т$$′$$а$$]
+      </td>
+    </tr>
+
+    <tr>
+    <td valign="top">
+        щ
+      </td>
+      <td valign="top">
+        [шч]
+      </td>
+      <td valign="top">
+        *щастя* [$$шч\acute{а}с$$′$$т$$′$$а$$]
       </td>
     </tr>
   </body>
