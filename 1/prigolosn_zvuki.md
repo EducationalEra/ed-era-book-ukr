@@ -78,7 +78,7 @@
 <td>[<span class="p1">л′</span>]</td>
 <td>[<span class="p1">н′</span>]</td>
 <td>[<span class="p1">р′</span>]</td>
-<td>[<span class="p1">$$\pmb{\widehat{дз}}$$′</span>]</td>
+<td>[<span class="p1">$$\bm{\widehat{дз}}$$′</span>]</td>
 <td>[<span class="p1">й</span>]</td>
 </tr>
 <tr>
