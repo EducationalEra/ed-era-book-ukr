@@ -26,19 +26,19 @@
         [шч]
       </td>
       <td valign="top">
-        *щастя* [$$шч\acute{а}с$$′$$т$$′$$а$$]
+        <span class="p1">$$щастя$$</span> [$$шч\acute{а}с$$′$$т$$′$$а$$]
       </td>
     </tr>
 
     <tr>
     <td valign="top">
-        щ
+        ї
       </td>
       <td valign="top">
-        [шч]
+        [йі]
       </td>
       <td valign="top">
-        *щастя* [$$шч\acute{а}с$$′$$т$$′$$а$$]
+        *їжак* [$$йіж\acute{а}к$$]
       </td>
     </tr>
 
