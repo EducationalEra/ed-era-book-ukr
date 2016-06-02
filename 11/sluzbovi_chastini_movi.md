@@ -16,7 +16,6 @@
 <hr>
 <center><h4>Зміст розділу:</h4></center>
 
-
    1. [Прийменник](priymennik.html)
         1. [Групи прийменникiв за будовою](grupi_priymennikiv_za_budovoyu.html)
         2. [Групи прийменникiв за походженням](grupi_priymennikiv_za_pohodjennyam.html)

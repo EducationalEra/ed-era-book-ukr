@@ -30,11 +30,11 @@
 <li> Шести числових назвах: мiльярд, мiльйон, тисяча, сто, сорок, нуль;</li>
 <li> I невеликiй групi неозначено-кiлькiсних числiвникiв, утворених вiд iнших коренiв: мало, багато, стонадцять, кiлька тощо.</li>
 </ul>
+<center><h4>Зміст розділу:</h4></center>
 
-
-1. [Розряди числiвникiв за значенням i граматичними ознаками](rozryzdi_chislivnikiv_za_znachennyam.html)
-2. [Розряди числiвникiв за будовою](rozryadi_chislivnikiv_za_budovoyu.html) 
-3. [Вiдмiнювання числiвникiв](vidminuvannya_kilkisnih_chislivnikiv.html)
-4. [Узгодження числiвникiв з iменниками](uzgodzennya_chislivnikiv_z_imennikami.html)
-5. [Правопис числiвникiв](pravopis_chislivnikiv.html)
+1. [Розряди числiвникiв за значенням i граматичними ознаками](rozryzdi_chislivnikiv_za_znachennyam.md)
+2. [Розряди числiвникiв за будовою](rozryadi_chislivnikiv_za_budovoyu.md) 
+3. [Вiдмiнювання числiвникiв](vidminuvannya_kilkisnih_chislivnikiv.md)
+4. [Узгодження числiвникiв з iменниками](uzgodzennya_chislivnikiv_z_imennikami.md)
+5. [Правопис числiвникiв](pravopis_chislivnikiv.md)
 

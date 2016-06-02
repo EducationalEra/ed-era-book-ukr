@@ -17,8 +17,8 @@
 
 <br>
 <hr>
-<center><h4>Зміст підрозділу:</h4></center>
+<center><h4>Зміст розділу:</h4></center>
 
-1. [Розряди займенникiв за значенням](rozryadi_zaimennikiv_za_znachennyam.html)
-2. [Вiдмiнювання займенникiв](vidminuvannya_zaimennikiv.html)
-3. [Правопис займенникiв](pravopis_zaimennikiv.html)
+1. [Розряди займенникiв за значенням](rozryadi_zaimennikiv_za_znachennyam.md)
+2. [Вiдмiнювання займенникiв](vidminuvannya_zaimennikiv.md)
+3. [Правопис займенникiв](pravopis_zaimennikiv.md)
