@@ -24,19 +24,19 @@
 <table class="centered-table">
 <tr>
 <td>Я</td>
-<td><font color="#0F5181">[йа]</font></td>
+<td align="center"><font color="#0F5181">[йа]</font></td>
 </tr>
 <tr>
 <td>Ю</td>
-<td><font color="#0F5181">[йу]</font></td>
+<td align="center"><font color="#0F5181">[йу]</font></td>
 </tr>
 <tr>
 <td>Є</td>
-<td><font color="#0F5181">[йе]</font></td>
+<td align="center"><font color="#0F5181">[йе]</font></td>
 </tr>
 <tr>
 <td>Ї</td>
-<td><font color="#0F5181">[йi]</font></td>
+<td align="center"><font color="#0F5181">[йi]</font></td>
 </tr>
 </table>
 </div>
