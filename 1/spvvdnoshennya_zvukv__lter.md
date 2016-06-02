@@ -25,59 +25,64 @@
         [шч]
       </td>
       <td valign="top" >
-        $$щастя$$ [шч$$\acute{а}$$с′т′а]
+        $$щастя$$ [$$шч\acute{а}$$с$$′$$т$$′$$а$$]
       </td>
     </tr>
 
     <td valign="top">
-        Букви
+        щ
       </td>
       <td valign="top" >
-        
+        [шч]
       </td>
       <td valign="top" >
-        Приклади
+        $$щастя$$ [$$шч\acute{а}$$с$$′$$т$$′$$а$$]
       </td>
+    </tr>
 
-      <td valign="top">
-        Букви
+    <td valign="top">
+        щ
       </td>
       <td valign="top" >
-        Звуки
+        [шч]
       </td>
       <td valign="top" >
-        Приклади
+        $$щастя$$ [$$шч\acute{а}$$с$$′$$т$$′$$а$$]
       </td>
+    </tr>
 
-      <td valign="top">
-        Букви
+    <td valign="top">
+        щ
       </td>
       <td valign="top" >
-        Звуки
+        [шч]
       </td>
       <td valign="top" >
-        Приклади
+        $$щастя$$ [$$шч\acute{а}$$с$$′$$т$$′$$а$$]
       </td>
+    </tr>
 
-      <td valign="top">
-        Букви
+    <td valign="top">
+        щ
       </td>
       <td valign="top" >
-        Звуки
+        [шч]
       </td>
       <td valign="top" >
-        Приклади
+        $$щастя$$ [$$шч\acute{а}$$с$$′$$т$$′$$а$$]
       </td>
+    </tr>
 
-      <td valign="top">
-        Букви
+    <td valign="top">
+        щ
       </td>
       <td valign="top" >
-        Звуки
+        [шч]
       </td>
       <td valign="top" >
-        Приклади
+        $$щастя$$ [$$шч\acute{а}$$с$$′$$т$$′$$а$$]
       </td>
+    </tr>
   </body>
 </table>
 
