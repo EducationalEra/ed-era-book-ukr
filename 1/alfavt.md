@@ -49,10 +49,10 @@
 </tr>
 <tr>
 <td align="center"><span class="p1">Ш</span> ш</td>
-<td><span class="p1">Щ</span> щ</td>
-<td><span class="p1">Ь</span> ь</td>
-<td><span class="p1">Ю</span> ю</td>
-<td><span class="p1">Я</span> я</td>
+<td align="center"><span class="p1">Щ</span> щ</td>
+<td align="center"><span class="p1">Ь</span> ь</td>
+<td align="center"><span class="p1">Ю</span> ю</td>
+<td align="center"><span class="p1">Я</span> я</td>
 <td></td>
 <td></td>
 </tr>
