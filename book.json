@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "-mathjax",
+        "mathjax",
         "youtube",
         "addcssjs",
         "modal-youtube-video",
