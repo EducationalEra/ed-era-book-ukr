@@ -29,7 +29,7 @@
         <answer>теля, радість, сніжок, риба</answer>
         <answer>дорожній, межа, прочитання, хазяйка</answer>
         <explanation>
-       Підвіконня – <span class="p1">\boldmath$${\widehat{-н}}$$</span>, лісок – <span class="p1">$$\boldsymbol{\widehat{-ок}}$$</span>, байкар – <span class="p1">$$\widehat{\boldsymbol{-ар}}$$</span>, маленький – <span class="p1">$$\widehat{-еньк}$$</span>. Немає суфіксів у цих словах: країна, атака, слово, вікно, діло, теля, риба, межа.
+       Підвіконня – <span class="p1">$$\boldsymbol{\widehat{-н}}$$</span>, лісок – <span class="p1">$$\boldsymbol{\widehat{-ок}}$$</span>, байкар – <span class="p1">$$\widehat{\boldsymbol{-ар}}$$</span>, маленький – <span class="p1">$$\boldsymbol{\widehat{-еньк}}$$</span>. Немає суфіксів у цих словах: країна, атака, слово, вікно, діло, теля, риба, межа.
         </explanation>
     </question>
 </quiz>
