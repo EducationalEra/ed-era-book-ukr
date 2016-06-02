@@ -17,7 +17,8 @@
         <b>Приклади</b>
       </td>
     </tr>
-
+    
+    <tr>
     <td valign="top">
         щ
       </td>
@@ -29,6 +30,7 @@
       </td>
     </tr>
 
+    <tr>
     <td valign="top">
         щ
       </td>
@@ -40,6 +42,7 @@
       </td>
     </tr>
 
+    <tr>
     <td valign="top">
         щ
       </td>
@@ -51,6 +54,7 @@
       </td>
     </tr>
 
+    <tr>
     <td valign="top">
         щ
       </td>
@@ -62,6 +66,7 @@
       </td>
     </tr>
 
+    <tr>
     <td valign="top">
         щ
       </td>
@@ -73,6 +78,7 @@
       </td>
     </tr>
 
+    <tr>
     <td valign="top">
         щ
       </td>
