@@ -9,7 +9,7 @@
       <td align="center" valign="top">
         <b>Букви</b>
       </td>
-      <td align="center" valign="top" >
+      <td width="40%" align="center" valign="top" >
         <b>Звуки</b>
       </td>
       <td align="center" valign="top" >
@@ -21,7 +21,7 @@
     <td valign="top">
         щ
       </td>
-      <td valign="top">
+      <td width="40%" valign="top">
         [шч]
       </td>
       <td valign="top">
@@ -34,7 +34,7 @@
     <td valign="top">
         ї
       </td>
-      <td valign="top">
+      <td width="40%" valign="top">
         [йі]
       </td>
       <td valign="top">
@@ -46,7 +46,7 @@
     <td valign="top" rowspan="2">
         я, ю, є
       </td>
-      <td valign="top">
+      <td width="40%" valign="top">
         [йа],[йу],[йе]:<br>-  після м'якого знака<br>-  після апострофа<br>-  після голосного<br>-  на початку слова
       </td>
       <td valign="top">
@@ -58,7 +58,7 @@
     </tr>
 
     <tr>
-      <td valign="top">
+      <td width="40%" valign="top">
         [а],[у],[е] + м'якість чи пом'якшення попереднього приголосного
       </td>
       <td valign="top">
@@ -71,7 +71,7 @@
     <td valign="top">
         дж, дз
       </td>
-      <td valign="top">
+      <td width="40%" valign="top">
         [$$\widehat{дж}$$], [$$\widehat{дз}$$], якщо входять до однієї морфеми<br>[д] і [ж],[д] і [з], якщо належать до різних морфем
       </td>
       <td valign="top">
@@ -86,7 +86,7 @@
     <td valign="top">
         м'який знак
       </td>
-      <td valign="top">
+      <td width="40%" valign="top">
         Не є звуком. Указує на м'якість попереднього приголосного
       </td>
       <td valign="top">
