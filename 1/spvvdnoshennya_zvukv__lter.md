@@ -18,6 +18,9 @@
     </tr>
 
     <tr>
+    <td valign="top">
+        щ
+      </td>
       <td valign="top">
         [шч]
       </td>
