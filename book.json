@@ -42,6 +42,11 @@
     },
     "links": {
         "gitbook": false,
+        "home": null,
+        "about": false,
+        "issues": false,
+        "contribute": false,
+        
         "sidebar": {
           "Зв'язатися з нами: info@ed-era.com": "mailto:info@ed-era.com",
           "Онлайн-курс з цього предмету": "https://study.ed-era.com/courses/EdEra/u102/U102/about?_ga=1.242370564.760337955.1424894355",
