@@ -19,7 +19,7 @@
 * Уподiбнення за мiсцем i способом творення<br>
 При цiй асимiляцiї зливається або дуже наближається вимова близьких звукiв.<br>
 Свистячi уподiбнюються наступним шиплячими.<br>
-Наприклад: *безжурний* - $$бе[ж:]\acute{у}рний$$, *принісши* - $$прин$$′$$\acute{і}[ш:]и$$.
+Наприклад: *безжурний* - $$бе$$[$$ж$$:]$$\acute{у}рний$$, *принісши* - $$прин$$′$$\acute{і}$$[$$ш$$:]$$и$$.
 
 Деякi особливостi вимови груп приголосних краще запам’ятати:
 
@@ -32,7 +32,109 @@
 </table>
 </div>-->
 
-<p align="center"><img width="350"class="image" src="../pics/1/pic4.png"/></p>
+<table>
+  <body>
+    <tr>
+      <td width="30%" align="center" valign="top">
+        -шся [$$c$$':$$a$$]
+      </td>
+      <td width="30%" align="center" valign="top" >
+        <i>робишся</i> [$$р\acute{о}би^ес$$':$$a$$]
+      </td>
+    </tr>
+
+    <tr>
+      <td width="30%" align="center" valign="top">
+        -ться [$$ц$$':$$a$$]
+      </td>
+      <td width="30%" align="center" valign="top" >
+        <i>молиться</i> [$$м\acute{о}ли^ец$$':$$a$$]
+      </td>
+    </tr>
+
+    <tr>
+      <td width="30%" align="center" valign="top">
+        -жся [$$з$$'$$с$$'$$a$$]
+      </td>
+      <td width="30%" align="center" valign="top" >
+        <i>намажся</i> [$$нам\acute{а}з$$'$$с$$'$$a$$]
+      </td>
+    </tr>
+
+    <tr>
+      <td width="30%" align="center" valign="top">
+        -чся [$$ц$$'$$с$$'$$a$$]
+      </td>
+      <td width="30%" align="center" valign="top" >
+        <i>не скалічся</i> [$$не$$ $$скал\acute{і}ц$$'$$с$$'$$a$$]
+      </td>
+    </tr>
+
+    <tr>
+      <td width="30%" align="center" valign="top">
+        -шці [$$с$$'$$ц$$'$$і$$]
+      </td>
+      <td width="30%" align="center" valign="top" >
+        <i>комашці</i> [$$ком\acute{а}с$$'$$ц$$'$$і$$]
+      </td>
+    </tr>
+
+    <tr>
+      <td width="30%" align="center" valign="top">
+        -жці [$$з$$'$$ц$$'$$і$$]
+      </td>
+      <td width="30%" align="center" valign="top" >
+        <i>мережці</i> [$$ме^ир\acute{е}з$$'$$ц$$'$$і$$]
+      </td>
+    </tr>
+
+    <tr>
+      <td width="30%" align="center" valign="top">
+        -зж [$$ж$$:]
+      </td>
+      <td width="30%" align="center" valign="top" >
+        <i>розжився</i> [$$ро$$ж$$:\acute{и}вс$$'$$a$$]
+      </td>
+    </tr>
+
+    <tr>
+      <td width="30%" align="center" valign="top">
+        -зч [$$шч$$]
+      </td>
+      <td width="30%" align="center" valign="top" >
+        <i>зчистиш</i> [$$шч\acute{и}сти^еш$$]
+      </td>
+    </tr>
+
+    <tr>
+      <td width="30%" align="center" valign="top">
+        -здж [$$ж\widehat{дж}$$]
+      </td>
+      <td width="30%" align="center" valign="top" >
+        <i>з джурою</i> [$$ж\widehat{дж}\acute{у}ройу$$]
+      </td>
+    </tr>
+
+    <tr>
+      <td width="30%" align="center" valign="top">
+        -зш, -сш [$$ш$$:]
+      </td>
+      <td width="30%" align="center" valign="top" >
+        <i>зарісши</i> [$$зар\acute{і}ш$$:$$и$$]
+      </td>
+    </tr>
+
+    <tr>
+      <td width="30%" align="center" valign="top">
+        -тч, -тш [$$ч$$:]
+      </td>
+      <td width="30%" align="center" valign="top" >
+        <i>братчик</i> [$$бр\acute{а}ч$$:$$ик$$]
+      </td>
+    </tr>
+    </body>
+</table>
+
 
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/I3wHHsfPimM" frameborder="0" allowfullscreen></iframe>
