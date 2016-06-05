@@ -32,13 +32,13 @@
 </table>
 </div>-->
 
-<table>
+<table width="50%">
   <body>
     <tr>
       <td width="30%" align="center" valign="top">
         -шся [c':a]
       </td>
-      <td width="30%" align="center" valign="top" >
+      <td width="70%" align="center" valign="top" >
         <i>робишся</i> [$$р\acute{о}би^ес$$':a]
       </td>
     </tr>
@@ -47,7 +47,7 @@
       <td width="30%" align="center" valign="top">
         -ться [ц':a]
       </td>
-      <td width="30%" align="center" valign="top" >
+      <td width="70%" align="center" valign="top" >
         <i>молиться</i> [$$м\acute{о}ли^ец$$':а]
       </td>
     </tr>
@@ -56,7 +56,7 @@
       <td width="30%" align="center" valign="top">
         -жся [з'с'a]
       </td>
-      <td width="30%" align="center" valign="top" >
+      <td width="70%" align="center" valign="top" >
         <i>намажся</i> [$$нам\acute{а}з$$'$$с$$'а]
       </td>
     </tr>
@@ -65,7 +65,7 @@
       <td width="30%" align="center" valign="top">
         -чся [ц'с'a]
       </td>
-      <td width="30%" align="center" valign="top" >
+      <td width="70%" align="center" valign="top" >
         <i>не скалічся</i> [$$не$$ $$скал\acute{і}ц$$'$$с$$'а]
       </td>
     </tr>
@@ -74,7 +74,7 @@
       <td width="30%" align="center" valign="top">
         -шці [с'ц'і]
       </td>
-      <td width="30%" align="center" valign="top" >
+      <td width="70%" align="center" valign="top" >
         <i>комашці</i> [$$ком\acute{а}с$$'$$ц$$'$$і$$]
       </td>
     </tr>
@@ -83,7 +83,7 @@
       <td width="30%" align="center" valign="top">
         -жці [з'ц'і]
       </td>
-      <td width="30%" align="center" valign="top" >
+      <td width="70%" align="center" valign="top" >
         <i>мережці</i> [$$ме^ир\acute{е}з$$'$$ц$$'$$і$$]
       </td>
     </tr>
@@ -92,7 +92,7 @@
       <td width="30%" align="center" valign="top">
         -зж [ж:]
       </td>
-      <td width="30%" align="center" valign="top" >
+      <td width="70%" align="center" valign="top" >
         <i>розжився</i> [$$рож$$:$$\acute{и}вс$$'а]
       </td>
     </tr>
@@ -101,7 +101,7 @@
       <td width="30%" align="center" valign="top">
         -зч [шч]
       </td>
-      <td width="30%" align="center" valign="top" >
+      <td width="70%" align="center" valign="top" >
         <i>зчистиш</i> [$$шч\acute{и}сти^еш$$]
       </td>
     </tr>
@@ -110,7 +110,7 @@
       <td width="30%" align="center" valign="top">
         -здж [ж$$\widehat{дж}$$]
       </td>
-      <td width="30%" align="center" valign="top" >
+      <td width="70%" align="center" valign="top" >
         <i>з джурою</i> [$$ж\widehat{дж}\acute{у}ройу$$]
       </td>
     </tr>
@@ -119,7 +119,7 @@
       <td width="30%" align="center" valign="top">
         -зш, -сш [ш:]
       </td>
-      <td width="30%" align="center" valign="top" >
+      <td width="70%" align="center" valign="top" >
         <i>зарісши</i> [$$зар\acute{і}ш$$:$$и$$]
       </td>
     </tr>
@@ -128,7 +128,7 @@
       <td width="30%" align="center" valign="top">
         -тч, -тш [ч:]
       </td>
-      <td width="30%" align="center" valign="top" >
+      <td width="70%" align="center" valign="top" >
         <i>братчик</i> [$$бр\acute{а}ч$$:$$ик$$]
       </td>
     </tr>
