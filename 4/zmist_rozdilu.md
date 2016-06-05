@@ -10,7 +10,7 @@
     4. [Префiкс](prefics.md)
     5. [Суфiкс](sufics.md)
     6. [Постфiкс і інтерфікс](postfics.md)
-2. [Словотвiр](slovotvir.md)
+2. [Словотвiр](slovotvir_.md)
 3. [Морфологiчнi способи словотворення](morfologichni_sposobi_slovotvorennya.md)
     1. [Суфiксальний спосiб](sufiksalniy_sposib.md)
     2. [Префiксальний спосiб](prefiksalniy_sposib.md)
@@ -20,4 +20,3 @@
     5. [Словоскладання](slovoskladannya.md)
     6. [Абревiацiя](abreviaciya.md)
 4. [Неморфологiчнi способи словотворення](nemorfologichni_sposobi_tvorennya.md)
-5. [Запитання до теми](zapitannya_do_temi.md)

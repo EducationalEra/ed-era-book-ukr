@@ -4,10 +4,107 @@
 
 В українськiй мовi iменники вiдмiнюються за сiмома вiдмiнками.<br>
 
-<div class="center">
-<img src="../pics/5/8.png" width="700px" class="center"/>
-</div>
-<br>
+
+<table>
+    <body>
+        <tr>
+            <td width="20%" align="center" valign="top">
+                <b>Відмінок</b>
+            </td>
+            <td width="40%" align="center" valign="top">
+                <b>Питання</b>
+            </td>
+            <td width="40%" align="center" valign="top">
+                <b>Приклад</b>
+            </td>
+        </tr>
+
+        <tr>
+            <td width="20%" align="center" valign="top">
+                Називний
+            </td>
+            <td width="40%" align="center" valign="top">
+                Хто? Що?
+            </td>
+            <td width="40%" align="center" valign="top">
+                Хлопець
+            </td>
+        </tr>
+
+        <tr>
+            <td width="20%" align="center" valign="top">
+                Родовий
+            </td>
+            <td width="40%" align="center" valign="top">
+                Кого? Чого?
+            </td>
+            <td width="40%" align="center" valign="top">
+                Хлопця
+            </td>
+        </tr>
+
+        <tr>
+            <td width="20%" align="center" valign="top">
+                Давальний
+            </td>
+            <td width="40%" align="center" valign="top">
+                Кому? Чому?
+            </td>
+            <td width="40%" align="center" valign="top">
+                Хлопцеві, хлопцю
+            </td>
+        </tr>
+
+        <tr>
+            <td width="20%" align="center" valign="top">
+                Знахідний
+            </td>
+            <td width="40%" align="center" valign="top">
+                Кого? Що?
+            </td>
+            <td width="40%" align="center" valign="top">
+                Хлопця
+            </td>
+        </tr>
+
+        <tr>
+            <td width="20%" align="center" valign="top">
+                Орудний
+            </td>
+            <td width="40%" align="center" valign="top">
+                Ким? Чим?
+            </td>
+            <td width="40%" align="center" valign="top">
+                Хлопцем
+            </td>
+        </tr>
+
+        <tr>
+            <td width="20%" align="center" valign="top">
+                Місцевий
+            </td>
+            <td width="40%" align="center" valign="top">
+                На кому? На чому?<br>(У кому? У чому?)
+            </td>
+            <td width="40%" align="center" valign="top">
+                На/у хлопцеві,<br>хлопцю, хлопці
+            </td>
+        </tr>
+
+        <tr>
+            <td width="20%" align="center" valign="top">
+                Кличний
+            </td>
+            <td width="40%" align="center" valign="top">
+                Для звертання
+            </td>
+            <td width="40%" align="center" valign="top">
+                Хлопче
+            </td>
+        </tr>
+
+    </body>
+</table>
 
 Називний вiдмiнок — прямий, усi iншi — непрямi.
 <br>

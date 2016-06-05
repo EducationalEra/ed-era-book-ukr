@@ -1,9 +1,48 @@
 #Рiд iменникiв
 
-<div class="center">
-<img src="../pics/5/4.png" width="700px" class="center"/>
-</div>
-<br>
+<table>
+    <body>
+        <tr>
+            <td align="center" valign="top">
+                <b>Чоловічий рід (він):</b>
+            </td>
+            <td align="center" valign="top">
+                <b>Жіночий рід (вона):</b>
+            </td>
+            <td align="center" valign="top">
+                <b>Середній рід (воно):</b>
+            </td>
+        </tr>
+
+        <tr>
+            <td align="center" valign="top">
+                <i>біль</i><br><i>кір</i><br><i>тюль</i><br><i>собака</i><br><i>ліс</i>
+            </td>
+            <td align="center" valign="top">
+                <i>адреса</i><br><i>вуаль</i><br><i>путь</i><br><i>річка</i><br><i>голова</i>
+            </td>
+            <td rowspan="3" align="center" valign="top">
+                <i>місто</i><br><i>село</i><br><i>простирадло</i><br><i>ліжко</i><br><i>вікно</i>
+            </td>
+        </tr>
+
+        <tr>
+            <td align="center" colspan="2" valign="top">
+                <b>Спільний рід (він і вона):</b>
+            </td>
+        </tr>
+
+        <tr>
+            <td align="center" colspan="2" valign="top">
+                <i>нероба, базіка, нікчема, рева, ледащо, сирота, плакса.</i><br><i>Нестерпний ледащо - нестерпна ледащо</i>
+            </td>
+        </tr>
+    </body>
+</table>
+
+
+
+
 
 До чоловiчого роду також належать назви осiб за видом дiяльностi та професiєю, що називають осiб чоловiчої та жiночої статi:
 

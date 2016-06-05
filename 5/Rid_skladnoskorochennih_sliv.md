@@ -1,10 +1,39 @@
 #Рiд складноскорочених слiв
 
 
-<div class="center">
-<img src="../pics/5/6.png" width="700px" class="center"/>
-</div>
-<br>
+<table>
+    <body>
+        <tr>
+            <td align="center" colspan="3" valign="top">
+                <b>Незмінювані складноскорочені слова:</b><br>(рід визначається за головним словом)
+            </td>
+        </tr>
+
+        <tr>
+            <td align="center" valign="top">
+                <b>Чоловічий рід (він):</b>
+            </td>
+            <td align="center" valign="top">
+                <b>Жіночий рід (вона):</b>
+            </td>
+            <td align="center" valign="top">
+                <b>Середній рід (воно):</b>
+            </td>
+        </tr>
+
+        <tr>
+            <td valign="top">
+                НБУ (банк)
+            </td>
+            <td valign="top">
+                ГЕС (електростанція)
+            </td>
+            <td valign="top">
+                МЗС (міністерство)
+            </td>
+        </tr>
+    </body>
+</table>
 
 
 Рiд змiнюваних складноскорочених слiв визначаємо за типом їхнього вiдмiнювання. Здебiльшого це iменники чоловiчого роду: <i>Мiнфiн, виш</i>.

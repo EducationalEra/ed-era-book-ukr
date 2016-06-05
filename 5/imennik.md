@@ -3,7 +3,7 @@
 <div class="eoz-wrap">
 <span class="eoz">Визначення</span>
 <div class="eoz-text">
-<b>Іменник</b> — самостiйна частина мови, що має значення предметностi (називає особу, предмет, явище) та вiдповiдає на запитання <strong>хто?</strong> <strong>що?.</strong>
+<b>Іменник</b> — самостiйна частина мови, що має значення предметностi (називає особу, предмет, явище) та вiдповiдає на запитання <strong>хто?</strong> <strong>що?</strong>
 </div>
 </div>
 
@@ -15,6 +15,7 @@ Iменники змiнюються за числами та вiдмiнками,
 <hr>
 <center><h4>Зміст розділу:</h4></center>
 
+   1. [Групи iменникiв за значенням](gruppi_imennikiv_za_znachennyam.md)
    2. [Рiд iменникiв](rid_imennikiv.md)
         1. [Рiд незмiнюваних iменникiв iншомовного походження](rid_nezmin_imen_inshomovnogo_pohod.md)
         2.  [Рiд складноскорочених слiв](Rid_skladnoskorochennih_sliv.md)

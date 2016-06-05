@@ -1,20 +1,98 @@
 #Групи iменникiв за значенням
 
-<div class="center">
-<img src="../pics/5/1.png" width="700px" class="center"/>
-</div>
-<br>
+<table>
+    <body>
+        <tr>
+            <td align="center" colspan="3" valign="top">
+                <b>Загальні назви:</b>
+            </td>
+            <td width="25%" align="center" valign="top">
+                <b>Власні назви:</b>
+            </td>
+        </tr>
+
+        <tr>
+            <td align="center" colspan="3" valign="top">
+                <i>собака,<br>місто,<br>озеро</i>
+            </td>
+            <td align="center" rowspan="3" valign="top">
+                <i>Сірко,<br>Київ,<br>Синевир</i>
+            </td>
+        </tr>
+
+        <tr>
+            <td width="20%" align="center" valign="top">
+                <b>Одиничні:</b>
+            </td>
+            <td width="35%" align="center" valign="top">
+                <b>Збірні</b><br>(сукупність як одне ціле):
+            </td>
+            <td width="20%" align="center" valign="top">
+                <b>Речовинні:</b>
+            </td>
+        </tr>
+
+        <tr>
+            <td align="center" valign="top">
+                <i>літак,<br>зошит,<br>стілець</i>
+            </td>
+            <td align="center" valign="top">
+                <i>колосся,<br>волосся,<br>людство</i>
+            </td>
+            <td align="center" valign="top">
+                <i>молоко,<br>кисень,<br>висівки</i>
+            </td>
+        </tr>
+
+    </body>
+</table>
 
 
-<div class="center">
-<img src="../pics/5/2.png" width="700px" class="center"/>
-</div>
-<br>
+<table>
+    <body>
+        <tr>
+            <td width="50%" align="center" valign="top">
+                <b>Назви істот:</b>
+            </td>
+            <td width="50%" align="center" valign="top">
+                <b>Назви неістот:</b>
+            </td>
+        </tr>
+
+        <tr>
+            <td width="50%" align="center"  valign="top">
+                <i>книжка, троянда, літо</i>
+            </td>
+            <td width="50%" align="center" valign="top">
+                <i>товариш, дівчина, кіт</i>
+            </td>
+        </tr>
+    </body>
+</table>
 
 
-<div class="center">
-<img src="../pics/5/3.png" width="700px" class="center"/>
-</div>
+<table>
+    <body>
+        <tr>
+            <td width="50%" align="center" valign="top">
+                <b>Конкретні:</b>
+            </td>
+            <td width="50%" align="center" valign="top">
+                <b>Абстрактні:</b>
+            </td>
+        </tr>
+
+        <tr>
+            <td width="50%" align="center" valign="top">
+                <i>орел, місто, степ</i>
+            </td>
+            <td width="50%" align="center" valign="top">
+                <i>любов, телебачення, година</i>
+            </td>
+        </tr>
+    </body>
+</table>
+
 
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/OT9OOmOuX-o" frameborder="0" allowfullscreen></iframe>

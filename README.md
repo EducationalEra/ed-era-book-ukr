@@ -44,7 +44,7 @@
        4. [Префiкс](4/prefics.md)
        5. [Суфiкс](4/sufics.md)
        6. [Постфiкс і інтерфікс](4/postfics.md)
-   2. [Словотвiр](4/slovotvir.md)
+   2. [Словотвiр](4/slovotvir_.md)
    3. [Морфологiчнi способи словотворення](4/morfologichni_sposobi_slovotvorennya.md)
        1. [Суфiксальний спосiб](4/sufiksalniy_sposib.md)
        2. [Префiксальний спосiб](4/prefiksalniy_sposib.md)

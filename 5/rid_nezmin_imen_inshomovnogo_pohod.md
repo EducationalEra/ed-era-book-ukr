@@ -4,10 +4,64 @@
 Незмінюваними називають іменники, що <a href="http://ukr.ed-era.com/5/vidminki_imennikiv.html">не відмінюються.</a>
 
 
-<div class="center">
-<img src="../pics/5/5.png" width="700px" class="center"/>
-</div>
-<br>
+<table>
+    <body>
+        <tr>
+            <td align="center" valign="top">
+                <b>Чоловічий рід (він):</b>
+            </td>
+            <td align="center" valign="top">
+                <b>Жіночий рід (вона):</b>
+            </td>
+            <td align="center" valign="top">
+                <b>Середній рід (воно):</b>
+            </td>
+        </tr>
+
+        <tr>
+            <td valign="top">
+                <b>Назви осіб чоловічої статі:</b><br><i>маестро</i><br><i>кюре</i>
+            </td>
+            <td valign="top">
+                <b>Назви осіб жіночої статі:</b><br><i>мадам</i><br><i>фрау</i>
+            </td>
+            <td valign="top">
+
+            </td>
+        </tr>
+
+        <tr>
+            <td valign="top">
+                <b>Назви тварин:</b><br><i>шимпанзе</i><br><i>какаду</i><br><i>поні</i>
+            </td>
+            <td valign="top">
+                
+            </td>
+            <td valign="top">
+                <b>Назви неістот:</b><br><i>бюро</i><br><i>таксі</i><br><i>журі</i>
+            </td>
+        </tr>
+
+        <tr>
+            <td align="center" colspan="3" valign="top">
+                <b>Географічні назви:</b><br>(рід визначається за загальною назвою)
+            </td>
+        </tr>
+
+        <tr>
+            <td valign="top">
+                <i>Крит</i> (острів)
+            </td>
+            <td valign="top">
+                <i>Міссісіпі</i> (ріка)<br><i>Ай-Петрі</i> (гора)
+            </td>
+            <td valign="top">
+                <i>Баку</i> (місто)<br><i>Синевир</i> (озеро)
+            </td>
+        </tr>
+    </body>
+</table>
+
 
 Зверніть увагу, рід незмінюваних іменників іншомовного походження, що позначають власні географічні назви, визначається за родовою ознакою (місто, озеро, гора тощо).  
 
