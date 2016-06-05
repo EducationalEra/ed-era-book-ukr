@@ -32,7 +32,7 @@
 </table>
 </div>-->
 
-<table width="50%">
+<table width="50%" align="center">
   <body>
     <tr>
       <td width="30%" align="center" valign="top">

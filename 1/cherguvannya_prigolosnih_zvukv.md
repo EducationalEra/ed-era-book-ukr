@@ -12,7 +12,48 @@
 
 У дiєсловах вiдбувається перехiд приголосних [<span class="p1">д</span>], [<span class="p1">т</span>], [<span class="p1">з</span>], [<span class="p1">с</span>] у шиплячi, а саме:
 
-<p align="center"><img width="300"class="image" src="../pics/1/pic5.png"/></p>
+
+<table width="35%" align="center">
+  <body>
+    <tr>
+      <td width="40%" align="center" valign="top">
+        т - ч
+      </td>
+      <td width="60%" align="center" valign="top" >
+        <i>котити - кочу</i>
+      </td>
+    </tr>
+
+    <tr>
+      <td width="40%" align="center" valign="top">
+        ст - щ
+      </td>
+      <td width="60%" align="center" valign="top" >
+        <i>пустити - пущу</i>
+      </td>
+    </tr>
+
+    <tr>
+      <td width="40%" align="center" valign="top">
+        зд - ждж
+      </td>
+      <td width="60%" align="center" valign="top" >
+        <i>їздити - їжджу</i>
+      </td>
+    </tr>
+
+    <tr>
+      <td width="40%" align="center" valign="top">
+        д - дж
+      </td>
+      <td width="60%" align="center" valign="top" >
+        <i>садити - саджу</i>
+      </td>
+    </tr>
+  </body>
+</table>
+
+
 
 В iнших частинах мови чергується [<span class="p1">д</span>] — [<span class="p1">ж</span>]: *уродити — урожай, огородити — огорожа, погода — погожий, переходити — перехожий, правда — справжнiй*.
 
