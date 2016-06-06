@@ -1,6 +1,6 @@
 #Рiд iменникiв
 
-<table>
+<table style="width: 85%;" align="center">
     <body>
         <tr>
             <td align="center" valign="top">

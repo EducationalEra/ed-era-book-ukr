@@ -4,7 +4,7 @@
 Незмінюваними називають іменники, що <a href="http://ukr.ed-era.com/5/vidminki_imennikiv.html">не відмінюються.</a>
 
 
-<table>
+<table style="width: 90%;" align="center">
     <body>
         <tr>
             <td align="center" valign="top">

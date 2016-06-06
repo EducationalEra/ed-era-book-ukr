@@ -42,3 +42,4 @@
       3. [Правопис суфiксiв -ин-, -iн-, -iв- у присвiйних прикметниках](pravopis_suficsiv_in_in.md)
       4. [Написання складних прикметникiв](napisannya_skladnih_prikmetnikiv.md)
       5. [Правопис НЕ з прикметниками](pravopis_NE_z_prikmetnikami.md)
+6.  [Запитання до теми](zapitannya_do_temi.md)

@@ -1,17 +1,110 @@
 #Розряди прикметникiв за значенням
 
-<div class="center">
-<img src="../pics/6/1.png" width="700px" class="center"/>
-</div>
-<br>
+
+<table style="width: 100%;" align="center">
+    <body>
+        <tr>
+            <td width="30%" align="center" valign="top">
+                <b>Якісні</b>
+            </td>  
+            <td width="40%" align="center" valign="top">
+                <b>Відносні</b>
+            </td>
+            <td width="30%" align="center" valign="top">
+                <b>Присвійні</b>
+            </td>                     
+        </tr>
+
+        <tr>
+            <td width="30%" align="center" valign="top">
+                Вказують на пряму ознаку, що може виражатися меншою чи більшою мірою
+            </td>  
+            <td width="40%" align="center" valign="top">
+                Виражають ознаку предмета через її зв’язки з іншими предметами, ознаками чи діями + прикметники з суфіксом -<span class="p1">ськ</span>-
+            </td>
+            <td width="30%" align="center" valign="top">
+                Виражають приналежність предмета (чий?)
+            </td>                     
+        </tr>
+
+        <tr>
+            <td width="30%" align="center" valign="top">
+                <i>гарна дівчина -<br>гарніша дівчина</i>
+            </td>  
+            <td width="40%" align="center" valign="top">
+                <i>дерев’яний стіл</i> (стіл з дерева),<br><i>міська дорога</i> (дорога в місті)
+            </td>
+            <td width="30%" align="center" valign="top">
+                <i>Шевченкові твори,<br>Оленина книжка</i>
+            </td>                     
+        </tr>
+  </body>
+</table>
 
 
 Прикметники можуть переходити з розряду у розряд. Це залежить вiд iменникiв, з якими вони узгоджуються.
 
-<div class="center">
-<img src="../pics/6/2.png" width="600px" class="center"/>
-</div>
-<br>
+
+<table style="width: 90%;" align="center">
+    <body>
+        <tr>
+            <td width="28%" align="center" valign="top">
+                <b>I група</b>
+            </td>  
+            <td width="44%" align="center" valign="top">
+                <b>Умова переходу</b>
+            </td>
+            <td width="28%" align="center" valign="top">
+                <b>II група</b>
+            </td>                     
+        </tr>
+
+        <tr>
+            <td rowspan="2" width="28%" align="center" valign="top">
+                <b>Присвійні:</b><br><i>орлиний дзьоб,<br>ведмежа послуга</i>
+            </td>  
+            <td width="44%" align="center" valign="top">
+                Якщо виражають не належність предмета істотам, а позначають загальну родову віднесеність. 
+            </td>
+            <td width="28%" align="center" valign="top">
+                <b>Відносні:</b><br><i>орлине гніздо</i>
+            </td>                     
+        </tr>
+
+        <tr> 
+            <td width="44%" align="center" valign="top">
+                Якщо вживаються у фразеологізмах. 
+            </td>
+            <td width="28%" align="center" valign="top">
+                <b>Якісні:</b><br><i>ведмежа послуга</i>
+            </td>                     
+        </tr>
+
+        <tr>
+            <td width="28%" align="center" valign="top">
+                <b>Якісні:</b><br><i>легка сумка</i>
+            </td>  
+            <td width="44%" align="center" valign="top">
+                Якщо втрачають свої характерні властивості й починають позначати постійну ознаку предмета. 
+            </td>
+            <td width="28%" align="center" valign="top">
+                <b>Відносні:</b><br><i>легка атлетика</i>
+            </td>                     
+        </tr>
+
+        <tr>
+            <td width="28%" align="center" valign="top">
+                <b>Відносні:</b><br><i>малиновий сік</i>
+            </td>  
+            <td width="44%" align="center" valign="top">
+                Якщо втрачають ознаку, яка виражається опосередковано, і набувають ознаку, яку можна сприймати безпосередньо. 
+            </td>
+            <td width="28%" align="center" valign="top">
+                <b>Якісні:</b><br><i>малинова сукня</i>
+            </td>                     
+        </tr>
+  </body>
+</table>
 
 
 <quiz> 

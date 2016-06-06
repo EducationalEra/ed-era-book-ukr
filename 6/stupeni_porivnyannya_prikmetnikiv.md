@@ -2,10 +2,65 @@
 
 Якiснi прикметники в українськiй мовi утворюють ступенi порiвняння.
 
-<div class="center">
-<img src="../pics/6/3.png" width="600px" class="center"/>
-</div>
-<br>
+
+<table style="width: 90%;" align="center">
+    <body>
+        <tr>
+            <td rowspan="2" width="15%"  valign="top">
+                <b>Вищий ступінь</b>
+            </td>  
+            <td width="15%"  valign="top">
+                <b>Проста форма</b>
+            </td>
+            <td width="35%"  valign="top">
+                основа або корінь прикметника + суфікси <span class="p1">-ш-</span>, <span class="p1">-іш-</span>
+            </td>  
+            <td width="35%"  valign="top">
+                <i>холодний - холодніший,<br>глибокий - глибший</i>
+            </td>                    
+        </tr>
+
+        <tr>
+            <td width="15%"  valign="top">
+                <b>Складена форма</b>
+            </td>  
+            <td width="35%"  valign="top">
+                Слова <span class="p1">більш</span>, <span class="p1">менш</span> + прикметник у початковій формі 
+            </td>
+            <td width="35%"  valign="top">
+                <i>більш холодний,<br>менш глибокий</i>
+            </td>                     
+        </tr>
+
+        <tr>
+            <td rowspan="2" width="15%"  valign="top">
+                <b>Найвищий ступінь</b>
+            </td>  
+            <td width="15%"  valign="top">
+                <b>Проста форма</b>
+            </td>
+            <td width="35%"  valign="top">
+                Префiкс (<span class="p1">що-</span>, <span class="p1">як-</span>) <span class="p1">най-</span> + прикметник вищого ступеня простої форми
+            </td>  
+            <td width="35%"  valign="top">
+                <i>найхолоднiший,<br>найглибший</i>
+            </td>                    
+        </tr>
+
+        <tr>
+            <td width="15%"  valign="top">
+                <b>Складена форма</b>
+            </td>  
+            <td width="35%"  valign="top">
+                Слова <span class="p1">найбiльш</span>, <span class="p1">найменш</span> + прикметник у початковiй формi<br><b>або</b><br>слова <span class="p1">вiд усiх</span>, <span class="p1">за всiх</span>, <span class="p1">над  усе</span> + прикметник вищого ступеня простої форми
+            </td>
+            <td width="35%"  valign="top">
+                <i>найбiльш холодний,<br>найменш глибокий,<br>холоднiший за всiх</i>
+            </td>                     
+        </tr>
+    </body>
+</table>
+
 
 <div class="add-wrap">
 <span class="add">ЗНО</span>

@@ -1,7 +1,7 @@
 #Правопис окремих вiдмiнкових закiнчень iменникiв II вiдмiни в множині
 
 
-<table>
+<table style="width: 90%;" align="center">
     <body>
         <tr>
             <td width="15%" align="center" valign="top">

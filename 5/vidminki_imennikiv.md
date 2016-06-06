@@ -5,7 +5,7 @@
 В українськiй мовi iменники вiдмiнюються за сiмома вiдмiнками.<br>
 
 
-<table>
+<table style="width: 75%;" align="center">
     <body>
         <tr>
             <td width="20%" align="center" valign="top">

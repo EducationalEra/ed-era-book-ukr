@@ -1,7 +1,7 @@
 #Написання та вiдмiнювання iмен по батьковi
 
 
-<table align="center">
+<table style="width: 75%;" align="center">
     <body>
         <tr>
             <td width="34%" align="center" valign="top">
@@ -47,7 +47,7 @@
 Окремi iмена утворюють форму по батьковi з iншими суфiксами:
 
 
-<table align="center">
+<table style="width: 80%;" align="center">
     <body>
         <tr>
             <td width="20%" align="center" valign="top">
