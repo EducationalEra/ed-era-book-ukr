@@ -1,7 +1,102 @@
 #Вiдмiнювання iменникiв IV вiдмiни
 
 
-<div class="center">
-<img src="../pics/5/19.png" width="500px" class="center"/>
-</div>
-<br>
+<table width="60%" align="center">
+    <body>
+        <tr>
+            <td width="20%" align="center" valign="top">
+                <b>Відмінки</b>
+            </td>  
+            <td width="20%" align="center" valign="top">
+                <b>Однина</b>
+            </td>
+            <td width="20%" align="center" valign="top">
+                <b>Множина</b>
+            </td>                     
+        </tr>
+
+        <tr>
+        	<td width="20%" valign="top">
+                Називний
+            </td>
+            <td width="20%" valign="top">
+                курча
+            </td>
+            <td width="20%" valign="top">
+                телята
+            </td>                 
+        </tr>
+
+        <tr>
+        	<td width="20%" valign="top">
+                Родовий
+            </td>
+            <td width="20%" valign="top">
+                курчати
+            </td>
+            <td width="20%" valign="top">
+                телят
+            </td>                 
+        </tr>
+
+        <tr>
+        	<td width="20%" valign="top">
+                Давальний
+            </td>
+            <td width="20%" valign="top">
+                курчаті
+            </td>
+            <td width="20%" valign="top">
+                телятам
+            </td>                 
+        </tr>
+
+        <tr>
+        	<td width="20%" valign="top">
+                Знахідний
+            </td>
+            <td width="20%" valign="top">
+                курча
+            </td>
+            <td width="20%" valign="top">
+                телят
+            </td>              
+        </tr>
+
+        <tr>
+        	<td width="20%" valign="top">
+                Орудний
+            </td>
+            <td width="20%" valign="top">
+                курчам
+            </td>
+            <td width="20%" valign="top">
+                телятами
+            </td>            
+        </tr>
+
+        <tr>
+        	<td width="20%" valign="top">
+                Місцевий
+            </td>
+            <td width="20%" valign="top">
+                ...курчаті
+            </td>
+            <td width="20%" valign="top">
+                ...телятах
+            </td>                
+        </tr>
+
+        <tr>
+        	<td width="20%" valign="top">
+                Кличний
+            </td>
+            <td width="20%" valign="top">
+                курча
+            </td>
+            <td width="20%" valign="top">
+                телята
+            </td>                
+        </tr>
+</body>
+</table>

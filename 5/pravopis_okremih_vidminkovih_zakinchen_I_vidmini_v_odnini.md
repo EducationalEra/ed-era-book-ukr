@@ -1,14 +1,104 @@
 #Правопис окремих вiдмiнкових закiнчень iменникiв I вiдмiни в однинi
 
 
-<div class="center">
-<img src="../pics/5/13.png" width="700px" class="center"/>
-</div>
-<br>
+<table>
+    <body>
+        <tr>
+            <td width="15%" align="center" valign="top">
+                <b>Відмінок</b>
+            </td>  
+            <td width="25%" align="center" valign="top">
+                <b>Група</b>
+            </td>
+            <td width="30%" align="center" valign="top">
+                <b>Закінчення</b>
+            </td>  
+            <td width="30%" align="center" valign="top">
+                <b>Приклади</b>
+            </td>                   
+        </tr>
 
+        <tr>
+            <td width="15%" rowspan="2" valign="top">
+                Орудний
+            </td>  
+            <td width="25%" valign="top">
+                Тверда
+            </td>
+            <td width="30%" valign="top">
+                -<span class="p1">ою</span>
+            </td>  
+            <td width="30%" valign="top">
+                <i>допомогою</i>
+            </td>                   
+        </tr>
 
-Деякi iменники в родовому вiдмiнку множини мають паралельнi форми.<br>
-<span class="p1">Наприклад:</span> <i>легень - легенiв, губ - губiв, воєн - вiйн, сосен - сосон тощо.</i>
+        <tr>
+              
+            <td width="25%" valign="top">
+                М’яка та мішана
+            </td>
+            <td width="30%" valign="top">
+                -<span class="p1">ею</span> (-<span class="p1">єю</span>)
+            </td>  
+            <td width="30%" valign="top">
+                <i>тишею, надією</i>
+            </td>                   
+        </tr>
+
+        <tr>
+            <td width="15%" rowspan="4" valign="top">
+                Кличний
+            </td>  
+            <td width="25%" valign="top">
+                Тверда
+            </td>
+            <td width="30%" valign="top">
+                -<span class="p1">о</span>
+            </td>  
+            <td width="30%" valign="top">
+                <i>Миколо</i>
+            </td>                   
+        </tr>
+
+        <tr>
+              
+            <td width="25%" valign="top">
+                Мішана
+            </td>
+            <td width="30%" valign="top">
+                -<span class="p1">е</span> (-<span class="p1">є</span>)
+            </td>  
+            <td width="30%" valign="top">
+                <i>тише</i>
+            </td>                   
+        </tr>
+
+        <tr>
+            <td width="25%" rowspan="2" valign="top">
+                М’яка
+            </td>  
+            
+            <td width="30%" valign="top">
+                -<span class="p1">е</span> (-<span class="p1">є</span>)
+            </td>  
+            <td width="30%" valign="top">
+                <i>надіє</i>
+            </td>                   
+        </tr>
+
+        <tr>
+            
+            <td width="30%" valign="top">
+                -<span class="p1">ю</span> (деякі пестливі форми)
+            </td>  
+            <td width="30%" valign="top">
+                <i>бабусю, доню</i>
+            </td>                   
+        </tr>
+
+    </body>
+</table>
 
 
 <div class="fluidMedia">

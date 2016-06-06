@@ -1,10 +1,105 @@
 #Вiдмiнювання iменникiв III вiдмiни
 
 
-<div class="center">
-<img src="../pics/5/18.png" width="500px" class="center"/>
-</div>
-<br>
+<table width="60%" align="center">
+    <body>
+        <tr>
+            <td width="20%" align="center" valign="top">
+                <b>Відмінки</b>
+            </td>  
+            <td width="20%" align="center" valign="top">
+                <b>Однина</b>
+            </td>
+            <td width="20%" align="center" valign="top">
+                <b>Множина</b>
+            </td>                     
+        </tr>
+
+        <tr>
+        	<td width="20%" valign="top">
+                Називний
+            </td>
+            <td width="20%" valign="top">
+                любов
+            </td>
+            <td width="20%" valign="top">
+                подорожі
+            </td>                 
+        </tr>
+
+        <tr>
+        	<td width="20%" valign="top">
+                Родовий
+            </td>
+            <td width="20%" valign="top">
+                любові
+            </td>
+            <td width="20%" valign="top">
+                подорожей
+            </td>                 
+        </tr>
+
+        <tr>
+        	<td width="20%" valign="top">
+                Давальний
+            </td>
+            <td width="20%" valign="top">
+                любові
+            </td>
+            <td width="20%" valign="top">
+                подорожам
+            </td>                 
+        </tr>
+
+        <tr>
+        	<td width="20%" valign="top">
+                Знахідний
+            </td>
+            <td width="20%" valign="top">
+                любов
+            </td>
+            <td width="20%" valign="top">
+                подорожі
+            </td>              
+        </tr>
+
+        <tr>
+        	<td width="20%" valign="top">
+                Орудний
+            </td>
+            <td width="20%" valign="top">
+                любов’ю
+            </td>
+            <td width="20%" valign="top">
+                подорожами
+            </td>            
+        </tr>
+
+        <tr>
+        	<td width="20%" valign="top">
+                Місцевий
+            </td>
+            <td width="20%" valign="top">
+                ...любові
+            </td>
+            <td width="20%" valign="top">
+                ...подорожах
+            </td>                
+        </tr>
+
+        <tr>
+        	<td width="20%" valign="top">
+                Кличний
+            </td>
+            <td width="20%" valign="top">
+                любове
+            </td>
+            <td width="20%" valign="top">
+                подорожі
+            </td>                
+        </tr>
+</body>
+</table>
 
 Усi iменники <b>III вiдмiни</b> в орудному вiдмiнку однини мають закiнчення <span class="p1">-у</span> (<span class="p1">-ю</span>), а приголоснi основи подвоюються.<br>
 Наприклад: <i>сiллю, подорожжю</i>.
