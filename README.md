@@ -54,7 +54,6 @@
        5. [Словоскладання](4/slovoskladannya.md)
        6. [Абревiацiя](4/abreviaciya.md)
    4. [Неморфологiчнi способи словотворення](4/Nemorfologichni_sposobi_tvorennya.md)
-   5. [Запитання до теми](4/zapitannya_do_temi.md)
 5.  [Iменник](5/imennik.md)
     1. [Групи iменникiв за значенням](5/gruppi_imennikiv_za_znachennyam.md)
     2. [Рiд iменникiв](5/rid_imennikiv.md)

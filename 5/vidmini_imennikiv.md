@@ -1,9 +1,90 @@
 #Відміни іменників
 
-<div class="center">
-<img src="../pics/5/9.png" width="700px" class="center"/>
-</div>
-<br>
+
+<table>
+    <body>
+        <tr>
+            <td width="15%" align="center" valign="top">
+                
+            </td>
+            <td width="15%" align="center" valign="top">
+                <b>I Відміна</b>
+            </td>
+            <td colspan="2" align="center" valign="top">
+                <b>II Відміна</b>
+            </td>            
+            <td width="15%" align="center" valign="top">
+                <b>III Відміна</b>
+            </td>
+            <td width="23%" align="center" valign="top">
+                <b>IV Відміна</b>
+            </td>
+        </tr>
+
+        <tr>
+            <td width="15%" valign="top">
+                Рід
+            </td>
+            <td width="15%" valign="top">
+                чоловічий,<br>жіночий,<br>спільний
+            </td>
+            <td width="15%" valign="top">
+                чоловічий
+            </td>
+            <td width="17%" valign="top">
+                середній
+            </td>
+            <td width="15%" valign="top">
+                жіночий<br>+<br><i>мати</i>
+            </td>
+            <td width="23%" valign="top">
+                Середній<br>+<br>Суфікси -<span class="p1">ат</span>-, (-<span class="p1">ят</span>-), -<span class="p1">ен</span>- за відмінювання
+            </td>
+        </tr>
+
+        <tr>
+            <td width="15%" valign="top">
+                Закінчення
+            </td>
+            <td width="15%" valign="top">
+                -<span class="p1">а</span>, (-<span class="p1">я</span>)
+            </td>
+            <td width="15%" valign="top">
+                нульове
+            </td>
+            <td width="17%" valign="top">
+                -<span class="p1">о</span>, -<span class="p1">е</span>, -<span class="p1">а</span>, (-<span class="p1">я</span>)
+            </td>
+            <td width="15%" valign="top">
+                нульове
+            </td>
+            <td width="23%" valign="top">
+                -<span class="p1">а</span>, (-<span class="p1">я</span>)
+            </td>
+        </tr>
+
+        <tr>
+            <td width="15%" valign="top">
+                Приклади
+            </td>
+            <td width="15%" valign="top">
+                <i>вулиця<br>книжка</i>
+            </td>
+            <td width="15%" valign="top">
+                <i>степ<br>сад</i>
+            </td>
+            <td width="17" valign="top">
+                <i>сонце<br>подвір’я</i>
+            </td>
+            <td width="15%" valign="top">
+                <i>подорож<br>честь</i>
+            </td>
+            <td width="23%" valign="top">
+                <i>курча</i> (курчати)<br><i>теля</i> (теляти)
+            </td>
+        </tr>
+    </body>
+</table>
 
 
 <span class="p1"><center>НЕ належать до вiдмiн:</center></span>

@@ -3,15 +3,130 @@
 Iменники I i II вiдмiн подiляються на тверду, м‘яку та мiшану групи, залежно вiд їхнiх вiдмiнкових закiнчень.
 
 
-<div class="center">
-<img src="../pics/5/10.png" width="700px" class="center"/>
-</div>
-<br>
+<table>
+    <body>
+        <tr>
+            <td colspan="3" align="center" valign="top">
+                <b>I Відміна</b>
+            </td>                       
+        </tr>
 
-<div class="center">
-<img src="../pics/5/11.png" width="700px" class="center"/>
-</div>
-<br>
+        <tr>
+            <td width="33%" align="center" valign="top">
+                <span class="p1">Тверда</span>
+            </td>
+            <td width="34%" align="center" valign="top">
+                <span class="p1">М’яка</span>
+            </td>
+            <td width="33%" align="center" valign="top">
+                <span class="p1">Мішана</span>
+            </td>            
+        </tr>
+
+        <tr>
+            <td colspan="3" align="center" valign="top">
+                Основа іменника закінчується на
+            </td>                       
+        </tr>
+
+        <tr>
+            <td width="33%" valign="top">
+                твердий нешиплячий:<br><i>староста, фабрика.</i>
+            </td>
+            <td width="34%" valign="top">
+                м’який:<br><i>кузня, надія.</i>
+            </td>
+            <td width="33%" valign="top">
+                шиплячий:<br><i>вежа, тиша.</i>
+            </td>            
+        </tr>
+
+        <tr>
+            <td colspan="3" align="center" valign="top">
+                <b>II Відміна</b>
+            </td>                       
+        </tr>
+
+        <tr>
+            <td width="33%" align="center" valign="top">
+                <span class="p1">Тверда</span>
+            </td>
+            <td width="34%" align="center" valign="top">
+                <span class="p1">М’яка</span>
+            </td>
+            <td width="33%" align="center" valign="top">
+                <span class="p1">Мішана</span>
+            </td>            
+        </tr>
+
+        <tr>
+            <td width="33%" valign="top">
+                Іменники чоловічого роду з основою на твердий нешиплячий:<br><i>степ, студент.</i>
+            </td>
+            <td width="34%" valign="top">
+                Іменники чоловічого роду з основою на м’який:<br><i>тюль, місяць.</i>
+            </td>
+            <td width="33%" valign="top">
+                Іменники з основою на шиплячий (крім середнього роду):<br><i>читач, товариш.</i>
+            </td>            
+        </tr>
+
+        <tr>
+            <td rowspan="2" width="33%" valign="top">
+                Іменники середнього роду з закінченням на -<span class="p1">о</span>:<br><i>золото, місто.</i>
+            </td>
+            <td width="34%" valign="top">
+                Іменники середнього роду з закінченням на -<span class="p1">я</span>:<br><i>зілля, вітання.</i>
+            </td>
+            <td rowspan="2" width="33%" valign="top">
+                
+            </td>            
+        </tr>
+
+        <tr>
+            <td width="34%" valign="top">
+                Іменники середнього роду з закінченням на -<span class="p1">е</span> (крім основи на твердий шиплячий):<br><i>море, горе.</i>
+            </td>           
+        </tr>
+
+        <tr>
+            <td colspan="3" align="center" valign="top">
+                Іменники на -<span class="p1">р</span>
+            </td>                       
+        </tr>
+
+        <tr>
+            <td width="33%" valign="top">
+                Більшість іменників на -<span class="p1">р</span>:<br><i>прапор, стовбур.</i> + Виняток: комар, снігур і звір.
+            </td>
+            <td rowspan="4" width="34%" valign="top">
+                Які в називному відмінку множини мають закінчення -<span class="p1">і</span>, а в родовому -<span class="p1">я</span>, -<span class="p1">ю</span>:<br><i>кобзар, шахтар.</i>
+            </td>
+            <td rowspan="4" width="33%" valign="top">
+                Назви за діяльністю або професією з наголошеним суфіксом -<span class="p1">яр</span>:<br><i>газетяр, каменяр.</i>
+            </td>            
+        </tr>
+
+        <tr>
+            <td width="33%" valign="top">
+                Іншомовного походження:<br><i>абажур, інженер.</i>
+            </td>            
+        </tr>
+
+        <tr>
+            <td width="33%" valign="top">
+                Односкладові:<br><i>вир, сир.</i>
+            </td>            
+        </tr>
+
+        <tr>
+            <td width="33%" valign="top">
+                З постійно наголошеними<br>-<span class="p1">ар</span>, -<span class="p1">яр</span>, -<span class="p1">ир</span>:<br><i>ювіляр.</i>
+            </td>            
+        </tr>
+    </body>
+</table>
+
 
 
 <br>
