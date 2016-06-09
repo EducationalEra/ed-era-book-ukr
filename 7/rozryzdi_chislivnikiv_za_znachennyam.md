@@ -1,9 +1,53 @@
 #Розряди числiвникiв за значенням i граматичними ознаками
 
-<div class="center">
-<img src="../pics/7/1.png" width="600px" class="center"/>
-</div>
-<br>
+
+
+<table style="width: 100%;" align="center">
+    <body>
+        <tr>  
+            <td  colspan="4" align="center" valign="top">
+                <b>Кiлькiснi</b> (означають кiлькiсть предметiв – скiльки?)
+            </td>
+            <td width="20%" align="center" rowspan="2" valign="top">
+                <b>Порядковi</b><br>(означають порядок предметiв при лiчбi – котрий?)
+            </td>                     
+        </tr>
+
+        <tr>
+            <td width="20%" valign="top">
+                <b>Власне кiлькiснi</b><br>числовi назви
+            </td>  
+            <td width="20%" valign="top">
+                <b>Збiрнi</b><br>певна кiлькiсть предметiв як сукупнiсть
+            </td>
+            <td width="20%" valign="top">
+                <b>Дробовi</b><br>певна кiлькiсть частин вiд цiлого
+            </td>
+            <td width="20%" valign="top">
+                <b>Неозначено-кiлькiснi</b><br>не визначена точно кiлькiсть
+            </td>                   
+        </tr>
+
+        <tr>
+            <td width="20%" valign="top">
+                <i>Сто вiсiм, мiльярд, три</i>
+            </td>  
+            <td width="20%" valign="top">
+                <i>Шестеро, троє, обидва</i>
+            </td>
+            <td width="20%" valign="top">
+                <i>Пiвтора, двi цiлi i двi третi, п’ять шостих</i>
+            </td>
+            <td width="20%" valign="top">
+                <i>Мало, кiльканадцять, декiлька</i>
+            </td>
+            <td width="20%" valign="top">
+                <i>Другий, тридцять шостий, сотий</i>
+            </td>                  
+        </tr>
+    </body>
+</table>
+
 
 Кiлькiснi числiвники за вiдмiнками змiнюються, але не мають граматичних ознак числа i роду, крiм числiвника один (одна, одне, однi).<br>
 <br>

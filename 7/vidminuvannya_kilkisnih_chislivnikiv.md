@@ -2,18 +2,237 @@
 
 <p><b>&rarr;</b> Числiвник один змiнюється за числами, родами та вiдмiнками. </p>
 
-<div class="center">
-<img src="../pics/7/3.png" width="700px" class="center"/>
-</div>
-<br>
-<hr>
+
+<table style="width: 100%;" align="center">
+    <body>
+        <tr>  
+            <td rowspan="2" align="center" valign="top">
+                <b>Вiдмiнки</b>
+            </td>
+            <td colspan="3" align="center" valign="top">
+                <b>Однина</b>
+            </td> 
+            <td rowspan="2" align="center" valign="top">
+                <b>Множина</b>
+            </td>                    
+        </tr>
+
+        <tr>  
+            <td align="center" valign="top">
+                <b>Чоловiчий рiд</b>
+            </td>
+            <td align="center" valign="top">
+                <b>Середнiй рiд</b>
+            </td> 
+            <td align="center" valign="top">
+                <b>Жiночий рiд</b>
+            </td>                    
+        </tr>
+
+        <tr>  
+            <td  valign="top">
+                <b>Називний</b>
+            </td>
+            <td  valign="top">
+                один
+            </td> 
+            <td  valign="top">
+                одне, одно
+            </td>    
+            <td  valign="top">
+                одна
+            </td> 
+            <td  valign="top">
+                однi
+            </td>                 
+        </tr>
+
+        <tr>  
+            <td  valign="top">
+                <b>Родовий</b>
+            </td>
+            <td align="center" colspan="2" valign="top">
+                одного
+            </td> 
+            <td  valign="top">
+                однiєї
+            </td>    
+            <td  valign="top">
+                одних
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td  valign="top">
+                <b>Давальний</b>
+            </td>
+            <td align="center" colspan="2" valign="top">
+                одному
+            </td> 
+            <td  valign="top">
+                однiй
+            </td>    
+            <td  valign="top">
+                одним
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td  valign="top">
+                <b>Знахiдний</b>
+            </td>
+            <td  valign="top">
+                один, одного
+            </td> 
+            <td  valign="top">
+                одне, одно
+            </td>    
+            <td  valign="top">
+                одну
+            </td> 
+            <td  valign="top">
+                однi, одних
+            </td>                 
+        </tr>
+
+        <tr>  
+            <td  valign="top">
+                <b>Орудний</b>
+            </td>
+            <td align="center" colspan="2" valign="top">
+                одним
+            </td> 
+            <td  valign="top">
+                однiєю, одною
+            </td>    
+            <td  valign="top">
+                одними
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td  valign="top">
+                <b>Мiсцевий</b>
+            </td>
+            <td align="center" colspan="2" valign="top">
+                ...одному, однiм
+            </td> 
+            <td  valign="top">
+                ...однiй
+            </td>    
+            <td  valign="top">
+                ...одних
+            </td>                  
+        </tr>
+    </body>
+</table>
 
 <p><b>&rarr;</b> Числiвники <span class="p1">два, три, чотири</span> мають однаковi закiнчення у непрямих вiдмiнках (крiм знахiдного та орудного), як i збiрнi числiвники <span class="p1">обидва, обидвi, обоє, багато, кiлька</span>.</p>
 
-<div class="center">
-<img src="../pics/7/4.png" width="700px" class="center"/>
-</div>
-<br>
+
+<table style="width: 80%;" align="center">
+    <body>
+        <tr>  
+            <td align="center" valign="top">
+                <b>Вiдмiнки</b>
+            </td>
+            <td colspan="3" align="center" valign="top">
+                <b>Приклади</b>
+            </td>                     
+        </tr>
+
+        <tr>  
+            <td  valign="top">
+                <b>Називний</b>
+            </td>
+            <td  valign="top">
+                два
+            </td> 
+            <td  valign="top">
+                три
+            </td>    
+            <td  valign="top">
+                чотири
+            </td> 
+                
+        </tr>
+
+        <tr>  
+            <td  valign="top">
+                <b>Родовий</b>
+            </td>
+            <td valign="top">
+                двох
+            </td> 
+            <td  valign="top">
+                трьох
+            </td>    
+            <td  valign="top">
+                чотирьох
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td  valign="top">
+                <b>Давальний</b>
+            </td>
+            <td valign="top">
+                двом
+            </td> 
+            <td  valign="top">
+                трьом
+            </td>    
+            <td  valign="top">
+                чотирьом
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td  valign="top">
+                <b>Знахiдний</b>
+            </td>
+            <td  valign="top">
+                два, двох  
+            </td> 
+            <td  valign="top">
+                три, трьох
+            </td>    
+            <td  valign="top">
+                чотири, чотирьох
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td  valign="top">
+                <b>Орудний</b>
+            </td>
+            <td valign="top">
+                двома
+            </td> 
+            <td  valign="top">
+                трьома
+            </td>    
+            <td  valign="top">
+                чотирма
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td  valign="top">
+                <b>Мiсцевий</b>
+            </td>
+            <td valign="top">
+                ...двох
+            </td> 
+            <td  valign="top">
+                ...трьох
+            </td>    
+            <td  valign="top">
+                ...чотирьох
+            </td>                  
+        </tr>
+    </body>
+</table>
 
 
 <div class="add-wrap">
@@ -27,41 +246,317 @@
 <p><b>&rarr;</b> Числiвники вiд п’яти до десяти та числiвники на <span class="p1">-дцять</span> i <span class="p1">-десять</span> вiдмiнюються за такими зразками:</p>
 
 
-<div class="center">
-<img src="../pics/7/5.png" width="700px" class="center"/>
-</div>
-<br>
-<hr>
+<table style="width: 100%;" align="center">
+    <body>
+        <tr>  
+            <td width="20%" align="center" valign="top">
+                <b>Вiдмiнки</b>
+            </td>
+            <td colspan="3" align="center" valign="top">
+                <b>Приклади</b>
+            </td>                     
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Називний</b>
+            </td>
+            <td  valign="top">
+                шiсть
+            </td> 
+            <td  valign="top">
+                дванадцять
+            </td>    
+            <td  valign="top">
+                шiстдесят
+            </td> 
+                
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Родовий</b>
+            </td>
+            <td valign="top">
+                шести, шiстьох
+            </td> 
+            <td  valign="top">
+                дванадцяти, дванадцятьох
+            </td>    
+            <td  valign="top">
+                шiстдесяти, шiстдесятьох
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Давальний</b>
+            </td>
+            <td valign="top">
+                шести, шiстьом
+            </td> 
+            <td  valign="top">
+                тринадцяти, тринадцятьом
+            </td>    
+            <td  valign="top">
+                шiстдесяти, шiстдесятьом
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Знахiдний</b>
+            </td>
+            <td  valign="top">
+                шiсть, шiстьох  
+            </td> 
+            <td  valign="top">
+                тринадцять, тринадцятьох
+            </td>    
+            <td  valign="top">
+                шiстдесят, шiстдесятьох
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Орудний</b>
+            </td>
+            <td valign="top">
+                шiстьма, шiстьома
+            </td> 
+            <td  valign="top">
+                тринадцятьма, тринадцятьома
+            </td>    
+            <td  valign="top">
+                шiстдесятьма, шiстдесятьома
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Мiсцевий</b>
+            </td>
+            <td valign="top">
+                ...шести, шiстьох
+            </td> 
+            <td  valign="top">
+                ...тринадцяти, тринадцятьох
+            </td>    
+            <td  valign="top">
+                ...шiстдесяти, шiстдесятьох
+            </td>                  
+        </tr>
+    </body>
+</table>
+
+
 
 <p><b>&rarr;</b> У складних числiвниках <span class="p1">п’ятдесят-вiсiмдесят, кiлькадесят</span> вiдмiнюється тiльки друга частина.</p>
 
 
-<div class="center">
-<img src="../pics/7/6.png" width="600px" class="center"/>
-</div>
-<br>
-<hr>
+<table style="width: 50%;" align="center">
+    <body>
+        <tr>  
+            <td width="20%" align="center" valign="top">
+                <b>Вiдмiнки</b>
+            </td>
+            <td align="center" valign="top">
+                <b>Приклади</b>
+            </td>                     
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Називний</b>
+            </td>
+ 
+            <td  valign="top">
+                шiстдесят
+            </td> 
+                
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Родовий</b>
+            </td>
+  
+            <td  valign="top">
+                шiстдесяти, шiстдесятьох
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Давальний</b>
+            </td>
+   
+            <td  valign="top">
+                шiстдесяти, шiстдесятьом
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Знахiдний</b>
+            </td>
+    
+            <td  valign="top">
+                шiстдесят, шiстдесятьох
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Орудний</b>
+            </td>
+   
+            <td  valign="top">
+                шiстдесятьма, шiстдесятьома
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Мiсцевий</b>
+            </td>
+   
+            <td  valign="top">
+                ...шiстдесяти, шiстдесятьох
+            </td>                  
+        </tr>
+    </body>
+</table>
 
 <p><b>&rarr;</b> Числiвники <span class="p1">сорок, дев’яносто, сто</span> мають закiнчення <span class="p1">-а</span> в усiх вiдмiнках, крiм називного та знахiдного.</p>
  
 
+<table style="width: 55%;" align="center">
+    <body>
+        <tr>  
+            <td width="20%" align="center" valign="top">
+                <b>Вiдмiнки</b>
+            </td>
+            <td align="center" colspan="3" valign="top">
+                <b>Приклади</b>
+            </td>                     
+        </tr>
 
-<div class="center">
-<img src="../pics/7/7.png" width="500px" class="center"/>
-</div>
-<br>
-<hr>
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Називний<br>Знахiдний</b>
+            </td>
+ 
+            <td  valign="top">
+                сорок
+            </td> 
+            <td  valign="top">
+                дев’яносто
+            </td> 
+            <td  valign="top">
+                сто
+            </td> 
+                
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Родовий<br>Давальний<br>Орудний<br>Мiсцевий</b>
+            </td>
+  
+            <td  valign="top">
+                сорока
+            </td>   
+            <td  valign="top">
+                дев’яноста
+            </td> 
+            <td  valign="top">
+                ста
+            </td>               
+        </tr>                 
+
+    </body>
+</table>
 
 
 <p><b>&rarr;</b> У складних числiвниках <span class="p1">двiстi-дев’ятсот, кiлькасот</span> вiдмiнюються обидвi частини.</p>
  
 
 
-<div class="center">
-<img src="../pics/7/8.png" width="350px" class="center"/>
-</div>
-<br>
-<hr>
+<table style="width: 40%;" align="center">
+    <body>
+        <tr>  
+            <td width="20%" align="center" valign="top">
+                <b>Вiдмiнки</b>
+            </td>
+            <td align="center" valign="top">
+                <b>Приклади</b>
+            </td>                     
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Називний</b>
+            </td>
+ 
+            <td  valign="top">
+                чотириста
+            </td> 
+                
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Родовий</b>
+            </td>
+  
+            <td  valign="top">
+                чотирьохсот
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Давальний</b>
+            </td>
+   
+            <td  valign="top">
+                чотирьомстам
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Знахiдний</b>
+            </td>
+    
+            <td  valign="top">
+                чотириста
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Орудний</b>
+            </td>
+   
+            <td  valign="top">
+                чотирмастами, чотирьомастами
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Мiсцевий</b>
+            </td>
+   
+            <td  valign="top">
+                ...чотирьохстах
+            </td>                  
+        </tr>
+    </body>
+</table>
 
 <p><b>&rarr;</b> Числiвники <span class="p1">тисяча, мiльйон, мiльярд, нуль</span> вiдмiнюються як iменники.</p>
 <hr>
@@ -69,21 +564,160 @@
 <hr>
 <p><b>&rarr;</b> Дробовi числiвники вiдмiнюються так: чисельник — як кiлькiсний числiвник, а знаменник – як порядковий.</p>
 
-<div class="center">
-<img src="../pics/7/9.png" width="350px" class="center"/>
-</div>
-<br>
-<hr>
+
+
+<table style="width: 40%;" align="center">
+    <body>
+        <tr>  
+            <td width="20%" align="center" valign="top">
+                <b>Вiдмiнки</b>
+            </td>
+            <td align="center" valign="top">
+                <b>Приклади</b>
+            </td>                     
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Називний</b>
+            </td>
+ 
+            <td  valign="top">
+                три п’ятi
+            </td> 
+                
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Родовий</b>
+            </td>
+  
+            <td  valign="top">
+                трьох п’ятих
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Давальний</b>
+            </td>
+   
+            <td  valign="top">
+                трьом п’ятим
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Знахiдний</b>
+            </td>
+    
+            <td  valign="top">
+                три п’ятих
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Орудний</b>
+            </td>
+   
+            <td  valign="top">
+                трьома п’ятими
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Мiсцевий</b>
+            </td>
+   
+            <td  valign="top">
+                ...трьох п’ятих
+            </td>                  
+        </tr>
+    </body>
+</table>
 
 <p><b>&rarr;</b> Числiвники пiвтора, пiвтори, пiвтораста не вiдмiнюються.</p>
 <hr>
 <p><b>&rarr;</b> У складених кiлькiсних числiвниках вiдмiнюються всi складовi частини.</p>
 
-<div class="center">
-<img src="../pics/7/10.png" width="700px" class="center"/>
-</div>
-<br>
-<hr>
+
+<table style="width: 75%;" align="center">
+    <body>
+        <tr>  
+            <td width="20%" align="center" valign="top">
+                <b>Вiдмiнки</b>
+            </td>
+            <td align="center" valign="top">
+                <b>Приклади</b>
+            </td>                     
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Називний</b>
+            </td>
+ 
+            <td  valign="top">
+                двi тисячi триста сорок шiсть
+            </td> 
+                
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Родовий</b>
+            </td>
+  
+            <td  valign="top">
+                двох тисяч трьохсот сорока шести (шiстьох)
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Давальний</b>
+            </td>
+   
+            <td  valign="top">
+                двом тисячам трьомстам сорока шести (шiстьом)
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Знахiдний</b>
+            </td>
+    
+            <td  valign="top">
+                двi тисячi триста сорок шiсть (шiстьох)
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Орудний</b>
+            </td>
+   
+            <td  valign="top">
+                двома тисячами трьомастами сорока шiстьма (шiстьома)
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Мiсцевий</b>
+            </td>
+   
+            <td  valign="top">
+                ...двох тисячах трьохстах сорока шести (шiстьох)
+            </td>                  
+        </tr>
+    </body>
+</table>
 
 
 <quiz> 
@@ -117,7 +751,78 @@
 
 У складених порядкових числiвниках вiдмiнюється лише останнiй компонент.
 
-<div class="center">
-<img src="../pics/7/11.png" width="700px" class="center"/>
-</div>
-<br>
+
+
+<table style="width: 65%;" align="center">
+    <body>
+        <tr>  
+            <td width="20%" align="center" valign="top">
+                <b>Вiдмiнки</b>
+            </td>
+            <td align="center" valign="top">
+                <b>Приклади</b>
+            </td>                     
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Називний</b>
+            </td>
+ 
+            <td  valign="top">
+                двi тисячi триста сорок шостий
+            </td> 
+                
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Родовий</b>
+            </td>
+  
+            <td  valign="top">
+                двi тисячi триста сорок шостого
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Давальний</b>
+            </td>
+   
+            <td  valign="top">
+                двi тисячi триста сорок шостому
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Знахiдний</b>
+            </td>
+    
+            <td  valign="top">
+                двi тисячi триста сорок шостий (шостого)
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Орудний</b>
+            </td>
+   
+            <td  valign="top">
+                двi тисячi триста сорок шостим
+            </td>                  
+        </tr>
+
+        <tr>  
+            <td width="20%" valign="top">
+                <b>Мiсцевий</b>
+            </td>
+   
+            <td  valign="top">
+                ...двi тисячi триста сорок шостому
+            </td>                  
+        </tr>
+    </body>
+</table>

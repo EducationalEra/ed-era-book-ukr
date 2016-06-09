@@ -4,8 +4,8 @@
 <span class="p1">Лiтеру И пишемо:</span>
 <ul>
 <li> Пiсля лiтер, що позначають твердi приголоснi: <i>щосуботи</i>.</li>
-<li> Пiсля <span class="p1">г, к, х</span> у кiнцi прислiвникiв: <i>верхи, навкруги</span>.</li>
-<li> У прислiвниках з префiксом <span class="p1">по-</span> пiсля <span class="p1">к, ч</span>: <i>по-вовчи</i>.<br> <font color="orange">Винятки:</font> <i>восени, безвiсти, почасти.</i></li>
+<li> Пiсля <span class="p1">г</span>, <span class="p1">к</span>, <span class="p1">х</span> у кiнцi прислiвникiв: <i>верхи, навкруги.</li>
+<li> У прислiвниках з префiксом <span class="p1">по-</span> пiсля <span class="p1">к</span>, <span class="p1">ч</span>: <i>по-вовчи</i>.<br> <font color="orange">Винятки:</font> <i>восени, безвiсти, почасти.</i></li>
 </ul>
 
 
@@ -24,7 +24,7 @@
            <answer> трич.. </answer>
            <answer> вранц.. </answer>
       <explanation>
-И пишемо після г, к, х у кінці прислівників.
+И пишемо після <span class="p1">г</span>, <span class="p1">к</span>, <span class="p1">х</span> у кінці прислівників.
  </explanation>
     </question>
 </quiz> 

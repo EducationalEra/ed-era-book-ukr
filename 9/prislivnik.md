@@ -40,7 +40,8 @@
 <center><h4>Зміст розділу:</h4></center>
 
 1. [Розряди прислiвникiв за значенням](rozryadi_prislivnikiv_za_znachennyam.md)
-2. [Способи творення прислiвникiв](sposobi_tvorennya_prislivnikiv.md)
-3. [Правопис прислiвникiв](pravopis_prislivnikiv.md)
+2. [Ступенi порiвняння прислiвникiв](stupeni_porivnyannya_prislivnikiv.md)
+3. [Способи творення прислiвникiв](sposobi_tvorennya_prislivnikiv.md) 
+4. [Правопис прислiвникiв](pravopis_prislivnikiv.md)
     1. [Правопис НЕ з прислiвниками](pravopis_ne_z_prislivnikami.md)
     2. [Лiтери и, i в прислiвниках](literi i, i v prislivmikah.md)

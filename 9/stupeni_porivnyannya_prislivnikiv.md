@@ -2,10 +2,64 @@
 
 Ступенi порiвняння утворюють тiльки якiсно-означальнi прислiвники на <span class="p1">-о, -е</span>, якi походять вiд якiсних прикметникiв. Форми утворюються, як i в прикметникiв. Вiдбуваються тi самi змiни.
 
-<div class="center">
-<img src="../pics/9/2.png" width="700px" class="center"/>
-</div>
-<br>
+
+<table style="width: 100%;" align="center">
+    <body>
+        <tr>  
+            <td width="15%" rowspan="2"  valign="top">
+                <b>Вищий ступiнь</b>
+            </td>
+            <td  width="15%" valign="top">
+                <b>Проста форма</b>
+            </td>  
+            <td width="45%"  valign="top">
+                основа або корiнь прислiвника + суфiкси <span class="p1">-ш-</span>, <span class="p1">-iш-</span>
+            </td>  
+            <td width="45%"  valign="top">
+                <i>холодно - холоднiше,<br>глибоко - глибше</i>
+            </td>                    
+        </tr>
+
+        <tr>  
+            <td width="15%"  valign="top">
+                <b>Складена форма</b>
+            </td>  
+            <td width="45%"  valign="top">
+                слова <span class="p1">бiльш</span>, <span class="p1">менш</span> + прислiвник у початковiй формi
+            </td>  
+            <td  width="45%" valign="top">
+                <i>бiльш холодно,<br>менш глибоко</i>
+            </td>                    
+        </tr>
+
+        <tr>  
+            <td rowspan="2" width="15%" valign="top">
+                <b>Найвищий ступiнь</b>
+            </td>
+            <td   valign="top">
+                <b>Проста форма</b>
+            </td>  
+            <td width="45%"  valign="top">
+                префiкс (<span class="p1">що-</span>, <span class="p1">як-</span>) <span class="p1">най-</span> + прислiвник простої форми вищого ступеня
+            </td>  
+            <td  width="45%" valign="top">
+                <i>найхолоднiше,<br>найглибше</i>
+            </td>                    
+        </tr>
+
+        <tr>  
+            <td width="15%"  valign="top">
+                <b>Складена форма</b>
+            </td>  
+            <td  width="45%" valign="top">
+                слова <span class="p1">найбiльш</span>, <span class="p1">найменш</span> + прислiвник у початковiй формi
+            </td>  
+            <td  width="45%" valign="top">
+                <i>найбiльш холодно,<br>найменш глибоко</i>
+            </td>                    
+        </tr>
+    </body>
+</table>
 
 
 <div class="add-zno">
@@ -35,7 +89,7 @@
            <answer>дбайливо, повільно, швидко, рано</answer>
            <answer correct >утричі, зопалу, напоказ, мимохідь</answer>
       <explanation>
-Ступені порівняння утворюють тільки якісно-означальні прислівники на –о, -е, які походять від якісних прикметників.
+Ступені порівняння утворюють тільки якісно-означальні прислівники на <span class="p1">-о</span>, <span class="p1">-е</span>, які походять від якісних прикметників.
  </explanation>
     </question>
 </quiz> 
