@@ -1,9 +1,63 @@
 #Творення дiєприслiвникiв
 
-<div class="center">
-<img src="../pics/10/15.png" width="750px" class="center"/>
-</div>
-<br>
+
+<table style="width: 90%;" align="center">
+    <body>
+        <tr>  
+            <td width="20%" align="center" valign="top">
+                <b>Вид дiєприслiвника</b>
+            </td>
+            <td width="20%" align="center" valign="top">
+                <b>Суфiкси</b>
+            </td>  
+            <td width="30%" align="center" valign="top">
+                <b>Основа</b>
+            </td>  
+            <td width="30%" align="center" valign="top">
+                <b>Приклади</b>
+            </td>                    
+        </tr>
+
+        <tr>  
+            <td width="20%" align="center" valign="top">
+                <b>Доконаний</b>
+            </td>
+            <td width="20%" align="center" valign="top">
+                <span class="p1">-ши-</span>, <span class="p1">-вши-</span>
+            </td>  
+            <td width="30%" align="center" valign="top">
+                iнфiнiтив, доконаний вид
+            </td>  
+            <td width="30%" align="center" valign="top">
+                <i>прийти – прийшовши,<br>допомогти - допомiгши</i>
+            </td>                    
+        </tr>
+
+        <tr>  
+            <td width="20%" rowspan="2" align="center" valign="top">
+                <b>Недоконаний</b>
+            </td>
+            <td width="20%" align="center" valign="top">
+                <span class="p1">-учи-</span>, <span class="p1">-ючи-</span><br>(I дiєвiдмiна) 
+            </td>  
+            <td width="30%" rowspan="2" align="center" valign="top">
+                теперiшнього часу, недоконаний вид
+            </td>  
+            <td width="30%" align="center" valign="top">
+                <i>жити – живучи</i>
+            </td>                    
+        </tr>
+
+        <tr>
+            <td width="20%" align="center" valign="top">
+                <span class="p1">-ачи-</span>, <span class="p1">-ячи-</span><br>(II дiєвiдмiна)
+            </td> 
+            <td width="30%" align="center" valign="top">
+                <i>клеїти - клеячи</i>
+            </td>                    
+        </tr>
+    </body>
+</table>
 
 <quiz> 
     <question>

@@ -1,16 +1,49 @@
 #Групи сполучникiв за будовою
 
-<div class="center">
-<img src="../pics/11/5.png" width="700px" class="center"/>
-</div>
-<br>
+
+<table style="width: 85%;" align="center">
+    <body>
+        <tr>  
+            <td rowspan="2" width="25%" align="center" valign="top">
+                <b>Простi</b>
+            </td>  
+            <td width="40%" align="center" valign="top">
+                <b>Складнi</b>
+            </td>  
+            <td width="35%" align="center" valign="top">
+                <b>Складенi</b>
+            </td>                    
+        </tr>
+
+        <tr>   
+            <td width="40%"  valign="top">
+                пишуться разом
+            </td>  
+            <td width="35%"  valign="top">
+                пишуться окремо
+            </td>                    
+        </tr>
+
+        <tr>  
+            <td width="25%"  valign="top">
+                <i>коли, й, та, але, i</i>
+            </td>  
+            <td width="40%"  valign="top">
+                <i>проте (про + те), зате (за,+ те), немов (не +мов)</i>
+            </td>  
+            <td width="35%"  valign="top">
+                <i>так що, тому що, дарма що</i>
+            </td>                    
+        </tr>
+    </body>
+</table>
 
 
 <div class="add-wrap">
 <span class="add">ЗНО</span>
 <div class="add-text">
-Через дефiс пишуться сполучники <span class="p1">тому-то, отож-то, тим-то, тiльки-но</span>.<br>
-А разом пишуться сполучники <span class="p1">причому, притому, нiбито, мовби</span> тощо.
+Через дефiс пишуться сполучники <span class="p1">тому-то</span>, <span class="p1">отож-то</span>, <span class="p1">тим-то</span>, <span class="p1">тiльки-но</span>.<br>
+А разом пишуться сполучники <span class="p1">причому</span>, <span class="p1">притому</span>, <span class="p1">нiбито</span>, <span class="p1">мовби</span> тощо.
 </div>
 
 

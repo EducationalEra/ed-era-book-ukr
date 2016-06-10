@@ -4,7 +4,57 @@
 або дiю, не обмежену нi кiнцем, нi початком. За цiєю ознакою вони
 подiляються на два види: доконаний та недоконаний.
 
-<div class="center">
-<img src="../pics/10/2.png" width="650px" class="center"/>
-</div>
-<br>
+
+<table style="width: 75%;" align="center">
+    <body>
+        <tr>  
+            <td width="50%" align="center"  valign="top">
+                <b>Доконаний</b>
+            </td>
+            <td width="50%" align="center" valign="top">
+                <b>Недоконаний</b>
+            </td>                    
+        </tr>
+
+        <tr>  
+            <td width="50%" valign="top">
+                означає обмежену в часi дiю, яка вже завершилася в минулому чи неодмiнно вiдбудеться в майбутньому
+            </td>
+            <td  width="50%" valign="top">
+                означає необмежену у часi, незавершену дiю в минулому, теперiшньому або майбутньому
+            </td>                    
+        </tr>
+
+        <tr>  
+            <td  width="50%" valign="top">
+                <b>що зробити? що зробив?<br>що зробить?</b>
+            </td>
+            <td  width="50%" valign="top">
+                <b>що робити? що робив?<br>що робитиме?</b>
+            </td>                    
+        </tr>
+
+        <tr>  
+            <td width="50%" valign="top">
+                <i>намалювати, зiграв, створить</i>
+            </td>
+            <td width="50%"  valign="top">
+                <i>малювати, грав, творитиме</i>
+            </td>                    
+        </tr>
+    </body>
+</table>
+
+<quiz> 
+    <question>
+       <p>Дієсловами доконаного виду є всі слова рядка:</p>
+           <answer>полетів, чекали</answer>
+           <answer correct>зачекав, написав</answer>
+           <answer>грали, намалювали</answer>
+           <answer>створили, відповідали</answer>
+      <explanation>
+Доконаний вид: <i>зачекав, написав, полетів, намалювали, створили.</i>
+Недоконаний вид: <i>чекали, грали, відповідали.</i>
+</explanation>
+    </question>
+</quiz> 
