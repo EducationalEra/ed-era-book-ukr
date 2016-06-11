@@ -10,10 +10,10 @@
             <td width="20%" align="center" valign="top">
                 <b>Суфiкси</b>
             </td>  
-            <td width="30%" align="center" valign="top">
+            <td width="25%" align="center" valign="top">
                 <b>Основа</b>
             </td>  
-            <td width="30%" align="center" valign="top">
+            <td width="35%" align="center" valign="top">
                 <b>Приклади</b>
             </td>                    
         </tr>
@@ -25,10 +25,10 @@
             <td width="20%" align="center" valign="top">
                 <span class="p1">-ши-</span>, <span class="p1">-вши-</span>
             </td>  
-            <td width="30%" align="center" valign="top">
-                iнфiнiтив, доконаний вид
+            <td width="25%" align="center" valign="top">
+                iнфiнiтив,<br>доконаний вид
             </td>  
-            <td width="30%" align="center" valign="top">
+            <td width="35%" align="center" valign="top">
                 <i>прийти – прийшовши,<br>допомогти - допомiгши</i>
             </td>                    
         </tr>
@@ -40,10 +40,10 @@
             <td width="20%" align="center" valign="top">
                 <span class="p1">-учи-</span>, <span class="p1">-ючи-</span><br>(I дiєвiдмiна) 
             </td>  
-            <td width="30%" rowspan="2" align="center" valign="top">
+            <td width="25%" rowspan="2" align="center" valign="top">
                 теперiшнього часу, недоконаний вид
             </td>  
-            <td width="30%" align="center" valign="top">
+            <td width="35%" align="center" valign="top">
                 <i>жити – живучи</i>
             </td>                    
         </tr>
@@ -52,7 +52,7 @@
             <td width="20%" align="center" valign="top">
                 <span class="p1">-ачи-</span>, <span class="p1">-ячи-</span><br>(II дiєвiдмiна)
             </td> 
-            <td width="30%" align="center" valign="top">
+            <td width="35%" align="center" valign="top">
                 <i>клеїти - клеячи</i>
             </td>                    
         </tr>

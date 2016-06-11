@@ -165,7 +165,7 @@
         	<td width="15%" align="center" valign="top">
                	
             </td>  
-            <td  width="15%" align="center" valign="top">
+            <td  width="25%" align="center" valign="top">
                 <b>Вживається як</b> 
             </td> 
             <td width="60%" align="center" valign="top">
@@ -177,7 +177,7 @@
         	<td  width="15%" valign="top">
                 <b>Умовний</b>
             </td>   
-            <td  width="15%" valign="top">
+            <td  width="25%" valign="top">
                 Наказовий
             </td> 
             <td width="60%" valign="top">
@@ -189,7 +189,7 @@
         	<td  width="15%" valign="top">
                 <b>Дiйсний</b>
             </td>   
-            <td  width="15%" valign="top">
+            <td  width="25%" valign="top">
                 Наказовий
             </td> 
             <td width="60%" valign="top">
@@ -201,7 +201,7 @@
         	<td  width="15%" valign="top">
                 <b>Iнфiнiтив</b>
             </td>   
-            <td  width="15%" valign="top">
+            <td  width="25%" valign="top">
                 Наказовий
             </td> 
             <td width="60%" valign="top">
@@ -213,7 +213,7 @@
         	<td  width="15%" valign="top">
                 <b>Наказовий</b>
             </td>   
-            <td  width="15%" valign="top">
+            <td  width="25%" valign="top">
                 Дiйсний
             </td> 
             <td width="60%" valign="top">
@@ -225,7 +225,7 @@
         	<td  width="15%" valign="top">
                 <b>Наказовий</b>
             </td>   
-            <td  width="15%" valign="top">
+            <td  width="25%" valign="top">
                 Умовний
             </td> 
             <td width="60%" valign="top">

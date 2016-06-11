@@ -47,10 +47,6 @@
 На однозвучне повнозначне слово зазвичай падає наголос, а сполучники можна замiнити iншими синонiмiчними сполучниками.
 
 
-<div class="center">
-<img src="../pics/11/7.png" width="700px" class="center"/>
-</div>
-<br>
 
 <table style="width: 85%;" align="center">
     <body>

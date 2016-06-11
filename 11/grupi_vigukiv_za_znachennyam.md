@@ -1,9 +1,46 @@
 #Групи вигукiв за значенням
 
-<div class="center">
-<img src="../pics/11/11.png" width="700px" class="center"/>
-</div>
-<br>
+
+
+<table style="width: 90%;" align="center">
+    <body>
+        <tr>  
+            <td  width="30%" align="center" valign="top">
+                <b>Емоцiйнi</b>
+            </td>  
+            <td width="30%" align="center" valign="top">
+                <b>Волевиявлення</b>
+            </td> 
+            <td width="40%" align="center" valign="top">
+                <b>Мовного етикету</b>
+            </td>                    
+        </tr>
+
+        <tr>  
+            <td  width="30%"  valign="top">
+                передають емоцiї, почуття, переживання
+            </td>  
+            <td width="30%"  valign="top">
+                спонукають до певної дiї
+            </td> 
+            <td width="40%"  valign="top">
+                виражають подяку, вибачення, привiтання, прощання
+            </td>                     
+        </tr>
+
+        <tr>  
+            <td  width="30%"  valign="top">
+                <i>еге! Боже мiй!</i>
+            </td>  
+            <td width="30%"  valign="top">
+                <i>алло! геть!</i>
+            </td>     
+            <td width="40%"  valign="top">
+                <i>бувай! будь ласка!</i>
+            </td>                  
+        </tr>
+    </body>
+</table>
 
 <quiz> 
     <question>

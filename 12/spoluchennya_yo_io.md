@@ -1,9 +1,47 @@
 #Сполучення йо, ьо
 
-<div class="center">
-<img src="../pics/12/3.png" width="600px" class="center"/>
-</div>
-<br>
+
+
+<table style="width: 85%;" align="center">
+    <body>
+        <tr>  
+            <td  width="50%" align="center" valign="top">
+                <b>Для позначення звукосполучення [<span class="p1">йо</span>] пишеться «<span class="p1">йо</span>»</b>
+            </td>  
+            <td width="50%" align="center" valign="top">
+                <b>Для позначення мякостi попереднього приголосного пишеться «<span class="p1">ьо</span>»</b>
+            </td>                     
+        </tr>
+
+        <tr>  
+            <td  width="50%"  valign="top">
+                На початку слова:<br><i>його, йод</i>.
+            </td>  
+            <td width="50%"  valign="top">
+                В усiх iнших випадках:<br><i>шiстьох, льох</i>.
+            </td>                     
+        </tr>
+
+        <tr>  
+            <td  width="50%"  valign="top">
+                Пiсля приголосного (найчастiше на початку складу):<br><i>серйозний, курйоз</i>.
+            </td>  
+            <td width="50%"  valign="top">
+                
+            </td>                     
+        </tr>
+
+        <tr>  
+            <td  width="50%"  valign="top">
+                Пiсля голосного:<br><i>район, майор</i>.
+            </td>  
+            <td width="50%"  valign="top">
+                
+            </td>                     
+        </tr>
+
+    </body>
+</table>
 
 <quiz> 
     <question>

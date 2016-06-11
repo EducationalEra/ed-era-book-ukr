@@ -1,9 +1,5 @@
 #Активнi та пасивнi дiєприкметники
 
-<div class="center">
-<img src="../pics/10/14.png" width="750px" class="center"/>
-</div>
-<br>
 
 <table style="width: 100%;" align="center">
     <body>
