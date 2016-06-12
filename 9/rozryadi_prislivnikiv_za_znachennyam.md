@@ -16,91 +16,91 @@
         </tr>
 
         <tr> 
-        	<td rowspan="3"  valign="middle">
+        	<td rowspan="3" width="20%"  valign="middle">
                 <b>Означальнi</b>
             </td> 
-            <td   valign="top">
+            <td width="20%"  valign="top">
                 якiсно-означальнi
             </td>
-            <td   valign="top">
-                на <b>-о</b>, <b>-е</b>, що виражають якiсну ознаку дiї i вiдповiдають на питання <b>як?</b>
+            <td  width="35%" valign="top">
+                на <span class="p1">-о</span>, <span class="p1">-е</span>, що виражають якiсну ознаку дiї i вiдповiдають на питання <span class="p1">як?</span>
             </td>  
-            <td   valign="top">
+            <td  width="25%" valign="top">
                 <i>швидко, високо</i>
             </td>                     
         </tr>
 
         <tr> 
-            <td   valign="top">
+            <td width="20%"  valign="top">
                 кiлькiсно-означальнi
             </td>
-            <td   valign="top">
-                характеризують кiлькiсть i мiру дiї, ознаки чи стану, вiдповiдають на питання <b>скiльки? наскiльки? якою мiрою? як багато?</b>
+            <td  width="35%" valign="top">
+                характеризують кiлькiсть i мiру дiї, ознаки чи стану, вiдповiдають на питання <span class="p1">скiльки? наскiльки? якою мiрою? як багато?</span>
             </td>  
-            <td   valign="top">
+            <td width="25%"  valign="top">
                 <i>утричi, ледве, занадто</i>
             </td>                     
         </tr>
 
         <tr> 
-            <td   valign="top">
+            <td  width="20%" valign="top">
                 способу дiї
             </td>
-            <td   valign="top">
-                вказують на те, яким способом виявляється ознака чи вiдбувається дiя, вiдповiдають на питання <b>як? яким чином? яким способом?</b>
+            <td width="35%"  valign="top">
+                вказують на те, яким способом виявляється ознака чи вiдбувається дiя, вiдповiдають на питання <span class="p1">як? яким чином? яким способом?</span>
             </td>  
-            <td   valign="top">
+            <td width="25%"  valign="top">
                 <i>по-англiйськи, по-весняному</i>
             </td>                     
         </tr>
 
         <tr> 
-        	<td rowspan="4"  valign="middle">
+        	<td rowspan="4" width="20%" valign="middle">
                 <b>Обставиннi</b>
             </td> 
-            <td   valign="top">
+            <td width="20%"  valign="top">
                 мiсця
             </td>
-            <td   valign="top">
-                означають напрямок або мiсце дiї, вiдповiдають на питання <b>де? куди? в якому напрямку?</b>
+            <td  width="35%" valign="top">
+                означають напрямок або мiсце дiї, вiдповiдають на питання <span class="p1">де? куди? в якому напрямку?</span>
             </td>  
-            <td   valign="top">
+            <td  width="25%" valign="top">
                 <i>надворi, лiворуч, зверху</i>
             </td>                     
         </tr>
 
         <tr> 
-            <td   valign="top">
+            <td width="20%"  valign="top">
                 часу
             </td>
-            <td   valign="top">
-                вказують на час дiї, вiдповiдають на питання <b>коли? вiдколи? доки? з якого часу? до якого часу?</b>
+            <td width="35%"  valign="top">
+                вказують на час дiї, вiдповiдають на питання <span class="p1">коли? вiдколи? доки? з якого часу? до якого часу?</span>
             </td>  
-            <td   valign="top">
+            <td width="25%"  valign="top">
                 <i>нiколи, ввечерi, донинi</i>
             </td>                     
         </tr>
 
         <tr> 
-            <td   valign="top">
+            <td  width="20%" valign="top">
                 мети
             </td>
-            <td   valign="top">
-                означають мету дiї, вiдповiдають на питання <b>для чого? навiщо? з якою метою?</b>
+            <td width="35%"  valign="top">
+                означають мету дiї, вiдповiдають на питання <span class="p1">для чого? навiщо? з якою метою?</span>
             </td>  
-            <td   valign="top">
+            <td width="25%"  valign="top">
                 <i>напоказ, навмисне</i>
             </td>                     
         </tr>
 
         <tr> 
-            <td   valign="top">
+            <td width="20%"  valign="top">
                 причини
             </td>
-            <td   valign="top">
-                вказують на причину дiї, вiдповiдають на питання <b>чому? з якої причини? через що?</b>
+            <td width="35%"  valign="top">
+                вказують на причину дiї, вiдповiдають на питання <span class="p1">чому? з якої причини? через що?</span>
             </td>  
-            <td   valign="top">
+            <td  width="25%" valign="top">
                 <i>мимоволi, зопалу</i>
             </td>                     
         </tr>
