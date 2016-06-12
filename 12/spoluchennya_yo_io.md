@@ -2,7 +2,7 @@
 
 
 
-<table style="width: 85%;" align="center">
+<table style="width: 80%;" align="center">
     <body>
         <tr>  
             <td  width="50%" align="center" valign="top">

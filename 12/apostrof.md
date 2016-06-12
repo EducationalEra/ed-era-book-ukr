@@ -10,7 +10,7 @@
 
 
 
-<table style="width: 90%;" align="center">
+<table style="width: 95%;" align="center">
     <body>
         <tr>  
             <td  width="50%" align="center" valign="top">
@@ -23,7 +23,7 @@
 
         <tr>  
             <td  width="50%"  valign="top">
-                Пiсля лiтер на позначення губних приголосних [<span class="p1">б</span>], [<span class="p1">п</span>], [<span class="p1">в</span>], [<span class="p1">м</span>], [<span class="p1">ф</span>]:<br><i>п’єса, м’ята</i>.<br>Як запам’ятати:<br>Губнi приголоснi можна запам’ятати за допомогою «<span class="p1">М</span>а<span class="p1">вп</span>а <span class="p1">б</span>у<span class="p1">ф</span>».
+                Пiсля лiтер на позначення губних приголосних [<span class="p1">б</span>], [<span class="p1">п</span>], [<span class="p1">в</span>], [<span class="p1">м</span>], [<span class="p1">ф</span>]:<br><i>п’єса, м’ята</i>.<br><font color="orange">Як запам’ятати:</font><br>Губнi приголоснi можна запам’ятати за допомогою «<span class="p1">М</span>а<span class="p1">вп</span>а <span class="p1">б</span>у<span class="p1">ф</span>».
             </td>  
             <td width="50%"  valign="top">
                 Пiсля лiтер на позначення губних приголосних [<span class="p1">б</span>], [<span class="p1">п</span>], [<span class="p1">в</span>], [<span class="p1">м</span>], [<span class="p1">ф</span>], якщо перед ними стоїть кореневий приголосний, крiм [<span class="p1">р</span>]:<br><i>тьмяний, морквяний</i>.

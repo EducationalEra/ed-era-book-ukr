@@ -2,7 +2,7 @@
 
 
 
-<table style="width: 80%;" align="center">
+<table style="width: 95%;" align="center">
     <body>
         <tr>  
             <td  width="33%" align="center" valign="top">
@@ -18,7 +18,7 @@
 
         <tr>
             <td  width="33%"  valign="top">
-                Вживається перед лiтерами <span class="p1">к</span>, <span class="p1">п</span>, <span class="p1">т</span>, <span class="p1">ф</span>, <span class="p1">х</span>:<br><i>спочити, створити, сфокусувати</i>.<br>Як запам’ятати:<br><I>За допомогою слiв «<span class="p1">К</span>а<span class="p1">ф</span>е <span class="p1">пт</span>а<span class="p1">х</span>».
+                Вживається перед лiтерами <span class="p1">к</span>, <span class="p1">п</span>, <span class="p1">т</span>, <span class="p1">ф</span>, <span class="p1">х</span>:<br><i>спочити, створити, сфокусувати</i>.<br><font color="orange">Як запам’ятати:</font><br><I>За допомогою слiв «<span class="p1">К</span>а<span class="p1">ф</span>е <span class="p1">пт</span>а<span class="p1">х</span>».
             </td>  
             <td  width="33%"  valign="top">
                 Вживається перед iншими приголосними:<br><i>зрозумiти, зшити, змалювати</i>.
@@ -34,7 +34,7 @@
 
 
 
-<table style="width: 80%;" align="center">
+<table style="width: 95%;" align="center">
     <body>
         <tr>  
             <td  width="33%" align="center" valign="top">
@@ -96,7 +96,7 @@
            <answer> ..морений, ..підлоба, ..шити</answer>
       <explanation>
 <p>Зрадіти, розчистити, безкрилий. </p>
-<p>Списати, сповістити, спідлоба – префікс <b>с-</b> уживаємо перед <b>к</b>, <b>п</b>, <b>т</b>, <b>ф</b>, <b>х</b>.</p> 
+<p>Списати, сповістити, спідлоба – префікс <span class="p1">с-</span> уживаємо перед <span class="p1">к</span>, <span class="p1">п</span>, <span class="p1">т</span>, <span class="p1">ф</span>, <span class="p1">х</span>.</p> 
 </explanation>
     </question>
 </quiz> 

@@ -5,7 +5,7 @@
 Написання слiв з цими ненаголошеними звуками перевiряється наголосом. Для визначення голосного треба:
 
 <ol>
-<li>Дiбрати спiльнокореневе слово або змiнити форму слова так, щоб сумнiвний звук став наголошеним.<br>Наприклад: <i>зазирн$$\acute{у}$$ти – з$$\acute{и}$$ркати.</i></li>
+<li>Дiбрати спiльнокореневе слово або змiнити форму слова так, щоб сумнiвний звук став наголошеним.<br>Наприклад: <i>зазирн<b>у</b>ти – з<b>и</b>ркати.</i></li>
 <li> Якщо за допомогою наголосу перевiрити написання слова не можна, то треба скористатися правилами:<br>
 
 
@@ -46,10 +46,10 @@
                 У суфiксах
             </td>  
             <td width="28%"  valign="top">
-                <span class="p1">-ець</span>, <span class="p1">-ень</span>, <span class="p1">-тель</span>,<br><span class="p1">-еро</span>, <span class="p1">-елезн</span>- :<br><i>умiлець, велетень, учитель, восьмеро, товстелезний;</i><br><span class="p1">-ен-</span>, <span class="p1">-енн-</span> :<br><i>цуценя, оголошення;</i><br><span class="p1">-еньк-</span>, <span class="p1">-есеньк-</span>, <span class="p1">-ечок-</span>, <span class="p1">-ечк-</span> :<br><i>тоненький, малесенький, мiшечок, горлечко;</i>
+                <span class="p1">-ець</span>, <span class="p1">-ень</span>, <span class="p1">-тель</span>,<br><span class="p1">-еро</span>, <span class="p1">-елезн</span>- :<br><i>умiлець, велетень, учитель, восьмеро, товстелезний;</i><br><span class="p1">-ен-</span>, <span class="p1">-енн-</span> :<br><i>цуценя, оголошення;</i><br><span class="p1">-еньк-</span>, <span class="p1">-есеньк-</span>,<br><span class="p1">-ечок-</span>, <span class="p1">-ечк-</span> :<br><i>тоненький, малесенький, мiшечок, горлечко;</i>
             </td>
             <td  width="28%"  valign="top">
-                <span class="p1">-ик</span>, <span class="p1">-иц(я)</span>, <span class="p1">-ищ(е)</span>,<br><span class="p1">-иськ</span> :<br><i>щоденник, палиця, становище, дiвчисько;</i><br><span class="p1">-ин-</span> :<br><i>мамин, киянин;</i><br><span class="p1">-ичок-</span>, <span class="p1">-ичк-</span><br>(вiд <span class="p1">-ик</span>, <span class="p1">-иц(я)</span> :<br><i>паличка, бо палиця</i><br><span class="p1">-ив(о)</span> в iм.:<br><i>вариво.</i><br>Винятки:<br><i>зар<b>е</b>во, мар<b>е</b>во;</i>
+                <span class="p1">-ик</span>, <span class="p1">-иц(я)</span>, <span class="p1">-ищ(е)</span>,<br><span class="p1">-иськ</span> :<br><i>щоденник, палиця, становище, дiвчисько;</i><br><span class="p1">-ин-</span> :<br><i>мамин, киянин;</i><br><span class="p1">-ичок-</span>, <span class="p1">-ичк-</span><br>(вiд <span class="p1">-ик</span>, <span class="p1">-иц(я)</span>) :<br><i>паличка, бо палиця</i><br><span class="p1">-ив(о)</span> в iм.:<br><i>вариво.</i><br>Винятки:<br><i>зар<b>е</b>во, мар<b>е</b>во;</i>
             </td>  
             <td width="28%"  valign="top">
                 
