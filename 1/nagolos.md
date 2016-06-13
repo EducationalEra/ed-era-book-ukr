@@ -15,7 +15,7 @@
 
 <b>Деякi слова в українськiй мовi мають подвiйний наголос:</b>
 
-<table width="60%" align="center">
+<table style="width: 60%;" align="center">
   <body>
     <tr>
       <td align="center" valign="top">

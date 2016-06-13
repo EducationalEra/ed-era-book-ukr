@@ -8,7 +8,7 @@
     <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
             <p class="quiz-question-explanation hide">
-Голосні звуки на письмі передаються за допомогою 10 літер: <span class="p1">а, о, у, і, и, е, я, ю, є, ї</span>.
+Голосні звуки на письмі передаються за допомогою 10 літер: <span class="p1">а</span>, <span class="p1">о</span>, <span class="p1">у</span>, <span class="p1">і</span>, <span class="p1">и</span>, <span class="p1">е</span>, <span class="p1">я</span>, <span class="p1">ю</span>, <span class="p1">є</span>, <span class="p1">ї</span>.
             <p>
 </div>
 
@@ -20,7 +20,7 @@
     <button style="margin-left:5px;" class="hide">Приховати</button>
     <br>
             <p class="quiz-question-explanation hide">
-            Два звуки можуть позначати літери <span class="p1">я, ю, є, ї, щ.</span>
+            Два звуки можуть позначати літери <span class="p1">я</span>, <span class="p1">ю</span>, <span class="p1">є</span>, <span class="p1">ї</span>, <span class="p1">щ</span>.
             </p>
 </div>
 
@@ -36,7 +36,7 @@
 1.	У фонетичному записi слово, що транскрибується, беруть у квадратнi дужки.<br>
 2.	Усi слова пишуться з маленької лiтери.<br>
 3.	Ставиться наголос, якщо слова має кiлька складiв.<br>
-4.	Не вживаються лiтери <span class="p1">щ, я, ю, є, ї, ь</span> та апостроф.<br>
+4.	Не вживаються лiтери <span class="p1">щ</span>, <span class="p1">я</span>, <span class="p1">ю</span>, <span class="p1">є</span>,<span class="p1"> </span>ї, <span class="p1">ь</span> та апостроф.<br>
 5.	Подовженi приголоснi позначаються двокрапкою.<br>
 6.	М’якiсть позначається знаком ′ пiсля м’якого приголосного.<br>
 7.	Пом’якшенiсть позначається комою вгорi пiсля звука.<br>

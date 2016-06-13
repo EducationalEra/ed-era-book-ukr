@@ -3,7 +3,7 @@
 * Уподiбнення за глухiстю
  * Дзвiнкi не оглушуються.<br>
   <span class="p1">Винятки</span>: *легко* [$$л\acute{е}хко$$], *вогко*, *кiгтi*, *нiгтi*, *дьогтю*
- * Приголосний <span class="p1">з</span> у префiксах <span class="p1">з-</span>, <span class="p1">роз-</span>, <span class="p1">без-</span>, <span class="p1">через-</span> перед глухими переходить в <span class="p1">с</span>. Наприклад: *безперечно* [$$бе^испе^ир\acute{е}чно$$].
+ * Приголосний <span class="p1">з</span> у префiксах <span class="p1">з-</span>, <span class="p1">роз-</span>, <span class="p1">без-</span>, <span class="p1">через-</span> перед глухими переходить в <span class="p1">с</span>.<br>Наприклад: *безперечно* [$$бе^испе^ир\acute{е}чно$$].
 
 <div class="alg-wrap">
 <span class="alg">ЗНО</span> 
@@ -15,7 +15,7 @@
 * Уподiбнення за дзвiнкiстю<br>
  Глухi приголоснi перед дзвiнкими одзвiнчуються: *боротьба* – [$$бород$$′$$б\acute{а}$$]
 * Уподiбнення за м’якiстю<br>
-Попереднiй приголосний стає м’яким пiд впливом наступного. Наприклад: *кузня* [$$к\acute{у}з$$′$$н$$′$$а$$]. Це стосується лише приголосних [<span class="p1">д</span>], [<span class="p1">т</span>], [<span class="p1">з</span>], [<span class="p1">с</span>], [<span class="p1">ц</span>], [<span class="p1">л</span>], [<span class="p1">н</span>], [<span class="p1">дз</span>], [<span class="p1">р</span>]
+Попереднiй приголосний стає м’яким пiд впливом наступного.<br>Наприклад: *кузня* [$$к\acute{у}з$$′$$н$$′$$а$$]. Це стосується лише приголосних [<span class="p1">д</span>], [<span class="p1">т</span>], [<span class="p1">з</span>], [<span class="p1">с</span>], [<span class="p1">ц</span>], [<span class="p1">л</span>], [<span class="p1">н</span>], [<span class="p1">дз</span>], [<span class="p1">р</span>]
 * Уподiбнення за мiсцем i способом творення<br>
 При цiй асимiляцiї зливається або дуже наближається вимова близьких звукiв.<br>
 Свистячi уподiбнюються наступним шиплячими.<br>
@@ -32,7 +32,7 @@
 </table>
 </div>-->
 
-<table width="50%" align="center">
+<table style="width: 55%;" align="center">
   <body>
     <tr>
       <td width="30%" align="center" valign="top">

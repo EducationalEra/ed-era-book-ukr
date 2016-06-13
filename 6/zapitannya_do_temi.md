@@ -64,7 +64,7 @@
     <br>
             <p class="quiz-question-explanation hide">
 1. Прикметники з префiксами <span class="p1">за-</span>, <span class="p1">пре-</span>, <span class="p1">над-</span>, <span class="p1">архi-</span>, <span class="p1">пра-</span>, <span class="p1">ультра-</span>;<br>
-2. Прикметники з суфiксами <span class="p1">-уват-</span>, <span class="p1">-юват-</span>, <span class="p1">-еньк-</span>, <span class="p1">-есеньк-</span>, <span class="p1">-iсiньк-</span>, <span class="p1">-юсiньк-</span>, <span class="p1">-енн-</span>, <span class="p1">-езн-</span>, <span class="p1">-ав-</span>, <span class="p1">-яв-</span>;<br>
+2. Прикметники з суфiксами <span class="p1">-уват-</span>, <span class="p1">-юват-</span>, <span class="p1">-еньк-</span>, <span class="p1">-есеньк-</span>, <span class="p1">-iсiньк-</span>, <span class="p1">-юсiньк-</span>,<br><span class="p1">-енн-</span>, <span class="p1">-езн-</span>, <span class="p1">-ав-</span>, <span class="p1">-яв-</span>;<br>
 3. Прикметники, якi виражають абсолютну ознаку;<br>
 4. Назви мастей тварин;<br>
 5. Прикметники, якi перейшли у якiснi з присвiйних або вiдносних;<br>

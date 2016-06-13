@@ -2,7 +2,7 @@
 
 Приголоснi звуки утворюються за участю голосу i шуму. Усього в українськiй мовi є 32 приголосних.
 
-Приголоснi, у твореннi яких переважає голос, називають сонорними.<br>До сонорних належать: <span class="p1">$$м, в, н, л, р, й$$</span> i м’якi <span class="p1">$$л$$′, $$н$$′, $$р$$′</span>.
+Приголоснi, у твореннi яких переважає голос, називають сонорними.<br>До сонорних належать: <span class="p1">$$м, в, н, л, р, й$$</span> i м’якi <span class="p1">$$л$$′</span>, <span class="p1">$$н$$′</span>, <span class="p1">$$р$$′</span>.
 
 <div class="alg-wrap">
 <span class="alg">Як запам’ятати</span> 
@@ -114,7 +114,7 @@ Iншi приголоснi в деяких позицiях можуть бути
  * задньоязиковi [<span class="p1">$$х$$′</span>], [<span class="p1">$$ґ$$′</span>], [<span class="p1">$$к$$′</span>];
  * шиплячi [<span class="p1">$$ж$$′</span>], [<span class="p1">$$ш$$′</span>], [<span class="p1">$$\widehat{дж}$$′</span>],[<span class="p1">$$ч$$′</span>]
 
-Якщо вони стоять перед <span class="p1">$$є, ю, я, i$$</span>. Перед м’яким знаком вони не стоять нiколи. Наприклад: *бiль* [б′iль], *мiсто* [м′iсто]. 
+Якщо вони стоять перед <span class="p1">$$є, ю, я, i$$</span>. Перед м’яким знаком вони не стоять нiколи.<br>Наприклад: *бiль* [б′iль], *мiсто* [м′iсто]. 
 
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
@@ -135,7 +135,7 @@ Iншi приголоснi в деяких позицiях можуть бути
         <answer correct>д, с, ц, з, л, н, р, т</answer>
         <answer>д, ц, з, л, н, с, р, в</answer>
         <explanation>
-        «Де ти з’їси ці лини, Дзар»
+        «<span class="p1">Д</span>е <span class="p1">т</span>и <span class="p1">з</span>’ї<span class="p1">с</span>и <span class="p1">ц</span>і <span class="p1">л</span>и<span class="p1">н</span>и, <span class="p1">Дз</span>а<span class="p1">р</span>»
         </explanation>
     </question>
 </quiz>

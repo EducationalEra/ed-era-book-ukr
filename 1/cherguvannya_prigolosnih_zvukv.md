@@ -1,6 +1,6 @@
 # Чергування приголосних звуків
 
-Чергування [<span class="p1">г</span>] – [<span class="p1">ж</span>], [<span class="p1">к</span>] – [<span class="p1">ч</span>], [<span class="p1">х</span>] - [<span class="p1">ш</span>]. Вiдбуваються при словотвореннi i словозмiнi: *увага - уважний - зауваження, галка - галчин - галченя - Галченко, смiх - смiшний – усмiшка*.
+Чергування [<span class="p1">г</span>] – [<span class="p1">ж</span>], [<span class="p1">к</span>] – [<span class="p1">ч</span>], [<span class="p1">х</span>] - [<span class="p1">ш</span>]. Вiдбуваються при словотвореннi i словозмiнi:<br>*увага - уважний - зауваження, галка - галчин - галченя - Галченко, смiх - смiшний – усмiшка*.
 
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/4pyiOJhQJrY" frameborder="0" allowfullscreen></iframe>
@@ -13,7 +13,7 @@
 У дiєсловах вiдбувається перехiд приголосних [<span class="p1">д</span>], [<span class="p1">т</span>], [<span class="p1">з</span>], [<span class="p1">с</span>] у шиплячi, а саме:
 
 
-<table width="35%" align="center">
+<table style="width: 55%;" align="center">
   <body>
     <tr>
       <td width="40%" align="center" valign="top">

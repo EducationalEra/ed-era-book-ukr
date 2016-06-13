@@ -16,10 +16,10 @@
         </tr>
 
         <tr> 
-        	<td rowspan="3" width="20%"  valign="middle">
+        	<td rowspan="3" width="20%" align="center" valign="middle">
                 <b>Означальнi</b>
             </td> 
-            <td width="20%"  valign="top">
+            <td width="20%"  align="center" valign="middle">
                 якiсно-означальнi
             </td>
             <td  width="35%" valign="top">
@@ -31,7 +31,7 @@
         </tr>
 
         <tr> 
-            <td width="20%"  valign="top">
+            <td width="20%"  align="center" valign="middle">
                 кiлькiсно-означальнi
             </td>
             <td  width="35%" valign="top">
@@ -43,7 +43,7 @@
         </tr>
 
         <tr> 
-            <td  width="20%" valign="top">
+            <td  width="20%" align="center" valign="middle">
                 способу дiї
             </td>
             <td width="35%"  valign="top">
@@ -55,10 +55,10 @@
         </tr>
 
         <tr> 
-        	<td rowspan="4" width="20%" valign="middle">
+        	<td rowspan="4" width="20%" align="center" valign="middle">
                 <b>Обставиннi</b>
             </td> 
-            <td width="20%"  valign="top">
+            <td width="20%"  align="center" valign="middle">
                 мiсця
             </td>
             <td  width="35%" valign="top">
@@ -70,7 +70,7 @@
         </tr>
 
         <tr> 
-            <td width="20%"  valign="top">
+            <td width="20%"  align="center" valign="middle">
                 часу
             </td>
             <td width="35%"  valign="top">
@@ -82,7 +82,7 @@
         </tr>
 
         <tr> 
-            <td  width="20%" valign="top">
+            <td  width="20%" align="center" valign="middle">
                 мети
             </td>
             <td width="35%"  valign="top">
@@ -94,7 +94,7 @@
         </tr>
 
         <tr> 
-            <td width="20%"  valign="top">
+            <td width="20%"  align="center" valign="middle">
                 причини
             </td>
             <td width="35%"  valign="top">

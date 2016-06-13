@@ -16,7 +16,7 @@
         </tr>
 
         <tr>
-            <td valign="top">
+            <td valign="middle" align="center">
                 <span class="p1">-ичн-</span>
             </td>  
             <td valign="top">
@@ -28,7 +28,7 @@
         </tr>
 
         <tr> 
-        	<td valign="top">
+        	<td valign="middle" align="center">
                 <span class="p1">-iчн-</span>
             </td> 
             <td valign="top">
@@ -40,7 +40,7 @@
         </tr>
 
         <tr>
-            <td valign="top">
+            <td valign="middle" align="center">
                 <span class="p1">-їчн-</span>
             </td>  
             <td valign="top">

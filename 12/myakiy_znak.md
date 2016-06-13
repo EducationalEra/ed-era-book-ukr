@@ -4,7 +4,7 @@
 
 
 
-<table style="width: 90%;" align="center">
+<table style="width: 100%;" align="center">
     <body>
         <tr>  
             <td  width="50%" align="center" valign="top">

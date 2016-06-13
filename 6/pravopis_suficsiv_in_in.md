@@ -16,7 +16,7 @@
         </tr>
 
         <tr>
-            <td width="20%" valign="top">
+            <td width="20%" valign="middle" align="center">
                 <span class="p1">-ин-</span>
             </td>  
             <td width="50%" valign="top">
@@ -28,7 +28,7 @@
         </tr>
 
         <tr> 
-        	<td width="20%" valign="top">
+        	<td width="20%" valign="middle" align="center">
                 <span class="p1">-iн-</span><br>(<span class="p1">-їн-</span>)
             </td> 
             <td width="50%" valign="top">
@@ -40,7 +40,7 @@
         </tr>
 
         <tr>
-            <td width="20%" valign="top">
+            <td width="20%" valign="middle" align="center">
                 <span class="p1">-iв-</span><br>(<span class="p1">-їв-</span>)
             </td>  
             <td width="50%" valign="top">
