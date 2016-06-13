@@ -184,7 +184,7 @@
 
 <p><b>Займенники, спiввiдноснi з прикметниками</b>
 
-Із займенниками спiввiдноснi присвiйнi (<span class="p1">мiй</span>, <span class="p1">твiй</span>, <span class="p1">наш, <span class="p1">ваш</span>, <span class="p1">свiй</span>, <span class="p1">їхнiй</span>), вказiвнi (<span class="p1">цей</span>, <span class="p1">той</span>, <span class="p1">такий</span>), означальнi (<span class="p1">сам</span>, <span class="p1">самий</span>, <span class="p1">всякий</span>, <span class="p1">кожний</span>, <span class="p1">жодний</span>, <span class="p1">iнший</span>), питальнi i вiдноснi (<span class="p1">який</span>, <span class="p1">чий</span>, <span class="p1">котрий</span>) займенники, а також неозначенi та заперечнi з основами <span class="p1">який</span>, <span class="p1">чий</span>, <span class="p1">котрий</span>.
+Із займенниками спiввiдноснi присвiйнi (<span class="p1">мiй</span>, <span class="p1">твiй</span>, <span class="p1">наш</span>, <span class="p1">ваш</span>, <span class="p1">свiй</span>, <span class="p1">їхнiй</span>), вказiвнi (<span class="p1">цей</span>, <span class="p1">той</span>, <span class="p1">такий</span>), означальнi (<span class="p1">сам</span>, <span class="p1">самий</span>, <span class="p1">всякий</span>, <span class="p1">кожний</span>, <span class="p1">жодний</span>, <span class="p1">iнший</span>), питальнi i вiдноснi (<span class="p1">який</span>, <span class="p1">чий</span>, <span class="p1">котрий</span>) займенники, а також неозначенi та заперечнi з основами <span class="p1">який</span>, <span class="p1">чий</span>, <span class="p1">котрий</span>.
 
 
 <table style="width: 80%;" align="center">

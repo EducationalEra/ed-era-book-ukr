@@ -56,7 +56,7 @@
                 Означає наближення, приєднання:<br><i>прийти, принести</i>.
             </td>  
             <td width="33%"  valign="top">
-                Уживається у словах <span class="p1">прiзвище</span>, <span class="p1">прiзвисько</span>, <span class="p1">прiрва</span>
+                Уживається у словах <span class="p1">прiзвище</span>, <span class="p1">прiзвисько</span>, <span class="p1">прiрва</span>.
             </td>                     
         </tr>
 

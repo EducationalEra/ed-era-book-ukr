@@ -238,7 +238,7 @@
 <div class="add-wrap">
 <span class="add">ЗНО</span>
 <div class="add-text">
-В орудному вiдмiнку числiвники <span class="p1">чотири</span> та <span class="p1">багато</span> мають закiнчення <span class="p1">–ма</span>: <i>чотирма, багатьма</i>.
+В орудному вiдмiнку числiвники <span class="p1">чотири</span> та <span class="p1">багато</span> мають закiнчення <span class="p1">-ма</span>: <i>чотирма, багатьма</i>.
 </div>
 <br>
 <hr>

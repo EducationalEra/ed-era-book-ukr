@@ -80,26 +80,26 @@
 
 <quiz> 
     <question>
-       <p>Літеру <b>е</b> треба писати в усіх словах рядка:</p>
+       <p>Літеру <span class="p1">е</span> треба писати в усіх словах рядка:</p>
            <answer>пер..йти, гр...чаний, кр..латий, довж..лезний</answer>
            <answer>вел..тень, б..региня, цуц..ня, д..ректор</answer>
            <answer correct>ч..рствий, в..рещати, пер..мога, бер..зень</answer>
            <answer>мер..хтіти, тр..вожний, р..монтний, заб..ру</answer>
       <explanation>
-Кр<b>и</b>латий, д<b>и</b>ректор і тр<b>и</b>вожний.
+Кр<span class="p1">и</span>латий, д<span class="p1">и</span>ректор і тр<span class="p1">и</span>вожний.
 </explanation>
     </question>
 </quiz> 
 
 <quiz> 
     <question>
-       <p>Літеру <b>о</b> треба писати в усіх словах рядка:</p>
+       <p>Літеру <span class="p1">о</span> треба писати в усіх словах рядка:</p>
            <answer> д..рога, г..лова, ябл..ко</answer>
            <answer correct> л..пата, к..лосся, ..таман</answer>
            <answer> з..зуля, ч..рнило, марм..ровий</answer>
            <answer> г..рячий, б..гато, доп..мога</answer>
       <explanation>
-Ябл<b>у</b>ко, марм<b>у</b>ровий, г<b>а</b>рячий.
+Ябл<span class="p1">у</span>ко, марм<span class="p1">у</span>ровий, г<span class="p1">а</span>рячий.
 </explanation>
     </question>
 </quiz> 

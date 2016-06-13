@@ -1,4 +1,4 @@
-#Вiдмiнювання прикметникiв на <span class="p1">-лиций</span>
+#Вiдмiнювання прикметникiв на -лиций
 
 
 <table style="width: 95%;" align="center">
@@ -148,7 +148,7 @@
            <answer>галасливий</answer>
            <answer>безкраїй</answer>
       <explanation>
-Не належать ані до м’якої, ані до твердої групи прикметники на <span class="p1">–лиций</span>. 
+Не належать ані до м’якої, ані до твердої групи прикметники на <span class="p1">-лиций</span>. 
 </explanation>
     </question>
 </quiz> 

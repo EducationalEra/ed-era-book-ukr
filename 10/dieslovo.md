@@ -3,7 +3,7 @@
 <div class="eoz-wrap">
 <span class="eoz">Визначення</span>
 <div class="eoz-text">
-<strong>Дiєслово</strong> — самостiйна частина мови, що називає стан предмета або дiю i вiдповiдає на запитання <span class="p1">що робить (робив, зробив, буде робити, зробив би) предмет? що з ним робиться (робитиметься, робилося, зробиться, зробилося б?)</span> тощо.
+<strong>Дiєслово</strong> — самостiйна частина мови, що називає стан предмета або дiю i вiдповiдає на запитання <span class="p1">що робить</span> (<span class="p1">робив</span>, <span class="p1">зробив</span>, <span class="p1">буде робити</span>, <span class="p1">зробив би</span>) <span class="p1">предмет?</span>; <span class="p1">що з ним робиться</span> (<span class="p1">робитиметься</span>, <span class="p1">робилося</span>, <span class="p1">зробиться</span>, <span class="p1">зробилося б?</span>) тощо.
 </div>
 </div>
 

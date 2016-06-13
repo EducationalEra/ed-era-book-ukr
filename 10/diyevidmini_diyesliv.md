@@ -3,7 +3,7 @@
 Визначення дiєвiдмiни дiєслiв дозволяє встановити їхнi правильнi особовi закiнчення. Iснує два способи такого визначення:
 <hr>
 
-<p><b>&rarr;</b> За закiнченням <span class="p1">3 особи множини</span>.
+<p>За закiнченням <span class="p1">3 особи множини</span>.
 
 
 <table style="width: 70%;" align="center">
@@ -46,7 +46,7 @@
     </body>
 </table>
 
-<p><b>&rarr;</b> За <span class="p1">основою iнфiнiтива</span> (тобто частиною дiєслова без <span class="p1">-ти</span>)
+<p>За <span class="p1">основою iнфiнiтива</span> (тобто частиною дiєслова без <span class="p1">-ти</span>)
 
 
 <table style="width: 80%;" align="center">
@@ -99,7 +99,7 @@
 </ul>
 
 
-До <span class="p1">I дiєвiдмiни</span> також належать дiєслова <i>хотiти, жати, iржати, ревiти, слати</i>.
+До <span class="p1">I дiєвiдмiни</span> також належать дiєслова: <i>хотiти, жати, iржати, ревiти, слати</i>.
 
 <p style="text-align:center;"><b>Особовi закiнчення дiєслiв I i II дiєвiдмiн</b></p>
 

@@ -10,7 +10,7 @@
 
 
 
-<table style="width: 95%;" align="center">
+<table style="width: 100%;" align="center">
     <body>
         <tr>  
             <td  width="50%" align="center" valign="top">
@@ -77,8 +77,8 @@
            <answer correct> з..їсти, об..єднання, дит..ясла</answer>
            <answer> запам..ятати, бар..єр, мавп..ячий</answer>
       <explanation>
-<p>З’їсти, об’єднати, дит’ясла.</p>
-<p>Крякати, переїхати, мавпячий – без апострофа.</p> 
+З’їсти, об’єднати, дит’ясла.<br>
+Крякати, переїхати, мавпячий – без апострофа.
 </explanation>
     </question>
 </quiz> 
