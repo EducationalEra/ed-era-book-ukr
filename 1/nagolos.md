@@ -88,145 +88,145 @@
   <body>
     <tr>
       <td align="center" valign="top">
-        асиметр<b>і</b>я
+        асиметр<span class="p1">і</b>я
       </td>
       <td align="center" valign="top" >
-        бор<b>о</b>давка
+        бор<span class="p1">о</span>давка
       </td>
       <td align="center" valign="top" >
-        бюлет<b>е</b>нь
+        бюлет<span class="p1">е</span>нь
       </td>
     </tr>
 
     <tr>
       <td align="center" valign="top">
-        вим<b>о</b>га
+        вим<span class="p1">о</span>га
       </td>
       <td align="center" valign="top" >
-        вим<b>о</b>ва
+        вим<span class="p1">о</span>ва
       </td>
       <td align="center" valign="top" >
-        в<b>и</b>падок
+        в<span class="p1">и</span>падок
       </td>
     </tr>
 
     <tr>
       <td align="center" valign="top">
-        вітч<b>и</b>м
+        вітч<span class="p1">и</span>м
       </td>
       <td align="center" valign="top" >
-        грабл<b>і</b>
+        грабл<span class="p1">і</span>
       </td>
       <td align="center" valign="top" >
-        горош<b>и</b>на
+        горош<span class="p1">и</span>на
       </td>
     </tr>
 
     <tr>
       <td align="center" valign="top">
-        гр<b>о</b>шей
+        гр<span class="p1">о</span>шей
       </td>
       <td align="center" valign="top" >
-        д<b>і</b>тьми
+        д<span class="p1">і</span>тьми
       </td>
       <td align="center" valign="top" >
-        дов<b>і</b>дник
+        дов<span class="p1">і</span>дник
       </td>
     </tr>
 
     <tr>
       <td align="center" valign="top">
-        дочк<b>а</b> (але д<b>о</b>нька)
+        дочк<span class="p1">а</span> (але д<span class="p1">о</span>нька)
       </td>
       <td align="center" valign="top" >
-        заірж<b>а</b>віти
+        заірж<span class="p1">а</span>віти
       </td>
       <td align="center" valign="top" >
-        зуб<b>о</b>жіти (зуб<b>о</b>жілий, зуб<b>о</b>жіння)
+        зуб<span class="p1">о</span>жіти (зуб<span class="p1">о</span>жілий, зуб<span class="p1">о</span>жіння)
       </td>
     </tr>
 
     <tr>
       <td align="center" valign="top">
-        діал<b>о</b>г
+        діал<span class="p1">о</span>г
       </td>
       <td align="center" valign="top" >
-        катал<b>о</b>г
+        катал<span class="p1">о</span>г
       </td>
       <td align="center" valign="top" >
-        кварт<b>а</b>л
+        кварт<span class="p1">а</span>л
       </td>
     </tr>
 
     <tr>
       <td align="center" valign="top">
-        кропив<b>а</b>
+        кропив<span class="p1">а</span>
       </td>
       <td align="center" valign="top" >
-        к<b>у</b>рятина
+        к<span class="p1">у</span>рятина
       </td>
       <td align="center" valign="top" >
-        м<b>а</b>ркетинг
+        м<span class="p1">а</span>ркетинг
       </td>
     </tr>
 
     <tr>
       <td align="center" valign="top">
-        нен<b>а</b>видіти (нен<b>а</b>висть, нен<b>а</b>висний)
+        нен<span class="p1">а</span>видіти (нен<span class="p1">а</span>висть, нен<span class="p1">а</span>висний)
       </td>
       <td align="center" valign="top" >
-        однораз<b>о</b>вий
+        однораз<span class="p1">о</span>вий
       </td>
       <td align="center" valign="top" >
-        <b>о</b>лень
+        <span class="p1">о</span>лень
       </td>
     </tr>
 
     <tr>
       <td align="center" valign="top">
-        от<b>а</b>ман
+        от<span class="p1">а</span>ман
       </td>
       <td align="center" valign="top" >
-        пер<b>е</b>пис
+        пер<span class="p1">е</span>пис
       </td>
       <td align="center" valign="top" >
-        псевдон<b>і</b>м
+        псевдон<span class="p1">і</span>м
       </td>
     </tr>
 
     <tr>
       <td align="center" valign="top">
-        р<b>а</b>зом
+        р<span class="p1">а</span>зом
       </td>
       <td align="center" valign="top" >
-        сер<b>е</b>дина
+        сер<span class="p1">е</span>дина
       </td>
       <td align="center" valign="top" >
-        сп<b>и</b>на
+        сп<span class="p1">и</span>на
       </td>
     </tr>
 
     <tr>
       <td align="center" valign="top">
-        фахов<b>и</b>й
+        фахов<span class="p1">и</span>й
       </td>
       <td align="center" valign="top" >
-        фарт<b>у</b>х
+        фарт<span class="p1">у</span>х
       </td>
       <td align="center" valign="top" >
-        фен<b>о</b>мен
+        фен<span class="p1">о</span>мен
       </td>
     </tr>
 
     <tr>
       <td align="center" valign="top">
-        цем<b>е</b>нт
+        цем<span class="p1">е</span>нт
       </td>
       <td align="center" valign="top" >
-        ц<b>е</b>нтнер
+        ц<span class="p1">е</span>нтнер
       </td>
       <td align="center" valign="top" >
-        чорн<b>о</b>слив
+        чорн<span class="p1">о</span>слив
       </td>
     </tr>
   </body>

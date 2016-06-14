@@ -48,7 +48,7 @@
 
 <i>Молод<b>ий</b> <u>водiй</u> куп<b>ив</b> автомобiль.</i><br>
 <i>Молод<b>ий</b> <u>водiй</u> купил<b>а</b> автомобiль.</i>
-</ul>
+
 
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/Ntjczd1XWeY" frameborder="0" allowfullscreen></iframe>

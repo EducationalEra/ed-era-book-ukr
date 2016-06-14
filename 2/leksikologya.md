@@ -13,10 +13,9 @@
 
    1. [Слово як мовна одиниця](slovo_yak_movna_odinitsya.md)
    2. [Групи слів за значенням](odnoznachni_i_bagatoznachni_slova.md)
-       1. [Однозначнi i багатозначнi слова](odnoznachni_i_bagatoznachni_slova.md)
-       2. [Омонiми](omonimi.md)
-       3. [Синонiми](sinonimi.md)
-       4. [Антонiми](antonimi.md)
+       1. [Омонiми](omonimi.md)
+       2. [Синонiми](sinonimi.md)
+       3. [Антонiми](antonimi.md)
    3. [Групи слів за походженням](grupi_slv_za_pohodzhennyam.md)
    4. [Групи слів за вживанням](zagalnovzhivana_ta_leksika_obmezhenogo_vzhivannya.md)
        1. [Загальновживана та лексика обмеженого вживання](zagalnovzhivana_ta_leksika_obmezhenogo_vzhivannya.md)

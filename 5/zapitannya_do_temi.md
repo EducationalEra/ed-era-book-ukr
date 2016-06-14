@@ -64,7 +64,7 @@
             <p class="quiz-question-explanation hide">
 1. Іншомовнi слова, що закiнчуються на голосний звук;<br>
 2. Жiночi прiзвища на <span class="p1">-о</span> та приголосний;<br>
-3. Iншомовнi прiзвища на <span class="p1">-их, -ово, -аго, -е, -о, -i</span>;<br>
+3. Iншомовнi прiзвища на <span class="p1">-их</span>, <span class="p1">-ово</span>, <span class="p1">-аго</span>, <span class="p1">-е</span>, <span class="p1">-о</span>, <span class="p1">-i</span>;<br>
 4. Бiльшiсть буквенних абревiатур;<br>
 5. Деякi складноскороченi слова.
 </p>

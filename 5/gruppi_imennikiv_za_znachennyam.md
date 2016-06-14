@@ -1,6 +1,6 @@
 #Групи iменникiв за значенням
 
-<table>
+<table style="width: 85%;" align="center">
     <body>
         <tr>
             <td align="center" colspan="3" valign="top">
@@ -48,7 +48,7 @@
 </table>
 
 
-<table>
+<table style="width: 60%;" align="center">
     <body>
         <tr>
             <td width="50%" align="center" valign="top">
@@ -71,7 +71,7 @@
 </table>
 
 
-<table>
+<table style="width: 60%;" align="center">
     <body>
         <tr>
             <td width="50%" align="center" valign="top">

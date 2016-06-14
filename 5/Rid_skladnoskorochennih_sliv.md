@@ -1,7 +1,7 @@
 #Рiд складноскорочених слiв
 
 
-<table>
+<table style="width: 80%;" align="center">
     <body>
         <tr>
             <td align="center" colspan="3" valign="top">

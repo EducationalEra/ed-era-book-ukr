@@ -4,9 +4,9 @@
 
 Голоснi звуки утворюються за участю лише голосу.
 
-Їх усього 6: <span class="p1">а, o, у, i, и, е</span>.
+Їх усього 6: <span class="p1">а</span>, <span class="p1">o</span>, <span class="p1">у</span>, <span class="p1">i</span>, <span class="p1">и</span>, <span class="p1">е</span>.
 
-На письмi голоснi звуки передаються за допомогою 10 лiтер: <span class="p1">а, o, у, i, и, е, я, ю, є, ї</span>. Лiтери <span class="p1">я, ю, є, ї</span> називають йотованими. Вони позначають по два звуки, якщо стоять:
+На письмi голоснi звуки передаються за допомогою 10 лiтер: <span class="p1">а</span>, <span class="p1">o</span>, <span class="p1">у</span>, <span class="p1">i</span>, <span class="p1">и</span>, <span class="p1">е</span>, <span class="p1">я</span>, <span class="p1">ю</span>, <span class="p1">є</span>, <span class="p1">ї</span>. Лiтери <span class="p1">я, ю, є, ї</span> називають йотованими. Вони позначають по два звуки, якщо стоять:
  * На початку слова: *яблуко* [$$й\acute{а}блуко$$]
  * Пiсля голосного звуку: *заява* [$$зай\acute{а}ва$$]
  * Пiсля м’якого знака: *Мольєр* [$$мол$$′$$й\acute{е}р$$]

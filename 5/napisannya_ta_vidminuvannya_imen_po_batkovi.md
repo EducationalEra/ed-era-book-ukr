@@ -20,7 +20,7 @@
                 чоловічі
             </td>  
             <td width="33%" valign="top">
-                -<span class="p1">ович</span>, -<span class="p1">йович</span>
+                <span class="p1">-ович</span>, <span class="p1">-йович</span>
             </td>
             <td width="33%" valign="top">
                 Павлович, Миколайович
@@ -32,7 +32,7 @@
                 жіночі
             </td>  
             <td width="33%" valign="top">
-                -<span class="p1">івн(а)</span>, -<span class="p1">івн(а)</span>
+                <span class="p1">-івн(а)</span>, <span class="p1">-івн(а)</span>
             </td>
             <td width="33%" valign="top">
                 Богданівна, Андріївна
@@ -41,7 +41,7 @@
     </body>
 </table>
 
-Паралельнi вiдмiнковi форми має iм’я Лев. Наприклад: <i>Льва i Лева, Львовi i Левовi</i>.
+Паралельнi вiдмiнковi форми має iм’я Лев.<br>Наприклад: <i>Льва i Лева, Львовi i Левовi</i>.
 <br>
 
 Окремi iмена утворюють форму по батьковi з iншими суфiксами:
@@ -168,7 +168,7 @@
            <answer> Віктор Миколайович</answer>
            <answer correct> Володимир Сергієвич</answer>
       <explanation>
-Чоловічі імена по батькові утворюються за допомогою суфіксів -<span class="p1">ович</span>, -<span class="p1">йович</span>.
+Чоловічі імена по батькові утворюються за допомогою суфіксів <span class="p1">-ович</span>, <span class="p1">-йович</span>.
 Володимир Сергійович. 
 </explanation>
     </question>

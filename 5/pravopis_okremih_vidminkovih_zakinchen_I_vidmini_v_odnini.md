@@ -26,7 +26,7 @@
                 Тверда
             </td>
             <td width="30%" valign="top">
-                -<span class="p1">ою</span>
+                <span class="p1">-ою</span>
             </td>  
             <td width="30%" valign="top">
                 <i>допомогою</i>
@@ -39,7 +39,7 @@
                 М’яка та мішана
             </td>
             <td width="30%" valign="top">
-                -<span class="p1">ею</span> (-<span class="p1">єю</span>)
+                <span class="p1">-ею</span> (<span class="p1">-єю</span>)
             </td>  
             <td width="30%" valign="top">
                 <i>тишею, надією</i>
@@ -54,7 +54,7 @@
                 Тверда
             </td>
             <td width="30%" valign="top">
-                -<span class="p1">о</span>
+                <span class="p1">-о</span>
             </td>  
             <td width="30%" valign="top">
                 <i>Миколо</i>
@@ -67,7 +67,7 @@
                 Мішана
             </td>
             <td width="30%" valign="top">
-                -<span class="p1">е</span> (-<span class="p1">є</span>)
+                <span class="p1">-е</span> (<span class="p1">-є</span>)
             </td>  
             <td width="30%" valign="top">
                 <i>тише</i>
@@ -80,7 +80,7 @@
             </td>  
             
             <td width="30%" valign="top">
-                -<span class="p1">е</span> (-<span class="p1">є</span>)
+                <span class="p1">-е</span> (<span class="p1">-є</span>)
             </td>  
             <td width="30%" valign="top">
                 <i>надіє</i>
@@ -90,7 +90,7 @@
         <tr>
             
             <td width="30%" valign="top">
-                -<span class="p1">ю</span> (деякі пестливі форми)
+                <span class="p1">-ю</span> (деякі пестливі форми)
             </td>  
             <td width="30%" valign="top">
                 <i>бабусю, доню</i>
@@ -116,7 +116,7 @@
            <answer> карта, геологія</answer>
       <explanation>
 Легендою, державою - закінчення <span class="p1">-ою</span> у формі орудного відмінка однини мають іменники I відміни твердої групи.
-Закінчення <span class="p1">-ею</span> мають іменники: їдальня, геологія (м’яка група), груша (мішана група).
+Закінчення <span class="p1">-ею</span> мають іменники: <i>їдальня</i>, <i>геологія</i> (м’яка група), <i>груша</i> (мішана група).
 </explanation>
     </question>
 </quiz>

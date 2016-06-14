@@ -8,7 +8,7 @@
 <div class="popup">
 </div>
 
-Чергування [<span class="p1">г</span>] – [<span class="p1">з′</span>], [<span class="p1">к</span>] – [<span class="p1">ц′</span>], [<span class="p1">х</span>] – [<span class="p1">с′</span>]. Вiдбуваються при словозмiнi перед закiнченням <span class="p1">-i</span>: *луг - у лузi, райдуга - райдузi, гiлка - на гiлцi, донька - доньцi, свекруха - свекрусi, капелюх - у капелюсi*.
+Чергування [<span class="p1">г</span>] – [<span class="p1">з′</span>], [<span class="p1">к</span>] – [<span class="p1">ц′</span>], [<span class="p1">х</span>] – [<span class="p1">с′</span>]. Вiдбуваються при словозмiнi перед закiнченням <span class="p1">-i</span>:<br>*луг - у лузi, райдуга - райдузi, гiлка - на гiлцi, донька - доньцi, свекруха - свекрусi, капелюх - у капелюсi*.
 
 У дiєсловах вiдбувається перехiд приголосних [<span class="p1">д</span>], [<span class="p1">т</span>], [<span class="p1">з</span>], [<span class="p1">с</span>] у шиплячi, а саме:
 
@@ -57,7 +57,7 @@
 
 В iнших частинах мови чергується [<span class="p1">д</span>] — [<span class="p1">ж</span>]: *уродити — урожай, огородити — огорожа, погода — погожий, переходити — перехожий, правда — справжнiй*.
 
-У буквосполученнях <span class="p1">дт</span>, <span class="p1">тт</span> першi звуки [<span class="p1">д</span>] i [<span class="p1">т</span>] чергуються з приголосним [<span class="p1">с</span>]: *веду — вести, ненавидiти — ненависть, цвiт — цвiсти, мету — мести*.
+У буквосполученнях <span class="p1">дт</span>, <span class="p1">тт</span> першi звуки [<span class="p1">д</span>] i [<span class="p1">т</span>] чергуються з приголосним [<span class="p1">с</span>]:<br>*веду — вести, ненавидiти — ненависть, цвiт — цвiсти, мету — мести*.
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">

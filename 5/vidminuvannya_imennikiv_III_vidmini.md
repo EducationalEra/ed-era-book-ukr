@@ -109,7 +109,7 @@
 
 
 <ol>
-<li> Якщо основа закiнчується на <span class="p1">б, п, в, м, ф, щ, р</span>: <i>любов'ю, матiр'ю.</i></li>
+<li> Якщо основа закiнчується на <span class="p1">б</span>, <span class="p1">п</span>, <span class="p1">в</span>, <span class="p1">м</span>, <span class="p1">ф</span>, <span class="p1">щ</span>, <span class="p1">р</span>: <i>любов’ю, матiр’ю.</i></li>
 <li> Якщо приголоснi збiгаються перед <span class="p1">-ю</span> в кiнцi основи: <i>радiстю,
 вiстю.</i></li>
 </ol>

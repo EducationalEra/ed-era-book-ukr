@@ -26,7 +26,7 @@
                 Тверда
             </td>
             <td width="20%" valign="top">
-                -<span class="p1">ові</span>
+                <span class="p1">-ові</span>
             </td>  
             <td width="30%" valign="top">
                 <i>степові</i>
@@ -39,7 +39,7 @@
                 М’яка та мішана
             </td>
             <td width="20%" valign="top">
-                -<span class="p1">еві</span>
+                <span class="p1">-еві</span>
             </td>  
             <td width="30%" valign="top">
                 <i>велетневі, сторожеві</i>
@@ -54,7 +54,7 @@
                 Тверда
             </td>
             <td width="20%" valign="top">
-                -<span class="p1">ом</span>
+                <span class="p1">-ом</span>
             </td>  
             <td width="30%" valign="top">
                 <i>батьком</i>
@@ -67,7 +67,7 @@
                 М’яка та мішана
             </td>
             <td width="20%" valign="top">
-                -<span class="p1">ем</span> (-<span class="p1">єм</span>)
+                <span class="p1">-ем</span> (<span class="p1">-єм</span>)
             </td>  
             <td width="30%" valign="top">
                 <i>урожаєм, кущем</i>
@@ -95,25 +95,25 @@
 
         <tr>
             <td width="33%" align="center" valign="top">
-                <b>Закінчення -<span class="p1">у</span> мають:</b>
+                <b>Закінчення <span class="p1">-у</span> мають:</b>
             </td>  
             <td width="34%" align="center" valign="top">
-                <b>Закінчення -<span class="p1">ю</span> мають:</b>
+                <b>Закінчення <span class="p1">-ю</span> мають:</b>
             </td>
             <td width="33%" align="center" valign="top">
-                <b>Закінчення -<span class="p1">е</span> мають:</b>
+                <b>Закінчення <span class="p1">-е</span> мають:</b>
             </td>                   
         </tr>
 
         <tr>
             <td width="33%" valign="top">
-                Іменники твердої групи з суфіксами -<span class="p1">к</span>-, -<span class="p1">ик</span>-, -<span class="p1">ок</span>-: <i>братику</i>
+                Іменники твердої групи з суфіксами <span class="p1">-к-</span>, <span class="p1">-ик-</span>, <span class="p1">-ок-</span>: <i>братику</i>
             </td>  
             <td width="34%" rowspan="3" valign="top">
                 Більшість іменників м’якої групи: <i>велетню, кобзарю</i>
             </td>
             <td width="33%" valign="top">
-                Іменники м’якої групи з суфіксом -<span class="p1">ець</span>: <i>хлопець - хлопче</i>
+                Іменники м’якої групи з суфіксом <span class="p1">-ець</span>: <i>хлопець - хлопче</i>
             </td>                  
         </tr>
 
@@ -128,7 +128,7 @@
 
         <tr>
             <td width="33%" valign="top">
-                Деякі іменники мішаної групи, крім основи на -<span class="p1">р</span>, -<span class="p1">ж</span>: <i>товаришу</i>
+                Деякі іменники мішаної групи, крім основи на <span class="p1">-р</span>, <span class="p1">-ж</span>: <i>товаришу</i>
             </td>
             <td width="33%" valign="top">
                 Більшість іменників мішаної групи: <i>стороже</i>
@@ -146,13 +146,13 @@
 
 <quiz> 
     <question>
-       <p>Закінчення -<span class="p1">ом</span> у формі орудного відмінка однини мають усі іменники в рядку:</p>
+       <p>Закінчення <span class="p1">-ом</span> у формі орудного відмінка однини мають усі іменники в рядку:</p>
            <answer> велетень, президент</answer>
            <answer> папірус, пісняр</answer>
            <answer> стіл, чай</answer>
            <answer correct> звір, парашут</answer>
       <explanation>
-Закінчення -<span class="p1">ом</span> у формі орудного відмінка однини мають іменники II відміни твердої групи.<br>
+Закінчення <span class="p1">-ом</span> у формі орудного відмінка однини мають іменники II відміни твердої групи.<br>
 Звіром, парашутом – II відміна, тверда група.<br>
 Чаєм, велетнем – II відміна, м’яка група.<br>
 Піснярем - II відміна, мішана група.</explanation>
@@ -167,7 +167,7 @@
            <answer>Фрідріху</answer>
            <answer>товаришу</answer>
       <explanation>
-Іменники II відміни м’якої групи з суфіксом -<span class="p1">ець</span> мають закінчення -<span class="p1">е</span> у формі кличного відмінка (<i>хлопець - хлопче</i>).
+Іменники II відміни м’якої групи з суфіксом <span class="p1">-ець</span> мають закінчення <span class="p1">-е</span> у формі кличного відмінка (<i>хлопець - хлопче</i>).
  </explanation>
     </question>
 </quiz>
