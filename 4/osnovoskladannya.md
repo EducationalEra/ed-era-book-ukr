@@ -27,7 +27,6 @@
 Наприклад: <i>життєлюбний</i>.
 
 
-<br>
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
        <p>Усі слова утворенні складанням основ, ОКРІМ:</p>

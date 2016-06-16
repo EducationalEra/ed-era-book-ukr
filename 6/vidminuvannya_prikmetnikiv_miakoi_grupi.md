@@ -31,16 +31,16 @@
             <td valign="top">
                 Називний
             </td>  
-            <td valign="top">
+            <td align="center" valign="top">
                 крайнiй
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 лiтнє
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 торiшня
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 дорожнi
             </td>                   
         </tr>
@@ -49,16 +49,16 @@
             <td valign="top">
                 Родовий
             </td>  
-            <td valign="top">
+            <td align="center" valign="top">
                 крайнього
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 лiтнього
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 торiшньої
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 дорожнiх
             </td>                   
         </tr>
@@ -67,16 +67,16 @@
             <td valign="top">
                 Давальний    
             </td>  
-            <td valign="top">
+            <td align="center" valign="top">
                 крайньому
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 лiтньому
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 торiшнiй
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 дорожнiм
             </td>                   
         </tr>
@@ -85,16 +85,16 @@
             <td valign="top">
                 Знахiдний
             </td>  
-            <td valign="top">
+            <td align="center" valign="top">
                 крайнiй,<br>крайнього
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 лiтнє,<br>лiтнього
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 торiшню
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 дорожнi,<br>дорожнiх
             </td>                   
         </tr>
@@ -103,16 +103,16 @@
             <td valign="top">
                 Орудний
             </td>  
-            <td valign="top">
+            <td align="center" valign="top">
                 крайнiм 
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 лiтнiм
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 торiшньою
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 дорожнiми
             </td>                   
         </tr>
@@ -121,16 +121,16 @@
             <td valign="top">
                 Мiсцевий 
             </td>  
-            <td valign="top">
+            <td align="center" valign="top">
                 ...крайньому,<br>...крайнiм
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 ...лiтньому,<br>...лiтнiм
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 ...торiшнiй
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 ...дорожнiх 
             </td>                   
         </tr>        

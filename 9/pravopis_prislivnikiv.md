@@ -6,7 +6,7 @@
 3. Прислiвники, утворенi з кiлькох основ з прийменником або без нього:<br><i>мимоволi, горiлиць</i>.
 4. Прислiвники з частками <span class="p1">анi-</span>, <span class="p1">аби-</span>, <span class="p1">де-</span>, <span class="p1">як-</span>, <span class="p1">що-</span>, <span class="p1">чи-</span>, <span class="p1">нi-</span>:<br><i>анiтрохи, абиде, якомога</i>.
 
-<br>
+
 
 <span class="p1">Через дефiс пишемо:</span>
 1. Прислiвники з частками <span class="p1">бозна-</span>, <span class="p1">казна-</span>, <span class="p1">хтозна-</span>, <span class="p1">-от</span>, <span class="p1">-таки</span>, <span class="p1">-небудь</span>, <span class="p1">-но</span>:<br><i>казна-де, як-небудь</i>.

@@ -11,7 +11,7 @@
 
 Наприклад: <i>переходити – перехiд</i>.
 
-<br>
+
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
        <p>Усі слова утворені безсуфіксним (безафіксним) способом у рядку:</p>

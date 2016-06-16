@@ -1,4 +1,4 @@
-#Правопис окремих вiдмiнкових закiнчень iменникiв II вiдмiни в однинi
+ align="center"#Правопис окремих вiдмiнкових закiнчень iменникiв II вiдмiни в однинi
 
 
 <table style="width: 90%;" align="center">
@@ -25,7 +25,7 @@
             <td width="30%" valign="top">
                 Тверда
             </td>
-            <td width="20%" valign="top">
+            <td width="20%" align="center" valign="top">
                 <span class="p1">-ові</span>
             </td>  
             <td width="30%" valign="top">
@@ -38,7 +38,7 @@
             <td width="30%" valign="top">
                 М’яка та мішана
             </td>
-            <td width="20%" valign="top">
+            <td width="20%" align="center" valign="top">
                 <span class="p1">-еві</span>
             </td>  
             <td width="30%" valign="top">
@@ -53,7 +53,7 @@
             <td width="30%" valign="top">
                 Тверда
             </td>
-            <td width="20%" valign="top">
+            <td width="20%" align="center" valign="top">
                 <span class="p1">-ом</span>
             </td>  
             <td width="30%" valign="top">
@@ -66,7 +66,7 @@
             <td width="30%" valign="top">
                 М’яка та мішана
             </td>
-            <td width="20%" valign="top">
+            <td width="20%" align="center" valign="top">
                 <span class="p1">-ем</span> (<span class="p1">-єм</span>)
             </td>  
             <td width="30%" valign="top">

@@ -31,13 +31,13 @@
                 У буквосполуках
             </td>  
             <td width="28%"  valign="top">
-                <span class="p1">-ере-</span>, <span class="p1">-еле-</span> :<br><i>деревоб, шелест</i>
+                <span class="p1">-ере-</span>, <span class="p1">-еле-</span> :<br><i>дерево, шелест</i>
             </td>
             <td  width="28%"  valign="top">
                 <span class="p1">-ри-</span>, <span class="p1">-ли-</span> :<br><i>гримiти, глитати</i>
             </td>  
             <td width="28%"  valign="top">
-                <span class="p1">-оро-</span>, <span class="p1">-оло-</span> :<br><i>дороога, волоссся</i>
+                <span class="p1">-оро-</span>, <span class="p1">-оло-</span> :<br><i>дорога, волосся</i>
             </td>                     
         </tr>
 

@@ -55,6 +55,7 @@
 
 <quiz> 
     <question>
+        <p>Суфікс <span class="p1">-ин-</span> пишеться у присвійних прикметниках:</p>
            <answer>матуся, Андрій</answer>
            <answer>Наталя, змія</answer>
            <answer>Надія, староста</answer>

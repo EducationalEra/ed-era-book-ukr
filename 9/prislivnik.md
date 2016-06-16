@@ -19,8 +19,8 @@
 </div>
 </div>
 
-<br>
-<hr>
+
+
 
 
 <quiz> 

@@ -1,7 +1,7 @@
 #Дiєвiдмiни дiєслiв
 
 Визначення дiєвiдмiни дiєслiв дозволяє встановити їхнi правильнi особовi закiнчення. Iснує два способи такого визначення:
-<hr>
+
 
 <p>За закiнченням <span class="p1">3 особи множини</span>.
 
@@ -83,7 +83,7 @@
                 усi iншi дiєслова
             </td>   
             <td width="35%"  valign="top">
-                <i>синiти – синiю</i><br>(-i- зберiгається),<br><i>писати – пишу</i><br>(-а- не пiсля ж, ч, ш, щ),<br><i>полоти</i><br>(вiдсутнi згадуванi суфiкси)
+                <i>синiти – синiю</i><br>(<span class="p1">-i-</span> зберiгається),<br><i>писати – пишу</i><br>(<span class="p1">-а-</span> не зберiгається пiсля <span class="p1">ж</span>, <span class="p1">ч</span>, <span class="p1">ш</span>, <span class="p1">щ</span>),<br><i>полоти</i><br>(вiдсутнi згадуванi суфiкси)
             </td>                  
         </tr>
     </body>
@@ -314,85 +314,85 @@
             <td width="5%" rowspan="9"   valign="middle">
                 <b>I</b>
             </td> 
-            <td width="25%"   valign="top">
+            <td width="25%" align="center"  valign="top">
                 <b>г – ж</b>
             </td>   
-            <td width="40%" rowspan="9"  valign="middle">
+            <td width="40%" rowspan="9" align="center" valign="middle">
                 особових теперiшнього i майбутнього часу
             </td>  
-            <td  width="30%"  valign="top">
+            <td  width="30%"  align="center" valign="top">
                 <i>стерегти – стережу</i>
             </td>                 
         </tr>
 
         <tr>  
-            <td width="25%"   valign="top">
+            <td width="25%" align="center"  valign="top">
                 <b>к – ч</b>
             </td>     
-            <td  width="30%"  valign="top">
+            <td  width="30%"  align="center" valign="top">
                 <i>пекти – печу</i>
             </td>                 
         </tr>
 
         <tr>  
-            <td width="25%"   valign="top">
+            <td width="25%" align="center"  valign="top">
                 <b>х – ш</b>
             </td>     
-            <td  width="30%"  valign="top">
+            <td  width="30%"  align="center" valign="top">
                 <i>колихати – колишу</i>
             </td>                 
         </tr>
 
         <tr>  
-            <td width="25%"   valign="top">
+            <td width="25%" align="center"  valign="top">
                 <b>с – ш</b>
             </td>     
-            <td  width="30%"  valign="top">
+            <td  width="30%"  align="center" valign="top">
                 <i>чесати – чешу</i>
             </td>                 
         </tr>
 
         <tr>  
-            <td width="25%"   valign="top">
+            <td width="25%" align="center"  valign="top">
                 <b>з – ж</b>
             </td>     
-            <td  width="30%"  valign="top">
+            <td  width="30%"  align="center" valign="top">
                 <i>сказати – скажу</i>
             </td>                 
         </tr>
 
         <tr>  
-            <td width="25%"   valign="top">
+            <td width="25%" align="center"  valign="top">
                 <b>т – ч</b>
             </td>     
-            <td  width="30%"  valign="top">
+            <td  width="30%"  align="center" valign="top">
                 <i>клекотiти – клекочу</i>
             </td>                 
         </tr>
 
         <tr>  
-            <td width="25%"   valign="top">
+            <td width="25%" align="center"  valign="top">
                 <b>ск – ш</b>
             </td>     
-            <td  width="30%"  valign="top">
+            <td  width="30%"  align="center" valign="top">
                 <i>полоскати – полощу</i>
             </td>                 
         </tr>
 
         <tr>  
-            <td width="25%"   valign="top">
+            <td width="25%" align="center"  valign="top">
                 <b>ст – щ</b>
             </td>     
-            <td  width="30%"  valign="top">
+            <td  width="30%"  align="center" valign="top">
                 <i>свистати – свищу</i>
             </td>                 
         </tr>
 
         <tr>  
-            <td width="25%"   valign="top">
+            <td width="25%" align="center"  valign="top">
                 губний – губний + л
             </td>     
-            <td  width="30%"  valign="top">
+            <td  width="30%"  align="center" valign="top">
                 <i>сипати – сиплю</i>
             </td>                 
         </tr>
@@ -401,67 +401,67 @@
             <td width="5%" rowspan="7"  valign="middle">
                 <b>II</b>
             </td> 
-            <td width="25%"   valign="top">
+            <td width="25%"  align="center" valign="top">
                 <b>с – ш</b>
             </td>   
-            <td width="40%" rowspan="9"  valign="middle">
+            <td width="40%" rowspan="9" align="center" valign="middle">
                 1 особи однини теперiшнього i майбутнього часу (простої форми)
             </td>  
-            <td  width="30%"  valign="top">
+            <td  width="30%"  align="center" valign="top">
                 <i>носити – ношу</i>
             </td>                 
         </tr>
 
         <tr>  
-            <td width="25%"  valign="top">
+            <td width="25%" align="center" valign="top">
                 <b>з – ж</b>
             </td>     
-            <td  width="30%" valign="top">
+            <td  width="30%" align="center" valign="top">
                 <i>возити – вожу</i>
             </td>                 
         </tr>
 
         <tr>  
-            <td width="25%"  valign="top">
+            <td width="25%" align="center" valign="top">
                 <b>д – дж</b>
             </td>     
-            <td  width="30%" valign="top">
+            <td  width="30%" align="center" valign="top">
                 <i>ходити – ходжу</i>
             </td>                 
         </tr>
 
         <tr>  
-            <td width="25%"   valign="top">
+            <td width="25%" align="center"  valign="top">
                 <b>т – ч</b>
             </td>     
-            <td  width="30%"  valign="top">
+            <td  width="30%"  align="center" valign="top">
                 <i>тремтiти - тремчу</i>
             </td>                 
         </tr>
 
         <tr>  
-            <td width="25%"   valign="top">
+            <td width="25%" align="center"  valign="top">
                 <b>ст – щ</b>
             </td>     
-            <td  width="30%"  valign="top">
+            <td  width="30%"  align="center" valign="top">
                 <i>вимостити - вимощу</i>
             </td>                 
         </tr>
 
         <tr>  
-            <td width="25%"   valign="top">
+            <td width="25%" align="center"  valign="top">
                 <b>зд – ждж</b>
             </td>     
-            <td  width="30%"  valign="top">
+            <td  width="30%"  align="center" valign="top">
                 <i>їздити – їжджу</i>
             </td>                 
         </tr>
 
         <tr>  
-            <td width="25%"   valign="top">
+            <td width="25%" align="center"  valign="top">
                 губний – губний + л
             </td>     
-            <td  width="30%"  valign="top">
+            <td  width="30%"  align="center" valign="top">
                 <i>любити – люблю</i>
             </td>                 
         </tr>

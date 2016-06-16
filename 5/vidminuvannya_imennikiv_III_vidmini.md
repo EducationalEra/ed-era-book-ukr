@@ -19,10 +19,10 @@
         	<td width="33%" valign="top">
                 Називний
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 любов
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 подорожі
             </td>                 
         </tr>
@@ -31,10 +31,10 @@
         	<td width="33%" valign="top">
                 Родовий
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 любові
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 подорожей
             </td>                 
         </tr>
@@ -43,10 +43,10 @@
         	<td width="33%" valign="top">
                 Давальний
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 любові
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 подорожам
             </td>                 
         </tr>
@@ -55,10 +55,10 @@
         	<td width="33%" valign="top">
                 Знахідний
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 любов
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 подорожі
             </td>              
         </tr>
@@ -67,10 +67,10 @@
         	<td width="33%" valign="top">
                 Орудний
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 любов’ю
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 подорожами
             </td>            
         </tr>
@@ -79,10 +79,10 @@
         	<td width="33%" valign="top">
                 Місцевий
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 ...любові
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 ...подорожах
             </td>                
         </tr>
@@ -91,10 +91,10 @@
         	<td width="33%" valign="top">
                 Кличний
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 любове
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 подорожі
             </td>                
         </tr>

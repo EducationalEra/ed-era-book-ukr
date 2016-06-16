@@ -28,73 +28,73 @@
         </tr>
 
         <tr>
-            <td valign="top">
+            <td align="center" valign="top">
                 Називний
             </td>  
-            <td valign="top">
+            <td align="center" valign="top">
                 смачний
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 близьке
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 тиха
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 мiцнi
             </td>                   
         </tr>
 
         <tr>
-            <td valign="top">
+            <td align="center" valign="top">
                 Родовий    
             </td>  
-            <td valign="top">
+            <td align="center" valign="top">
                 смачного
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 близького
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 тихої
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 мiцних
             </td>                   
         </tr>
 
         <tr>
-            <td valign="top">
+            <td align="center" valign="top">
                 Давальний
             </td>  
-            <td valign="top">
+            <td align="center" valign="top">
                 смачному
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 близькому
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 тихiй
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 мiцним
             </td>                   
         </tr>
 
         <tr>
-            <td valign="top">
+            <td align="center" valign="top">
                 Знахiдний
             </td>  
-            <td valign="top">
+            <td align="center" valign="top">
                 смачний,<br>смачного
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 близький,<br>близького
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 тиху
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 мiцний,<br>мiцних
             </td>                   
         </tr>
@@ -103,16 +103,16 @@
             <td valign="top">
                 Орудний    
             </td>  
-            <td valign="top">
+            <td align="center" valign="top">
                 смачним
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 близьким
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 тихою
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 мiцними
             </td>                   
         </tr>
@@ -121,16 +121,16 @@
             <td valign="top">
                 Мiсцевий 
             </td>  
-            <td valign="top">
+            <td align="center" valign="top">
                 ...смачному,<br>...смачнiм
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 ...близькому,<br>...близькiм
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 ...тихiй
             </td>
-            <td valign="top">
+            <td align="center" valign="top">
                 ...мiцних
             </td>                   
         </tr>        

@@ -1,4 +1,4 @@
-#Вiдмiнювання кiлькiсних числiвникiв
+  align="center"#Вiдмiнювання кiлькiсних числiвникiв
 
 <p>Числiвник один змiнюється за числами, родами та вiдмiнками. </p>
 
@@ -30,19 +30,19 @@
         </tr>
 
         <tr>  
-            <td  valign="top">
+            <td   align="center" valign="top">
                 <b>Називний</b>
             </td>
-            <td  valign="top">
+            <td   align="center" valign="top">
                 один
             </td> 
-            <td  valign="top">
+            <td   align="center" valign="top">
                 одне, одно
             </td>    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 одна
             </td> 
-            <td  valign="top">
+            <td   align="center" valign="top">
                 однi
             </td>                 
         </tr>
@@ -54,10 +54,10 @@
             <td align="center" colspan="2" valign="top">
                 одного
             </td> 
-            <td  valign="top">
+            <td   align="center" valign="top">
                 однiєї
             </td>    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 одних
             </td>                  
         </tr>
@@ -69,10 +69,10 @@
             <td align="center" colspan="2" valign="top">
                 одному
             </td> 
-            <td  valign="top">
+            <td   align="center" valign="top">
                 однiй
             </td>    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 одним
             </td>                  
         </tr>
@@ -81,16 +81,16 @@
             <td  valign="top">
                 <b>Знахiдний</b>
             </td>
-            <td  valign="top">
+            <td   align="center" valign="top">
                 один, одного
             </td> 
-            <td  valign="top">
+            <td   align="center" valign="top">
                 одне, одно
             </td>    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 одну
             </td> 
-            <td  valign="top">
+            <td   align="center" valign="top">
                 однi, одних
             </td>                 
         </tr>
@@ -102,10 +102,10 @@
             <td align="center" colspan="2" valign="top">
                 одним
             </td> 
-            <td  valign="top">
+            <td   align="center" valign="top">
                 однiєю, одною
             </td>    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 одними
             </td>                  
         </tr>
@@ -117,10 +117,10 @@
             <td align="center" colspan="2" valign="top">
                 ...одному, однiм
             </td> 
-            <td  valign="top">
+            <td   align="center" valign="top">
                 ...однiй
             </td>    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 ...одних
             </td>                  
         </tr>
@@ -145,13 +145,13 @@
             <td  valign="top">
                 <b>Називний</b>
             </td>
-            <td  valign="top">
+            <td   align="center" valign="top">
                 два
             </td> 
-            <td  valign="top">
+            <td   align="center" valign="top">
                 три
             </td>    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 чотири
             </td> 
                 
@@ -161,13 +161,13 @@
             <td  valign="top">
                 <b>Родовий</b>
             </td>
-            <td valign="top">
+            <td  align="center" valign="top">
                 двох
             </td> 
-            <td  valign="top">
+            <td   align="center" valign="top">
                 трьох
             </td>    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 чотирьох
             </td>                  
         </tr>
@@ -176,13 +176,13 @@
             <td  valign="top">
                 <b>Давальний</b>
             </td>
-            <td valign="top">
+            <td  align="center" valign="top">
                 двом
             </td> 
-            <td  valign="top">
+            <td   align="center" valign="top">
                 трьом
             </td>    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 чотирьом
             </td>                  
         </tr>
@@ -191,13 +191,13 @@
             <td  valign="top">
                 <b>Знахiдний</b>
             </td>
-            <td  valign="top">
+            <td   align="center" valign="top">
                 два, двох  
             </td> 
-            <td  valign="top">
+            <td   align="center" valign="top">
                 три, трьох
             </td>    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 чотири, чотирьох
             </td>                  
         </tr>
@@ -206,13 +206,13 @@
             <td  valign="top">
                 <b>Орудний</b>
             </td>
-            <td valign="top">
+            <td  align="center" valign="top">
                 двома
             </td> 
-            <td  valign="top">
+            <td   align="center" valign="top">
                 трьома
             </td>    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 чотирма
             </td>                  
         </tr>
@@ -221,13 +221,13 @@
             <td  valign="top">
                 <b>Мiсцевий</b>
             </td>
-            <td valign="top">
+            <td  align="center" valign="top">
                 ...двох
             </td> 
-            <td  valign="top">
+            <td   align="center" valign="top">
                 ...трьох
             </td>    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 ...чотирьох
             </td>                  
         </tr>
@@ -261,13 +261,13 @@
             <td width="20%" valign="top">
                 <b>Називний</b>
             </td>
-            <td  valign="top">
+            <td   align="center" valign="top">
                 шiсть
             </td> 
-            <td  valign="top">
+            <td   align="center" valign="top">
                 дванадцять
             </td>    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 шiстдесят
             </td> 
                 
@@ -277,13 +277,13 @@
             <td width="20%" valign="top">
                 <b>Родовий</b>
             </td>
-            <td valign="top">
+            <td  align="center" valign="top">
                 шести, шiстьох
             </td> 
-            <td  valign="top">
+            <td   align="center" valign="top">
                 дванадцяти, дванадцятьох
             </td>    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 шiстдесяти, шiстдесятьох
             </td>                  
         </tr>
@@ -292,13 +292,13 @@
             <td width="20%" valign="top">
                 <b>Давальний</b>
             </td>
-            <td valign="top">
+            <td  align="center" valign="top">
                 шести, шiстьом
             </td> 
-            <td  valign="top">
+            <td   align="center" valign="top">
                 тринадцяти, тринадцятьом
             </td>    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 шiстдесяти, шiстдесятьом
             </td>                  
         </tr>
@@ -307,13 +307,13 @@
             <td width="20%" valign="top">
                 <b>Знахiдний</b>
             </td>
-            <td  valign="top">
+            <td   align="center" valign="top">
                 шiсть, шiстьох  
             </td> 
-            <td  valign="top">
+            <td   align="center" valign="top">
                 тринадцять, тринадцятьох
             </td>    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 шiстдесят, шiстдесятьох
             </td>                  
         </tr>
@@ -322,13 +322,13 @@
             <td width="20%" valign="top">
                 <b>Орудний</b>
             </td>
-            <td valign="top">
+            <td  align="center" valign="top">
                 шiстьма, шiстьома
             </td> 
-            <td  valign="top">
+            <td   align="center" valign="top">
                 тринадцятьма, тринадцятьома
             </td>    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 шiстдесятьма, шiстдесятьома
             </td>                  
         </tr>
@@ -337,13 +337,13 @@
             <td width="20%" valign="top">
                 <b>Мiсцевий</b>
             </td>
-            <td valign="top">
+            <td  align="center" valign="top">
                 ...шести, шiстьох
             </td> 
-            <td  valign="top">
+            <td   align="center" valign="top">
                 ...тринадцяти, тринадцятьох
             </td>    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 ...шiстдесяти, шiстдесятьох
             </td>                  
         </tr>
@@ -371,7 +371,7 @@
                 <b>Називний</b>
             </td>
  
-            <td  valign="top">
+            <td   align="center" valign="top">
                 шiстдесят
             </td> 
                 
@@ -382,7 +382,7 @@
                 <b>Родовий</b>
             </td>
   
-            <td  valign="top">
+            <td   align="center" valign="top">
                 шiстдесяти, шiстдесятьох
             </td>                  
         </tr>
@@ -392,7 +392,7 @@
                 <b>Давальний</b>
             </td>
    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 шiстдесяти, шiстдесятьом
             </td>                  
         </tr>
@@ -402,7 +402,7 @@
                 <b>Знахiдний</b>
             </td>
     
-            <td  valign="top">
+            <td   align="center" valign="top">
                 шiстдесят, шiстдесятьох
             </td>                  
         </tr>
@@ -412,7 +412,7 @@
                 <b>Орудний</b>
             </td>
    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 шiстдесятьма, шiстдесятьома
             </td>                  
         </tr>
@@ -422,7 +422,7 @@
                 <b>Мiсцевий</b>
             </td>
    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 ...шiстдесяти, шiстдесятьох
             </td>                  
         </tr>
@@ -448,13 +448,13 @@
                 <b>Називний<br>Знахiдний</b>
             </td>
  
-            <td  valign="top">
+            <td   align="center" valign="top">
                 сорок
             </td> 
-            <td  valign="top">
+            <td   align="center" valign="top">
                 дев’яносто
             </td> 
-            <td  valign="top">
+            <td   align="center" valign="top">
                 сто
             </td> 
                 
@@ -465,13 +465,13 @@
                 <b>Родовий<br>Давальний<br>Орудний<br>Мiсцевий</b>
             </td>
   
-            <td  valign="top">
+            <td   align="center" valign="top">
                 сорока
             </td>   
-            <td  valign="top">
+            <td   align="center" valign="top">
                 дев’яноста
             </td> 
-            <td  valign="top">
+            <td   align="center" valign="top">
                 ста
             </td>               
         </tr>                 
@@ -500,7 +500,7 @@
                 <b>Називний</b>
             </td>
  
-            <td  valign="top">
+            <td   align="center" valign="top">
                 чотириста
             </td> 
                 
@@ -511,7 +511,7 @@
                 <b>Родовий</b>
             </td>
   
-            <td  valign="top">
+            <td   align="center" valign="top">
                 чотирьохсот
             </td>                  
         </tr>
@@ -521,7 +521,7 @@
                 <b>Давальний</b>
             </td>
    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 чотирьомстам
             </td>                  
         </tr>
@@ -531,7 +531,7 @@
                 <b>Знахiдний</b>
             </td>
     
-            <td  valign="top">
+            <td   align="center" valign="top">
                 чотириста
             </td>                  
         </tr>
@@ -541,7 +541,7 @@
                 <b>Орудний</b>
             </td>
    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 чотирмастами, чотирьомастами
             </td>                  
         </tr>
@@ -551,7 +551,7 @@
                 <b>Мiсцевий</b>
             </td>
    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 ...чотирьохстах
             </td>                  
         </tr>
@@ -582,7 +582,7 @@
                 <b>Називний</b>
             </td>
  
-            <td  valign="top">
+            <td   align="center" valign="top">
                 три п’ятi
             </td> 
                 
@@ -593,7 +593,7 @@
                 <b>Родовий</b>
             </td>
   
-            <td  valign="top">
+            <td   align="center" valign="top">
                 трьох п’ятих
             </td>                  
         </tr>
@@ -603,7 +603,7 @@
                 <b>Давальний</b>
             </td>
    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 трьом п’ятим
             </td>                  
         </tr>
@@ -613,7 +613,7 @@
                 <b>Знахiдний</b>
             </td>
     
-            <td  valign="top">
+            <td   align="center" valign="top">
                 три п’ятих
             </td>                  
         </tr>
@@ -623,7 +623,7 @@
                 <b>Орудний</b>
             </td>
    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 трьома п’ятими
             </td>                  
         </tr>
@@ -633,7 +633,7 @@
                 <b>Мiсцевий</b>
             </td>
    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 ...трьох п’ятих
             </td>                  
         </tr>
@@ -661,7 +661,7 @@
                 <b>Називний</b>
             </td>
  
-            <td  valign="top">
+            <td   align="center" valign="top">
                 двi тисячi триста сорок шiсть
             </td> 
                 
@@ -672,7 +672,7 @@
                 <b>Родовий</b>
             </td>
   
-            <td  valign="top">
+            <td   align="center" valign="top">
                 двох тисяч трьохсот сорока шести (шiстьох)
             </td>                  
         </tr>
@@ -682,7 +682,7 @@
                 <b>Давальний</b>
             </td>
    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 двом тисячам трьомстам сорока шести (шiстьом)
             </td>                  
         </tr>
@@ -692,7 +692,7 @@
                 <b>Знахiдний</b>
             </td>
     
-            <td  valign="top">
+            <td   align="center" valign="top">
                 двi тисячi триста сорок шiсть (шiстьох)
             </td>                  
         </tr>
@@ -702,7 +702,7 @@
                 <b>Орудний</b>
             </td>
    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 двома тисячами трьомастами сорока шiстьма (шiстьома)
             </td>                  
         </tr>
@@ -712,7 +712,7 @@
                 <b>Мiсцевий</b>
             </td>
    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 ...двох тисячах трьохстах сорока шести (шiстьох)
             </td>                  
         </tr>
@@ -769,7 +769,7 @@
                 <b>Називний</b>
             </td>
  
-            <td  valign="top">
+            <td   align="center" valign="top">
                 двi тисячi триста сорок шостий
             </td> 
                 
@@ -780,7 +780,7 @@
                 <b>Родовий</b>
             </td>
   
-            <td  valign="top">
+            <td   align="center" valign="top">
                 двi тисячi триста сорок шостого
             </td>                  
         </tr>
@@ -790,7 +790,7 @@
                 <b>Давальний</b>
             </td>
    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 двi тисячi триста сорок шостому
             </td>                  
         </tr>
@@ -800,7 +800,7 @@
                 <b>Знахiдний</b>
             </td>
     
-            <td  valign="top">
+            <td   align="center" valign="top">
                 двi тисячi триста сорок шостий (шостого)
             </td>                  
         </tr>
@@ -810,7 +810,7 @@
                 <b>Орудний</b>
             </td>
    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 двi тисячi триста сорок шостим
             </td>                  
         </tr>
@@ -820,7 +820,7 @@
                 <b>Мiсцевий</b>
             </td>
    
-            <td  valign="top">
+            <td   align="center" valign="top">
                 ...двi тисячi триста сорок шостому
             </td>                  
         </tr>

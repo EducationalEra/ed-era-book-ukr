@@ -2,8 +2,7 @@
 
 
 
-<br>
-<hr>
+
 <center><h4>Зміст розділу:</h4></center>
 
    1. [Дiєслово](dieslovo.md)

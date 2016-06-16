@@ -16,22 +16,22 @@
         </tr>
 
         <tr>
-            <td valign="top">
+            <td valign="top" align="center">
                 <span class="p1">Тверда</span>
             </td>
-            <td valign="top">
+            <td valign="top" align="center">
                 <span class="p1">М’яка</span>
             </td>
-            <td valign="top">
+            <td valign="top" align="center">
                 <span class="p1">Мішана</span>
             </td>  
-            <td valign="top">
+            <td valign="top" align="center">
                 <span class="p1">Тверда</span>
             </td>
-            <td valign="top">
+            <td valign="top" align="center">
                 <span class="p1">М’яка</span>
             </td>
-            <td valign="top">
+            <td valign="top" align="center">
                 <span class="p1">Мішана</span>
             </td>                  
         </tr>

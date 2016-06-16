@@ -12,7 +12,7 @@
 
 Наприклад: <i>глядач – наглядач</i>.
 
-<br>
+
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
        <p>Префіксальним способом утворено всі слова рядка:</p>

@@ -24,7 +24,7 @@
     </question>
 </quiz> 
 
-<hr>
+
 <center><h4>Зміст розділу:</h4></center>
 
 1. [Групи прийменникiв за будовою](grupi_priymennikiv_za_budovoyu.md)

@@ -95,7 +95,6 @@
 </quiz>
 
 
-<br>
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
        <p>Жіночий рід мають усі іменники в рядку:

@@ -11,11 +11,9 @@
 </div>
 
 
-
-
 Наприклад: <i>межа – безмежний</i>.
 
-<br>
+
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
        <p>Префіксально-суфіксальним способом утворено всі слова рядка:</p>

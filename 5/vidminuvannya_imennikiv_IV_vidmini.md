@@ -1,4 +1,4 @@
-#Вiдмiнювання iменникiв IV вiдмiни
+ align="center"#Вiдмiнювання iменникiв IV вiдмiни
 
 
 <table style="width: 60%;" align="center">
@@ -19,10 +19,10 @@
         	<td width="33%" valign="top">
                 Називний
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 курча
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 телята
             </td>                 
         </tr>
@@ -31,10 +31,10 @@
         	<td width="33%" valign="top">
                 Родовий
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 курчати
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 телят
             </td>                 
         </tr>
@@ -43,10 +43,10 @@
         	<td width="33%" valign="top">
                 Давальний
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 курчаті
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 телятам
             </td>                 
         </tr>
@@ -55,10 +55,10 @@
         	<td width="33%" valign="top">
                 Знахідний
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 курча
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 телят
             </td>              
         </tr>
@@ -67,10 +67,10 @@
         	<td width="33%" valign="top">
                 Орудний
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 курчам
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 телятами
             </td>            
         </tr>
@@ -79,10 +79,10 @@
         	<td width="33%" valign="top">
                 Місцевий
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 ...курчаті
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 ...телятах
             </td>                
         </tr>
@@ -91,10 +91,10 @@
         	<td width="33%" valign="top">
                 Кличний
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 курча
             </td>
-            <td width="33%" valign="top">
+            <td width="33%" align="center" valign="top">
                 телята
             </td>                
         </tr>

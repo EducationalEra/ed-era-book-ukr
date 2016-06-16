@@ -10,7 +10,7 @@
 
 Наприклад: <i>кiловат + година = кiловат-година</i>.
 
-<br>
+
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
        <p>Усі слова утворені складанням слів або основ у рядку:</p>
