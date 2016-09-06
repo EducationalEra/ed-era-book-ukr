@@ -1,4 +1,4 @@
- align="center"#Вiдмiнювання iменникiв IV вiдмiни
+#Вiдмiнювання iменникiв IV вiдмiни
 
 
 <table style="width: 60%;" align="center">
