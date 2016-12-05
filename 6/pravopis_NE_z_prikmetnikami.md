@@ -16,9 +16,9 @@
 <quiz> 
     <question>
        <p> <span class="p1">Не</span> з прикметником пишеться окремо в рядку: </p>
-           <answer correct> не/гайне засідання </answer>
+           <answer> не/гайне засідання </answer>
            <answer> не/щира усмішка </answer>
-           <answer> не/слабкий, а сильний </answer>
+           <answer correct> не/слабкий, а сильний </answer>
            <answer> не/високе дерево </answer>
       <explanation>
 Негайне засідання – слово не вживається без <span class="p1">не</span><br>
