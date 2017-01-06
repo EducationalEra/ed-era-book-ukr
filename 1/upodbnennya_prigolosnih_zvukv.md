@@ -3,7 +3,7 @@
 * Уподiбнення за глухiстю
  * Дзвiнкi не оглушуються.<br>
   <font color="orange">Винятки</font>: *легко* [$$л\acute{е}хко$$], *вогко*, *кiгтi*, *нiгтi*, *дьогтю*
- * Приголосний <span class="p1">з</span> у префiксах <span class="p1">з-</span>, <span class="p1">роз-</span>, <span class="p1">без-</span>, <span class="p1">через-</span> перед глухими переходить в <span class="p1">с</span>.<br>Наприклад: *безперечно* [$$бе^испе^ир\acute{е}чно$$].
+ * Приголосний <span class="p1">[з]</span> у префiксі <span class="p1">з-</span> чи прийменникові <span class="p1">з</span> перед глухими переходить в <span class="p1">с</span>.<br>Наприклад: *зцілити* [$$с$$'$$ц$$'$$іл\acute{и}ти$$].
 
 <div class="alg-wrap">
 <span class="alg">ЗНО</span> 
@@ -135,12 +135,11 @@
     </body>
 </table>
 
-
-<div class="fluidMedia">
+<!--<div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/I3wHHsfPimM" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="popup">
-</div>
+</div>-->
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
