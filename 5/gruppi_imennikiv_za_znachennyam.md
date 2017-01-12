@@ -52,10 +52,10 @@
     <body>
         <tr>
             <td width="50%" align="center" valign="top">
-                <b>Назви істот:</b>
+                <b>Назви неістот:</b>
             </td>
             <td width="50%" align="center" valign="top">
-                <b>Назви неістот:</b>
+                <b>Назви істот:</b>
             </td>
         </tr>
 
