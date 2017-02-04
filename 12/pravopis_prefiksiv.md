@@ -38,13 +38,13 @@
     <body>
         <tr>  
             <td  width="33%" align="center" valign="top">
-                <b>Префiкс «<span class="p1">с-</span>»</b>
+                <b>Префiкс «<span class="p1">пре-</span>»</b>
             </td>  
             <td width="33%" align="center" valign="top">
-                <b>Префiкс «<span class="p1">з-</span>»</b>
+                <b>Префiкс «<span class="p1">при-</span>»</b>
             </td> 
             <td width="33%" align="center" valign="top">
-                <b>Префiкс «<span class="p1">зi-</span>»</b>
+                <b>Префiкс «<span class="p1">прі-</span>»</b>
             </td>                     
         </tr>
 
