@@ -1,0 +1,30 @@
+
+{% block book_header %}
+<style>
+  .book-header {
+    display: flex;
+  }
+  .book-header a.logo {
+    margin-left: auto;
+    max-width: 5em;
+  }
+  .book-header a.logo img {
+    height: 100%
+  }
+</style>
+<div class="book-header" role="navigation">
+  {% if glossary.path %}
+  <a href="{{ ('/' + glossary.path)|resolveFile }}" class="btn pull-left" aria-label="{{ "GLOSSARY_OPEN"|t }}"><i class="fa fa-sort-alpha-asc"></i></a>
+  {% endif %}
+
+  <!-- Title -->
+  <h1>
+    <i class="fa fa-circle-o-notch fa-spin"></i>
+    <a href="{{ "/"|resolveFile }}" >{{ page.title }}</a>
+  </h1>
+
+  <a target="_blank" class="logo" href="https://ed-era.com">
+    <img src="https://www.ed-era.com/img/edera_logo.png" alt="EdEra">
+  </a>
+</div>
+{% endblock %}
