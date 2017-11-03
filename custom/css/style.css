@@ -90,6 +90,76 @@ font-style: italic;
 }
 
 
+
+/* Banner */
+.banner {
+  padding: 10px 30px;
+  background-color: #EDEDED;
+ }
+
+.course {
+  background-color: #EDEDED;
+  text-align: center;
+  line-height: 130% !important;
+  font-size: 1.15em !important;
+  border-bottom: 0 !important;
+}
+
+.course-description {
+  text-align: center;
+  line-height: 130% !important;
+  margin-bottom: 30px !important;
+  background-color: #EDEDED;
+}
+
+.button-wrapper {
+  margin-top: -20px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.registration-button {
+  margin-bottom: 10px;
+  background-color: #145482 !important;
+  color: white !important;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.book.color-theme-1 .banner {
+  background-color: #704214;
+}
+
+.book.color-theme-1 .course, {
+  color: #F3EACB;
+}
+
+.book.color-theme-1 .course-description {
+  color: #F3EACB;
+}
+
+.book.color-theme-2 .banner {
+  background-color: #2C3043;
+}
+
+
+.book.color-theme-2 .course{
+  background-color: #FAFAFA
+}
+
+.book.color-theme-2 .course-description {
+  background-color: #FAFAFA
+}
+
+.book.color-theme-2 .registration-button {
+  background-color: #FAFAFA
+}
+
+
+
 /*Означення*/
 .eoz-wrap{
     margin-bottom:1em;

@@ -1,3 +1,14 @@
+<div class="banner">
+  <h2 class="course">Онлайн-курс «Українська мова. Від фонетики до морфології»</h2>
+  <p class="course-description">
+     У цьому курсі ми розглянемо основні розділи мовознавства, які необхідно знати для успішного складання ЗНО та подальшого засвоєння матеріалу.<br>
+  </p>
+    <div class="button-wrapper">
+        <a class="registration-button" target="_blank" href="http://bit.ly/2zuYUGS">Зареєструватися</a>
+    </div>   
+</div>
+
+
 # Чергування приголосних звуків
 
 Чергування [<span class="p1">г</span>] – [<span class="p1">ж</span>], [<span class="p1">к</span>] – [<span class="p1">ч</span>], [<span class="p1">х</span>] - [<span class="p1">ш</span>]. Вiдбуваються при словотвореннi i словозмiнi:<br>*увага - уважний - зауваження, галка - галчин - галченя - Галченко, смiх - смiшний – усмiшка*.

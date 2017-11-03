@@ -1,4 +1,14 @@
-#Узгодження числiвникiв з iменниками
+<div class="banner">
+  <h2 class="course">Онлайн-курс «Українська мова. Від фонетики до морфології»</h2>
+  <p class="course-description">
+     У цьому курсі ми розглянемо основні розділи мовознавства, які необхідно знати для успішного складання ЗНО та подальшого засвоєння матеріалу.<br>
+  </p>
+    <div class="button-wrapper">
+        <a class="registration-button" target="_blank" href="http://bit.ly/2zuYUGS">Зареєструватися</a>
+    </div>   
+</div>
+
+# Узгодження числiвникiв з iменниками
 
 
 1. Числiвники <span class="p1">один</span> (<span class="p1">одна</span>, <span class="p1">одне</span>, <span class="p1">одно</span>, <span class="p1">однi</span>) узгоджуються з iменниками в родi, числi, вiдмiнку:<br><i>одна книжка, одне вiкно, однi окуляри</i>.
