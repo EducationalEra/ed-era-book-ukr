@@ -19,13 +19,13 @@ Iнодi при вiдмiнюваннi слова або його твореннi
 2. У групах приголосних <span class="p1">-стл-</span>, <span class="p1">-стн-</span> випадає <span class="p1">т</span>:<br><i>щастя – щасливий, честь – чесний</i>.
 3. У групах приголосних <span class="p1">-зкн-</span>, <span class="p1">-скн-</span> випадає <span class="p1">к</span> при твореннi дiєслiв iз суфiксом <span class="p1">-ну-</span>.<br>Наприклад: <i>бризк - бризнути, трiск – трiснути</i>.
 4. У групi приголосних <span class="p1">-слн-</span> випадає <span class="p1">л</span>:<br><i>масло - масний, ремесло - ремiсник</i>.
-5. У групах приголосних <span class="p1">-рдц-</span>, <span class="p1">-рнц-</span> випадають <span class="p1">д</span>, <span class="p1">н</span>:<br><i>чернець – ченця, сердчений – серцевий</i>.
+5. У групах приголосних <span class="p1">-рдц-</span>, <span class="p1">-рнц-</span> випадають <span class="p1">д</span>, <span class="p1">н</span>:<br><i>чернець – ченця, сердечний – серцевий</i>.
 
 
 <b>Спрощення НЕ вiдбувається:</b>
 1. У словах зап’я<span class="p1">стн</span>ий, кi<span class="p1">стл</span>явий, пе<span class="p1">стл</span>ивий, хва<span class="p1">стл</span>ивий, хворо<span class="p1">стн</span>як, шi<span class="p1">стн</span>адцять i похiдних вiд них.
 2. У прикметниках, утворених вiд iменникiв iншомовного походження з кiнцевим <span class="p1">СТ</span> (вiдповiдний звук не вимовляється).<br>Наприклад: <i>баласт – баластний, компост – компостний, контраст – контрастний, форпост – форпостний.</i>
-3. У групах приголосних <span class="p1">–стц-</span>, <span class="p1">-стч-</span>, <span class="p1">-стськ-</span>, <span class="p1">-нстськ-</span>, <span class="p1">-нтств-</span>.<br>Наприклад: <i>артист – артистцi, студент – студенстський, агент – агентство.</i>
+3. У групах приголосних <span class="p1">–стц-</span>, <span class="p1">-стч-</span>, <span class="p1">-стськ-</span>, <span class="p1">-нстськ-</span>, <span class="p1">-нтств-</span>.<br>Наприклад: <i>артист – артистцi, студент – студентський, агент – агентство.</i>
 4. У словах ви<span class="p1">скн</span>ути, випу<span class="p1">скн</span>ий, пропу<span class="p1">скн</span>ий, то<span class="p1">скн</span>о, <span class="p1">скн</span>ара, <span class="p1">скн</span>iти.
 
 
