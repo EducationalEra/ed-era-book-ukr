@@ -130,32 +130,44 @@ font-style: italic;
 }
 
 .book.color-theme-1 .banner {
-  background-color: #704214;
+  border: 0.15em solid #704214;
+  background-color: #f3eaca;
+  color: #704313;
 }
 
-.book.color-theme-1 .course, {
-  color: #F3EACB;
+.book.color-theme-1 .course {
+  background-color: #f3eac9;
+  color: #704313;
 }
 
 .book.color-theme-1 .course-description {
-  color: #F3EACB;
+  background-color: #f3eaca;
+  color: #704313;
 }
+
+.book.color-theme-1 .registration-button {
+  color: #f3eac9!important;
+  background-color: #704412!important;  
+}
+
 
 .book.color-theme-2 .banner {
   background-color: #2C3043;
 }
 
 
-.book.color-theme-2 .course{
-  background-color: #FAFAFA
+.book.color-theme-2 .course {
+  background-color: #2d3144;
 }
 
 .book.color-theme-2 .course-description {
-  background-color: #FAFAFA
+  background-color: #2d3144;
 }
 
 .book.color-theme-2 .registration-button {
-  background-color: #FAFAFA
+    color: #ffffff;
+    border: solid 0.15em #fff;
+    background-color: #2d3144!important;
 }
 
 
